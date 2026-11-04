@@ -1,0 +1,2376 @@
+{
+  "generatedAt": "2026-11-04T21:17:15.240309+00:00",
+  "models": [
+    {
+      "modelId": "1",
+      "brand": "Ducati",
+      "model": "916",
+      "status": "approximate",
+      "note": "Ducati 916 SPS : variante sportive de la 916, différente de la version de base.",
+      "reviewedAt": "2026-11-04T21:11:36.166380+00:00",
+      "files": [
+        {
+          "fileTitle": "File:Ducati 916 SPS.jpg",
+          "match": "approximate",
+          "approved": true,
+          "reviewNote": "Ducati 916 SPS : variante sportive de la 916, différente de la version de base.",
+          "reason": "Licence et auteur identifiés dans extmetadata",
+          "photo": {
+            "fileTitle": "File:Ducati 916 SPS.jpg",
+            "pageId": 51177172,
+            "query": null,
+            "sourceSha1": "f9f10d0fb0da90fc357ec118d98a8a097578e5a4",
+            "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Ducati_916_SPS.jpg/960px-Ducati_916_SPS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Ducati_916_SPS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Ducati_916_SPS.jpg",
+            "author": "ScuderiaAssindia",
+            "attribution": "",
+            "creditLine": "This file was derived from: Ducati916SPS 1998 ScuderiaAssindia.jpg : (I have changed the brightness, contrast and tint.)",
+            "description": "Ducati 916 SPS",
+            "width": 1920,
+            "height": 1251,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+              "shareAlike": true,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2016-09-06 14:02:47",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ducati 916 SPS",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Ducati 916|Derivative versions",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ducati 916 SPS",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2010-02-08",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p>This file was derived from:  <a href=\"//commons.wikimedia.org/wiki/File:Ducati916SPS_1998_ScuderiaAssindia.jpg\" title=\"File:Ducati916SPS 1998 ScuderiaAssindia.jpg\">Ducati916SPS 1998 ScuderiaAssindia.jpg</a>: <span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Ducati916SPS_1998_ScuderiaAssindia.jpg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Ducati916SPS_1998_ScuderiaAssindia.jpg/250px-Ducati916SPS_1998_ScuderiaAssindia.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"200\" height=\"130\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Ducati916SPS_1998_ScuderiaAssindia.jpg/500px-Ducati916SPS_1998_ScuderiaAssindia.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"3008\" data-file-height=\"1960\"></a></span><br>\n</p>\n(I have changed the brightness, contrast and tint.)",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "ScuderiaAssindia",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-04T21:17:15.240309+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "modelId": "2",
+      "brand": "Honda",
+      "model": "CB750 Four",
+      "status": "exact",
+      "note": "La description Commons identifie une Honda CB750 Four K1 de 1971, dans la période de la fiche.",
+      "reviewedAt": "2026-11-04T21:11:36.166411+00:00",
+      "files": [
+        {
+          "fileTitle": "File:Honda CB750 Four K1 1971.jpg",
+          "match": "exact",
+          "approved": true,
+          "reviewNote": "La description Commons identifie une Honda CB750 Four K1 de 1971, dans la période de la fiche.",
+          "reason": "Licence et auteur identifiés dans extmetadata",
+          "photo": {
+            "fileTitle": "File:Honda CB750 Four K1 1971.jpg",
+            "pageId": 20547021,
+            "query": null,
+            "sourceSha1": "c8b6026196c187d9c8743f175a4a53b980ecbd4a",
+            "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Honda_CB750_Four_K1_1971.jpg/960px-Honda_CB750_Four_K1_1971.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Honda_CB750_Four_K1_1971.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Honda_CB750_Four_K1_1971.jpg",
+            "author": "Khaosaming",
+            "attribution": "",
+            "creditLine": "Own work",
+            "description": "A restored Honda CB 750 Four K1 (1971).",
+            "width": 2048,
+            "height": 1536,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY-SA 3.0",
+              "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+              "shareAlike": true,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2012-08-05 21:09:13",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Honda CB750 Four K1 1971",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon Digital IXUS 130|Self-published work|1971 motorcycles|Honda CB750-K1",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A restored Honda CB 750 Four K1 (1971).",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2012-08-05",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Khaosaming\" title=\"User:Khaosaming\">Khaosaming</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-04T21:17:15.240309+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "modelId": "3",
+      "brand": "BMW",
+      "model": "R nineT",
+      "status": "exact",
+      "note": "Modèle R nineT identifié dans la description Commons, photographié en février 2014.",
+      "reviewedAt": "2026-11-04T21:11:36.166416+00:00",
+      "files": [
+        {
+          "fileTitle": "File:BMW R nineT - Hamburger Motorradtage 2014.jpg",
+          "match": "exact",
+          "approved": true,
+          "reviewNote": "Modèle R nineT identifié dans la description Commons, photographié en février 2014.",
+          "reason": "Licence et auteur identifiés dans extmetadata",
+          "photo": {
+            "fileTitle": "File:BMW R nineT - Hamburger Motorradtage 2014.jpg",
+            "pageId": 31310923,
+            "query": null,
+            "sourceSha1": "051a04c6920aa12fcf2d8726c21b7d9c58592d37",
+            "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/BMW_R_nineT_-_Hamburger_Motorradtage_2014.jpg/960px-BMW_R_nineT_-_Hamburger_Motorradtage_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/BMW_R_nineT_-_Hamburger_Motorradtage_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:BMW_R_nineT_-_Hamburger_Motorradtage_2014.jpg",
+            "author": "San Andreas",
+            "attribution": "",
+            "creditLine": "Own work",
+            "description": "Motorcycle, manufacturer: BMW, name: R nineT Photo taken at Hamburger Motorradtage HMT - February 2014",
+            "width": 2787,
+            "height": 2111,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY-SA 3.0",
+              "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+              "shareAlike": true,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2014-02-23 21:40:21",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "BMW R nineT - Hamburger Motorradtage 2014",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|BMW R nineT (2013)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Motorcycle, manufacturer: BMW, name: R nineT\nPhoto taken at Hamburger Motorradtage HMT - February 2014",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-02-22 14:32:43",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:San_Andreas\" title=\"User:San Andreas\">San Andreas</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-04T21:17:15.240309+00:00"
+          }
+        },
+        {
+          "fileTitle": "File:BMW R nineT front.jpg",
+          "match": "exact",
+          "approved": true,
+          "reviewNote": "La description identifie une BMW R nineT au salon Motodays 2014.",
+          "reason": "Licence et auteur identifiés dans extmetadata",
+          "photo": {
+            "fileTitle": "File:BMW R nineT front.jpg",
+            "pageId": 35218103,
+            "query": null,
+            "sourceSha1": "a112e6ad38e5520541fa1b0a13b20cb827185bee",
+            "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/BMW_R_nineT_front.jpg/960px-BMW_R_nineT_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/BMW_R_nineT_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:BMW_R_nineT_front.jpg",
+            "author": "taymtaym",
+            "attribution": "",
+            "creditLine": "OKIMG_1927",
+            "description": "BMW R nineT front at Motodays 2014 in Roma, Italy",
+            "width": 3826,
+            "height": 3454,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY 2.0",
+              "url": "https://creativecommons.org/licenses/by/2.0/",
+              "shareAlike": false,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2014-09-07 20:54:59",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "BMW R nineT front",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS 6D|Flickr images reviewed by FlickreviewR|BMW flat-twin motorcycle engines|Front views of motorcycles|BMW R nineT (2013)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/BMW_R_nineT\" class=\"extiw\" title=\"w:BMW R nineT\">BMW R nineT</a> front at Motodays 2014 in Roma, Italy",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-03-08 14:45",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/taymtaym/13024881825/\">OKIMG_1927</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/89769912@N05\">taymtaym</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-04T21:17:15.240309+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "modelId": "4",
+      "brand": "Triumph",
+      "model": "Bonneville T120",
+      "status": "exact",
+      "note": "Le fichier identifie une Triumph T120 Bonneville 1961, génération historique de cette fiche.",
+      "reviewedAt": "2026-11-04T21:11:36.166420+00:00",
+      "files": [
+        {
+          "fileTitle": "File:Triumph T120 Bonneville 1961 (5224331097).jpg",
+          "match": "exact",
+          "approved": true,
+          "reviewNote": "Le fichier identifie une Triumph T120 Bonneville 1961, génération historique de cette fiche.",
+          "reason": "Licence et auteur identifiés dans extmetadata",
+          "photo": {
+            "fileTitle": "File:Triumph T120 Bonneville 1961 (5224331097).jpg",
+            "pageId": 27319312,
+            "query": null,
+            "sourceSha1": "7192497ada2a14d42e82f87ca4b99e7606476100",
+            "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Triumph_T120_Bonneville_1961_%285224331097%29.jpg/960px-Triumph_T120_Bonneville_1961_%285224331097%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Triumph_T120_Bonneville_1961_%285224331097%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Triumph_T120_Bonneville_1961_(5224331097).jpg",
+            "author": "Tony Hisgett from Birmingham, UK",
+            "attribution": "",
+            "creditLine": "Triumph T120 Bonneville 1961 Uploaded by tm",
+            "description": "Triumph T120 Bonneville 1961",
+            "width": 2382,
+            "height": 2652,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY 2.0",
+              "url": "https://creativecommons.org/licenses/by/2.0/",
+              "shareAlike": false,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2013-07-18 18:23:50",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Triumph T120 Bonneville 1961 (5224331097)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS 50D|Triumph Bonneville T120|Flickr images reviewed by File Upload Bot (Magnus Manske)|United Kingdom photographs taken on 2010-11-30|Photographs by Tony Hisgett|Triumph motorcycles in the United Kingdom|Files with coordinates missing SDC location of creation (52° N, 2° W)|Motorcycle Live 2010",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "52.453153",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-1.717064",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Triumph T120 Bonneville 1961",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2010-11-30 13:02",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p><a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/hisgett/5224331097/\">Triumph T120 Bonneville 1961</a>\n</p>\n<ul><li>Uploaded by <a href=\"//commons.wikimedia.org/wiki/User:Tm\" title=\"User:Tm\">tm</a></li></ul>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/37804979@N00\">Tony Hisgett</a> from Birmingham, UK",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-04T21:17:15.240309+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "modelId": "5",
+      "brand": "Harley-Davidson",
+      "model": "Sportster 1200",
+      "status": "approximate",
+      "note": "Sportster XL1200 Custom 1996 : version Custom, représentative de la famille 1200.",
+      "reviewedAt": "2026-11-04T21:11:36.166423+00:00",
+      "files": [
+        {
+          "fileTitle": "File:Harley XL1200 Custom 96.jpg",
+          "match": "approximate",
+          "approved": true,
+          "reviewNote": "Sportster XL1200 Custom 1996 : version Custom, représentative de la famille 1200.",
+          "reason": "Licence et auteur identifiés dans extmetadata",
+          "photo": {
+            "fileTitle": "File:Harley XL1200 Custom 96.jpg",
+            "pageId": 159229033,
+            "query": null,
+            "sourceSha1": "d136f4bff70f437ebfdb37fcbf0f11d5062c2eb8",
+            "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Harley_XL1200_Custom_96.jpg/960px-Harley_XL1200_Custom_96.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Harley_XL1200_Custom_96.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Harley_XL1200_Custom_96.jpg",
+            "author": "HD-Sunglow",
+            "attribution": "",
+            "creditLine": "Own work",
+            "description": "Harley Davidson Sportster XL1200 Custom 1996",
+            "width": 4096,
+            "height": 3072,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+              "shareAlike": true,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2025-02-06 10:31:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Harley XL1200 Custom 96",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Harley-Davidson Sportster|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Harley Davidson Sportster XL1200 Custom 1996",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-02-03",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:HD-Sunglow&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:HD-Sunglow (page does not exist)\">HD-Sunglow</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-04T21:17:15.240309+00:00"
+          }
+        },
+        {
+          "fileTitle": "File:Flickr - ronsaunders47 - HARLEY-DAVIDSON XR1200 SPORTSTER. 2010..jpg",
+          "match": "none",
+          "approved": false,
+          "reviewNote": "Confusion identifiée : XR1200 / R1 2015 / Monster S4R ; ne correspond pas à la fiche.",
+          "reason": "Correspondance non validée",
+          "photo": {
+            "fileTitle": "File:Flickr - ronsaunders47 - HARLEY-DAVIDSON XR1200 SPORTSTER. 2010..jpg",
+            "pageId": 22388713,
+            "query": null,
+            "sourceSha1": "03bb66a66a8ce1e0a67c3ea801b1487e5dec2f88",
+            "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Flickr_-_ronsaunders47_-_HARLEY-DAVIDSON_XR1200_SPORTSTER._2010..jpg/960px-Flickr_-_ronsaunders47_-_HARLEY-DAVIDSON_XR1200_SPORTSTER._2010..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flickr_-_ronsaunders47_-_HARLEY-DAVIDSON_XR1200_SPORTSTER._2010..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Flickr_-_ronsaunders47_-_HARLEY-DAVIDSON_XR1200_SPORTSTER._2010..jpg",
+            "author": "Ronald Saunders from Warrington, UK",
+            "attribution": "",
+            "creditLine": "HARLEY-DAVIDSON XR1200 SPORTSTER. 2010.",
+            "description": "In the 2008 model year, Harley-Davidson released the XR1200 Sportster in Europe, Africa, and the Middle East. The XR1200 had an Evolution engine tuned to produce 91 bhp (68 kW), four-piston dual front disc brakes, and an aluminum swing arm. Motorcyclist featured the XR1200 on the cover of its July 2008 issue and was generally positive about it in their \"First Ride\" story, in which Harley-Davidson was repeatedly asked to sell it in the United States.[92] One possible reason for the delayed availability in the United States was the fact that Harley-Davidson had to obtain the \"XR1200\" naming rights from Storz Performance, a Harley customizing shop in Ventura, Calif.[93] The XR1200 was released in the United States in 2009 in a special color scheme including Mirage Orange highlighting its dirt-tracker heritage. The first 750 XR1200 models in 2009 were pre-ordered and came with a number 1 tag for the front of the bike, autographed by Kenny Coolbeth and Scott Parker and a thank you/welcome letter from the company, signed by Bill Davidson.",
+            "width": 2688,
+            "height": 1796,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY-SA 2.0",
+              "url": "https://creativecommons.org/licenses/by-sa/2.0/",
+              "shareAlike": true,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2012-10-26 03:14:24",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Flickr - ronsaunders47 - HARLEY-DAVIDSON XR1200 SPORTSTER. 2010.",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Nikon D40|Harley-Davidson Sportster|Flickr images reviewed by FlickreviewR|Photographs by Ronald Saunders|Files with coordinates missing SDC location of creation (52° N, 3° W)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "52.808572",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-2.108001",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "In the 2008 model year, Harley-Davidson released the XR1200 Sportster in Europe, Africa, and the Middle East. The XR1200 had an Evolution engine tuned to produce 91 bhp (68 kW), four-piston dual front disc brakes, and an aluminum swing arm. Motorcyclist featured the XR1200 on the cover of its July 2008 issue and was generally positive about it in their \"First Ride\" story, in which Harley-Davidson was repeatedly asked to sell it in the United States.[92] One possible reason for the delayed availability in the United States was the fact that Harley-Davidson had to obtain the \"XR1200\" naming rights from Storz Performance, a Harley customizing shop in Ventura, Calif.[93] The XR1200 was released in the United States in 2009 in a special color scheme including Mirage Orange highlighting its dirt-tracker heritage. The first 750 XR1200 models in 2009 were pre-ordered and came with a number 1 tag for the front of the bike, autographed by Kenny Coolbeth and Scott Parker and a thank you/welcome letter from the company, signed by Bill Davidson.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2010-10-17 08:37",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/ronsaunders47/5158122864/\">HARLEY-DAVIDSON  XR1200  SPORTSTER. 2010.</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/46781500@N00\">Ronald Saunders</a> from Warrington, UK",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-04T21:17:15.240309+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "modelId": "6",
+      "brand": "Yamaha",
+      "model": "YZF-R1",
+      "status": "exact",
+      "note": "La description identifie une YZF-R1 2008 au Yamaha Communication Plaza ; génération 2007–2008.",
+      "reviewedAt": "2026-11-04T21:11:36.166426+00:00",
+      "files": [
+        {
+          "fileTitle": "File:YAMAHA YZF-R1 2008 right side.jpg",
+          "match": "exact",
+          "approved": true,
+          "reviewNote": "La description identifie une YZF-R1 2008 au Yamaha Communication Plaza ; génération 2007–2008.",
+          "reason": "Licence et auteur identifiés dans extmetadata",
+          "photo": {
+            "fileTitle": "File:YAMAHA YZF-R1 2008 right side.jpg",
+            "pageId": 5051481,
+            "query": null,
+            "sourceSha1": "5b483c1b25a006253eae06d7f2b61e3a71bbe5c1",
+            "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/YAMAHA_YZF-R1_2008_right_side.jpg/960px-YAMAHA_YZF-R1_2008_right_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/YAMAHA_YZF-R1_2008_right_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:YAMAHA_YZF-R1_2008_right_side.jpg",
+            "author": "PekePON ( talk )",
+            "attribution": "",
+            "creditLine": "Photo taken by PekePON ( talk ).",
+            "description": "YAMAHA YZF-R1 2008(Yamaha Communication Plaza)",
+            "width": 2000,
+            "height": 1200,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY-SA 3.0",
+              "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+              "shareAlike": true,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2008-10-23 13:15:26",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "YAMAHA YZF-R1 2008 right side",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Panasonic Lumix DMC-TZ3|Yamaha YZF-R1|License migration redundant|Self-published work|Motorcycles facing right|Black motorcycles|2000s motorcycles in the Yamaha Communication Plaza",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "YAMAHA YZF-R1 2008(Yamaha Communication Plaza)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2008-09-22",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Photo taken by <a href=\"//commons.wikimedia.org/wiki/User:PekePON\" title=\"User:PekePON\">PekePON</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:PekePON\" title=\"User talk:PekePON\"><span class=\"signature-talk\">talk</span></a>).",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:PekePON\" title=\"User:PekePON\">PekePON</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:PekePON\" title=\"User talk:PekePON\"><span class=\"signature-talk\">talk</span></a>)",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "You may select the license of your choice.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-04T21:17:15.240309+00:00"
+          }
+        },
+        {
+          "fileTitle": "File:2015 Yamaha YZF-R1 crop.JPG",
+          "match": "none",
+          "approved": false,
+          "reviewNote": "Confusion identifiée : XR1200 / R1 2015 / Monster S4R ; ne correspond pas à la fiche.",
+          "reason": "Correspondance non validée",
+          "photo": {
+            "fileTitle": "File:2015 Yamaha YZF-R1 crop.JPG",
+            "pageId": 126887335,
+            "query": null,
+            "sourceSha1": "fd288633c57c2cf533ef79a23275ba543be7c981",
+            "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/2015_Yamaha_YZF-R1_crop.JPG/960px-2015_Yamaha_YZF-R1_crop.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/2015_Yamaha_YZF-R1_crop.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:2015_Yamaha_YZF-R1_crop.JPG",
+            "author": "Rainmaker47",
+            "attribution": "",
+            "creditLine": "Own work",
+            "description": "2015 Yamaha YZF-R1 in the Yamaha Communication Plaza.",
+            "width": 3156,
+            "height": 2592,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+              "shareAlike": true,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2022-12-22 15:48:30",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "2015 Yamaha YZF-R1 crop",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Yamaha YZF-R1|Self-published work|Extracted images|2010s motorcycles in the Yamaha Communication Plaza",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "2015 Yamaha YZF-R1 in the Yamaha Communication Plaza.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2011-01-01 09:00:00",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Rainmaker47\" title=\"User:Rainmaker47\">Rainmaker47</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-04T21:17:15.240309+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "modelId": "7",
+      "brand": "Kawasaki",
+      "model": "Ninja H2",
+      "status": "exact",
+      "note": "Description Commons : Kawasaki Ninja H2 (2015), correspondant au modèle de la fiche.",
+      "reviewedAt": "2026-11-04T21:11:36.166428+00:00",
+      "files": [
+        {
+          "fileTitle": "File:Kawasaki Ninja H2.jpg",
+          "match": "exact",
+          "approved": true,
+          "reviewNote": "Description Commons : Kawasaki Ninja H2 (2015), correspondant au modèle de la fiche.",
+          "reason": "Licence et auteur identifiés dans extmetadata",
+          "photo": {
+            "fileTitle": "File:Kawasaki Ninja H2.jpg",
+            "pageId": 67177632,
+            "query": null,
+            "sourceSha1": "8a345fb64eef2b97052fce656f379867311e090d",
+            "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Kawasaki_Ninja_H2.jpg/960px-Kawasaki_Ninja_H2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Kawasaki_Ninja_H2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Kawasaki_Ninja_H2.jpg",
+            "author": "Rikita",
+            "attribution": "",
+            "creditLine": "Own work",
+            "description": "Kawasaki Ninja H2 (2015)",
+            "width": 2000,
+            "height": 1335,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+              "shareAlike": true,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2018-03-09 05:09:06",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Kawasaki Ninja H2",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Kawasaki Ninja H2|Self-published work|2010s Kawasaki motorcycles in the Kawasaki Good Times World",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Kawasaki Ninja H2 (2015)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-02-14 14:52:23",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Rikita\" title=\"User:Rikita\">Rikita</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-04T21:17:15.240309+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "modelId": "8",
+      "brand": "BMW",
+      "model": "R 80 G/S",
+      "status": "exact",
+      "note": "Malgré le nom de fichier abrégé GS, la description identifie explicitement la R80 G/S de 1981.",
+      "reviewedAt": "2026-11-04T21:11:36.166430+00:00",
+      "files": [
+        {
+          "fileTitle": "File:1981 BMW R80 GS side.jpg",
+          "match": "exact",
+          "approved": true,
+          "reviewNote": "Malgré le nom de fichier abrégé GS, la description identifie explicitement la R80 G/S de 1981.",
+          "reason": "Licence et auteur identifiés dans extmetadata",
+          "photo": {
+            "fileTitle": "File:1981 BMW R80 GS side.jpg",
+            "pageId": 26637479,
+            "query": null,
+            "sourceSha1": "7d7e45fce58e272b2e53d388514c55ffb813952b",
+            "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/1981_BMW_R80_GS_side.jpg/960px-1981_BMW_R80_GS_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/1981_BMW_R80_GS_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:1981_BMW_R80_GS_side.jpg",
+            "author": "Mr.choppers",
+            "attribution": "",
+            "creditLine": "Own work",
+            "description": "1981 BMW R80 G/S (Gelände + Sport) at the 2013 Greenwich Concours d'Elegance.",
+            "width": 5244,
+            "height": 3556,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY-SA 3.0",
+              "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+              "shareAlike": true,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2013-06-13 18:02:18",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "1981 BMW R80 GS side",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Canon EOS 6D|BMW R80GS|License migration redundant|Self-published work|2013 Greenwich Concours d'Elegance|Own work - files by User:Mr.choppers 2013|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "41.018680",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-73.626603",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "1981 BMW R80 G/S (Gelände + Sport) at the 2013 Greenwich Concours d'Elegance.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-06-03",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mr.choppers\" title=\"User:Mr.choppers\">Mr.choppers</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-04T21:17:15.240309+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "modelId": "9",
+      "brand": "Ducati",
+      "model": "Monster 1200",
+      "status": "approximate",
+      "note": "Monster 1200 S : variante S, à distinguer de la Monster 1200 de base. La photo S4R précédente est écartée.",
+      "reviewedAt": "2026-11-04T21:11:36.166432+00:00",
+      "files": [
+        {
+          "fileTitle": "File:Ducati Monster 1200 S (10760200796).jpg",
+          "match": "approximate",
+          "approved": true,
+          "reviewNote": "Monster 1200 S : variante S, à distinguer de la Monster 1200 de base. La photo S4R précédente est écartée.",
+          "reason": "Licence et auteur identifiés dans extmetadata",
+          "photo": {
+            "fileTitle": "File:Ducati Monster 1200 S (10760200796).jpg",
+            "pageId": 29560999,
+            "query": null,
+            "sourceSha1": "ce4757d960892ad8c1b6451d8934a12ee6a954f4",
+            "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Ducati_Monster_1200_S_%2810760200796%29.jpg/960px-Ducati_Monster_1200_S_%2810760200796%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Ducati_Monster_1200_S_%2810760200796%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Ducati_Monster_1200_S_(10760200796).jpg",
+            "author": "Decio \"desmodex\"",
+            "attribution": "",
+            "creditLine": "Ducati Monster 1200 S Uploaded by AVIA BavARia",
+            "description": "Ducati Monster 1200 S",
+            "width": 3920,
+            "height": 2940,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY-SA 2.0",
+              "url": "https://creativecommons.org/licenses/by-sa/2.0/",
+              "shareAlike": true,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2013-11-11 15:57:09",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ducati Monster 1200 S (10760200796)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Ducati Monster 1200|Flickr images reviewed by File Upload Bot (Magnus Manske)|Black and red motorcycles|Photographs by Desmodex|EICMA 2013|User:AVIA BavARia/uploads/flickr/72157637480008184",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ducati Monster 1200 S",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-11-08 16:15",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p><a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/desmodex/10760200796/\">Ducati Monster 1200 S</a>\n</p>\n<ul><li>Uploaded by <a href=\"//commons.wikimedia.org/wiki/User:AVIA_BavARia\" title=\"User:AVIA BavARia\">AVIA BavARia</a></li></ul>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/55679727@N08\">Decio \"desmodex\"</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-04T21:17:15.240309+00:00"
+          }
+        },
+        {
+          "fileTitle": "File:2003 Ducati Monster S4R.jpg",
+          "match": "none",
+          "approved": false,
+          "reviewNote": "Confusion identifiée : XR1200 / R1 2015 / Monster S4R ; ne correspond pas à la fiche.",
+          "reason": "Correspondance non validée",
+          "photo": {
+            "fileTitle": "File:2003 Ducati Monster S4R.jpg",
+            "pageId": 61665136,
+            "query": null,
+            "sourceSha1": "20ff30084d7ae87480853f1f0d3ddd38d6c611b8",
+            "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/2003_Ducati_Monster_S4R.jpg/960px-2003_Ducati_Monster_S4R.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/2003_Ducati_Monster_S4R.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:2003_Ducati_Monster_S4R.jpg",
+            "author": "Monaroman68",
+            "attribution": "",
+            "creditLine": "Own work",
+            "description": "This is my Ducati Monster S4R which I brought for $7,500 dollars (AUD) with only 15,000klm on its odometer. Of all the bikes I've owned this would have to be the quickest and the best handling and surprisingly fairly comfortable on long trips too. Any questions email me mysite13@hotmail.com",
+            "width": 4160,
+            "height": 2336,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+              "shareAlike": true,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2017-08-14 00:57:30",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "2003 Ducati Monster S4R",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|2003 motorcycles|Files with coordinates missing SDC location of creation|Ducati Monster S4",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-31.433079",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "152.918726",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "This is my Ducati Monster S4R which I brought for $7,500 dollars (AUD) with only 15,000klm on its odometer. Of all the bikes I've owned this would have to be the quickest and the best handling and surprisingly fairly comfortable on long trips too. Any questions email me mysite13@hotmail.com",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-01-19 07:40:25",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Monaroman68&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Monaroman68 (page does not exist)\">Monaroman68</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-04T21:17:15.240309+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "modelId": "10",
+      "brand": "Suzuki",
+      "model": "GSX1300R Hayabusa",
+      "status": "exact",
+      "note": "Description : Suzuki GSX1300R 2007, génération 1999–2007. La photo du modèle 2008 précédent est écartée.",
+      "reviewedAt": "2026-11-04T21:11:36.166434+00:00",
+      "files": [
+        {
+          "fileTitle": "File:2007SuzukiGSX1300R-001.jpg",
+          "match": "exact",
+          "approved": true,
+          "reviewNote": "Description : Suzuki GSX1300R 2007, génération 1999–2007. La photo du modèle 2008 précédent est écartée.",
+          "reason": "Licence et auteur identifiés dans extmetadata",
+          "photo": {
+            "fileTitle": "File:2007SuzukiGSX1300R-001.jpg",
+            "pageId": 1449978,
+            "query": null,
+            "sourceSha1": "58a7ce6d96fd9abf2a648c9949f78794037a4acb",
+            "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/2007SuzukiGSX1300R-001.jpg/960px-2007SuzukiGSX1300R-001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/2007SuzukiGSX1300R-001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:2007SuzukiGSX1300R-001.jpg",
+            "author": "Rich Niewiroski Jr.",
+            "attribution": "",
+            "creditLine": "http://www.projectrich.com/gallery",
+            "description": "2007 Suzuki GSX1300R on display at the 2006 International Motorcycle Show in Long Beach, CA . Camera used was a Sony Cyber-shot DSC-W100 .",
+            "width": 3264,
+            "height": 2448,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY 2.5",
+              "url": "https://creativecommons.org/licenses/by/2.5/",
+              "shareAlike": false,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2007-07-29 20:28:47",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "2007SuzukiGSX1300R-001",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Sony DSC-W100|Suzuki Hayabusa|Attribution only license|Self-published work|2006 Long Beach International Motorcycle Show",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "2007 <a href=\"https://en.wikipedia.org/wiki/Suzuki_GSX1300R\" class=\"extiw\" title=\"en:Suzuki GSX1300R\">Suzuki GSX1300R</a> on display at the 2006 <a href=\"https://en.wikipedia.org/wiki/International_Motorcycle_Shows\" class=\"extiw\" title=\"en:International Motorcycle Shows\">International Motorcycle Show</a> in <a href=\"https://en.wikipedia.org/wiki/Long_Beach,_California\" class=\"extiw\" title=\"en:Long Beach, California\">Long Beach, CA</a>. Camera used was a <a href=\"https://en.wikipedia.org/wiki/Sony_Cyber-shot_DSC-W100\" class=\"extiw\" title=\"en:Sony Cyber-shot DSC-W100\">Sony Cyber-shot DSC-W100</a>.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2006-12-09",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.projectrich.com/gallery\">http://www.projectrich.com/gallery</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:RichN\" title=\"User:RichN\">Rich Niewiroski Jr.</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "You may select the license of your choice.",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.5",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.5",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.5",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.5",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-04T21:17:15.240309+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "modelId": "11",
+      "brand": "Royal Enfield",
+      "model": "Classic 350",
+      "status": "exact",
+      "note": "La description indique Classic 350 millésime 2017, génération de la fiche.",
+      "reviewedAt": "2026-11-04T21:11:36.166437+00:00",
+      "files": [
+        {
+          "fileTitle": "File:Royal Enfield Classic 350 (2017 Model Year).jpg",
+          "match": "exact",
+          "approved": true,
+          "reviewNote": "La description indique Classic 350 millésime 2017, génération de la fiche.",
+          "reason": "Licence et auteur identifiés dans extmetadata",
+          "photo": {
+            "fileTitle": "File:Royal Enfield Classic 350 (2017 Model Year).jpg",
+            "pageId": 58433623,
+            "query": null,
+            "sourceSha1": "0fb988be8673516296e931d79ab4bcc67e25dc2f",
+            "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Royal_Enfield_Classic_350_%282017_Model_Year%29.jpg/960px-Royal_Enfield_Classic_350_%282017_Model_Year%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Royal_Enfield_Classic_350_%282017_Model_Year%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Royal_Enfield_Classic_350_(2017_Model_Year).jpg",
+            "author": "Samihasib",
+            "attribution": "",
+            "creditLine": "Royal Enfield Classic 350 (2017 Model Year)",
+            "description": "2017 Royal Enfield Classic 350",
+            "width": 4032,
+            "height": 3024,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+              "shareAlike": true,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2017-05-02 06:47:59",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Royal Enfield Classic 350 (2017 Model Year)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|License migration redundant|Self-published work|Motorcycles facing left|Red motorcycles|Uploaded with en.wp upload wizard|Royal Enfield Classic",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "2017 Royal Enfield Classic 350",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-04-30",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Royal Enfield Classic 350 (2017 Model Year)",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Samihasib\" title=\"User:Samihasib\">Samihasib</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-04T21:17:15.240309+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "modelId": "12",
+      "brand": "Honda",
+      "model": "XRV750 Africa Twin",
+      "status": "exact",
+      "note": "La description Commons identifie une Honda Africa Twin XRV750 ; millésime non précisé.",
+      "reviewedAt": "2026-11-04T21:11:36.166439+00:00",
+      "files": [
+        {
+          "fileTitle": "File:Honda Africa Twin XRV750.jpg",
+          "match": "exact",
+          "approved": true,
+          "reviewNote": "La description Commons identifie une Honda Africa Twin XRV750 ; millésime non précisé.",
+          "reason": "Licence et auteur identifiés dans extmetadata",
+          "photo": {
+            "fileTitle": "File:Honda Africa Twin XRV750.jpg",
+            "pageId": 18900303,
+            "query": null,
+            "sourceSha1": "d31f1ed2f21d354d4c770866a397d3ea3424aeef",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Honda_Africa_Twin_XRV750.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Honda_Africa_Twin_XRV750.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Honda_Africa_Twin_XRV750.jpg",
+            "author": "Galka rem",
+            "attribution": "",
+            "creditLine": "Own work",
+            "description": "Dual-purpose motorcycle Honda Africa Twin XRV750",
+            "width": 800,
+            "height": 1196,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY-SA 3.0",
+              "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+              "shareAlike": true,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2012-03-30 11:48:35",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Honda Africa Twin XRV750",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Honda XRV750|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Dual-purpose motorcycle Honda Africa Twin XRV750",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2012-03-30",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Galka_rem&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Galka rem (page does not exist)\">Galka rem</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-04T21:17:15.240309+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "modelId": "13",
+      "brand": "Vincent",
+      "model": "Black Shadow",
+      "status": "exact",
+      "note": "La description identifie une Vincent Black Shadow de 1950.",
+      "reviewedAt": "2026-11-04T21:11:36.166441+00:00",
+      "files": [
+        {
+          "fileTitle": "File:Vincent Series C Black Shadow 1950.jpg",
+          "match": "exact",
+          "approved": true,
+          "reviewNote": "La description identifie une Vincent Black Shadow de 1950.",
+          "reason": "Licence et auteur identifiés dans extmetadata",
+          "photo": {
+            "fileTitle": "File:Vincent Series C Black Shadow 1950.jpg",
+            "pageId": 2952669,
+            "query": null,
+            "sourceSha1": "cc25e10fea5a02931e000385c918965f17ac7f63",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Vincent_Series_C_Black_Shadow_1950.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Vincent_Series_C_Black_Shadow_1950.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Vincent_Series_C_Black_Shadow_1950.jpg",
+            "author": "Piero at Dutch Wikipedia",
+            "attribution": "Yesterdays Antique Motorcycles en Classic Motorcycle Archive",
+            "creditLine": "Transferred from nl.wikipedia to Commons.",
+            "description": "1950 Vincent Black Shadow.",
+            "width": 640,
+            "height": 480,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY-SA 3.0",
+              "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+              "shareAlike": true,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2007-10-21 14:35:12",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Vincent Series C Black Shadow 1950",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Nikon Coolpix 8800|License migration completed|Vincent Black Shadow|Self-published work|Items with VRTS permission confirmed|Motorcycles on white background",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "1950 Vincent Black Shadow.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "27 October 2006 (original upload date)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi lang=\"en\" dir=\"ltr\">Transferred from <span class=\"plainlinks\"><a class=\"external text\" data-mw-original-href=\"//nl.wikipedia.org\" href=\"https://nl.wikipedia.org\">nl.wikipedia</a></span> to Commons.</bdi>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/nl:User:Piero\" class=\"extiw\" title=\"w:nl:User:Piero\">Piero</a> at <a href=\"https://en.wikipedia.org/wiki/nl:\" class=\"extiw\" title=\"w:nl:\">Dutch Wikipedia</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.yesterdays.nl/\">Yesterdays Antique Motorcycles</a> en <a rel=\"nofollow\" class=\"external text\" href=\"http://www.motorarchive.com/\">Classic Motorcycle Archive</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-04T21:17:15.240309+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "modelId": "14",
+      "brand": "Moto Guzzi",
+      "model": "V7 Sport",
+      "status": "exact",
+      "note": "La description identifie une Moto Guzzi V7 Sport de 1972 ; les versions 2025 sont écartées.",
+      "reviewedAt": "2026-11-04T21:11:36.166443+00:00",
+      "files": [
+        {
+          "fileTitle": "File:Moto Guzzi V 7 Sport 1972.jpg",
+          "match": "exact",
+          "approved": true,
+          "reviewNote": "La description identifie une Moto Guzzi V7 Sport de 1972 ; les versions 2025 sont écartées.",
+          "reason": "Licence et auteur identifiés dans extmetadata",
+          "photo": {
+            "fileTitle": "File:Moto Guzzi V 7 Sport 1972.jpg",
+            "pageId": 8335813,
+            "query": null,
+            "sourceSha1": "487b0df402614142d226467271fa6ef85403137f",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Moto_Guzzi_V_7_Sport_1972.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Moto_Guzzi_V_7_Sport_1972.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Moto_Guzzi_V_7_Sport_1972.jpg",
+            "author": "Yesterdays Antique Motorcycles",
+            "attribution": "",
+            "creditLine": "https://www.yesterdays.nl/product/moto-guzzi-1972-v7-sport-748-cc-2-cyl-ohv/",
+            "description": "Moto Guzzi V 7 Sport Motorcycle from 1972.",
+            "width": 633,
+            "height": 384,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+              "shareAlike": true,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2014-10-19 10:43:13",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Moto Guzzi V 7 Sport 1972",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Moto Guzzi V7 Sport|Items with VRTS permission confirmed|Files from Yesterdays Antique Motorcycles or the Classic Motorcycle Archive",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Moto Guzzi V 7 Sport Motorcycle from 1972.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1 October 2009 (original upload date)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.yesterdays.nl/product/moto-guzzi-1972-v7-sport-748-cc-2-cyl-ohv/\">https://www.yesterdays.nl/product/moto-guzzi-1972-v7-sport-748-cc-2-cyl-ohv/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Yesterdays Antique Motorcycles",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-04T21:17:15.240309+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "modelId": "15",
+      "brand": "Daimler",
+      "model": "Reitwagen",
+      "status": "none",
+      "note": "Photo originale écartée pour droits insuffisamment clarifiés ; réplique alternative identifiée, affichée uniquement si son téléchargement aboutit.",
+      "reviewedAt": "2026-11-04T21:11:36.166445+00:00",
+      "files": [
+        {
+          "fileTitle": "File:Daimler Reitwagen Replika Classic-Gala 2022 1X7A0005.jpg",
+          "match": "approximate",
+          "approved": false,
+          "reviewNote": "Réplique du Daimler Reitwagen photographiée à Classic-Gala 2022 ; ne représente pas le véhicule original conservé de 1885.",
+          "reason": "Téléchargement impossible : Command '['curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '20', '--max-filesize', '25000000', 'https://upload.wikimedia.org/wikipedia/commons/e/eb/Daimler_Reitwagen_Replika_Classic-Gala_2022_1X7A0005.jpg']' returned non-zero exit status 22.",
+          "photo": {
+            "fileTitle": "File:Daimler Reitwagen Replika Classic-Gala 2022 1X7A0005.jpg",
+            "pageId": 124347014,
+            "query": null,
+            "sourceSha1": "3cda6f794ac07f0ba706aa356d46072e170f0a5f",
+            "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Daimler_Reitwagen_Replika_Classic-Gala_2022_1X7A0005.jpg/960px-Daimler_Reitwagen_Replika_Classic-Gala_2022_1X7A0005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Daimler_Reitwagen_Replika_Classic-Gala_2022_1X7A0005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Daimler_Reitwagen_Replika_Classic-Gala_2022_1X7A0005.jpg",
+            "author": "Alexander Migl",
+            "attribution": "",
+            "creditLine": "Own work",
+            "description": "Daimler_Reitwagen_Replika at Classic-Gala 2022",
+            "width": 3221,
+            "height": 3988,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+              "shareAlike": true,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2022-10-18 19:15:07",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Daimler Reitwagen Replika Classic-Gala 2022 1X7A0005",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Daimler Reitwagen|Self-published work|Files uploaded by Wmigda's script|Classic-Gala Schwetzingen 2022|User Alexander Migl - Classic-Gala Schwetzingen 2022",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Daimler_Reitwagen_Replika at Classic-Gala 2022",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-09-02 09:51:03",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Alexander-93\" title=\"User:Alexander-93\">Alexander Migl</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-04T21:17:15.240309+00:00"
+          }
+        },
+        {
+          "fileTitle": "File:Daimler Reitwagen.JPG",
+          "match": "none",
+          "approved": false,
+          "reviewNote": "Licence non prise en charge ou incertaine : fichier écarté.",
+          "reason": "Correspondance non validée",
+          "photo": {
+            "fileTitle": "File:Daimler Reitwagen.JPG",
+            "pageId": 11824471,
+            "query": null,
+            "sourceSha1": "56b82943fcff98f68d9f5eb2a19b069dae5021cc",
+            "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Daimler_Reitwagen.JPG/960px-Daimler_Reitwagen.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Daimler_Reitwagen.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Daimler_Reitwagen.JPG",
+            "author": "Wladyslaw",
+            "attribution": "Wladyslaw",
+            "creditLine": "Own work",
+            "description": "Daimler Reitwagen aus dem Jahr 1885 im Mercedes Benz Museum in Stuttgart",
+            "width": 3008,
+            "height": 2000,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "excluded",
+              "reason": "Licence absente ou non prise en charge : CC BY-SA 2.0 de"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2010-10-19 16:45:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Daimler Reitwagen",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Nikon D50|FAL|Self-published work|Featured pictures on Wikipedia, Persian|Files with coordinates missing SDC location of creation (48° N, 9° E)|Daimler Standuhr engine in the Mercedes-Benz-Museum|Daimler Reitwagen in the Mercedes-Benz-Museum",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality|valued",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "48.787936",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "9.233600",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Daimler Reitwagen aus dem Jahr 1885 im Mercedes Benz Museum in Stuttgart",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2006-07-02",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Taxiarchos228\" title=\"User:Taxiarchos228\">Wladyslaw</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0 de",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0 de",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Taxiarchos228\" title=\"User:Taxiarchos228\">Wladyslaw</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0-de",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-04T21:17:15.240309+00:00"
+          }
+        }
+      ]
+    }
+  ]
+}

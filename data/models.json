@@ -1,0 +1,446 @@
+[
+  {
+    "id": "1",
+    "brand": "Ducati",
+    "model": "916",
+    "year": 1994,
+    "endYear": 1998,
+    "country": "Italie",
+    "category": "Sportive",
+    "engine": "916 cm³",
+    "power": "114 ch",
+    "weight": "195 kg",
+    "description": "Le dessin de Massimo Tamburini, devenu une icône. Son bicylindre et son monobras ont marqué une génération de sportives.",
+    "sourcePage": "https://en.wikipedia.org/wiki/Ducati_916",
+    "imageQueries": [
+      "Ducati 916 SPS"
+    ],
+    "documentation": [
+      {
+        "provider": "Wikipedia",
+        "role": "complementary",
+        "url": "https://en.wikipedia.org/wiki/Ducati_916",
+        "title": "Ducati 916",
+        "pageId": 1027329,
+        "revisionId": 1372706085,
+        "checkedAt": "2026-11-04T21:10:52.617400+00:00",
+        "note": "Référence documentaire complémentaire ; spécifications selon millésime et version, non certifiées par la seule présence du lien."
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "brand": "Honda",
+    "model": "CB750 Four",
+    "year": 1969,
+    "endYear": 1978,
+    "country": "Japon",
+    "category": "Vintage",
+    "engine": "736 cm³",
+    "power": "67 ch",
+    "weight": "218 kg",
+    "description": "Quatre cylindres, quatre échappements et une nouvelle vision de la route. La CB750 a contribué à définir la superbike moderne.",
+    "sourcePage": "https://en.wikipedia.org/wiki/Honda_CB750_and_CR750",
+    "imageQueries": [
+      "Honda CB750 Four",
+      "Honda CB 750"
+    ],
+    "documentation": [
+      {
+        "provider": "Wikipedia",
+        "role": "complementary",
+        "url": "https://en.wikipedia.org/wiki/Honda_CB750_and_CR750",
+        "title": "Honda CB750 and CR750",
+        "pageId": 467378,
+        "revisionId": 1379259413,
+        "checkedAt": "2026-11-04T21:10:52.617400+00:00",
+        "note": "Référence documentaire complémentaire ; spécifications selon millésime et version, non certifiées par la seule présence du lien."
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "brand": "BMW",
+    "model": "R nineT",
+    "year": 2014,
+    "endYear": 2023,
+    "country": "Allemagne",
+    "category": "Roadster",
+    "engine": "1 170 cm³",
+    "power": "110 ch",
+    "weight": "222 kg",
+    "description": "Un flat-twin au caractère affirmé, une silhouette intemporelle. La R nineT rend hommage à l’histoire BMW tout en invitant à la personnalisation.",
+    "sourcePage": "https://en.wikipedia.org/wiki/BMW_R_nineT",
+    "imageQueries": [
+      "BMW R nineT",
+      "BMW R nine T"
+    ],
+    "documentation": [
+      {
+        "provider": "Wikipedia",
+        "role": "complementary",
+        "url": "https://en.wikipedia.org/wiki/BMW_R_nineT",
+        "title": "BMW R nineT",
+        "pageId": 43766998,
+        "revisionId": 1383620344,
+        "checkedAt": "2026-11-04T21:10:52.617400+00:00",
+        "note": "Référence documentaire complémentaire ; spécifications selon millésime et version, non certifiées par la seule présence du lien."
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "brand": "Triumph",
+    "model": "Bonneville T120",
+    "year": 1959,
+    "endYear": 1975,
+    "country": "Royaume-Uni",
+    "category": "Néo-rétro",
+    "engine": "649 cm³",
+    "power": "46 ch",
+    "weight": "183 kg",
+    "description": "Une ligne britannique reconnaissable entre mille. La première Bonneville T120 est devenue un symbole des routes anglaises et de la culture café racer.",
+    "sourcePage": "https://en.wikipedia.org/wiki/Triumph_Bonneville_T120",
+    "imageQueries": [
+      "Triumph Bonneville T120",
+      "Triumph T120"
+    ],
+    "documentation": [
+      {
+        "provider": "Wikipedia",
+        "role": "complementary",
+        "url": "https://en.wikipedia.org/wiki/Triumph_Bonneville_T120",
+        "title": "Triumph Bonneville T120",
+        "pageId": 21652828,
+        "revisionId": 1360322678,
+        "checkedAt": "2026-11-04T21:10:52.617400+00:00",
+        "note": "Référence documentaire complémentaire ; spécifications selon millésime et version, non certifiées par la seule présence du lien."
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "brand": "Harley-Davidson",
+    "model": "Sportster 1200",
+    "year": 1988,
+    "endYear": 2003,
+    "country": "États-Unis",
+    "category": "Custom",
+    "engine": "1 202 cm³",
+    "power": "58 ch",
+    "weight": "250 kg",
+    "description": "Basse, dépouillée et profondément américaine. La Sportster 1200 incarne le caractère mécanique et la simplicité de la famille Sportster.",
+    "sourcePage": "https://en.wikipedia.org/wiki/Harley-Davidson_Sportster",
+    "imageQueries": [
+      "Harley Davidson Sportster 1200",
+      "Harley Davidson XL1200"
+    ],
+    "documentation": [
+      {
+        "provider": "Wikipedia",
+        "role": "complementary",
+        "url": "https://en.wikipedia.org/wiki/Harley-Davidson_Sportster",
+        "title": "Harley-Davidson Sportster",
+        "pageId": 4706154,
+        "revisionId": 1378755975,
+        "checkedAt": "2026-11-04T21:10:52.617400+00:00",
+        "note": "Référence documentaire complémentaire ; spécifications selon millésime et version, non certifiées par la seule présence du lien."
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "brand": "Yamaha",
+    "model": "YZF-R1",
+    "year": 2007,
+    "endYear": 2008,
+    "country": "Japon",
+    "category": "Sportive",
+    "engine": "998 cm³",
+    "power": "180 ch",
+    "weight": "177 kg",
+    "description": "Un quatre-cylindres rageur et une silhouette affûtée. La R1 de cette génération poursuit la quête de performance engagée en 1998.",
+    "sourcePage": "https://en.wikipedia.org/wiki/Yamaha_YZF-R1",
+    "imageQueries": [
+      "Yamaha YZF R1 2007",
+      "Yamaha R1 2008"
+    ],
+    "documentation": [
+      {
+        "provider": "Wikipedia",
+        "role": "complementary",
+        "url": "https://en.wikipedia.org/wiki/Yamaha_YZF-R1",
+        "title": "Yamaha YZF-R1",
+        "pageId": 1771783,
+        "revisionId": 1380932299,
+        "checkedAt": "2026-11-04T21:10:52.617400+00:00",
+        "note": "Référence documentaire complémentaire ; spécifications selon millésime et version, non certifiées par la seule présence du lien."
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "brand": "Kawasaki",
+    "model": "Ninja H2",
+    "year": 2015,
+    "endYear": 2026,
+    "country": "Japon",
+    "category": "Sportive",
+    "engine": "998 cm³",
+    "power": "200 ch",
+    "weight": "238 kg",
+    "description": "Une machine à compresseur conçue comme une vitrine technologique. Ses lignes sculptées et son moteur suralimenté la rendent inimitable.",
+    "sourcePage": "https://en.wikipedia.org/wiki/Kawasaki_Ninja_H2",
+    "imageQueries": [
+      "Kawasaki Ninja H2"
+    ],
+    "documentation": [
+      {
+        "provider": "Wikipedia",
+        "role": "complementary",
+        "url": "https://en.wikipedia.org/wiki/Kawasaki_Ninja_H2",
+        "title": "Kawasaki Ninja H2",
+        "pageId": 43793484,
+        "revisionId": 1371816005,
+        "checkedAt": "2026-11-04T21:10:52.617400+00:00",
+        "note": "Référence documentaire complémentaire ; spécifications selon millésime et version, non certifiées par la seule présence du lien."
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "brand": "BMW",
+    "model": "R 80 G/S",
+    "year": 1980,
+    "endYear": 1987,
+    "country": "Allemagne",
+    "category": "Trail",
+    "engine": "797 cm³",
+    "power": "50 ch",
+    "weight": "186 kg",
+    "description": "De la route aux pistes, sans choisir. La R 80 G/S a posé les fondations d’une grande lignée de motos d’aventure.",
+    "sourcePage": "https://en.wikipedia.org/wiki/BMW_R80G/S",
+    "imageQueries": [
+      "BMW R 80 G/S",
+      "BMW R80 G/S"
+    ],
+    "documentation": [
+      {
+        "provider": "Wikipedia",
+        "role": "complementary",
+        "url": "https://en.wikipedia.org/wiki/BMW_R80G/S",
+        "title": "BMW R80G/S",
+        "pageId": 23060564,
+        "revisionId": 1346007120,
+        "checkedAt": "2026-11-04T21:10:52.617400+00:00",
+        "note": "Référence documentaire complémentaire ; spécifications selon millésime et version, non certifiées par la seule présence du lien."
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "brand": "Ducati",
+    "model": "Monster 1200",
+    "year": 2014,
+    "endYear": 2021,
+    "country": "Italie",
+    "category": "Roadster",
+    "engine": "1 198 cm³",
+    "power": "135 ch",
+    "weight": "209 kg",
+    "description": "Un cadre treillis, un moteur et l’essentiel. Le Monster a fait du roadster italien un objet de désir mondial.",
+    "sourcePage": "https://en.wikipedia.org/wiki/Ducati_Monster",
+    "imageQueries": [
+      "Ducati Monster 1200"
+    ],
+    "documentation": [
+      {
+        "provider": "Wikipedia",
+        "role": "complementary",
+        "url": "https://en.wikipedia.org/wiki/Ducati_Monster",
+        "title": "Ducati Monster",
+        "pageId": 621566,
+        "revisionId": 1378016381,
+        "checkedAt": "2026-11-04T21:10:52.617400+00:00",
+        "note": "Référence documentaire complémentaire ; spécifications selon millésime et version, non certifiées par la seule présence du lien."
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "brand": "Suzuki",
+    "model": "GSX1300R Hayabusa",
+    "year": 1999,
+    "endYear": 2007,
+    "country": "Japon",
+    "category": "Sportive",
+    "engine": "1 298 cm³",
+    "power": "175 ch",
+    "weight": "215 kg",
+    "description": "Une silhouette aérodynamique immédiatement identifiable. L’Hayabusa est devenue un symbole de la quête de vitesse de la fin des années 1990.",
+    "sourcePage": "https://en.wikipedia.org/wiki/Suzuki_Hayabusa",
+    "imageQueries": [
+      "Suzuki Hayabusa 1999",
+      "Suzuki GSX1300R"
+    ],
+    "documentation": [
+      {
+        "provider": "Wikipedia",
+        "role": "complementary",
+        "url": "https://en.wikipedia.org/wiki/Suzuki_Hayabusa",
+        "title": "Suzuki Hayabusa",
+        "pageId": 1135973,
+        "revisionId": 1354370432,
+        "checkedAt": "2026-11-04T21:10:52.617400+00:00",
+        "note": "Référence documentaire complémentaire ; spécifications selon millésime et version, non certifiées par la seule présence du lien."
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "brand": "Royal Enfield",
+    "model": "Classic 350",
+    "year": 2009,
+    "endYear": 2021,
+    "country": "Inde",
+    "category": "Néo-rétro",
+    "engine": "346 cm³",
+    "power": "20 ch",
+    "weight": "195 kg",
+    "description": "Une invitation à ralentir et à savourer la route. Son monocylindre et ses lignes classiques perpétuent une longue tradition.",
+    "sourcePage": "https://en.wikipedia.org/wiki/Royal_Enfield_Classic",
+    "imageQueries": [
+      "Royal Enfield Classic 350"
+    ],
+    "documentation": [
+      {
+        "provider": "Wikipedia",
+        "role": "complementary",
+        "url": "https://en.wikipedia.org/wiki/Royal_Enfield_Classic",
+        "title": "Royal Enfield Classic",
+        "pageId": 53901441,
+        "revisionId": 1373819831,
+        "checkedAt": "2026-11-04T21:10:52.617400+00:00",
+        "note": "Référence documentaire complémentaire ; spécifications selon millésime et version, non certifiées par la seule présence du lien."
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "brand": "Honda",
+    "model": "XRV750 Africa Twin",
+    "year": 1990,
+    "endYear": 2003,
+    "country": "Japon",
+    "category": "Trail",
+    "engine": "742 cm³",
+    "power": "61 ch",
+    "weight": "207 kg",
+    "description": "Inspirée des grandes aventures africaines, taillée pour le voyage. L’Africa Twin a conquis les voyageurs avec son bicylindre et sa robustesse.",
+    "sourcePage": "https://en.wikipedia.org/wiki/Honda_Africa_Twin",
+    "imageQueries": [
+      "Honda XRV750 Africa Twin",
+      "Honda XRV 750"
+    ],
+    "documentation": [
+      {
+        "provider": "Wikipedia",
+        "role": "complementary",
+        "url": "https://en.wikipedia.org/wiki/Honda_Africa_Twin",
+        "title": "Honda Africa Twin",
+        "pageId": 5532006,
+        "revisionId": 1378816517,
+        "checkedAt": "2026-11-04T21:10:52.617400+00:00",
+        "note": "Référence documentaire complémentaire ; spécifications selon millésime et version, non certifiées par la seule présence du lien."
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "brand": "Vincent",
+    "model": "Black Shadow",
+    "year": 1948,
+    "endYear": 1955,
+    "country": "Royaume-Uni",
+    "category": "Vintage",
+    "engine": "998 cm³",
+    "power": "55 ch",
+    "weight": "208 kg",
+    "description": "Une légende britannique à moteur V-twin. La Black Shadow comptait parmi les motos de série les plus rapides de son époque.",
+    "sourcePage": "https://en.wikipedia.org/wiki/Vincent_Black_Shadow",
+    "imageQueries": [
+      "Vincent Black Shadow"
+    ],
+    "documentation": [
+      {
+        "provider": "Wikipedia",
+        "role": "complementary",
+        "url": "https://en.wikipedia.org/wiki/Vincent_Black_Shadow",
+        "title": "Vincent Black Shadow",
+        "pageId": 2425834,
+        "revisionId": 1372889627,
+        "checkedAt": "2026-11-04T21:10:52.617400+00:00",
+        "note": "Référence documentaire complémentaire ; spécifications selon millésime et version, non certifiées par la seule présence du lien."
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "brand": "Moto Guzzi",
+    "model": "V7 Sport",
+    "year": 1971,
+    "endYear": 1974,
+    "country": "Italie",
+    "category": "Vintage",
+    "engine": "748 cm³",
+    "power": "70 ch",
+    "weight": "206 kg",
+    "description": "Le bicylindre transversal comme signature. La V7 Sport a inscrit Moto Guzzi dans l’histoire des sportives italiennes avec son cadre bas et sa robe emblématique.",
+    "sourcePage": "https://en.wikipedia.org/wiki/Moto_Guzzi_V7_Sport",
+    "imageQueries": [
+      "Moto Guzzi V7 Sport"
+    ],
+    "documentation": [
+      {
+        "provider": "Wikipedia",
+        "role": "complementary",
+        "url": "https://en.wikipedia.org/wiki/Moto_Guzzi_V7_Sport",
+        "title": "Moto Guzzi V7 Sport",
+        "pageId": 45322921,
+        "revisionId": 1369697022,
+        "checkedAt": "2026-11-04T21:10:52.617400+00:00",
+        "note": "Référence documentaire complémentaire ; spécifications selon millésime et version, non certifiées par la seule présence du lien."
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "brand": "Daimler",
+    "model": "Reitwagen",
+    "year": 1885,
+    "endYear": 1885,
+    "country": "Allemagne",
+    "category": "Pionnière",
+    "engine": "264 cm³",
+    "power": "0,5 ch",
+    "weight": "90 kg",
+    "description": "Un prototype en bois au commencement de l’histoire. Le Reitwagen figure parmi les premiers véhicules à deux roues à moteur à combustion.",
+    "sourcePage": "https://en.wikipedia.org/wiki/Daimler_Reitwagen",
+    "imageQueries": [
+      "Daimler Reitwagen",
+      "Daimler riding car 1885"
+    ],
+    "documentation": [
+      {
+        "provider": "Wikipedia",
+        "role": "complementary",
+        "url": "https://en.wikipedia.org/wiki/Daimler_Reitwagen",
+        "title": "Daimler Reitwagen",
+        "pageId": 30762568,
+        "revisionId": 1380496055,
+        "checkedAt": "2026-11-04T21:10:52.617400+00:00",
+        "note": "Référence documentaire complémentaire ; spécifications selon millésime et version, non certifiées par la seule présence du lien."
+      }
+    ]
+  }
+]
