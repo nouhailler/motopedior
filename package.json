@@ -1,0 +1,1 @@
+{"name":"motopedia","version":"1.0.0","type":"module","scripts":{"dev":"vite --host 0.0.0.0","build":"vite build"},"dependencies":{"react":"^19.0.0","react-dom":"^19.0.0","lucide-react":"^0.468.0","fuse.js":"^7.0.0","idb":"^8.0.0"},"devDependencies":{"vite":"^6.0.0","@vitejs/plugin-react":"^4.3.4","tailwindcss":"^4.0.0","@tailwindcss/vite":"^4.0.0","vite-plugin-pwa":"^0.21.1"}}
