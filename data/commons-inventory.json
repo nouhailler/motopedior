@@ -1,6 +1,6 @@
 {
   "provider": "Wikimedia Commons",
-  "generatedAt": "2026-11-04T21:10:38.978532+00:00",
+  "generatedAt": "2026-11-04T21:22:15.428983+00:00",
   "models": [
     {
       "modelId": "1",
@@ -16691,6 +16691,1204 @@
           },
           "checkedAt": "2026-11-04T21:10:38.978532+00:00",
           "score": 80.0,
+          "match": "unreviewed"
+        }
+      ]
+    },
+    {
+      "modelId": "16",
+      "queries": [
+        "Copeland steam bicycle",
+        "Lucius Copeland steam bicycle"
+      ],
+      "candidates": [
+        {
+          "fileTitle": "File:Copeland steam bicycle 1884 The Standard Reference Work.png",
+          "pageId": 13127053,
+          "query": "Copeland steam bicycle",
+          "sourceSha1": "01d463a3e0b697ec5965f90195b5f7231021394a",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Copeland_steam_bicycle_1884_The_Standard_Reference_Work.png/960px-Copeland_steam_bicycle_1884_The_Standard_Reference_Work.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Copeland_steam_bicycle_1884_The_Standard_Reference_Work.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Copeland_steam_bicycle_1884_The_Standard_Reference_Work.png",
+          "author": "Harold Melvin Stanford",
+          "attribution": "",
+          "creditLine": "The Standard reference work: for the home, school and library. vol. 8. https://books.google.com/books?id=y-RDAAAAYAAJ",
+          "description": "Drawing of 1884 Copeland steam bicycle. Page 52. Illustration by Hendee Manufacturing Co.",
+          "width": 3256,
+          "height": 3408,
+          "mime": "image/png",
+          "license": {
+            "status": "allowed",
+            "name": "Public domain",
+            "url": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "shareAlike": false,
+            "attributionRequired": false,
+            "reason": "Domaine public ou CC0 identifié dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2011-02-06 17:01:35",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Copeland steam bicycle 1884 The Standard Reference Work",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "PD US|1880s bicycles|PD-US missing SDC copyright status|Drawings of motorcycles|Copeland steam motorcycles",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Drawing of 1884 Copeland steam bicycle. Page 52. Illustration by Hendee Manufacturing Co.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "1921",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "The Standard reference work: for the home, school and library. vol. 8. <a rel=\"nofollow\" class=\"external free\" href=\"https://books.google.com/books?id=y-RDAAAAYAAJ\">https://books.google.com/books?id=y-RDAAAAYAAJ</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Harold Melvin Stanford",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-04T21:22:15.428983+00:00",
+          "score": 100.0,
+          "match": "unreviewed"
+        },
+        {
+          "fileTitle": "File:Copeland stoomfiets 1894.jpg",
+          "pageId": 8262680,
+          "query": "Lucius Copeland steam bicycle",
+          "sourceSha1": "f0a6e01ac2efc6c62912f6ea9c9da3bc6a20b933",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Copeland_stoomfiets_1894.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Copeland_stoomfiets_1894.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Copeland_stoomfiets_1894.jpg",
+          "author": "Unknown author Unknown author",
+          "attribution": "",
+          "creditLine": "Unknown source Unknown source",
+          "description": "Lucius Copeland with the Copeland steam bicycle.",
+          "width": 742,
+          "height": 884,
+          "mime": "image/jpeg",
+          "license": {
+            "status": "allowed",
+            "name": "Public domain",
+            "url": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "shareAlike": false,
+            "attributionRequired": false,
+            "reason": "Domaine public ou CC0 identifié dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2009-10-25 16:33:07",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Copeland stoomfiets 1894",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Lucius Copeland|PD Old|Template Unknown (author)|CC-PD-Mark|People of the United States in 1894|1894 in transport in the United States|1890s bicycles|Cycling in the 1890s|1894 black and white portrait photographs of men|PD-old missing SDC copyright status|Template Unknown (source)|Copeland steam motorcycles",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Lucius Copeland with the Copeland steam bicycle.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "1894",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "Unknown source<span style=\"display: none;\">Unknown source</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-04T21:22:15.428983+00:00",
+          "score": 87.4,
+          "match": "unreviewed"
+        },
+        {
+          "fileTitle": "File:1884 Copeland Steam Cycle (replica) The Art of the Motorcycle - Memphis.jpg",
+          "pageId": 7179770,
+          "query": "Copeland steam bicycle",
+          "sourceSha1": "9f1af29f70f2622d89a5ee76ea2dcb5cd4513827",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/1884_Copeland_Steam_Cycle_%28replica%29_The_Art_of_the_Motorcycle_-_Memphis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/1884_Copeland_Steam_Cycle_%28replica%29_The_Art_of_the_Motorcycle_-_Memphis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:1884_Copeland_Steam_Cycle_(replica)_The_Art_of_the_Motorcycle_-_Memphis.jpg",
+          "author": "Daniel Hartwig from New Haven, CT, USA",
+          "attribution": "",
+          "creditLine": "P7020003.jpg",
+          "description": "1884 Copeland Steam Cycle (replica) The Art of the Motorcycle - Memphis",
+          "width": 800,
+          "height": 620,
+          "mime": "image/jpeg",
+          "license": {
+            "status": "allowed",
+            "name": "CC BY 2.0",
+            "url": "https://creativecommons.org/licenses/by/2.0/",
+            "shareAlike": false,
+            "attributionRequired": true,
+            "reason": "Licence et auteur identifiés dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2009-07-01 20:53:55",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "1884 Copeland Steam Cycle (replica) The Art of the Motorcycle - Memphis",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "The Art of the Motorcycle|Flickr images reviewed by FlickreviewR|1880s bicycles|Copeland steam motorcycles|The Art of the Motorcycle exhibition (Memphis)",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "1884 Copeland Steam Cycle (replica) The Art of the Motorcycle - Memphis",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2005-07-02 17:29",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/9751269@N07/777681351/\">P7020003.jpg</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/9751269@N07\">Daniel Hartwig</a> from New Haven, CT, USA",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY 2.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution 2.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by/2.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-2.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-04T21:22:15.428983+00:00",
+          "score": 68.0,
+          "match": "unreviewed"
+        },
+        {
+          "fileTitle": "File:USNatlMuseumBulltn204Pl4.jpg",
+          "pageId": 155221020,
+          "query": "Copeland steam bicycle",
+          "sourceSha1": "23aeb7b33e75455ca68562c47473995238aac33f",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/USNatlMuseumBulltn204Pl4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/USNatlMuseumBulltn204Pl4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:USNatlMuseumBulltn204Pl4.jpg",
+          "author": "Smith Hempstone Oliver/Smithsonian Institution",
+          "attribution": "",
+          "creditLine": "Smithsonian Institution United States National Museum Bulletion 204: Catalog of the Cycle Collection of the Division of Engineering United States National Museum",
+          "description": "a) Smithsonian photo No. 36684 b) Smithsonian photo No. 5125",
+          "width": 498,
+          "height": 840,
+          "mime": "image/jpeg",
+          "license": {
+            "status": "allowed",
+            "name": "Public domain",
+            "url": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "shareAlike": false,
+            "attributionRequired": false,
+            "reason": "Domaine public ou CC0 identifié dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2024-11-16 00:55:57",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "USNatlMuseumBulltn204Pl4",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "PD US Government|Steam engines|Smithsonian Institution|CC-PD-Mark|History of the bicycle",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "a) Smithsonian photo No. 36684 b) Smithsonian photo No. 5125",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "1888-06-12",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "Smithsonian Institution United States National Museum Bulletion 204: Catalog of the Cycle Collection of the Division of Engineering United States National Museum",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Smith Hempstone Oliver/Smithsonian Institution",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-04T21:22:15.428983+00:00",
+          "score": 25.0,
+          "match": "unreviewed"
+        }
+      ]
+    },
+    {
+      "modelId": "17",
+      "queries": [
+        "Butler Petrol Cycle",
+        "Edward Butler petrol tricycle"
+      ],
+      "candidates": [
+        {
+          "fileTitle": "File:Butler's Patent Velocycle.jpg",
+          "pageId": 6933290,
+          "query": "Butler Petrol Cycle",
+          "sourceSha1": "b097f416f8476b050135a0da5457db5f5600f23f",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Butler%27s_Patent_Velocycle.jpg/960px-Butler%27s_Patent_Velocycle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Butler%27s_Patent_Velocycle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Butler%27s_Patent_Velocycle.jpg",
+          "author": "Edward Butler (inventor)",
+          "attribution": "",
+          "creditLine": "http://www.isee.gateshead.gov.uk",
+          "description": "Butler 's Patent Velocycle",
+          "width": 2516,
+          "height": 1722,
+          "mime": "image/jpeg",
+          "license": {
+            "status": "allowed",
+            "name": "Public domain",
+            "url": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "shareAlike": false,
+            "attributionRequired": false,
+            "reason": "Domaine public ou CC0 identifié dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2009-06-03 12:44:35",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Butler's Patent Velocycle",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Butler three-wheeled vehicles|Black and white photographs of vehicles|PD-old-80|1885 automobiles|CC-PD-Mark|Black and white photographs in the 1880s|PD-old missing SDC copyright status",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "<a href=\"https://en.wikipedia.org/wiki/Edward_Butler_(inventor)\" class=\"extiw\" title=\"en:Edward Butler (inventor)\">Butler</a>'s Patent Velocycle",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "circa 1885<div style=\"display: none;\">date QS:P,+1885-00-00T00:00:00Z/9,P1480,Q5727902</div>",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.isee.gateshead.gov.uk/detail.php?t=objects&amp;type=all&amp;f=&amp;s=velocycle&amp;record=0\">http://www.isee.gateshead.gov.uk</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Edward Butler (inventor)",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-04T21:22:15.428983+00:00",
+          "score": 80.0,
+          "match": "unreviewed"
+        },
+        {
+          "fileTitle": "File:Sectional elevation single acting.png",
+          "pageId": 81490092,
+          "query": "Butler Petrol Cycle",
+          "sourceSha1": "08d8d20d8987135e66107a2cc715eeae43ca06d5",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Sectional_elevation_single_acting.png/960px-Sectional_elevation_single_acting.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Sectional_elevation_single_acting.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sectional_elevation_single_acting.png",
+          "author": "Edward Butler?",
+          "attribution": "",
+          "creditLine": "https://collection.sciencemuseumgroup.org.uk/objects/co24664/three-prints-depicting-butler-motorcycle-motor-cycle-drawings",
+          "description": "A view of Butler's petrol car.",
+          "width": 5360,
+          "height": 3308,
+          "mime": "image/png",
+          "license": {
+            "status": "allowed",
+            "name": "Public domain",
+            "url": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "shareAlike": false,
+            "attributionRequired": false,
+            "reason": "Domaine public ou CC0 identifié dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2019-08-20 16:17:48",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Sectional elevation single acting",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Butler three-wheeled vehicles|PD US expired|PD-US missing SDC copyright status",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "A view of Butler's petrol car.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "circa 1888<div style=\"display: none;\">date QS:P,+1888-00-00T00:00:00Z/9,P1480,Q5727902</div>",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://collection.sciencemuseumgroup.org.uk/objects/co24664/three-prints-depicting-butler-motorcycle-motor-cycle-drawings\">https://collection.sciencemuseumgroup.org.uk/objects/co24664/three-prints-depicting-butler-motorcycle-motor-cycle-drawings</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Edward Butler?",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-04T21:22:15.428983+00:00",
+          "score": 80.0,
+          "match": "unreviewed"
+        },
+        {
+          "fileTitle": "File:As first made.png",
+          "pageId": 81490093,
+          "query": "Butler Petrol Cycle",
+          "sourceSha1": "f21b34629d6677a067fdd25a3152e73844042a0b",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/As_first_made.png/960px-As_first_made.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/As_first_made.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:As_first_made.png",
+          "author": "Edward Butler?",
+          "attribution": "",
+          "creditLine": "https://collection.sciencemuseumgroup.org.uk/objects/co24664/three-prints-depicting-butler-motorcycle-motor-cycle-drawings",
+          "description": "A view of Butler's petrol car.",
+          "width": 5534,
+          "height": 3206,
+          "mime": "image/png",
+          "license": {
+            "status": "allowed",
+            "name": "Public domain",
+            "url": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "shareAlike": false,
+            "attributionRequired": false,
+            "reason": "Domaine public ou CC0 identifié dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2019-08-20 16:17:48",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "As first made",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Butler three-wheeled vehicles|PD US expired|PD-US missing SDC copyright status",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "A view of Butler's petrol car.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "circa 1888<div style=\"display: none;\">date QS:P,+1888-00-00T00:00:00Z/9,P1480,Q5727902</div>",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://collection.sciencemuseumgroup.org.uk/objects/co24664/three-prints-depicting-butler-motorcycle-motor-cycle-drawings\">https://collection.sciencemuseumgroup.org.uk/objects/co24664/three-prints-depicting-butler-motorcycle-motor-cycle-drawings</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Edward Butler?",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-04T21:22:15.428983+00:00",
+          "score": 80.0,
+          "match": "unreviewed"
+        },
+        {
+          "fileTitle": "File:Bottom view.png",
+          "pageId": 81490094,
+          "query": "Butler Petrol Cycle",
+          "sourceSha1": "a8285d7f9228fb71b1df43a5250186358b1ada44",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Bottom_view.png/960px-Bottom_view.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Bottom_view.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Bottom_view.png",
+          "author": "Edward Butler?",
+          "attribution": "",
+          "creditLine": "https://collection.sciencemuseumgroup.org.uk/objects/co24664/three-prints-depicting-butler-motorcycle-motor-cycle-drawings",
+          "description": "A view of Butler's petrol car.",
+          "width": 5058,
+          "height": 3510,
+          "mime": "image/png",
+          "license": {
+            "status": "allowed",
+            "name": "Public domain",
+            "url": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "shareAlike": false,
+            "attributionRequired": false,
+            "reason": "Domaine public ou CC0 identifié dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2019-08-20 16:17:48",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Bottom view",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Butler three-wheeled vehicles|PD US expired|PD-US missing SDC copyright status",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "A view of Butler's petrol car.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "circa 1888<div style=\"display: none;\">date QS:P,+1888-00-00T00:00:00Z/9,P1480,Q5727902</div>",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://collection.sciencemuseumgroup.org.uk/objects/co24664/three-prints-depicting-butler-motorcycle-motor-cycle-drawings\">https://collection.sciencemuseumgroup.org.uk/objects/co24664/three-prints-depicting-butler-motorcycle-motor-cycle-drawings</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Edward Butler?",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-04T21:22:15.428983+00:00",
+          "score": 80.0,
+          "match": "unreviewed"
+        },
+        {
+          "fileTitle": "File:Butler Dreirad 1887 01.jpg",
+          "pageId": 11831078,
+          "query": "Butler Petrol Cycle",
+          "sourceSha1": "861eeff05a11a8332395cf8b22710edabed06ef1",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Butler_Dreirad_1887_01.jpg/960px-Butler_Dreirad_1887_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Butler_Dreirad_1887_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Butler_Dreirad_1887_01.jpg",
+          "author": "Unknown author Unknown author",
+          "attribution": "",
+          "creditLine": "own reproduktion, original is more than 100 years old",
+          "description": "Butler Dreirad aus dem Jahr 1887. Diese Dreirad wurde 1885 von Edward Butler entworfen und 1887 konstruiert.",
+          "width": 3339,
+          "height": 2334,
+          "mime": "image/jpeg",
+          "license": {
+            "status": "allowed",
+            "name": "Public domain",
+            "url": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "shareAlike": false,
+            "attributionRequired": false,
+            "reason": "Domaine public ou CC0 identifié dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2010-10-20 05:48:48",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Butler Dreirad 1887 01",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Butler three-wheeled vehicles|PD Old|Template Unknown (author)|CC-PD-Mark|PD-old missing SDC copyright status",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Butler Dreirad aus dem Jahr 1887. Diese Dreirad wurde 1885 von Edward Butler entworfen und 1887 konstruiert.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "1887",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "own reproduktion, original is more than 100 years old",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-04T21:22:15.428983+00:00",
+          "score": 60.0,
+          "match": "unreviewed"
+        },
+        {
+          "fileTitle": "File:Butler Dreirad 1889 01.jpg",
+          "pageId": 11831095,
+          "query": "Butler Petrol Cycle",
+          "sourceSha1": "6de9ec958631c44495800a29fce6fb02c8b0399a",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Butler_Dreirad_1889_01.jpg/960px-Butler_Dreirad_1889_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Butler_Dreirad_1889_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Butler_Dreirad_1889_01.jpg",
+          "author": "Unknown author Unknown author",
+          "attribution": "",
+          "creditLine": "own reproduktion, original is more than 100 years old",
+          "description": "Butler Dreirad aus dem Jahr 1889. Diese Dreirad wurde 1881 von Edward Butler entworfen und 1884 konstruiert, also ein Jahr früher als der Reitwagen von Gottlieb Daimler und Wilhelm Maybach.",
+          "width": 2173,
+          "height": 3494,
+          "mime": "image/jpeg",
+          "license": {
+            "status": "allowed",
+            "name": "Public domain",
+            "url": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "shareAlike": false,
+            "attributionRequired": false,
+            "reason": "Domaine public ou CC0 identifié dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2010-10-20 05:54:09",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Butler Dreirad 1889 01",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Butler three-wheeled vehicles|PD Old|Template Unknown (author)|CC-PD-Mark|PD-old missing SDC copyright status",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Butler Dreirad aus dem Jahr 1889. Diese Dreirad wurde <b>1881</b> von Edward Butler entworfen und <b>1884</b> konstruiert, also ein Jahr früher als der Reitwagen von Gottlieb Daimler und Wilhelm Maybach.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "1889",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "own reproduktion, original is more than 100 years old",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-04T21:22:15.428983+00:00",
+          "score": 60.0,
+          "match": "unreviewed"
+        },
+        {
+          "fileTitle": "File:Butler Dreirad 1889 02.jpg",
+          "pageId": 11831101,
+          "query": "Butler Petrol Cycle",
+          "sourceSha1": "bcf331413dea663e0cb3644027c659e5a4560d86",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Butler_Dreirad_1889_02.jpg/960px-Butler_Dreirad_1889_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Butler_Dreirad_1889_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Butler_Dreirad_1889_02.jpg",
+          "author": "Unknown author Unknown author",
+          "attribution": "",
+          "creditLine": "own reproduktion, original is more than 100 years old",
+          "description": "Butler Dreirad aus dem Jahr 1889. Diese Dreirad wurde 1881 von Edward Butler entworfen und 1884 konstruiert, also ein Jahr früher als der Reitwagen von Gottlieb Daimler und Wilhelm Maybach.",
+          "width": 2173,
+          "height": 3494,
+          "mime": "image/jpeg",
+          "license": {
+            "status": "allowed",
+            "name": "Public domain",
+            "url": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "shareAlike": false,
+            "attributionRequired": false,
+            "reason": "Domaine public ou CC0 identifié dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2010-10-20 05:56:33",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Butler Dreirad 1889 02",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Butler three-wheeled vehicles|PD Old|Template Unknown (author)|CC-PD-Mark|PD-old missing SDC copyright status",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Butler Dreirad aus dem Jahr 1889. Diese Dreirad wurde <b>1881</b> von Edward Butler entworfen und <b>1884</b> konstruiert, also ein Jahr früher als der Reitwagen von Gottlieb Daimler und Wilhelm Maybach.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "1889",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "own reproduktion, original is more than 100 years old",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-04T21:22:15.428983+00:00",
+          "score": 60.0,
+          "match": "unreviewed"
+        },
+        {
+          "fileTitle": "File:Butler Dreirad 1887 02.jpg",
+          "pageId": 11831111,
+          "query": "Butler Petrol Cycle",
+          "sourceSha1": "31929a31ac3f620a0dca190837f5fe33ae99d6b3",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Butler_Dreirad_1887_02.jpg/960px-Butler_Dreirad_1887_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Butler_Dreirad_1887_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Butler_Dreirad_1887_02.jpg",
+          "author": "Unknown author Unknown author",
+          "attribution": "",
+          "creditLine": "own reproduktion, original is more than 100 years old",
+          "description": "Butler Dreirad aus dem Jahr 1887. Diese Dreirad wurde 1885 von Edward Butler entworfen und 1887 konstruiert.",
+          "width": 3339,
+          "height": 2334,
+          "mime": "image/jpeg",
+          "license": {
+            "status": "allowed",
+            "name": "Public domain",
+            "url": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "shareAlike": false,
+            "attributionRequired": false,
+            "reason": "Domaine public ou CC0 identifié dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2010-10-20 05:58:43",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Butler Dreirad 1887 02",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Butler three-wheeled vehicles|PD Old|Template Unknown (author)|CC-PD-Mark|PD-old missing SDC copyright status",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Butler Dreirad aus dem Jahr 1887. Diese Dreirad wurde 1885 von Edward Butler entworfen und 1887 konstruiert.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "1887",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "own reproduktion, original is more than 100 years old",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-04T21:22:15.428983+00:00",
+          "score": 60.0,
           "match": "unreviewed"
         }
       ]

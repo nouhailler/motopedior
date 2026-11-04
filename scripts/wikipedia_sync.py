@@ -11,6 +11,6 @@ pages={key(p['title']):p for p in r.get('query',{}).get('pages',[])}
 for m,title in zip(models,titles):
  title=redirects.get(key(title),title);p=pages.get(key(title),{})
  if not p or p.get('missing'):continue
- m['documentation']=[dict(provider='Wikipedia',role='complementary',url=p['fullurl'],title=p['title'],pageId=p['pageid'],revisionId=p.get('lastrevid'),checkedAt=NOW,note='Référence documentaire complémentaire ; spécifications selon millésime et version, non certifiées par la seule présence du lien.')]
+ m['documentation']=[source for source in m.get('documentation',[]) if not (source.get('provider')=='Wikipedia' and source.get('role')=='complementary')]+[dict(provider='Wikipedia',role='complementary',url=p['fullurl'],title=p['title'],pageId=p['pageid'],revisionId=p.get('lastrevid'),checkedAt=NOW,note='Référence documentaire complémentaire ; spécifications selon millésime et version, non certifiées par la seule présence du lien.')]
 write(ROOT/'data/models.json',models)
-print('Références Wikipédia résolues',sum(bool(m.get('documentation',[{}])[0].get('pageId')) for m in models))
+print('Références Wikipédia résolues',sum(any(s.get('provider')=='Wikipedia' and s.get('pageId') for s in m.get('documentation',[])) for m in models))

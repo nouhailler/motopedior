@@ -208,19 +208,57 @@
   "15": {
     "reviewedAt": "2026-11-04T21:11:36.166445+00:00",
     "reviewBasis": "Nom du fichier et description Commons ; contrôle visuel avant publication. La fiche ne certifie pas les modifications mécaniques.",
-    "note": "Photo originale écartée pour droits insuffisamment clarifiés ; réplique alternative identifiée, affichée uniquement si son téléchargement aboutit.",
+    "note": "Réplique muséale du Reitwagen, prototype à essence de 1885.",
     "photos": [
+      {
+        "fileTitle": "File:1885 Daimler Reitwagen - Riding car 0.5hp pic1.JPG",
+        "match": "approximate",
+        "approved": true,
+        "note": "Réplique exposée au musée de Sinsheim ; l’original du Reitwagen a été détruit en 1903."
+      },
       {
         "fileTitle": "File:Daimler Reitwagen Replika Classic-Gala 2022 1X7A0005.jpg",
         "match": "approximate",
-        "approved": true,
-        "note": "Réplique du Daimler Reitwagen photographiée à Classic-Gala 2022 ; ne représente pas le véhicule original conservé de 1885."
+        "approved": false,
+        "note": "Remplacée par une autre photo de réplique aux droits identifiés."
       },
       {
         "fileTitle": "File:Daimler Reitwagen.JPG",
         "match": "none",
         "approved": false,
         "note": "Licence non prise en charge ou incertaine : fichier écarté."
+      }
+    ]
+  },
+  "16": {
+    "reviewedAt": "2026-11-04T21:22:55.212543+00:00",
+    "note": "Photographie historique de Lucius Copeland avec son deux-roues à vapeur ; date de prise de vue non certifiée.",
+    "photos": [
+      {
+        "fileTitle": "File:Copeland stoomfiets 1894.jpg",
+        "match": "exact",
+        "approved": true,
+        "note": "La description Commons identifie Lucius Copeland avec sa steam bicycle ; ne pas confondre avec son tricycle ultérieur."
+      },
+      {
+        "fileTitle": "File:Copeland steam bicycle 1884 The Standard Reference Work.png",
+        "match": "exact",
+        "approved": true,
+        "mediaKind": "illustration",
+        "note": "Illustration historique du deux-roues Copeland daté de 1884 dans la source ; dessin, et non photographie."
+      }
+    ]
+  },
+  "17": {
+    "reviewedAt": "2026-11-04T21:22:55.212543+00:00",
+    "note": "Document ancien du projet Butler, daté vers 1885 par Commons ; variante précoce, à distinguer de la construction documentée en 1888.",
+    "photos": [
+      {
+        "fileTitle": "File:Butler's Patent Velocycle.jpg",
+        "match": "approximate",
+        "approved": true,
+        "mediaKind": "archive",
+        "note": "Document ancien du projet Butler, daté vers 1885 par Commons ; variante précoce, à distinguer de la construction documentée en 1888."
       }
     ]
   }

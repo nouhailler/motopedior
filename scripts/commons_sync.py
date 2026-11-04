@@ -97,20 +97,32 @@ def publish(models):
      if reusable:
       local=snapshot['local'];used.update(Path(p).name for p in local.values())
      else:
-      # Always download the API original; optimised files retain their original license.
+      # Prefer the original; use the API thumbnail when the original is unavailable.
       cachePath=ROOT/'data/.downloads'/hashlib.sha256((photo['originalUrl']+str(photo.get('sourceSha1',''))).encode()).hexdigest();cachePath.parent.mkdir(exist_ok=True)
-      if cachePath.exists():raw=cachePath.read_bytes()
+      downloadUrl=photo['originalUrl']
+      receipt=cachePath.with_suffix('.json')
+      if cachePath.exists():
+       raw=cachePath.read_bytes()
+       if receipt.exists():downloadUrl=json.loads(receipt.read_text())['downloadUrl']
       else:
        time.sleep(1)
-       raw=subprocess.check_output(['curl','--fail','--silent','--show-error','--location','--max-time','20','--max-filesize','25000000',urlsplit(photo['originalUrl'])._replace(query='').geturl()])
-       cachePath.write_bytes(raw)
+       def download(url):
+        if urlsplit(url).hostname not in ('upload.wikimedia.org','thumb.wikimedia.org'):raise ValueError('Source de téléchargement non autorisée')
+        return subprocess.check_output(['curl','--fail','--silent','--show-error','--location','--max-time','20','--max-filesize','25000000',urlsplit(url)._replace(query='').geturl()])
+       try:raw=download(downloadUrl)
+       except subprocess.CalledProcessError:
+        if not photo.get('thumbnailUrl') or urlsplit(photo['thumbnailUrl'])._replace(query='').geturl()==urlsplit(downloadUrl)._replace(query='').geturl():raise
+        downloadUrl=photo['thumbnailUrl'];raw=download(downloadUrl)
+       cachePath.write_bytes(raw);write(receipt,dict(downloadUrl=downloadUrl))
       image=ImageOps.exif_transpose(Image.open(io.BytesIO(raw))).convert('RGB');digest=hashlib.sha256(raw).hexdigest()[:12];stem=f'{model["id"]}-{digest}'
       local={}
       for width in (480,800,1600):
        filename=f'{stem}-{width}.webp';target=ROOT/'public/images'/filename;target.parent.mkdir(exist_ok=True);copy=image.copy();copy.thumbnail((width,width));copy.save(target,'WEBP',quality=86);used.add(filename);local[str(width)]='/images/'+filename
      asset={k:v for k,v in photo.items() if k not in ('metadata','query','description')}
+     asset['downloadUrl']=snapshot.get('downloadUrl',snapshot['originalUrl']) if reusable else downloadUrl
      asset['sourceSha1']=snapshot.get('sourceSha1') if reusable else photo.get('sourceSha1')
      asset['originalImportedAt']=snapshot.get('originalImportedAt',snapshot.get('checkedAt')) if reusable else NOW
+     asset['mediaKind']=choice.get('mediaKind','photo')
      asset.update(local=local,image=local['1600'],match=choice['match'],reviewNote=choice.get('note',''),changes='Conversion WebP et redimensionnement ; affichage recadré selon la vue.',reviewedAt=review.get('reviewedAt',NOW))
      approved.append(asset);credits.append(dict(modelId=model['id'],**asset))
     except Exception as error:item['approved']=False;item['reason']='Téléchargement impossible : '+str(error)

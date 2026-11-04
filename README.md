@@ -14,7 +14,7 @@ Le build statique se trouve dans `dist`. Servir en HTTPS pour l’installation e
 
 ## Données et extension
 
-`public/motos.json` contient 15 modèles. Chaque entrée possède un identifiant stable, marque, modèle, production, pays, catégorie, description, spécifications indicatives et image. Remplacer ce fichier ou l’appel `fetch` dans `src/main.jsx` par une API paginée pour un grand catalogue. Pour plusieurs milliers d’entrées, déplacer les filtres et la recherche côté API et charger les pages avec le même IntersectionObserver. Les collections référencent les identifiants stables.
+`public/motos.json` contient 17 modèles. Chaque entrée possède un identifiant stable, marque, modèle, production, pays, catégorie, description, spécifications indicatives et image. Remplacer ce fichier ou l’appel `fetch` dans `src/main.jsx` par une API paginée pour un grand catalogue. Pour plusieurs milliers d’entrées, déplacer les filtres et la recherche côté API et charger les pages avec le même IntersectionObserver. Les collections référencent les identifiants stables.
 
 IndexedDB conserve les collections et les 20 dernières consultations. Workbox précache l’interface et le catalogue ; les images locales optimisées sont distribuées en trois tailles et mises en cache à la consultation. Un visuel de secours local remplace les photos absentes ou non validées. Les favoris restent propres à l’appareil ; pas de synchronisation serveur.
 
@@ -55,3 +55,7 @@ Les auteurs et liens de licence/source sont affichés sur les fiches, la grille 
 L’interface, les données et les crédits sont précachés. Les photos autorisées sont servies localement et mises en cache à la consultation avec Workbox (`CacheFirst`, 90 variantes maximum, 30 jours, purge sur quota). Un cache distinct conserve les photos des collections et des 20 consultations récentes, avec 180 variantes maximum. Les variantes sont téléchargées lors de l’ajout ou de l’ouverture ; si le téléchargement échoue ou si le quota dépasse 90 %, l’application affiche un message lors de l’ajout aux favoris. Les images devenues inutiles sont retirées au chargement du garage ; les métadonnées IndexedDB restent disponibles. Une première connexion reste nécessaire pour télécharger les photos. La migration du service worker retire les anciens caches non validés.
 
 Pour étendre le catalogue : importer les modèles par lots, ajouter les variantes de nom et traductions aux requêtes, réviser les correspondances et compléter les lacunes par des musées ou contributeurs avec droits documentés. Aucun résultat de musée ou d’archive n’est accepté automatiquement sans les mêmes informations de licence et de provenance.
+
+## Pionniers
+
+Le catalogue inclut le Copeland Steam Bicycle (vers 1884–1885, vapeur), le Daimler Reitwagen (1885, essence, identifiant 15 conservé) et le Butler Petrol Cycle (construction en 1888, projet présenté en 1884, tricycle à essence). Les prototypes affichent un repère historique plutôt qu’une période de production. Les dates incertaines et les spécifications non documentées sont explicites. Les dessins d’archives sont signalés comme illustrations ; les répliques restent identifiées comme variantes proches. Les références primaires du Smithsonian, de Mercedes-Benz et du Science Museum complètent les liens Wikipédia.

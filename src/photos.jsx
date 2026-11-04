@@ -7,7 +7,7 @@ export function isApproved(photo){
 export function Photo({m,className='',eager=false,asset}){
  const approved=isApproved(asset||m.photo);const photo=asset||m.photo;
  const src=approved?photo.image:FALLBACK_IMAGE;
- return <img key={src} className={className} src={src}
+ return <img key={src} className={`${className} ${m.historicalPrototype?'historical-image':''}`} src={src}
   srcSet={approved?Object.entries(photo.local).map(([width,url])=>`${url} ${width}w`).join(','):undefined}
   sizes={eager?'100vw':'(max-width: 640px) 100vw, (max-width: 1000px) 50vw, 33vw'}
   alt={approved?`${m.brand} ${m.model}${photo.match==='approximate'?' — modèle ou variante proche':''}`:`${m.brand} ${m.model} — aucune photo validée`}
@@ -17,7 +17,7 @@ export function Photo({m,className='',eager=false,asset}){
 }
 export function PhotoCredit({photo,className=''}){
  if(!isApproved(photo))return <span className={'photo-credit '+className}>Aucune photo validée</span>;
- return <span className={'photo-credit '+className}>Photo : {photo.attribution||photo.author||'Auteur non identifié (domaine public)'} — <a href={photo.license.url} target="_blank" rel="noreferrer">{photo.license.name}</a> — <a href={photo.sourcePage} target="_blank" rel="noreferrer">Wikimedia Commons ↗</a><span className="photo-changes"> · WebP, redimensionnée{photo.license.shareAlike?' · adaptation sous la même licence':''}</span></span>;
+ return <span className={'photo-credit '+className}>{photo.mediaKind==='illustration'?'Illustration':photo.mediaKind==='archive'?'Document':'Photo'} : {photo.attribution||(/^((Unknown author|Auteur inconnu)\s*)+$/i.test(photo.author)?'Auteur inconnu':photo.author)||'Auteur non identifié (domaine public)'} — <a href={photo.license.url} target="_blank" rel="noreferrer">{photo.license.name}</a> — <a href={photo.sourcePage} target="_blank" rel="noreferrer">Wikimedia Commons ↗</a><span className="photo-changes"> · WebP, redimensionnée{photo.license.shareAlike?' · adaptation sous la même licence':''}</span></span>;
 }
 // A separate bounded cache protects user selections from ordinary browsing eviction.
 export async function retainPhotos(model){

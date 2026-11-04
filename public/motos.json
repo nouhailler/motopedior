@@ -20,7 +20,7 @@
         "title": "Ducati 916",
         "pageId": 1027329,
         "revisionId": 1372706085,
-        "checkedAt": "2026-11-04T21:10:52.617400+00:00",
+        "checkedAt": "2026-11-04T21:23:23.693966+00:00",
         "note": "Référence documentaire complémentaire ; spécifications selon millésime et version, non certifiées par la seule présence du lien."
       }
     ],
@@ -45,8 +45,10 @@
         "attributionRequired": true,
         "reason": "Licence et auteur identifiés dans extmetadata"
       },
-      "checkedAt": "2026-11-04T21:17:15.240309+00:00",
+      "checkedAt": "2026-11-04T21:25:16.940860+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Ducati_916_SPS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "originalImportedAt": "2026-11-04T21:11:36.248736+00:00",
+      "mediaKind": "photo",
       "local": {
         "480": "/images/1-d137cf2c354c-480.webp",
         "800": "/images/1-d137cf2c354c-800.webp",
@@ -84,7 +86,7 @@
         "title": "Honda CB750 and CR750",
         "pageId": 467378,
         "revisionId": 1379259413,
-        "checkedAt": "2026-11-04T21:10:52.617400+00:00",
+        "checkedAt": "2026-11-04T21:23:23.693966+00:00",
         "note": "Référence documentaire complémentaire ; spécifications selon millésime et version, non certifiées par la seule présence du lien."
       }
     ],
@@ -109,8 +111,10 @@
         "attributionRequired": true,
         "reason": "Licence et auteur identifiés dans extmetadata"
       },
-      "checkedAt": "2026-11-04T21:17:15.240309+00:00",
+      "checkedAt": "2026-11-04T21:25:16.940860+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Honda_CB750_Four_K1_1971.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "originalImportedAt": "2026-11-04T21:11:36.248736+00:00",
+      "mediaKind": "photo",
       "local": {
         "480": "/images/2-f717850109d5-480.webp",
         "800": "/images/2-f717850109d5-800.webp",
@@ -148,7 +152,7 @@
         "title": "BMW R nineT",
         "pageId": 43766998,
         "revisionId": 1383620344,
-        "checkedAt": "2026-11-04T21:10:52.617400+00:00",
+        "checkedAt": "2026-11-04T21:23:23.693966+00:00",
         "note": "Référence documentaire complémentaire ; spécifications selon millésime et version, non certifiées par la seule présence du lien."
       }
     ],
@@ -173,8 +177,10 @@
         "attributionRequired": true,
         "reason": "Licence et auteur identifiés dans extmetadata"
       },
-      "checkedAt": "2026-11-04T21:17:15.240309+00:00",
+      "checkedAt": "2026-11-04T21:25:16.940860+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/BMW_R_nineT_-_Hamburger_Motorradtage_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "originalImportedAt": "2026-11-04T21:11:36.248736+00:00",
+      "mediaKind": "photo",
       "local": {
         "480": "/images/3-c1af9c851f7b-480.webp",
         "800": "/images/3-c1af9c851f7b-800.webp",
@@ -209,8 +215,10 @@
           "attributionRequired": true,
           "reason": "Licence et auteur identifiés dans extmetadata"
         },
-        "checkedAt": "2026-11-04T21:17:15.240309+00:00",
+        "checkedAt": "2026-11-04T21:25:16.940860+00:00",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/BMW_R_nineT_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
         "originalImportedAt": "2026-11-04T21:11:36.248736+00:00",
+        "mediaKind": "photo",
         "local": {
           "480": "/images/3-b19b5f9727c4-480.webp",
           "800": "/images/3-b19b5f9727c4-800.webp",
@@ -247,7 +255,7 @@
         "title": "Triumph Bonneville T120",
         "pageId": 21652828,
         "revisionId": 1360322678,
-        "checkedAt": "2026-11-04T21:10:52.617400+00:00",
+        "checkedAt": "2026-11-04T21:23:23.693966+00:00",
         "note": "Référence documentaire complémentaire ; spécifications selon millésime et version, non certifiées par la seule présence du lien."
       }
     ],
@@ -272,8 +280,10 @@
         "attributionRequired": true,
         "reason": "Licence et auteur identifiés dans extmetadata"
       },
-      "checkedAt": "2026-11-04T21:17:15.240309+00:00",
+      "checkedAt": "2026-11-04T21:25:16.940860+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Triumph_T120_Bonneville_1961_%285224331097%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "originalImportedAt": "2026-11-04T21:11:36.248736+00:00",
+      "mediaKind": "photo",
       "local": {
         "480": "/images/4-3f400d4a4ca6-480.webp",
         "800": "/images/4-3f400d4a4ca6-800.webp",
@@ -311,7 +321,7 @@
         "title": "Harley-Davidson Sportster",
         "pageId": 4706154,
         "revisionId": 1378755975,
-        "checkedAt": "2026-11-04T21:10:52.617400+00:00",
+        "checkedAt": "2026-11-04T21:23:23.693966+00:00",
         "note": "Référence documentaire complémentaire ; spécifications selon millésime et version, non certifiées par la seule présence du lien."
       }
     ],
@@ -336,8 +346,10 @@
         "attributionRequired": true,
         "reason": "Licence et auteur identifiés dans extmetadata"
       },
-      "checkedAt": "2026-11-04T21:17:15.240309+00:00",
+      "checkedAt": "2026-11-04T21:25:16.940860+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Harley_XL1200_Custom_96.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "originalImportedAt": "2026-11-04T21:11:36.248736+00:00",
+      "mediaKind": "photo",
       "local": {
         "480": "/images/5-7b2dace59ba4-480.webp",
         "800": "/images/5-7b2dace59ba4-800.webp",
@@ -375,7 +387,7 @@
         "title": "Yamaha YZF-R1",
         "pageId": 1771783,
         "revisionId": 1380932299,
-        "checkedAt": "2026-11-04T21:10:52.617400+00:00",
+        "checkedAt": "2026-11-04T21:23:23.693966+00:00",
         "note": "Référence documentaire complémentaire ; spécifications selon millésime et version, non certifiées par la seule présence du lien."
       }
     ],
@@ -400,8 +412,10 @@
         "attributionRequired": true,
         "reason": "Licence et auteur identifiés dans extmetadata"
       },
-      "checkedAt": "2026-11-04T21:17:15.240309+00:00",
+      "checkedAt": "2026-11-04T21:25:16.940860+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/YAMAHA_YZF-R1_2008_right_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "originalImportedAt": "2026-11-04T21:11:36.248736+00:00",
+      "mediaKind": "photo",
       "local": {
         "480": "/images/6-aa4d03491fee-480.webp",
         "800": "/images/6-aa4d03491fee-800.webp",
@@ -439,7 +453,7 @@
         "title": "Kawasaki Ninja H2",
         "pageId": 43793484,
         "revisionId": 1371816005,
-        "checkedAt": "2026-11-04T21:10:52.617400+00:00",
+        "checkedAt": "2026-11-04T21:23:23.693966+00:00",
         "note": "Référence documentaire complémentaire ; spécifications selon millésime et version, non certifiées par la seule présence du lien."
       }
     ],
@@ -464,8 +478,10 @@
         "attributionRequired": true,
         "reason": "Licence et auteur identifiés dans extmetadata"
       },
-      "checkedAt": "2026-11-04T21:17:15.240309+00:00",
+      "checkedAt": "2026-11-04T21:25:16.940860+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Kawasaki_Ninja_H2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "originalImportedAt": "2026-11-04T21:11:36.248736+00:00",
+      "mediaKind": "photo",
       "local": {
         "480": "/images/7-f66d0230a4bb-480.webp",
         "800": "/images/7-f66d0230a4bb-800.webp",
@@ -503,7 +519,7 @@
         "title": "BMW R80G/S",
         "pageId": 23060564,
         "revisionId": 1346007120,
-        "checkedAt": "2026-11-04T21:10:52.617400+00:00",
+        "checkedAt": "2026-11-04T21:23:23.693966+00:00",
         "note": "Référence documentaire complémentaire ; spécifications selon millésime et version, non certifiées par la seule présence du lien."
       }
     ],
@@ -528,8 +544,10 @@
         "attributionRequired": true,
         "reason": "Licence et auteur identifiés dans extmetadata"
       },
-      "checkedAt": "2026-11-04T21:17:15.240309+00:00",
+      "checkedAt": "2026-11-04T21:25:16.940860+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/1981_BMW_R80_GS_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "originalImportedAt": "2026-11-04T21:11:36.248736+00:00",
+      "mediaKind": "photo",
       "local": {
         "480": "/images/8-1c402d141160-480.webp",
         "800": "/images/8-1c402d141160-800.webp",
@@ -567,7 +585,7 @@
         "title": "Ducati Monster",
         "pageId": 621566,
         "revisionId": 1378016381,
-        "checkedAt": "2026-11-04T21:10:52.617400+00:00",
+        "checkedAt": "2026-11-04T21:23:23.693966+00:00",
         "note": "Référence documentaire complémentaire ; spécifications selon millésime et version, non certifiées par la seule présence du lien."
       }
     ],
@@ -592,8 +610,10 @@
         "attributionRequired": true,
         "reason": "Licence et auteur identifiés dans extmetadata"
       },
-      "checkedAt": "2026-11-04T21:17:15.240309+00:00",
+      "checkedAt": "2026-11-04T21:25:16.940860+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Ducati_Monster_1200_S_%2810760200796%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "originalImportedAt": "2026-11-04T21:11:36.248736+00:00",
+      "mediaKind": "photo",
       "local": {
         "480": "/images/9-c19d9e5a7e84-480.webp",
         "800": "/images/9-c19d9e5a7e84-800.webp",
@@ -631,7 +651,7 @@
         "title": "Suzuki Hayabusa",
         "pageId": 1135973,
         "revisionId": 1354370432,
-        "checkedAt": "2026-11-04T21:10:52.617400+00:00",
+        "checkedAt": "2026-11-04T21:23:23.693966+00:00",
         "note": "Référence documentaire complémentaire ; spécifications selon millésime et version, non certifiées par la seule présence du lien."
       }
     ],
@@ -656,8 +676,10 @@
         "attributionRequired": true,
         "reason": "Licence et auteur identifiés dans extmetadata"
       },
-      "checkedAt": "2026-11-04T21:17:15.240309+00:00",
+      "checkedAt": "2026-11-04T21:25:16.940860+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/2007SuzukiGSX1300R-001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "originalImportedAt": "2026-11-04T21:11:36.248736+00:00",
+      "mediaKind": "photo",
       "local": {
         "480": "/images/10-0be8855d556e-480.webp",
         "800": "/images/10-0be8855d556e-800.webp",
@@ -695,7 +717,7 @@
         "title": "Royal Enfield Classic",
         "pageId": 53901441,
         "revisionId": 1373819831,
-        "checkedAt": "2026-11-04T21:10:52.617400+00:00",
+        "checkedAt": "2026-11-04T21:23:23.693966+00:00",
         "note": "Référence documentaire complémentaire ; spécifications selon millésime et version, non certifiées par la seule présence du lien."
       }
     ],
@@ -720,8 +742,10 @@
         "attributionRequired": true,
         "reason": "Licence et auteur identifiés dans extmetadata"
       },
-      "checkedAt": "2026-11-04T21:17:15.240309+00:00",
+      "checkedAt": "2026-11-04T21:25:16.940860+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Royal_Enfield_Classic_350_%282017_Model_Year%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "originalImportedAt": "2026-11-04T21:11:36.248736+00:00",
+      "mediaKind": "photo",
       "local": {
         "480": "/images/11-61dd60bfc941-480.webp",
         "800": "/images/11-61dd60bfc941-800.webp",
@@ -759,7 +783,7 @@
         "title": "Honda Africa Twin",
         "pageId": 5532006,
         "revisionId": 1378816517,
-        "checkedAt": "2026-11-04T21:10:52.617400+00:00",
+        "checkedAt": "2026-11-04T21:23:23.693966+00:00",
         "note": "Référence documentaire complémentaire ; spécifications selon millésime et version, non certifiées par la seule présence du lien."
       }
     ],
@@ -784,8 +808,10 @@
         "attributionRequired": true,
         "reason": "Licence et auteur identifiés dans extmetadata"
       },
-      "checkedAt": "2026-11-04T21:17:15.240309+00:00",
+      "checkedAt": "2026-11-04T21:25:16.940860+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Honda_Africa_Twin_XRV750.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "originalImportedAt": "2026-11-04T21:11:36.248736+00:00",
+      "mediaKind": "photo",
       "local": {
         "480": "/images/12-98b00a3a904c-480.webp",
         "800": "/images/12-98b00a3a904c-800.webp",
@@ -823,7 +849,7 @@
         "title": "Vincent Black Shadow",
         "pageId": 2425834,
         "revisionId": 1372889627,
-        "checkedAt": "2026-11-04T21:10:52.617400+00:00",
+        "checkedAt": "2026-11-04T21:23:23.693966+00:00",
         "note": "Référence documentaire complémentaire ; spécifications selon millésime et version, non certifiées par la seule présence du lien."
       }
     ],
@@ -848,8 +874,10 @@
         "attributionRequired": true,
         "reason": "Licence et auteur identifiés dans extmetadata"
       },
-      "checkedAt": "2026-11-04T21:17:15.240309+00:00",
+      "checkedAt": "2026-11-04T21:25:16.940860+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Vincent_Series_C_Black_Shadow_1950.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "originalImportedAt": "2026-11-04T21:11:36.248736+00:00",
+      "mediaKind": "photo",
       "local": {
         "480": "/images/13-5995cc43b1f5-480.webp",
         "800": "/images/13-5995cc43b1f5-800.webp",
@@ -887,7 +915,7 @@
         "title": "Moto Guzzi V7 Sport",
         "pageId": 45322921,
         "revisionId": 1369697022,
-        "checkedAt": "2026-11-04T21:10:52.617400+00:00",
+        "checkedAt": "2026-11-04T21:23:23.693966+00:00",
         "note": "Référence documentaire complémentaire ; spécifications selon millésime et version, non certifiées par la seule présence du lien."
       }
     ],
@@ -912,8 +940,10 @@
         "attributionRequired": true,
         "reason": "Licence et auteur identifiés dans extmetadata"
       },
-      "checkedAt": "2026-11-04T21:17:15.240309+00:00",
+      "checkedAt": "2026-11-04T21:25:16.940860+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Moto_Guzzi_V_7_Sport_1972.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "originalImportedAt": "2026-11-04T21:11:36.248736+00:00",
+      "mediaKind": "photo",
       "local": {
         "480": "/images/14-3fab6c5b5056-480.webp",
         "800": "/images/14-3fab6c5b5056-800.webp",
@@ -941,9 +971,16 @@
     "engine": "264 cm³",
     "power": "0,5 ch",
     "weight": "90 kg",
-    "description": "Un prototype en bois au commencement de l’histoire. Le Reitwagen figure parmi les premiers véhicules à deux roues à moteur à combustion.",
+    "description": "Conçu par Gottlieb Daimler et Wilhelm Maybach en 1885, le Reitwagen utilise un monocylindre à essence monté dans un châssis en bois. Ses deux roues principales sont accompagnées de petites roues stabilisatrices ; ce prototype expérimental constitue un jalon majeur de la moto à combustion interne.",
     "sourcePage": "https://en.wikipedia.org/wiki/Daimler_Reitwagen",
     "documentation": [
+      {
+        "provider": "Mercedes-Benz",
+        "role": "primary",
+        "url": "https://media.mercedes-benz.com/article/316ff589-6dcb-4fe6-9185-519ec2610bbc",
+        "title": "Daimler Reitwagen von 1885",
+        "checkedAt": "2026-11-04T21:22:15.372182+00:00"
+      },
       {
         "provider": "Wikipedia",
         "role": "complementary",
@@ -951,14 +988,247 @@
         "title": "Daimler Reitwagen",
         "pageId": 30762568,
         "revisionId": 1380496055,
-        "checkedAt": "2026-11-04T21:10:52.617400+00:00",
+        "checkedAt": "2026-11-04T21:23:23.693966+00:00",
         "note": "Référence documentaire complémentaire ; spécifications selon millésime et version, non certifiées par la seule présence du lien."
       }
     ],
-    "photo": null,
-    "image": "/image-unavailable.svg",
+    "propulsion": "Essence",
+    "vehicleType": "Moto",
+    "historicalLabel": "Moto à essence",
+    "dateLabel": "1885",
+    "historicalPrototype": true,
+    "photo": {
+      "fileTitle": "File:1885 Daimler Reitwagen - Riding car 0.5hp pic1.JPG",
+      "pageId": 19059608,
+      "sourceSha1": "6a0303794a734f74dcc7c9bfd8fe085b1fd66e42",
+      "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/1885_Daimler_Reitwagen_-_Riding_car_0.5hp_pic1.JPG/960px-1885_Daimler_Reitwagen_-_Riding_car_0.5hp_pic1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/1885_Daimler_Reitwagen_-_Riding_car_0.5hp_pic1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:1885_Daimler_Reitwagen_-_Riding_car_0.5hp_pic1.JPG",
+      "author": "AlfvanBeem",
+      "attribution": "",
+      "creditLine": "Own work",
+      "width": 3648,
+      "height": 2736,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC0",
+        "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "shareAlike": false,
+        "attributionRequired": false,
+        "reason": "Domaine public ou CC0 identifié dans extmetadata"
+      },
+      "checkedAt": "2026-11-04T21:25:16.940860+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/1885_Daimler_Reitwagen_-_Riding_car_0.5hp_pic1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImportedAt": "2026-11-04T21:24:22.590269+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/15-911612393674-480.webp",
+        "800": "/images/15-911612393674-800.webp",
+        "1600": "/images/15-911612393674-1600.webp"
+      },
+      "image": "/images/15-911612393674-1600.webp",
+      "match": "approximate",
+      "reviewNote": "Réplique exposée au musée de Sinsheim ; l’original du Reitwagen a été détruit en 1903.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-04T21:11:36.166445+00:00"
+    },
+    "image": "/images/15-911612393674-1600.webp",
     "gallery": [],
-    "photoStatus": "none",
-    "photoStatusNote": "Photo originale écartée pour droits insuffisamment clarifiés ; réplique alternative identifiée, affichée uniquement si son téléchargement aboutit."
+    "photoStatus": "approximate",
+    "photoStatusNote": "Réplique muséale du Reitwagen, prototype à essence de 1885."
+  },
+  {
+    "id": "16",
+    "brand": "Copeland",
+    "model": "Steam Bicycle",
+    "year": 1884,
+    "endYear": 1885,
+    "dateLabel": "vers 1884–1885",
+    "country": "États-Unis",
+    "category": "Pionnière",
+    "propulsion": "Vapeur",
+    "vehicleType": "Moto",
+    "historicalLabel": "Moto à vapeur",
+    "historicalPrototype": true,
+    "engine": "Non documentée",
+    "power": "Non documentée",
+    "weight": "Non documenté",
+    "description": "Lucius D. Copeland adapte une machine à vapeur et sa chaudière à un cycle de type American Star, reconnaissable à sa grande roue arrière. Le Smithsonian situe cette réalisation vers 1884 ou 1885 ; la datation varie selon les récits. Ce deux-roues est distinct du tricycle à vapeur développé ensuite avec Northrop.",
+    "sourcePage": "https://en.wikipedia.org/wiki/Copeland_steam_bicycle",
+    "documentation": [
+      {
+        "provider": "Smithsonian Institution",
+        "role": "primary",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-SI-PURL-gpo23125/pdf/GOVPUB-SI-PURL-gpo23125.pdf",
+        "title": "The Smithsonian collection of early bicycles — Copeland, vers 1884 ou 1885",
+        "checkedAt": "2026-11-04T21:22:15.372182+00:00"
+      },
+      {
+        "provider": "Wikipedia",
+        "role": "complementary",
+        "url": "https://en.wikipedia.org/wiki/Copeland_steam_bicycle",
+        "title": "Copeland steam bicycle",
+        "pageId": 34421405,
+        "revisionId": 1341726852,
+        "checkedAt": "2026-11-04T21:23:23.693966+00:00",
+        "note": "Référence documentaire complémentaire ; spécifications selon millésime et version, non certifiées par la seule présence du lien."
+      }
+    ],
+    "photo": {
+      "fileTitle": "File:Copeland stoomfiets 1894.jpg",
+      "pageId": 8262680,
+      "sourceSha1": "f0a6e01ac2efc6c62912f6ea9c9da3bc6a20b933",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Copeland_stoomfiets_1894.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Copeland_stoomfiets_1894.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Copeland_stoomfiets_1894.jpg",
+      "author": "Unknown author Unknown author",
+      "attribution": "",
+      "creditLine": "Unknown source Unknown source",
+      "width": 742,
+      "height": 884,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "shareAlike": false,
+        "attributionRequired": false,
+        "reason": "Domaine public ou CC0 identifié dans extmetadata"
+      },
+      "checkedAt": "2026-11-04T21:25:16.940860+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Copeland_stoomfiets_1894.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImportedAt": "2026-11-04T21:24:22.590269+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/16-dc3313e67f3d-480.webp",
+        "800": "/images/16-dc3313e67f3d-800.webp",
+        "1600": "/images/16-dc3313e67f3d-1600.webp"
+      },
+      "image": "/images/16-dc3313e67f3d-1600.webp",
+      "match": "exact",
+      "reviewNote": "La description Commons identifie Lucius Copeland avec sa steam bicycle ; ne pas confondre avec son tricycle ultérieur.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-04T21:22:55.212543+00:00"
+    },
+    "image": "/images/16-dc3313e67f3d-1600.webp",
+    "gallery": [
+      {
+        "fileTitle": "File:Copeland steam bicycle 1884 The Standard Reference Work.png",
+        "pageId": 13127053,
+        "sourceSha1": "01d463a3e0b697ec5965f90195b5f7231021394a",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Copeland_steam_bicycle_1884_The_Standard_Reference_Work.png/960px-Copeland_steam_bicycle_1884_The_Standard_Reference_Work.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Copeland_steam_bicycle_1884_The_Standard_Reference_Work.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Copeland_steam_bicycle_1884_The_Standard_Reference_Work.png",
+        "author": "Harold Melvin Stanford",
+        "attribution": "",
+        "creditLine": "The Standard reference work: for the home, school and library. vol. 8. https://books.google.com/books?id=y-RDAAAAYAAJ",
+        "width": 3256,
+        "height": 3408,
+        "mime": "image/png",
+        "license": {
+          "status": "allowed",
+          "name": "Public domain",
+          "url": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+          "shareAlike": false,
+          "attributionRequired": false,
+          "reason": "Domaine public ou CC0 identifié dans extmetadata"
+        },
+        "checkedAt": "2026-11-04T21:25:16.940860+00:00",
+        "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Copeland_steam_bicycle_1884_The_Standard_Reference_Work.png/960px-Copeland_steam_bicycle_1884_The_Standard_Reference_Work.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "originalImportedAt": "2026-11-04T21:24:22.590269+00:00",
+        "mediaKind": "illustration",
+        "local": {
+          "480": "/images/16-260fbacc849a-480.webp",
+          "800": "/images/16-260fbacc849a-800.webp",
+          "1600": "/images/16-260fbacc849a-1600.webp"
+        },
+        "image": "/images/16-260fbacc849a-1600.webp",
+        "match": "exact",
+        "reviewNote": "Illustration historique du deux-roues Copeland daté de 1884 dans la source ; dessin, et non photographie.",
+        "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+        "reviewedAt": "2026-11-04T21:22:55.212543+00:00"
+      }
+    ],
+    "photoStatus": "exact",
+    "photoStatusNote": "Photographie historique de Lucius Copeland avec son deux-roues à vapeur ; date de prise de vue non certifiée."
+  },
+  {
+    "id": "17",
+    "brand": "Butler",
+    "model": "Petrol Cycle",
+    "year": 1888,
+    "endYear": 1888,
+    "dateLabel": "1888 · projet de 1884",
+    "country": "Royaume-Uni",
+    "category": "Pionnière",
+    "propulsion": "Essence",
+    "vehicleType": "Tricycle",
+    "historicalLabel": "Tricycle motorisé",
+    "historicalPrototype": true,
+    "engine": "Non documentée",
+    "power": "Non documentée",
+    "weight": "Non documenté",
+    "description": "Imaginé par Edward Butler dans les années 1880 et construit en 1888, le Petrol Cycle est un tricycle motorisé à essence. Deux roues directrices à l’avant encadrent une roue arrière motrice. Le Science Museum conserve un dessin en coupe du véhicule tel qu’il fut réalisé en 1888.",
+    "sourcePage": "https://en.wikipedia.org/wiki/Edward_Butler_(inventor)",
+    "documentation": [
+      {
+        "provider": "Science Museum Group",
+        "role": "primary",
+        "url": "https://collection.sciencemuseumgroup.org.uk/objects/co24665/sectional-elevation-drawing-of-butler-motorcycle",
+        "title": "Sectional elevation drawing of Butler motorcycle — 1888",
+        "checkedAt": "2026-11-04T21:22:15.372182+00:00"
+      },
+      {
+        "provider": "Wikipedia",
+        "role": "complementary",
+        "url": "https://en.wikipedia.org/wiki/Edward_Butler_(inventor)",
+        "title": "Edward Butler (inventor)",
+        "pageId": 13534492,
+        "revisionId": 1381204172,
+        "checkedAt": "2026-11-04T21:23:23.693966+00:00",
+        "note": "Référence documentaire complémentaire ; spécifications selon millésime et version, non certifiées par la seule présence du lien."
+      }
+    ],
+    "photo": {
+      "fileTitle": "File:Butler's Patent Velocycle.jpg",
+      "pageId": 6933290,
+      "sourceSha1": "b097f416f8476b050135a0da5457db5f5600f23f",
+      "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Butler%27s_Patent_Velocycle.jpg/960px-Butler%27s_Patent_Velocycle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Butler%27s_Patent_Velocycle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Butler%27s_Patent_Velocycle.jpg",
+      "author": "Edward Butler (inventor)",
+      "attribution": "",
+      "creditLine": "http://www.isee.gateshead.gov.uk",
+      "width": 2516,
+      "height": 1722,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "shareAlike": false,
+        "attributionRequired": false,
+        "reason": "Domaine public ou CC0 identifié dans extmetadata"
+      },
+      "checkedAt": "2026-11-04T21:25:16.940860+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Butler%27s_Patent_Velocycle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImportedAt": "2026-11-04T21:22:55.298245+00:00",
+      "mediaKind": "archive",
+      "local": {
+        "480": "/images/17-6348fb4ab746-480.webp",
+        "800": "/images/17-6348fb4ab746-800.webp",
+        "1600": "/images/17-6348fb4ab746-1600.webp"
+      },
+      "image": "/images/17-6348fb4ab746-1600.webp",
+      "match": "approximate",
+      "reviewNote": "Document ancien du projet Butler, daté vers 1885 par Commons ; variante précoce, à distinguer de la construction documentée en 1888.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-04T21:22:55.212543+00:00"
+    },
+    "image": "/images/17-6348fb4ab746-1600.webp",
+    "gallery": [],
+    "photoStatus": "approximate",
+    "photoStatusNote": "Document ancien du projet Butler, daté vers 1885 par Commons ; variante précoce, à distinguer de la construction documentée en 1888."
   }
 ]
