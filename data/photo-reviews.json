@@ -261,5 +261,69 @@
         "note": "Document ancien du projet Butler, daté vers 1885 par Commons ; variante précoce, à distinguer de la construction documentée en 1888."
       }
     ]
+  },
+  "18": {
+    "reviewedAt": "2026-11-05T11:21:43.131108+00:00",
+    "note": "Exemplaire Hildebrand & Wolfmüller présenté comme 1894 dans Commons ; millésime précis non certifié par la seule photo.",
+    "photos": [
+      {
+        "fileTitle": "File:Hildebrand Wolfmüller 1894 in NTM Prague.jpg",
+        "match": "exact",
+        "approved": true,
+        "note": "Exemplaire du modèle au Musée technique national de Prague, indiqué 1894 dans Commons."
+      }
+    ]
+  },
+  "19": {
+    "reviewedAt": "2026-11-05T11:21:43.131108+00:00",
+    "note": "Aucune vue validée du second modèle. La photographie du Roper de 1869 est explicitement écartée.",
+    "photos": [
+      {
+        "fileTitle": "File:Velocípedo Roper (1869).jpg",
+        "match": "none",
+        "approved": false,
+        "note": "Premier modèle de 1869, ne correspond pas au second modèle demandé."
+      }
+    ]
+  },
+  "20": {
+    "reviewedAt": "2026-11-05T11:21:43.131108+00:00",
+    "note": "Identification de la bicyclette de 1895 non établie ; aucune image de tricycle n’est substituée.",
+    "photos": []
+  },
+  "21": {
+    "reviewedAt": "2026-11-05T11:21:43.131108+00:00",
+    "note": "Exemplaire de la famille Millet indiqué 1897 par Commons ; variante proche, pas preuve d’un millésime 1895.",
+    "photos": [
+      {
+        "fileTitle": "File:Felix Millet.jpg",
+        "match": "approximate",
+        "approved": true,
+        "note": "La description Commons indique une motocyclette Millet de 1897 ; ne pas la présenter comme le prototype ou l’exemplaire de 1895."
+      }
+    ]
+  },
+  "22": {
+    "reviewedAt": "2026-11-05T11:21:43.131108+00:00",
+    "note": "Aucune photographie validée de l’Excelsior britannique de 1896 ; les modèles Talisman d’après-guerre sont écartés.",
+    "photos": []
+  },
+  "23": {
+    "reviewedAt": "2026-11-05T11:21:43.131108+00:00",
+    "note": "Illustration du premier type Werner datée de 1898 ; représentation proche, non photographie du modèle précis de 1897.",
+    "photos": [
+      {
+        "fileTitle": "File:Werner Motocyclette 0.75 CV (1898).jpg",
+        "match": "approximate",
+        "approved": true,
+        "mediaKind": "illustration",
+        "note": "Illustration datée de 1898 dans Commons ; premier type, motorisation haute, pas vue certifiée d’un prototype de 1897."
+      }
+    ]
+  },
+  "24": {
+    "reviewedAt": "2026-11-05T11:21:43.131108+00:00",
+    "note": "Aucune photo validée pour la désignation 1899. Les tricycles Peugeot 1898 ne sont pas substitués à une motobicyclette.",
+    "photos": []
   }
 }

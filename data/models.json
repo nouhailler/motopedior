@@ -538,5 +538,299 @@
         "note": "Référence documentaire complémentaire ; spécifications selon millésime et version, non certifiées par la seule présence du lien."
       }
     ]
+  },
+  {
+    "id": "18",
+    "inventory_reference": "005",
+    "requested_year": 1894,
+    "brand": "Hildebrand & Wolfmüller",
+    "model": "Motorrad",
+    "year": 1894,
+    "endYear": 1894,
+    "country": "Allemagne",
+    "category": "Pionnière",
+    "propulsion": "Essence",
+    "vehicleType": "Moto",
+    "historicalLabel": "Fiche historique à documenter",
+    "historicalPrototype": false,
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "La Hildebrand & Wolfmüller compte parmi les premières motocyclettes commercialisées en série. Le musée The Henry Ford conserve un exemplaire daté vers 1894. Cette fiche distingue le repère de cet exemplaire de la période de fabrication du modèle.",
+    "sourcePage": "https://en.wikipedia.org/wiki/Hildebrand_%26_Wolfm%C3%BCller",
+    "imageQueries": [
+      "Hildebrand Wolfmüller 1894",
+      "Hildebrand Wolfmuller motorcycle"
+    ],
+    "documentation": [
+      {
+        "provider": "The Henry Ford",
+        "url": "https://www.thehenryford.org/collections/explore/artifact/23190",
+        "title": "Hildebrand & Wolfmuller Motorcycle, circa 1894",
+        "role": "primary",
+        "checkedAt": "2026-11-05T11:19:06.903398+00:00"
+      },
+      {
+        "provider": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hildebrand_%26_Wolfm%C3%BCller",
+        "title": "Hildebrand %26 Wolfm%C3%BCller",
+        "role": "complementary",
+        "checkedAt": "2026-11-05T11:19:06.903398+00:00"
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "inventory_reference": "006",
+    "requested_year": 1895,
+    "brand": "Roper",
+    "model": "Steam Motorcycle (second modèle)",
+    "year": 1895,
+    "endYear": 1895,
+    "country": "États-Unis",
+    "category": "Pionnière",
+    "propulsion": "Vapeur",
+    "vehicleType": "Moto",
+    "historicalLabel": "Fiche historique à documenter",
+    "historicalPrototype": false,
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Le Smithsonian et l’AMA documentent une nouvelle motocyclette à vapeur construite par Sylvester Roper en 1895. Elle est distincte de son vélocipède des années 1860. Les datations divergentes du second cycle sont conservées dans la documentation, sans confondre les deux machines.",
+    "sourcePage": "https://en.wikipedia.org/wiki/Roper_steam_velocipede",
+    "imageQueries": [
+      "Roper steam bicycle",
+      "Roper 1896 motorcycle"
+    ],
+    "documentation": [
+      {
+        "provider": "Smithsonian Institution",
+        "url": "https://americanhistory.si.edu/collections/object/nmah_1339960",
+        "title": "Roper Steam Velocipede, about 1869 — notice mentionnant une autre moto en 1895",
+        "role": "primary",
+        "checkedAt": "2026-11-05T11:19:06.903398+00:00"
+      },
+      {
+        "provider": "AMA Motorcycle Hall of Fame",
+        "url": "https://motorcyclemuseum.org/hall-of-famers-2/folder/hall-of-famers/entry/roper-sylvester",
+        "title": "Sylvester Roper — improved steam bicycle, 1895",
+        "role": "primary",
+        "checkedAt": "2026-11-05T11:19:06.903398+00:00"
+      },
+      {
+        "provider": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Roper_steam_velocipede",
+        "title": "Roper steam velocipede",
+        "role": "complementary",
+        "checkedAt": "2026-11-05T11:19:06.903398+00:00"
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "inventory_reference": "007",
+    "requested_year": 1895,
+    "brand": "De Dion-Bouton",
+    "model": "Motorised bicycle (identification à confirmer)",
+    "year": 1895,
+    "endYear": 1895,
+    "country": "France",
+    "category": "Pionnière",
+    "propulsion": null,
+    "vehicleType": "Bicycle",
+    "historicalLabel": "Fiche historique à documenter",
+    "historicalPrototype": false,
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "La désignation « motorised bicycle, 1895 » de la liste reste à identifier précisément. Les notices du musée The Henry Ford et du Cnam attestent les tricycles De Dion-Bouton de 1895 ; elles ne prouvent pas l’existence d’une bicyclette précise sous cette appellation. Cette fiche de recherche n’est donc pas présentée comme une motocyclette construite et vérifiée.",
+    "sourcePage": "https://en.wikipedia.org/wiki/De_Dion-Bouton",
+    "imageQueries": [
+      "De Dion Bouton motorised bicycle 1895",
+      "De Dion Bouton bicycle 1895"
+    ],
+    "documentation": [
+      {
+        "provider": "The Henry Ford",
+        "url": "https://www.thehenryford.org/collections/explore/artifact/147364",
+        "title": "De Dion-Bouton Motor Tricycle, circa 1898 — premiers tricycles en 1895",
+        "role": "primary",
+        "checkedAt": "2026-11-05T11:19:06.903398+00:00"
+      },
+      {
+        "provider": "Cnam — Cnum",
+        "url": "https://cnum.cnam.fr/pgi/redir.php?ident=M6118&onglet=i",
+        "title": "Catalogue du musée, transports sur route — tricycle De Dion-Bouton, 1895",
+        "role": "primary",
+        "checkedAt": "2026-11-05T11:19:06.903398+00:00"
+      },
+      {
+        "provider": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/De_Dion-Bouton",
+        "title": "De Dion-Bouton",
+        "role": "complementary",
+        "checkedAt": "2026-11-05T11:19:06.903398+00:00"
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "inventory_reference": "008",
+    "requested_year": 1895,
+    "brand": "Félix Millet",
+    "model": "Millet Motorcycle",
+    "year": 1895,
+    "endYear": 1895,
+    "country": "France",
+    "category": "Pionnière",
+    "propulsion": "Essence",
+    "vehicleType": "Moto",
+    "historicalLabel": "Fiche historique à documenter",
+    "historicalPrototype": false,
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Félix Millet développe une motocyclette à moteur rotatif intégré à la roue arrière. Le catalogue du Cnam situe une motocyclette de Millet en 1893, alors que 1895 est le repère proposé dans la liste. La construction, la participation à des épreuves et une éventuelle production ne doivent pas être confondues.",
+    "sourcePage": "https://en.wikipedia.org/wiki/Millet_motorcycle",
+    "imageQueries": [
+      "Felix Millet motorcycle",
+      "Millet motorcycle 1895"
+    ],
+    "documentation": [
+      {
+        "provider": "Cnam — Cnum",
+        "url": "https://cnum.cnam.fr/pgi/redir.php?ident=M6118&onglet=i",
+        "title": "Catalogue du musée, transports sur route — motocyclette de Félix Millet, 1893",
+        "role": "primary",
+        "checkedAt": "2026-11-05T11:19:06.903398+00:00"
+      },
+      {
+        "provider": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Millet_motorcycle",
+        "title": "Millet motorcycle",
+        "role": "complementary",
+        "checkedAt": "2026-11-05T11:19:06.903398+00:00"
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "inventory_reference": "009",
+    "requested_year": 1896,
+    "brand": "Excelsior (Royaume-Uni)",
+    "model": "Motor Bicycle (1896)",
+    "year": 1896,
+    "endYear": 1896,
+    "country": "Royaume-Uni",
+    "category": "Pionnière",
+    "propulsion": "Essence",
+    "vehicleType": "Moto",
+    "historicalLabel": "Fiche historique à documenter",
+    "historicalPrototype": false,
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Le constructeur britannique Bayliss, Thomas & Co. développe des cycles motorisés sous la marque Excelsior à Coventry. Les sources secondaires situent ses premières motocyclettes en 1896. Cette fiche est distinguée des marques homonymes américaines et allemandes ; les caractéristiques de modèles Excelsior ultérieurs ne lui sont pas attribuées.",
+    "sourcePage": "https://en.wikipedia.org/wiki/Excelsior_Motor_Company",
+    "imageQueries": [
+      "Excelsior Bayliss Thomas 1896 motorcycle",
+      "British Excelsior early motorcycle"
+    ],
+    "documentation": [
+      {
+        "provider": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Excelsior_Motor_Company",
+        "title": "Excelsior Motor Company",
+        "role": "complementary",
+        "checkedAt": "2026-11-05T11:19:06.903398+00:00"
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "inventory_reference": "010",
+    "requested_year": 1897,
+    "brand": "Werner Frères",
+    "model": "Motocyclette (premier type)",
+    "year": 1897,
+    "endYear": 1897,
+    "country": "France",
+    "category": "Pionnière",
+    "propulsion": "Essence",
+    "vehicleType": "Moto",
+    "historicalLabel": "Fiche historique à documenter",
+    "historicalPrototype": false,
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Les frères Werner mettent au point à Paris un cycle motorisé dont le premier type porte le moteur au-dessus de la roue avant. Le Science Museum situe cette solution en 1897, tout en conservant un exemplaire de 1899. Les vues de ce dernier ne sont pas présentées comme des photographies exactes du prototype de 1897.",
+    "sourcePage": "https://en.wikipedia.org/wiki/Werner_Motors",
+    "imageQueries": [
+      "Werner motocyclette",
+      "Werner motorcycle 1897"
+    ],
+    "documentation": [
+      {
+        "provider": "Science Museum Group",
+        "url": "https://collection.sciencemuseumgroup.org.uk/objects/co25333/werner-motor-cycle-1899",
+        "title": "Werner Motor Cycle, 1899 — développement du premier type en 1897",
+        "role": "primary",
+        "checkedAt": "2026-11-05T11:19:06.903398+00:00"
+      },
+      {
+        "provider": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Werner_Motors",
+        "title": "Werner Motors",
+        "role": "complementary",
+        "checkedAt": "2026-11-05T11:19:06.903398+00:00"
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "inventory_reference": "011",
+    "requested_year": 1899,
+    "brand": "Peugeot",
+    "model": "Motobicyclette (référence 1899 à confirmer)",
+    "year": 1899,
+    "endYear": 1899,
+    "country": "France",
+    "category": "Pionnière",
+    "propulsion": null,
+    "vehicleType": "Moto",
+    "historicalLabel": "Fiche historique à documenter",
+    "historicalPrototype": false,
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "La désignation « Motobicyclette, 1899 » de la liste n’est pas confirmée par les chronologies officielles consultées. Peugeot Motocycles présente une première moto en 1898 et une motobicyclette à moteur ZL en 1901 ; Peugeot Automobile retient également 1901 pour sa motobicyclette. La date de construction de l’objet demandé reste inconnue, sans fusionner arbitrairement ces véhicules.",
+    "sourcePage": "https://fr.wikipedia.org/wiki/Peugeot_Motocycles",
+    "imageQueries": [
+      "Peugeot motobicyclette 1899",
+      "Peugeot motorcycle 1898"
+    ],
+    "documentation": [
+      {
+        "provider": "Peugeot Motocycles",
+        "url": "https://peugeot-motocycles.com/fr/success-story/",
+        "title": "Chronologie officielle — première moto 1898, motobicyclette ZL 1901",
+        "role": "primary",
+        "checkedAt": "2026-11-05T11:19:06.903398+00:00"
+      },
+      {
+        "provider": "Peugeot",
+        "url": "https://www.peugeot.fr/marque/univers-peugeot/les-deux-roues.html",
+        "title": "Les deux roues — présentation de la motobicyclette en 1901",
+        "role": "primary",
+        "checkedAt": "2026-11-05T11:19:06.903398+00:00"
+      },
+      {
+        "provider": "Wikipedia",
+        "url": "https://fr.wikipedia.org/wiki/Peugeot_Motocycles",
+        "title": "Peugeot Motocycles",
+        "role": "complementary",
+        "checkedAt": "2026-11-05T11:19:06.903398+00:00"
+      }
+    ]
   }
 ]

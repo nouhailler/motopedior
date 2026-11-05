@@ -59,3 +59,23 @@ Pour étendre le catalogue : importer les modèles par lots, ajouter les variant
 ## Pionniers
 
 Le catalogue inclut le Copeland Steam Bicycle (vers 1884–1885, vapeur), le Daimler Reitwagen (1885, essence, identifiant 15 conservé) et le Butler Petrol Cycle (construction en 1888, projet présenté en 1884, tricycle à essence). Les prototypes affichent un repère historique plutôt qu’une période de production. Les dates incertaines et les spécifications non documentées sont explicites. Les dessins d’archives sont signalés comme illustrations ; les répliques restent identifiées comme variantes proches. Les références primaires du Smithsonian, de Mercedes-Benz et du Science Museum complètent les liens Wikipédia.
+
+## Inventaire historique, schéma 2
+
+L’application inclut un inventaire chronologique à partir de 1867, sans prétendre posséder une fiche par année. Les 17 fiches originales sont conservées avec archive brute, six dates indépendantes, spécifications nullables, constructeurs/marques, sources, assertions, confiance A–D, contradictions, détection de doublons, fusion documentée et imports/exports sans écrasement silencieux.
+
+Lire `docs/INVENTORY-AUDIT.md` pour l’audit préalable et le plan, et `docs/INVENTORY-TECHNICAL.md` pour le schéma, les migrations, les contrôles et les limites documentaires.
+
+```sh
+npm run migrate:history  # génération initiale, ne remplace pas un inventaire édité
+npm test                # domaine, intégration IndexedDB et droits des photos
+npm run build
+```
+
+IndexedDB passe de v1 à v2 sans suppression des collections. Les modifications documentaires sont locales à l’appareil ; les sauvegardes automatiques et l’export JSON complet conservent les états antérieurs. Les anciennes dates non qualifiées restent archivées au lieu d’être promues en dates de construction. Les fiches ne deviennent pas « vérifiées » par la seule présence d’un lien Wikipédia ou d’une photo.
+
+### Références historiques 005–011
+
+Sept fiches supplémentaires sont ajoutées avec leurs références et années proposées, distinctes des années effectivement documentées. Voir `docs/EARLY-REFERENCES-005-011.md`. Le catalogue normalisé contient 24 fiches. Les dates incertaines, variantes iconographiques et identifications non confirmées restent visibles ; aucune confusion de tricycle ou de millésime n’est masquée.
+
+Les nouveautés éditoriales sont ajoutées à IndexedDB de façon additive et idempotente, avec sauvegarde préalable, sans remplacer les modifications locales. `npm run add:early-history` génère ces nouveaux enregistrements normalisés ; ne pas utiliser la migration initiale pour régénérer un inventaire documentaire enrichi.

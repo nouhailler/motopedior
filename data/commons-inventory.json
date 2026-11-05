@@ -1,6 +1,6 @@
 {
   "provider": "Wikimedia Commons",
-  "generatedAt": "2026-11-04T21:22:15.428983+00:00",
+  "generatedAt": "2026-11-05T11:20:02.016308+00:00",
   "models": [
     {
       "modelId": "1",
@@ -17889,6 +17889,2989 @@
           },
           "checkedAt": "2026-11-04T21:22:15.428983+00:00",
           "score": 60.0,
+          "match": "unreviewed"
+        }
+      ]
+    },
+    {
+      "modelId": "18",
+      "queries": [
+        "Hildebrand Wolfmüller 1894",
+        "Hildebrand Wolfmuller motorcycle"
+      ],
+      "candidates": [
+        {
+          "fileTitle": "File:Autostadt Wolfsburg - motorrad ikonen - Hildebrand ^ Wolfmüller 1894 1 - Flickr - KlausNahr.jpg",
+          "pageId": 19326765,
+          "query": "Hildebrand Wolfmüller 1894",
+          "sourceSha1": "27533cbe27e128ac1bf1aafb19a55aa5718674b6",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Autostadt_Wolfsburg_-_motorrad_ikonen_-_Hildebrand_%5E_Wolfm%C3%BCller_1894_1_-_Flickr_-_KlausNahr.jpg/960px-Autostadt_Wolfsburg_-_motorrad_ikonen_-_Hildebrand_%5E_Wolfm%C3%BCller_1894_1_-_Flickr_-_KlausNahr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Autostadt_Wolfsburg_-_motorrad_ikonen_-_Hildebrand_%5E_Wolfm%C3%BCller_1894_1_-_Flickr_-_KlausNahr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Autostadt_Wolfsburg_-_motorrad_ikonen_-_Hildebrand_%5E_Wolfm%C3%BCller_1894_1_-_Flickr_-_KlausNahr.jpg",
+          "author": "Klaus Nahr from Germany",
+          "attribution": "",
+          "creditLine": "Autostadt Wolfsburg - motorrad ikonen - Hildebrand & Wolfmüller 1894 1",
+          "description": "Autostadt Wolfsburg - motorrad ikonen - Hildebrand & Wolfmüller 1894 1",
+          "width": 3072,
+          "height": 2304,
+          "mime": "image/jpeg",
+          "license": {
+            "status": "allowed",
+            "name": "CC BY-SA 2.0",
+            "url": "https://creativecommons.org/licenses/by-sa/2.0/",
+            "shareAlike": true,
+            "attributionRequired": true,
+            "reason": "Licence et auteur identifiés dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2012-05-04 23:37:54",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Autostadt Wolfsburg - motorrad ikonen - Hildebrand ^ Wolfmüller 1894 1 - Flickr - KlausNahr",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Flickr images reviewed by FlickreviewR|Files uploaded by Kobac|Hildebrand & Wolfmuller in museums|Photographs by Klaus Nahr|Motorcycles in the ZeitHaus",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Autostadt Wolfsburg - motorrad ikonen - Hildebrand &amp; Wolfmüller 1894 1",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2010-04-12 12:09",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/klausnahr/4603584326/\">Autostadt Wolfsburg - motorrad ikonen - Hildebrand &amp; Wolfmüller 1894 1</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/82756760@N00\">Klaus Nahr</a> from Germany",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 2.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 2.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/2.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-2.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-05T11:19:07.061808+00:00",
+          "score": 100.0,
+          "match": "unreviewed"
+        },
+        {
+          "fileTitle": "File:Autostadt Wolfsburg - motorrad ikonen - Hildebrand ^ Wolfmüller 1894 2 - Flickr - KlausNahr.jpg",
+          "pageId": 19326948,
+          "query": "Hildebrand Wolfmüller 1894",
+          "sourceSha1": "b56595689888e9b17cefc8fb1b8705c905d42e84",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Autostadt_Wolfsburg_-_motorrad_ikonen_-_Hildebrand_%5E_Wolfm%C3%BCller_1894_2_-_Flickr_-_KlausNahr.jpg/960px-Autostadt_Wolfsburg_-_motorrad_ikonen_-_Hildebrand_%5E_Wolfm%C3%BCller_1894_2_-_Flickr_-_KlausNahr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Autostadt_Wolfsburg_-_motorrad_ikonen_-_Hildebrand_%5E_Wolfm%C3%BCller_1894_2_-_Flickr_-_KlausNahr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Autostadt_Wolfsburg_-_motorrad_ikonen_-_Hildebrand_%5E_Wolfm%C3%BCller_1894_2_-_Flickr_-_KlausNahr.jpg",
+          "author": "Klaus Nahr from Germany",
+          "attribution": "",
+          "creditLine": "Autostadt Wolfsburg - motorrad ikonen - Hildebrand & Wolfmüller 1894 2",
+          "description": "Autostadt Wolfsburg - motorrad ikonen - Hildebrand & Wolfmüller 1894 2",
+          "width": 3072,
+          "height": 2304,
+          "mime": "image/jpeg",
+          "license": {
+            "status": "allowed",
+            "name": "CC BY-SA 2.0",
+            "url": "https://creativecommons.org/licenses/by-sa/2.0/",
+            "shareAlike": true,
+            "attributionRequired": true,
+            "reason": "Licence et auteur identifiés dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2012-05-05 00:08:28",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Autostadt Wolfsburg - motorrad ikonen - Hildebrand ^ Wolfmüller 1894 2 - Flickr - KlausNahr",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Motorcycle parts|Flickr images reviewed by FlickreviewR|Files uploaded by Kobac|Motorcycle transmission|Hildebrand & Wolfmuller in museums|Photographs by Klaus Nahr|Motorcycles in the ZeitHaus",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Autostadt Wolfsburg - motorrad ikonen - Hildebrand &amp; Wolfmüller 1894 2",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2010-04-12 12:09",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/klausnahr/4603627050/\">Autostadt Wolfsburg - motorrad ikonen - Hildebrand &amp; Wolfmüller 1894 2</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/82756760@N00\">Klaus Nahr</a> from Germany",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 2.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 2.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/2.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-2.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-05T11:19:07.061808+00:00",
+          "score": 100.0,
+          "match": "unreviewed"
+        },
+        {
+          "fileTitle": "File:Hildebrand&Wolfmuller 1894 Motorrad 5.jpg",
+          "pageId": 7929581,
+          "query": "Hildebrand Wolfmuller motorcycle",
+          "sourceSha1": "850c80bb77579813423f18003db0128079f01505",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Hildebrand%26Wolfmuller_1894_Motorrad_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Hildebrand%26Wolfmuller_1894_Motorrad_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Hildebrand%26Wolfmuller_1894_Motorrad_5.jpg",
+          "author": "Yesterdays Antique Motorcycles",
+          "attribution": "",
+          "creditLine": "http://www.motorarchive.com/images/Hildebrand&Wolfmuller_1894_Motorrad_5.jpg",
+          "description": "Hildebrand & Wolfmüller motorcycle 1894 detail.",
+          "width": 640,
+          "height": 480,
+          "mime": "image/jpeg",
+          "license": {
+            "status": "allowed",
+            "name": "CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "shareAlike": true,
+            "attributionRequired": true,
+            "reason": "Licence et auteur identifiés dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2009-09-30 09:05:31",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Hildebrand&Wolfmuller 1894 Motorrad 5",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "GFDL|Taken with Canon PowerShot S5 IS|License migration not eligible|Hildebrand & Wolfmuller motorcycles|Motorcycle parts|Items with VRTS permission confirmed|Motorcycle transmission|1894 motorcycles|Photographs taken on 2008-01-24|Files from Yesterdays Antique Motorcycles or the Classic Motorcycle Archive",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Hildebrand &amp; Wolfmüller motorcycle 1894 detail.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "24 January 2008 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.motorarchive.com/images/Hildebrand&amp;Wolfmuller_1894_Motorrad_5.jpg\">http://www.motorarchive.com/images/Hildebrand&amp;Wolfmuller_1894_Motorrad_5.jpg</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Yesterdays Antique Motorcycles",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-05T11:19:07.061808+00:00",
+          "score": 86.4,
+          "match": "unreviewed"
+        },
+        {
+          "fileTitle": "File:Hildebrand Wolfmüller 1894 in NTM Prague.jpg",
+          "pageId": 63192301,
+          "query": "Hildebrand Wolfmuller motorcycle",
+          "sourceSha1": "b0d5ae15bc22987c2f8459d6096e5ace6e9b7586",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Hildebrand_Wolfm%C3%BCller_1894_in_NTM_Prague.jpg/960px-Hildebrand_Wolfm%C3%BCller_1894_in_NTM_Prague.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Hildebrand_Wolfm%C3%BCller_1894_in_NTM_Prague.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Hildebrand_Wolfm%C3%BCller_1894_in_NTM_Prague.jpg",
+          "author": "Addvisor",
+          "attribution": "",
+          "creditLine": "Own work",
+          "description": "Hildebrand Wolfmüller 1894 in NTM Prague",
+          "width": 3034,
+          "height": 2276,
+          "mime": "image/jpeg",
+          "license": {
+            "status": "allowed",
+            "name": "CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "shareAlike": true,
+            "attributionRequired": true,
+            "reason": "Licence et auteur identifiés dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2017-10-05 12:19:04",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Hildebrand Wolfmüller 1894 in NTM Prague",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Hildebrand & Wolfmuller motorcycles|Self-published work|1894 motorcycles|Files by User:Addvisor",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Hildebrand Wolfmüller 1894 in NTM Prague",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2016-05-03 20:14:41",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Addvisor\" title=\"User:Addvisor\">Addvisor</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-05T11:19:07.061808+00:00",
+          "score": 85.0,
+          "match": "unreviewed"
+        },
+        {
+          "fileTitle": "File:Hildebrand Wolfmüller 1894 in NTM Prague data.jpg",
+          "pageId": 63192302,
+          "query": "Hildebrand Wolfmuller motorcycle",
+          "sourceSha1": "b4bd4c85231e7ff11fb74e477ebd56a0f5bdb969",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Hildebrand_Wolfm%C3%BCller_1894_in_NTM_Prague_data.jpg/960px-Hildebrand_Wolfm%C3%BCller_1894_in_NTM_Prague_data.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Hildebrand_Wolfm%C3%BCller_1894_in_NTM_Prague_data.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Hildebrand_Wolfm%C3%BCller_1894_in_NTM_Prague_data.jpg",
+          "author": "Addvisor",
+          "attribution": "",
+          "creditLine": "Own work",
+          "description": "Hildebrand Wolfmüller 1894 in NTM Prague",
+          "width": 3264,
+          "height": 2448,
+          "mime": "image/jpeg",
+          "license": {
+            "status": "allowed",
+            "name": "CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "shareAlike": true,
+            "attributionRequired": true,
+            "reason": "Licence et auteur identifiés dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2017-10-05 12:19:05",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Hildebrand Wolfmüller 1894 in NTM Prague data",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Hildebrand & Wolfmuller motorcycles|Self-published work|Files by User:Addvisor",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Hildebrand Wolfmüller 1894 in NTM Prague",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2016-05-03 20:14:41",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Addvisor\" title=\"User:Addvisor\">Addvisor</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-05T11:19:07.061808+00:00",
+          "score": 85.0,
+          "match": "unreviewed"
+        },
+        {
+          "fileTitle": "File:Hildebrand & Wolfmuller UMMC Museum.jpg",
+          "pageId": 115400655,
+          "query": "Hildebrand Wolfmuller motorcycle",
+          "sourceSha1": "c17783c18af6444ab9ab0d2bb77d6ec9470ff25d",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Hildebrand_%26_Wolfmuller_UMMC_Museum.jpg/960px-Hildebrand_%26_Wolfmuller_UMMC_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Hildebrand_%26_Wolfmuller_UMMC_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Hildebrand_%26_Wolfmuller_UMMC_Museum.jpg",
+          "author": "Stanislav Kozlovskiy",
+          "attribution": "",
+          "creditLine": "Own work",
+          "description": "Мотоцикл Hildebrand & Wolfmuller. Музей УГМК, Верхняя Пышма, Россия",
+          "width": 4741,
+          "height": 2880,
+          "mime": "image/jpeg",
+          "license": {
+            "status": "allowed",
+            "name": "CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "shareAlike": true,
+            "attributionRequired": true,
+            "reason": "Licence et auteur identifiés dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2022-02-20 12:08:24",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Hildebrand & Wolfmuller UMMC Museum",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Self-published work|Hildebrand & Wolfmuller in museums|Motorcycles in the UMMC museum",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Мотоцикл Hildebrand &amp; Wolfmuller. Музей УГМК, Верхняя Пышма, Россия",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2021-11-20 13:27:20",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ctac\" title=\"User:Ctac\">Stanislav Kozlovskiy</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-05T11:19:07.061808+00:00",
+          "score": 85.0,
+          "match": "unreviewed"
+        },
+        {
+          "fileTitle": "File:Hildebrand&Wolfmuller 1894 Motorrad logo.jpg",
+          "pageId": 7929583,
+          "query": "Hildebrand Wolfmuller motorcycle",
+          "sourceSha1": "01faff598db61e39c831847112616b878d2f2099",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Hildebrand%26Wolfmuller_1894_Motorrad_logo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Hildebrand%26Wolfmuller_1894_Motorrad_logo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Hildebrand%26Wolfmuller_1894_Motorrad_logo.jpg",
+          "author": "Yesterdays Antique Motorcycles",
+          "attribution": "",
+          "creditLine": "http://www.motorarchive.com/images/Hildebrand&Wolfmuller_1894_Motorrad_9.jpg",
+          "description": "Hildebrand & Wolfmüller logo 1894.",
+          "width": 480,
+          "height": 640,
+          "mime": "image/jpeg",
+          "license": {
+            "status": "allowed",
+            "name": "CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "shareAlike": true,
+            "attributionRequired": true,
+            "reason": "Licence et auteur identifiés dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2009-09-30 09:05:41",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Hildebrand&Wolfmuller 1894 Motorrad logo",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "GFDL|Taken with Canon PowerShot S5 IS|License migration not eligible|Hildebrand & Wolfmuller motorcycles|Münchner Kindl|Items with VRTS permission confirmed|Logos of motorcycle manufacturers|Photographs taken on 2008-01-24|Files from Yesterdays Antique Motorcycles or the Classic Motorcycle Archive",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Hildebrand &amp; Wolfmüller logo 1894.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "24 January 2008 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.motorarchive.com/images/Hildebrand&amp;Wolfmuller_1894_Motorrad_9.jpg\">http://www.motorarchive.com/images/Hildebrand&amp;Wolfmuller_1894_Motorrad_9.jpg</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Yesterdays Antique Motorcycles",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-05T11:19:07.061808+00:00",
+          "score": 84.8,
+          "match": "unreviewed"
+        },
+        {
+          "fileTitle": "File:1894 Hildebrand & Wolfmüller diagram.png",
+          "pageId": 8789206,
+          "query": "Hildebrand Wolfmuller motorcycle",
+          "sourceSha1": "7b34778f529a9df5dab4007e4b984151976dfbe7",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/1894_Hildebrand_%26_Wolfm%C3%BCller_diagram.png/960px-1894_Hildebrand_%26_Wolfm%C3%BCller_diagram.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/1894_Hildebrand_%26_Wolfm%C3%BCller_diagram.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:1894_Hildebrand_%26_Wolfm%C3%BCller_diagram.png",
+          "author": "Victor Wilfred Pagé",
+          "attribution": "",
+          "creditLine": "Pagé, Victor Wilfred (originally published 1914, 2004 reprint of 1924 ed.), Early Motorcycles: Construction, Operation and Repair, Dover Publications, p. 24, ISBN 0486436713",
+          "description": "Diagram of 1894 Hildebrand & Wolfmüller motorcycle.",
+          "width": 1814,
+          "height": 1254,
+          "mime": "image/png",
+          "license": {
+            "status": "allowed",
+            "name": "Public domain",
+            "url": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "shareAlike": false,
+            "attributionRequired": false,
+            "reason": "Domaine public ou CC0 identifié dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2009-12-19 21:57:27",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "1894 Hildebrand & Wolfmüller diagram",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "PD US|Hildebrand & Wolfmuller motorcycles|Motorcycle repairs",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Diagram of 1894 Hildebrand &amp; Wolfmüller motorcycle.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "1914",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "Pagé, Victor Wilfred (originally published 1914, 2004 reprint of 1924 ed.), Early Motorcycles: Construction, Operation and Repair, Dover Publications, p. 24, <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/ISBN\" class=\"extiw\" title=\"en:ISBN\"><span lang=\"en\" dir=\"ltr\">ISBN</span></a></span> <a href=\"//commons.wikimedia.org/wiki/Special:BookSources/0486436713\" title=\"Special:BookSources/0486436713\">0486436713</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Victor Wilfred Pagé",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-05T11:19:07.061808+00:00",
+          "score": 83.1,
+          "match": "unreviewed"
+        },
+        {
+          "fileTitle": "File:Wolfmüller-und-Hildebrand Motorcycle 1894 RSide DMFO 10June2013 (14584995254).jpg",
+          "pageId": 35714073,
+          "query": "Hildebrand Wolfmüller 1894",
+          "sourceSha1": "85aecdf2f47a508548d54b38856d48c823d78976",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Wolfm%C3%BCller-und-Hildebrand_Motorcycle_1894_RSide_DMFO_10June2013_%2814584995254%29.jpg/960px-Wolfm%C3%BCller-und-Hildebrand_Motorcycle_1894_RSide_DMFO_10June2013_%2814584995254%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Wolfm%C3%BCller-und-Hildebrand_Motorcycle_1894_RSide_DMFO_10June2013_%2814584995254%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Wolfm%C3%BCller-und-Hildebrand_Motorcycle_1894_RSide_DMFO_10June2013_(14584995254).jpg",
+          "author": "Valder137",
+          "attribution": "",
+          "creditLine": "Wolfmüller-und-Hildebrand_Motorcycle_1894_RSide_DMFO_10June2013",
+          "description": "SONY DSC",
+          "width": 1200,
+          "height": 803,
+          "mime": "image/jpeg",
+          "license": {
+            "status": "allowed",
+            "name": "CC BY 2.0",
+            "url": "https://creativecommons.org/licenses/by/2.0/",
+            "shareAlike": false,
+            "attributionRequired": true,
+            "reason": "Licence et auteur identifiés dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2014-09-28 03:34:28",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Wolfmüller-und-Hildebrand Motorcycle 1894 RSide DMFO 10June2013 (14584995254)",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Taken with Sony DSLR-A200|Flugwerft Schleißheim|Flickr images reviewed by FlickreviewR|Vintage motorcycles|Motorcycles facing left|Black motorcycles|1894 in road transport|Images by Valder137|Hildebrand & Wolfmuller in museums|Flickr images missing SDC published in",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "SONY DSC",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2013-06-10 12:19",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/brikupfer/14584995254/\">Wolfmüller-und-Hildebrand_Motorcycle_1894_RSide_DMFO_10June2013</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/122521784@N04\">Valder137</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY 2.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution 2.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by/2.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-2.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-05T11:19:07.061808+00:00",
+          "score": 77.0,
+          "match": "unreviewed"
+        },
+        {
+          "fileTitle": "File:Hildebrand & Wolfmüller (1893).jpg",
+          "pageId": 183687706,
+          "query": "Hildebrand Wolfmuller motorcycle",
+          "sourceSha1": "6bfb96ff9df11b2464e6d6a9bf95a008df87c783",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Hildebrand_%26_Wolfm%C3%BCller_%281893%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Hildebrand_%26_Wolfm%C3%BCller_%281893%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Hildebrand_%26_Wolfm%C3%BCller_(1893).jpg",
+          "author": "Verkehr auf dem Land;Das Weltreich der Technik : Entwicklung und Gegenwart. Bd. 2",
+          "attribution": "",
+          "creditLine": "https://archive.org/details/dbc.wroc.pl.006899/page/128/mode/1up",
+          "description": "Hildebrand & Wolfmüller (1893)",
+          "width": 943,
+          "height": 711,
+          "mime": "image/jpeg",
+          "license": {
+            "status": "allowed",
+            "name": "Public domain",
+            "url": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "shareAlike": false,
+            "attributionRequired": false,
+            "reason": "Domaine public ou CC0 identifié dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2026-02-10 16:40:30",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Hildebrand & Wolfmüller (1893)",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Hildebrand & Wolfmuller motorcycles|PD US expired|PD-US missing SDC copyright status",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Hildebrand &amp; Wolfmüller (1893)",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "12.08.1924",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/details/dbc.wroc.pl.006899/page/128/mode/1up\">https://archive.org/details/dbc.wroc.pl.006899/page/128/mode/1up</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Verkehr auf dem Land;Das Weltreich der Technik : Entwicklung und Gegenwart. Bd. 2",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-05T11:19:07.061808+00:00",
+          "score": 74.4,
+          "match": "unreviewed"
+        },
+        {
+          "fileTitle": "File:1894 Hildebrand and Wolfmüller (2) - The Art of the Motorcycle - Memphis.jpg",
+          "pageId": 7179865,
+          "query": "Hildebrand Wolfmuller motorcycle",
+          "sourceSha1": "4c52564a219301b6f4834fa07bd1d3cc335efb3c",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/1894_Hildebrand_and_Wolfm%C3%BCller_%282%29_-_The_Art_of_the_Motorcycle_-_Memphis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/1894_Hildebrand_and_Wolfm%C3%BCller_%282%29_-_The_Art_of_the_Motorcycle_-_Memphis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:1894_Hildebrand_and_Wolfm%C3%BCller_(2)_-_The_Art_of_the_Motorcycle_-_Memphis.jpg",
+          "author": "Daniel Hartwig from New Haven, CT, USA",
+          "attribution": "",
+          "creditLine": "P7020007.jpg",
+          "description": "1894 Hildebrand and Wolfmüller - The Art of the Motorcycle - Memphis",
+          "width": 620,
+          "height": 800,
+          "mime": "image/jpeg",
+          "license": {
+            "status": "allowed",
+            "name": "CC BY 2.0",
+            "url": "https://creativecommons.org/licenses/by/2.0/",
+            "shareAlike": false,
+            "attributionRequired": true,
+            "reason": "Licence et auteur identifiés dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2009-07-01 21:07:43",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "1894 Hildebrand and Wolfmüller (2) - The Art of the Motorcycle - Memphis",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "The Art of the Motorcycle|Flickr images reviewed by trusted users|Hildebrand & Wolfmuller in museums|The Art of the Motorcycle exhibition (Memphis)",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "1894 Hildebrand and Wolfmüller - The Art of the Motorcycle - Memphis",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2005-07-02 17:30",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/dwhartwig/778564152/\">P7020007.jpg</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/9751269@N07\">Daniel Hartwig</a> from New Haven, CT, USA",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY 2.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution 2.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by/2.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-2.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-05T11:19:07.061808+00:00",
+          "score": 71.2,
+          "match": "unreviewed"
+        },
+        {
+          "fileTitle": "File:Hildebrand-Wolfmüller 1894.jpg",
+          "pageId": 141578,
+          "query": "Hildebrand Wolfmüller 1894",
+          "sourceSha1": "8e8339f6b03ce924ff8b5af7fc1bf8a0f69a5b0c",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Hildebrand-Wolfm%C3%BCller_1894.jpg/960px-Hildebrand-Wolfm%C3%BCller_1894.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Hildebrand-Wolfm%C3%BCller_1894.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Hildebrand-Wolfm%C3%BCller_1894.jpg",
+          "author": "",
+          "attribution": "",
+          "creditLine": "",
+          "description": "",
+          "width": 1485,
+          "height": 1388,
+          "mime": "image/jpeg",
+          "license": {
+            "status": "excluded",
+            "reason": "Attribution manquante ou incertaine"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2005-05-15 14:14:58",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Hildebrand-Wolfmüller 1894",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "GFDL|Files with no machine-readable author|Files with no machine-readable source|License migration completed|Media missing infobox template|Hildebrand & Wolfmuller in museums",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 3.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 3.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-3.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-05T11:19:07.061808+00:00",
+          "score": 59.9,
+          "match": "unreviewed"
+        }
+      ]
+    },
+    {
+      "modelId": "20",
+      "queries": [
+        "De Dion Bouton motorised bicycle 1895",
+        "De Dion Bouton bicycle 1895"
+      ],
+      "candidates": []
+    },
+    {
+      "modelId": "21",
+      "queries": [
+        "Felix Millet motorcycle",
+        "Millet motorcycle 1895"
+      ],
+      "candidates": [
+        {
+          "fileTitle": "File:Felix Millet.jpg",
+          "pageId": 407338,
+          "query": "Felix Millet motorcycle",
+          "sourceSha1": "0437e543eedab6143f8faafaad58baf7222bb732",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Felix_Millet.jpg/960px-Felix_Millet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Felix_Millet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Felix_Millet.jpg",
+          "author": "Gérard Delafond",
+          "attribution": "",
+          "creditLine": "Own work",
+          "description": "Félix Millet motorcycle from 1897",
+          "width": 1600,
+          "height": 1200,
+          "mime": "image/jpeg",
+          "license": {
+            "status": "allowed",
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "shareAlike": true,
+            "attributionRequired": true,
+            "reason": "Licence et auteur identifiés dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2005-11-09 22:10:38",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Felix Millet",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "GFDL|License migration completed|Vintage motorcycles|5-cylinder radial engines|Unknown date|Non-aircraft rotary engines|Radial motorcycle engines",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Félix Millet motorcycle from 1897",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "Unknown date",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Gede~commonswiki&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Gede~commonswiki (page does not exist)\">Gérard Delafond</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 3.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 3.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-3.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-05T11:19:07.061808+00:00",
+          "score": 96.0,
+          "match": "unreviewed"
+        },
+        {
+          "fileTitle": "File:Pétrolette millet.jpg",
+          "pageId": 34195510,
+          "query": "Felix Millet motorcycle",
+          "sourceSha1": "2232ba2ebe6a758f71768ca99de248143cc11b12",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/P%C3%A9trolette_millet.jpg/960px-P%C3%A9trolette_millet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/P%C3%A9trolette_millet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:P%C3%A9trolette_millet.jpg",
+          "author": "Gérard Delafond",
+          "attribution": "",
+          "creditLine": "This image has been extracted from another file",
+          "description": "Félix Millet motorcycle from 1897.",
+          "width": 1294,
+          "height": 976,
+          "mime": "image/jpeg",
+          "license": {
+            "status": "allowed",
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "shareAlike": true,
+            "attributionRequired": true,
+            "reason": "Licence et auteur identifiés dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2018-04-17 18:19:48",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Pétrolette millet",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "GFDL|License migration completed|Extracted images|Vintage motorcycles|Motorcycles facing left|5-cylinder radial engines|Unknown date|Non-aircraft rotary engines|Radial motorcycle engines",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Félix Millet motorcycle from 1897.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "Unknown date",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "This image has been <b>extracted</b> from another file",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Gede~commonswiki&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Gede~commonswiki (page does not exist)\">Gérard Delafond</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 3.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 3.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-3.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-05T11:19:07.061808+00:00",
+          "score": 92.9,
+          "match": "unreviewed"
+        },
+        {
+          "fileTitle": "File:Felix Millet logo.GIF",
+          "pageId": 7146387,
+          "query": "Felix Millet motorcycle",
+          "sourceSha1": "11d61f48d46c20794f8d3fd2715af577799c2bbd",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Felix_Millet_logo.GIF?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Felix_Millet_logo.GIF?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Felix_Millet_logo.GIF",
+          "author": "Unknown author Unknown author",
+          "attribution": "",
+          "creditLine": "File created by Piero Transfer from Dutch wikipedia,",
+          "description": "logo of the Felix Millet motorbike",
+          "width": 151,
+          "height": 42,
+          "mime": "image/gif",
+          "license": {
+            "status": "allowed",
+            "name": "Public domain",
+            "url": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "shareAlike": false,
+            "attributionRequired": false,
+            "reason": "Domaine public ou CC0 identifié dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2009-06-28 09:48:26",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Felix Millet logo",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Text logos|PD textlogo|Logos of motorcycle manufacturers|Template Unknown (author)",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "logo of the Felix Millet motorbike",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2005-02-08",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<ul><li>File created by <a href=\"https://nl.wikipedia.org/wiki/Gebruiker:Piero\" class=\"extiw\" title=\"nl:Gebruiker:Piero\">Piero</a></li>\n<li>Transfer from Dutch wikipedia,</li></ul>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+              "source": "commons-desc-page"
+            },
+            "Permission": {
+              "value": "<i>This logo image consists only of simple geometric shapes or text. It <b>does not meet the <a href=\"//commons.wikimedia.org/wiki/Commons:Threshold_of_originality\" title=\"Commons:Threshold of originality\">threshold of originality</a></b> needed for copyright protection, and is therefore in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"w:public domain\">public domain</a></b>. Although it is free of copyright restrictions, this image may still be subject to <a href=\"//commons.wikimedia.org/wiki/Commons:Non-copyright_restrictions\" title=\"Commons:Non-copyright restrictions\">other restrictions</a>. See <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Public_domain#Fonts_and_typefaces\" class=\"extiw\" title=\"w:Wikipedia:Public domain\">WP:PD § Fonts and typefaces</a> or <a href=\"//commons.wikimedia.org/wiki/Template_talk:PD-textlogo\" title=\"Template talk:PD-textlogo\">Template talk:PD-textlogo</a> for more information.</i>",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-05T11:19:07.061808+00:00",
+          "score": 69.5,
+          "match": "unreviewed"
+        }
+      ]
+    },
+    {
+      "modelId": "22",
+      "queries": [
+        "Excelsior Bayliss Thomas 1896 motorcycle",
+        "British Excelsior early motorcycle"
+      ],
+      "candidates": [
+        {
+          "fileTitle": "File:Flickr - ronsaunders47 - THE EXCELSIOR MOTORCYCLE. 250cc TWO STROKE TWIN. UK.jpg",
+          "pageId": 22388268,
+          "query": "British Excelsior early motorcycle",
+          "sourceSha1": "48490e6738fb45262afe7929ec3caadeda9e5c98",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Flickr_-_ronsaunders47_-_THE_EXCELSIOR_MOTORCYCLE._250cc_TWO_STROKE_TWIN._UK.jpg/960px-Flickr_-_ronsaunders47_-_THE_EXCELSIOR_MOTORCYCLE._250cc_TWO_STROKE_TWIN._UK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Flickr_-_ronsaunders47_-_THE_EXCELSIOR_MOTORCYCLE._250cc_TWO_STROKE_TWIN._UK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Flickr_-_ronsaunders47_-_THE_EXCELSIOR_MOTORCYCLE._250cc_TWO_STROKE_TWIN._UK.jpg",
+          "author": "Ronald Saunders from Warrington, UK",
+          "attribution": "",
+          "creditLine": "THE EXCELSIOR MOTORCYCLE. 250cc TWO STROKE TWIN. UK",
+          "description": "Probably a late 1950s or early 60s model Talisman. Excelsior, based in Coventry, was a British bicycle, motorcycle and car maker. They were Britain’s first motorcycle manufacturer, starting production of their own ‘motor-bicycle’ in 1896. Initially they had premises at Lower Ford Street, Coventry, and 287-295 Stoney Stanton Road, Hillfields, Coventry, Warwickshire before moving to Kings Road, Tyseley, Birmingham in 1921. Originally a bicycle company making penny-farthings in 1874 under their original name: Bayliss, Thomas and Co, they later sold bicycles under the names of Excelsior and Eureka and changed the company name to Excelsior Motor Co. in 1910. In the early years of motor-bicycle manufacture they used Minerva, De Dion, MMC and possibly a Condor 850 cc single but went on to produce a wide range of machines with engines from most major manufacturers. In 1914, they offered a JAP-powered twin. A deal to supply the Russian Imperial government with motorcycles ended with the Revolution and Excelsior wound up with an excess inventory as a result. The Walker family (father Reginald and son Eric) took over after World War I. R Walker & Sons of Tyseley, Birmingham had started as makers of ships lamps but in 1919 had made a range of motorcycles under the Monarch name to be sold by the London Department store Gamages. The company was re-registered as the Excelsior Motor Company Ltd, production moved to Birmingham and the Lower Ford Street factory in Coventry sold to Francis-Barnett.[1] They made a range of motorcycles from 98 to 1,000 cc, mostly powered by JAP, Blackburne and Villiers engines, plus an 850 cc Condor engine. The new company put more effort in competition and racing. To avoid confusion with the American maker of the same name, they called themselves the \"British Excelsior\". Post-war But the company wasn't doing well and in the lean years following World War II racing and luxury machines were sidelined in favour of cheap two-stroke engines. After the war, they used Villiers engines to make the 250 cc Viking and in 1949 the Talisman, a smooth two-stroke with 180-degree crank. A later 328 cc twin-carb sports version did not sell well, although the engine itself achieved some success in Berkeley microcars in both 328 cc twin and 492 cc triple versions Closure Excelsior last manufactured a motorcycle in 1964 and folded in 1965. Britax, a car accessory company bought the name and produced limited numbers of Britax-Excelsior machines in the late 1970s. The head office address was: The Excelsior Motor Co, Kings Road, Tyseley, Birmingham 11.",
+          "width": 3008,
+          "height": 2000,
+          "mime": "image/jpeg",
+          "license": {
+            "status": "allowed",
+            "name": "CC BY-SA 2.0",
+            "url": "https://creativecommons.org/licenses/by-sa/2.0/",
+            "shareAlike": true,
+            "attributionRequired": true,
+            "reason": "Licence et auteur identifiés dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2012-10-26 02:48:45",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Flickr - ronsaunders47 - THE EXCELSIOR MOTORCYCLE. 250cc TWO STROKE TWIN. UK",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Taken with Nikon D40|Excelsior (UK) motorcycles|Flickr images reviewed by FlickreviewR|Photographs by Ronald Saunders|Files with coordinates missing SDC location of creation (52° N, 3° W)|Flickr images missing SDC Flickr photo ID|Flickr images missing SDC published in",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "GPSLatitude": {
+              "value": "52.807846",
+              "source": "commons-desc-page"
+            },
+            "GPSLongitude": {
+              "value": "-2.114696",
+              "source": "commons-desc-page"
+            },
+            "GPSMapDatum": {
+              "value": "WGS-84",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "<p>Probably a late 1950s or early 60s model Talisman.\n</p><p>Excelsior, based in Coventry, was a British bicycle, motorcycle and car maker. They were Britain’s first motorcycle manufacturer, starting production of their own ‘motor-bicycle’ in 1896. Initially they had premises at Lower Ford Street, Coventry, and 287-295 Stoney Stanton Road, Hillfields, Coventry, Warwickshire before moving to Kings Road, Tyseley, Birmingham in 1921.\n</p><p>Originally a bicycle company making penny-farthings in 1874 under their original name: Bayliss, Thomas and Co, they later sold bicycles under the names of Excelsior and Eureka and changed the company name to Excelsior Motor Co. in 1910. In the early years of motor-bicycle manufacture they used Minerva, De Dion, MMC and possibly a Condor 850 cc single but went on to produce a wide range of machines with engines from most major manufacturers. In 1914, they offered a JAP-powered twin. A deal to supply the Russian Imperial government with motorcycles ended with the Revolution and Excelsior wound up with an excess inventory as a result.\n</p><p>The Walker family (father Reginald and son Eric) took over after World War I. R Walker &amp; Sons of Tyseley, Birmingham had started as makers of ships lamps but in 1919 had made a range of motorcycles under the Monarch name to be sold by the London Department store Gamages. The company was re-registered as the Excelsior Motor Company Ltd, production moved to Birmingham and the Lower Ford Street factory in Coventry sold to Francis-Barnett.[1] They made a range of motorcycles from 98 to 1,000 cc, mostly powered by JAP, Blackburne and Villiers engines, plus an 850 cc Condor engine. The new company put more effort in competition and racing. To avoid confusion with the American maker of the same name, they called themselves the \"British Excelsior\".\n</p><p>Post-war\n</p><p>But the company wasn't doing well and in the lean years following World War II racing and luxury machines were sidelined in favour of cheap two-stroke engines. After the war, they used Villiers engines to make the 250 cc Viking and in 1949 the Talisman, a smooth two-stroke with 180-degree crank. A later 328 cc twin-carb sports version did not sell well, although the engine itself achieved some success in Berkeley microcars in both 328 cc twin and 492 cc triple versions\n</p><p>Closure\n</p><p>Excelsior last manufactured a motorcycle in 1964 and folded in 1965. Britax, a car accessory company bought the name and produced limited numbers of Britax-Excelsior machines in the late 1970s.\n</p>\nThe head office address was: The Excelsior Motor Co, Kings Road, Tyseley, Birmingham 11.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2010-10-17 09:54",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/ronsaunders47/5351300311/\">THE EXCELSIOR MOTORCYCLE. 250cc TWO STROKE TWIN. UK</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/46781500@N00\">Ronald Saunders</a> from Warrington, UK",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 2.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 2.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/2.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-2.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-05T11:19:07.061808+00:00",
+          "score": 80.0,
+          "match": "unreviewed"
+        }
+      ]
+    },
+    {
+      "modelId": "19",
+      "queries": [
+        "Roper steam bicycle",
+        "Roper 1896 motorcycle"
+      ],
+      "candidates": [
+        {
+          "fileTitle": "File:Velocípedo Roper (1869).jpg",
+          "pageId": 66129719,
+          "query": "Roper 1896 motorcycle",
+          "sourceSha1": "7b02a9a22378e40b9fa73c7940e83b7c6574ed4d",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Veloc%C3%ADpedo_Roper_%281869%29.jpg/960px-Veloc%C3%ADpedo_Roper_%281869%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Veloc%C3%ADpedo_Roper_%281869%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Veloc%C3%ADpedo_Roper_(1869).jpg",
+          "author": "Unknown author Unknown author",
+          "attribution": "",
+          "creditLine": "Stephen Wright: The American Motorcycle. Volume 1, 1896–1914. Megden Publishing Company, 2001, ISBN 0-9603676-2-4 . S. 9",
+          "description": "Velocípedo de vapor Roper (1869)",
+          "width": 3488,
+          "height": 2654,
+          "mime": "image/jpeg",
+          "license": {
+            "status": "allowed",
+            "name": "Public domain",
+            "url": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "shareAlike": false,
+            "attributionRequired": false,
+            "reason": "Domaine public ou CC0 identifié dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2018-02-04 17:18:08",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Velocípedo Roper (1869)",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Roper steam velocipede|PD US expired|Template Unknown (author)|Motorcycles in the United States|PD-US missing SDC copyright status|Steam-powered motorcycles",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Velocípedo de vapor Roper (1869)",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "1914-01-01",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "Stephen Wright: The American Motorcycle. Volume 1, 1896–1914. Megden Publishing Company, 2001, <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/ISBN\" class=\"extiw\" title=\"en:ISBN\"><span lang=\"en\" dir=\"ltr\">ISBN</span></a></span> <a href=\"//commons.wikimedia.org/wiki/Special:BookSources/0-9603676-2-4\" title=\"Special:BookSources/0-9603676-2-4\">0-9603676-2-4</a>. S. 9",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-05T11:20:02.016308+00:00",
+          "score": 60.0,
+          "match": "unreviewed"
+        },
+        {
+          "fileTitle": "File:USNatlMuseumBulltn204Pl4.jpg",
+          "pageId": 155221020,
+          "query": "Roper steam bicycle",
+          "sourceSha1": "23aeb7b33e75455ca68562c47473995238aac33f",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/USNatlMuseumBulltn204Pl4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/USNatlMuseumBulltn204Pl4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:USNatlMuseumBulltn204Pl4.jpg",
+          "author": "Smith Hempstone Oliver/Smithsonian Institution",
+          "attribution": "",
+          "creditLine": "Smithsonian Institution United States National Museum Bulletion 204: Catalog of the Cycle Collection of the Division of Engineering United States National Museum",
+          "description": "a) Smithsonian photo No. 36684 b) Smithsonian photo No. 5125",
+          "width": 498,
+          "height": 840,
+          "mime": "image/jpeg",
+          "license": {
+            "status": "allowed",
+            "name": "Public domain",
+            "url": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "shareAlike": false,
+            "attributionRequired": false,
+            "reason": "Domaine public ou CC0 identifié dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2024-11-16 00:55:57",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "USNatlMuseumBulltn204Pl4",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "PD US Government|Steam engines|Smithsonian Institution|CC-PD-Mark|History of the bicycle",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "a) Smithsonian photo No. 36684 b) Smithsonian photo No. 5125",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "1888-06-12",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "Smithsonian Institution United States National Museum Bulletion 204: Catalog of the Cycle Collection of the Division of Engineering United States National Museum",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Smith Hempstone Oliver/Smithsonian Institution",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-05T11:20:02.016308+00:00",
+          "score": 35.0,
+          "match": "unreviewed"
+        }
+      ]
+    },
+    {
+      "modelId": "23",
+      "queries": [
+        "Werner motocyclette",
+        "Werner motorcycle 1897"
+      ],
+      "candidates": [
+        {
+          "fileTitle": "File:(Tri-car) Werner 5 HP (monté) par Briand (avant le concours de tri-cars organisé par L'Auto en septembre 1905) - btv1b53230660f.jpg",
+          "pageId": 154689127,
+          "query": "Werner motocyclette",
+          "sourceSha1": "28f59dc04f61ead7acfad93dc2ad516bb0abc079",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/%28Tri-car%29_Werner_5_HP_%28mont%C3%A9%29_par_Briand_%28avant_le_concours_de_tri-cars_organis%C3%A9_par_L%27Auto_en_septembre_1905%29_-_btv1b53230660f.jpg/960px-%28Tri-car%29_Werner_5_HP_%28mont%C3%A9%29_par_Briand_%28avant_le_concours_de_tri-cars_organis%C3%A9_par_L%27Auto_en_septembre_1905%29_-_btv1b53230660f.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/%28Tri-car%29_Werner_5_HP_%28mont%C3%A9%29_par_Briand_%28avant_le_concours_de_tri-cars_organis%C3%A9_par_L%27Auto_en_septembre_1905%29_-_btv1b53230660f.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:(Tri-car)_Werner_5_HP_(mont%C3%A9)_par_Briand_(avant_le_concours_de_tri-cars_organis%C3%A9_par_L%27Auto_en_septembre_1905)_-_btv1b53230660f.jpg",
+          "author": "Agence Rol",
+          "attribution": "",
+          "creditLine": "Bibliothèque nationale de France",
+          "description": "Sujet : Coureurs motocyclistes -- France Motocyclettes -- France Portraits -- 1870-1913 Référence bibliographique : K261150 Appartient à l’ensemble documentaire : Pho20Rol Image de presse Couverture : .. septembre 1905 Langue : français",
+          "width": 8695,
+          "height": 6341,
+          "mime": "image/jpeg",
+          "license": {
+            "status": "allowed",
+            "name": "Public domain",
+            "url": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "shareAlike": false,
+            "attributionRequired": false,
+            "reason": "Domaine public ou CC0 identifié dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2024-10-31 02:25:01",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "<div class=\"fn\">\nTri-car Werner 5 HP monté par Briand avant le concours de tri-cars organisé par L'Auto en septembre 1905 : photographie de presse / Agence Rol</div>",
+              "source": "commons-desc-page"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Artworks without Wikidata item|Large images|PD-scan (PD-France)|PD-anon-expired|PD France|Files from Gallica|September 1905 France photographs|Images from Gallica (Bibliothèque nationale de France) uploaded by Gzen92Bot|Photographs by Agence Rol in the Bibliothèque nationale de France|1905 photographs by Agence Rol|Portrait photographs by Agence Rol|Werner Tricars|Files from Gallica needing categories (images of 1905)|1905 black and white portrait photographs of motorcycle racers in France|L'Auto Tricar Competition|Black and white photographs from Gallica",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Artist": {
+              "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q18507700\" class=\"extiw\" title=\"d:Q18507700\"><span title=\"French photo agency\">Agence Rol</span></a></bdi>",
+              "source": "commons-desc-page"
+            },
+            "ImageDescription": {
+              "value": "Sujet : Coureurs motocyclistes -- France\n<p>Motocyclettes -- France\nPortraits -- 1870-1913\nRéférence bibliographique : K261150\nAppartient à l’ensemble documentaire : Pho20Rol\nImage de presse\nCouverture : .. septembre 1905\n</p>\nLangue : français",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "1905<div style=\"display: none;\">date QS:P571,+1905-00-00T00:00:00Z/9</div>",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "Bibliothèque nationale de France",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-05T11:20:02.016308+00:00",
+          "score": 80.0,
+          "match": "unreviewed"
+        },
+        {
+          "fileTitle": "File:Bonnard (sur motocyclette Werner, concurrent du tour de France motocycliste, mai 1905) - btv1b53217424m.jpg",
+          "pageId": 161459132,
+          "query": "Werner motocyclette",
+          "sourceSha1": "bc46ef68521a16fb0b25dd4b56965cd0728486d2",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Bonnard_%28sur_motocyclette_Werner%2C_concurrent_du_tour_de_France_motocycliste%2C_mai_1905%29_-_btv1b53217424m.jpg/960px-Bonnard_%28sur_motocyclette_Werner%2C_concurrent_du_tour_de_France_motocycliste%2C_mai_1905%29_-_btv1b53217424m.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Bonnard_%28sur_motocyclette_Werner%2C_concurrent_du_tour_de_France_motocycliste%2C_mai_1905%29_-_btv1b53217424m.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Bonnard_(sur_motocyclette_Werner,_concurrent_du_tour_de_France_motocycliste,_mai_1905)_-_btv1b53217424m.jpg",
+          "author": "Agence Rol. Agence photographique (commanditaire)",
+          "attribution": "",
+          "creditLine": "Bibliothèque nationale de France",
+          "description": "Sujet : Coureurs motocyclistes -- France Motocyclettes -- France Portraits -- 1870-1913 Référence bibliographique : K260859 Appartient à l’ensemble documentaire : Pho20Rol Image de presse Couverture : .. mai 1905 Langue : français",
+          "width": 8477,
+          "height": 6176,
+          "mime": "image/jpeg",
+          "license": {
+            "status": "allowed",
+            "name": "Public domain",
+            "url": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "shareAlike": false,
+            "attributionRequired": false,
+            "reason": "Domaine public ou CC0 identifié dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2025-03-08 11:00:57",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "<div class=\"fn\">\nBonnard [sur motocyclette Werner, concurrent du tour de France motocycliste, mai 1905] : [photographie de presse] / [Agence Rol]</div>",
+              "source": "commons-desc-page"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Werner motorcycles|Artworks without Wikidata item|PD-1996|Large images|PD US expired|PD France|Files from Gallica|Images from Gallica (Bibliothèque nationale de France) uploaded by Gzen92Bot|Photographs by Agence Rol in the Bibliothèque nationale de France|1905 photographs by Agence Rol|1905 black and white portrait photographs of motorcycle racers in France|1905 Tour de France Motocycliste|Black and white photographs from Gallica",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Artist": {
+              "value": "<div class=\"fn value\">\nAgence Rol. Agence photographique (commanditaire)</div>",
+              "source": "commons-desc-page"
+            },
+            "ImageDescription": {
+              "value": "Sujet : Coureurs motocyclistes -- France\n<p>Motocyclettes -- France\nPortraits -- 1870-1913\nRéférence bibliographique : K260859\nAppartient à l’ensemble documentaire : Pho20Rol\nImage de presse\nCouverture : .. mai 1905\n</p>\nLangue : français",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "1905<div style=\"display: none;\">date QS:P571,+1905-00-00T00:00:00Z/9</div>",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "Bibliothèque nationale de France",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-05T11:20:02.016308+00:00",
+          "score": 80.0,
+          "match": "unreviewed"
+        },
+        {
+          "fileTitle": "File:Contant (sur motocyclette Werner, concurrent du tour de France motocycliste, mai 1905) - btv1b532174235.jpg",
+          "pageId": 162210144,
+          "query": "Werner motocyclette",
+          "sourceSha1": "bbedd0c34355b1c1cb2182138a6cd55279577128",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Contant_%28sur_motocyclette_Werner%2C_concurrent_du_tour_de_France_motocycliste%2C_mai_1905%29_-_btv1b532174235.jpg/960px-Contant_%28sur_motocyclette_Werner%2C_concurrent_du_tour_de_France_motocycliste%2C_mai_1905%29_-_btv1b532174235.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Contant_%28sur_motocyclette_Werner%2C_concurrent_du_tour_de_France_motocycliste%2C_mai_1905%29_-_btv1b532174235.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Contant_(sur_motocyclette_Werner,_concurrent_du_tour_de_France_motocycliste,_mai_1905)_-_btv1b532174235.jpg",
+          "author": "Agence Rol. Agence photographique (commanditaire)",
+          "attribution": "",
+          "creditLine": "Bibliothèque nationale de France",
+          "description": "Sujet : Contant, Armand (1887-1955) -- Portraits Coureurs motocyclistes -- France Motocyclettes -- France Portraits -- 1870-1913 Référence bibliographique : K260858 Appartient à l’ensemble documentaire : Pho20Rol Image de presse Couverture : .. mai 1905 Langue : français",
+          "width": 8477,
+          "height": 6176,
+          "mime": "image/jpeg",
+          "license": {
+            "status": "allowed",
+            "name": "Public domain",
+            "url": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "shareAlike": false,
+            "attributionRequired": false,
+            "reason": "Domaine public ou CC0 identifié dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2025-03-16 19:13:34",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "<div class=\"fn\">\nContant [sur motocyclette Werner, concurrent du tour de France motocycliste, mai 1905] : [photographie de presse] / [Agence Rol]</div>",
+              "source": "commons-desc-page"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Werner motorcycles|Artworks without Wikidata item|1900s clothing|PD-1996|Large images|PD US expired|PD France|Images from Gallica|Files from Gallica|Images from Gallica (Bibliothèque nationale de France) uploaded by Gzen92Bot|Photographs by Agence Rol in the Bibliothèque nationale de France|1905 photographs by Agence Rol|1905 black and white photographs of motorcycles in France|1905 black and white portrait photographs of motorcycle racers in France|Armand Contant|1905 Tour de France Motocycliste",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Artist": {
+              "value": "<div class=\"fn value\">\nAgence Rol. Agence photographique (commanditaire)</div>",
+              "source": "commons-desc-page"
+            },
+            "ImageDescription": {
+              "value": "Sujet : Contant, Armand (1887-1955) -- Portraits\n<p>Coureurs motocyclistes -- France\nMotocyclettes -- France\nPortraits -- 1870-1913\nRéférence bibliographique : K260858\nAppartient à l’ensemble documentaire : Pho20Rol\nImage de presse\nCouverture : .. mai 1905\n</p>\nLangue : français",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "1905<div style=\"display: none;\">date QS:P571,+1905-00-00T00:00:00Z/9</div>",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "Bibliothèque nationale de France",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-05T11:20:02.016308+00:00",
+          "score": 80.0,
+          "match": "unreviewed"
+        },
+        {
+          "fileTitle": "File:Rétromobile 2017 - Werner motocyclette à deux cylindres - 1906 - 001.jpg",
+          "pageId": 63987568,
+          "query": "Werner motocyclette",
+          "sourceSha1": "19d5a7fa111df4146d4ef4db566593919175f96f",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/R%C3%A9tromobile_2017_-_Werner_motocyclette_%C3%A0_deux_cylindres_-_1906_-_001.jpg/960px-R%C3%A9tromobile_2017_-_Werner_motocyclette_%C3%A0_deux_cylindres_-_1906_-_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/R%C3%A9tromobile_2017_-_Werner_motocyclette_%C3%A0_deux_cylindres_-_1906_-_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:R%C3%A9tromobile_2017_-_Werner_motocyclette_%C3%A0_deux_cylindres_-_1906_-_001.jpg",
+          "author": "Thesupermat",
+          "attribution": "",
+          "creditLine": "Own work",
+          "description": "Une Werner motocyclette à deux cylindres de 1906 exposée lors du salon Rétromobile 2017.",
+          "width": 5472,
+          "height": 3648,
+          "mime": "image/jpeg",
+          "license": {
+            "status": "allowed",
+            "name": "CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "shareAlike": true,
+            "attributionRequired": true,
+            "reason": "Licence et auteur identifiés dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2017-11-10 19:28:22",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Rétromobile 2017 - Werner motocyclette à deux cylindres - 1906 - 001",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Taken with Canon EOS 7D Mark II|New Werner motorcycle|Taken with Canon EF-S 10-22mm F3.5-4.5 USM|Self-published work|Files by User:Thesupermat|Media supported by Wikimedia France|Images supported by Wikimedia France - Atget|Rétromobile 2017 - Supported by Wikimedia France|Vehicles images Supported by Wikimedia France|Side views of motorcycles|Files by User:Thesupermat/Rétromobile 2017|Motorcycles at the Rétromobile 2017",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Une Werner motocyclette à deux cylindres de 1906 exposée lors du salon Rétromobile 2017.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2017-02-07 22:20:46",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Thesupermat\" title=\"User:Thesupermat\">Thesupermat</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-05T11:20:02.016308+00:00",
+          "score": 70.0,
+          "match": "unreviewed"
+        },
+        {
+          "fileTitle": "File:Clermont-Ferrand - L'Aventure Michelin - Paris-Vienne 1902, Bucquet sur une motocyclette Werner.jpg",
+          "pageId": 172734937,
+          "query": "Werner motocyclette",
+          "sourceSha1": "9bb95c228da4917f0a592e53972f7ddf4ba90aa4",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Clermont-Ferrand_-_L%27Aventure_Michelin_-_Paris-Vienne_1902%2C_Bucquet_sur_une_motocyclette_Werner.jpg/960px-Clermont-Ferrand_-_L%27Aventure_Michelin_-_Paris-Vienne_1902%2C_Bucquet_sur_une_motocyclette_Werner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Clermont-Ferrand_-_L%27Aventure_Michelin_-_Paris-Vienne_1902%2C_Bucquet_sur_une_motocyclette_Werner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Clermont-Ferrand_-_L%27Aventure_Michelin_-_Paris-Vienne_1902,_Bucquet_sur_une_motocyclette_Werner.jpg",
+          "author": "Romainbehar",
+          "attribution": "",
+          "creditLine": "Own work",
+          "description": "Paris-Vienne 1902, Bucquet sur une motocyclette Werner.",
+          "width": 4032,
+          "height": 3024,
+          "mime": "image/jpeg",
+          "license": {
+            "status": "allowed",
+            "name": "CC0",
+            "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "shareAlike": false,
+            "attributionRequired": false,
+            "reason": "Domaine public ou CC0 identifié dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2025-08-16 07:45:59",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Clermont-Ferrand - L'Aventure Michelin - Paris-Vienne 1902, Bucquet sur une motocyclette Werner",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "CC-Zero|L'Aventure Michelin|Auguste Bucquet|Self-published work|Files with coordinates missing SDC location of creation|Uploaded with PyCommonist",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "GPSLatitude": {
+              "value": "45.790433",
+              "source": "commons-desc-page"
+            },
+            "GPSLongitude": {
+              "value": "3.105889",
+              "source": "commons-desc-page"
+            },
+            "GPSMapDatum": {
+              "value": "WGS-84",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Paris-Vienne 1902, Bucquet sur une motocyclette Werner.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2025-08-15 14:59:39",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Romainbehar\" title=\"User:Romainbehar\">Romainbehar</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Zero, Public Domain Dedication",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-05T11:20:02.016308+00:00",
+          "score": 60.0,
+          "match": "unreviewed"
+        },
+        {
+          "fileTitle": "File:Werner Motocyclette advert 1900.jpg",
+          "pageId": 25689573,
+          "query": "Werner motocyclette",
+          "sourceSha1": "151727d64e02a2cd5d4e2efeab908efc144c77cb",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Werner_Motocyclette_advert_1900.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Werner_Motocyclette_advert_1900.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Werner_Motocyclette_advert_1900.jpg",
+          "author": "Unknown - published at Grace's Guide, dated July 1900",
+          "attribution": "",
+          "creditLine": "http://www.gracesguide.co.uk/File:Im19000714AC-Motor.jpg",
+          "description": "Motor Mfg Co. advert for Werner Motocyclette dated July 1900",
+          "width": 760,
+          "height": 268,
+          "mime": "image/jpeg",
+          "license": {
+            "status": "allowed",
+            "name": "Public domain",
+            "url": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "shareAlike": false,
+            "attributionRequired": false,
+            "reason": "Domaine public ou CC0 identifié dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2013-04-21 03:00:39",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Werner Motocyclette advert 1900",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "PD US|Werner motorcycles|PD-US missing SDC copyright status",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Motor Mfg Co. advert for Werner Motocyclette dated July 1900",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2013-04-20 19:58:40",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.gracesguide.co.uk/File:Im19000714AC-Motor.jpg\">http://www.gracesguide.co.uk/File:Im19000714AC-Motor.jpg</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Unknown - published at Grace's Guide, dated July 1900",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-05T11:20:02.016308+00:00",
+          "score": 47.6,
+          "match": "unreviewed"
+        },
+        {
+          "fileTitle": "File:Werner Motocylette 1½ CV (1901 Critérium des motocyclettes).jpg",
+          "pageId": 97482569,
+          "query": "Werner motocyclette",
+          "sourceSha1": "46ce7b242c84c881fa333434b48c0d2378aca411",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Werner_Motocylette_1%C2%BD_CV_%281901_Crit%C3%A9rium_des_motocyclettes%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Werner_Motocylette_1%C2%BD_CV_%281901_Crit%C3%A9rium_des_motocyclettes%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Werner_Motocylette_1%C2%BD_CV_(1901_Crit%C3%A9rium_des_motocyclettes).jpg",
+          "author": "La locomotion",
+          "attribution": "",
+          "creditLine": "1901-11-02 La locomotion, no.5, p.70",
+          "description": "Werner Motocylette 1½ HP (1901 Critérium des motocyclettes)",
+          "width": 687,
+          "height": 521,
+          "mime": "image/jpeg",
+          "license": {
+            "status": "allowed",
+            "name": "Public domain",
+            "url": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "shareAlike": false,
+            "attributionRequired": false,
+            "reason": "Domaine public ou CC0 identifié dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2020-12-12 00:36:02",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Werner Motocylette 1½ CV (1901 Critérium des motocyclettes)",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "PD-old-70-expired|Werner motorcycles|CC-PD-Mark|PD-old missing SDC copyright status",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Werner Motocylette 1½ HP (1901 Critérium des motocyclettes)",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "1901-11-02",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "1901-11-02 La locomotion, no.5, p.70",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "La locomotion",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-05T11:20:02.016308+00:00",
+          "score": 46.9,
+          "match": "unreviewed"
+        },
+        {
+          "fileTitle": "File:Werner Motocyclette 0.75 CV (1898).jpg",
+          "pageId": 97482722,
+          "query": "Werner motocyclette",
+          "sourceSha1": "d2a4791328c4e72c616d6df3262447eb22a67ca5",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Werner_Motocyclette_0.75_CV_%281898%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Werner_Motocyclette_0.75_CV_%281898%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Werner_Motocyclette_0.75_CV_(1898).jpg",
+          "author": "La locomotion automobile",
+          "attribution": "",
+          "creditLine": "La locomotion automobile, 1898-04-21, no.16, p.249",
+          "description": "Werner Motocyclette 0.75 HP (1898)",
+          "width": 657,
+          "height": 428,
+          "mime": "image/jpeg",
+          "license": {
+            "status": "allowed",
+            "name": "Public domain",
+            "url": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "shareAlike": false,
+            "attributionRequired": false,
+            "reason": "Domaine public ou CC0 identifié dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2020-12-12 00:45:00",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Werner Motocyclette 0.75 CV (1898)",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "PD-old-70-expired|Werner motorcycles|CC-PD-Mark|PD-old missing SDC copyright status",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Werner Motocyclette 0.75 HP (1898)",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "1898-04-21",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "La locomotion automobile, 1898-04-21, no.16, p.249",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "La locomotion automobile",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-05T11:20:02.016308+00:00",
+          "score": 46.6,
+          "match": "unreviewed"
+        }
+      ]
+    },
+    {
+      "modelId": "24",
+      "queries": [
+        "Peugeot motobicyclette 1899",
+        "Peugeot motorcycle 1898"
+      ],
+      "candidates": [
+        {
+          "fileTitle": "File:Btv1b8448923r-p033.jpg",
+          "pageId": 42865205,
+          "query": "Peugeot motorcycle 1898",
+          "sourceSha1": "f40cb0e6c665777ff01ac8a524edd8e1e4f989c3",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Btv1b8448923r-p033.jpg/960px-Btv1b8448923r-p033.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Btv1b8448923r-p033.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Btv1b8448923r-p033.jpg",
+          "author": "Jules Beau",
+          "attribution": "",
+          "creditLine": "This file comes from Gallica Digital Library and is available under the digital ID btv1b8448923r",
+          "description": "Upper: De Dion-Bouton engined Peugeot tricycle [Collection Jules Beau. Photographie sportive] : T. 11. Années 1898, 1899 et 1900 / Jules Beau : F. 15. Henri Farman ; Pierre Lafitte, Madame Pierre Lafitte;",
+          "width": 3920,
+          "height": 4864,
+          "mime": "image/jpeg",
+          "license": {
+            "status": "allowed",
+            "name": "Public domain",
+            "url": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "shareAlike": false,
+            "attributionRequired": false,
+            "reason": "Domaine public ou CC0 identifié dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2015-09-26 21:50:14",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Btv1b8448923r-p033",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Pierre Lafitte|Peugeot motorcycles|PD US expired|Fur blankets|Fur boas|PD France|CC-PD-Mark|Auto-rickshaws in France|Fur fashion in 1899|Files from Gallica|1898 Peugeot vehicles|PD Old (assumed)|Historical tricycles|Images by JeanBono from Gallica|Photographie sportive, Jules Beau, t 11|Motor-assisted quadricycles|Motor-assisted tricycles",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "<p>Upper: De Dion-Bouton engined Peugeot tricycle\n</p>\n[Collection Jules Beau. Photographie sportive] : T. 11. Années 1898, 1899 et 1900 / Jules Beau : F. 15. Henri Farman ; Pierre Lafitte, Madame Pierre Lafitte;",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "between 1898 and 1900<div style=\"display: none;\">date QS:P,+1500-00-00T00:00:00Z/6,P1319,+1898-00-00T00:00:00Z/9,P1326,+1900-00-00T00:00:00Z/9</div>",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "This file comes from <a rel=\"nofollow\" class=\"external text\" href=\"https://gallica.bnf.fr/\">Gallica Digital Library</a> and is available under the digital ID <a rel=\"nofollow\" class=\"external text\" href=\"https://gallica.bnf.fr/ark:/12148/btv1b8448923r\">btv1b8448923r</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Jules_Beau\" class=\"extiw\" title=\"w:en:Jules Beau\"><span title=\"French photographer (1864-1932)\">Jules Beau</span></a></bdi>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-05T11:20:02.016308+00:00",
+          "score": 74.3,
+          "match": "unreviewed"
+        },
+        {
+          "fileTitle": "File:Peugeot Tricycle de Dion - 1898 - Mondial de l'Automobile de Paris 2018 - 001.jpg",
+          "pageId": 75694641,
+          "query": "Peugeot motorcycle 1898",
+          "sourceSha1": "0991696734d7a3ceb8d415845c174f2bf5a19cca",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Peugeot_Tricycle_de_Dion_-_1898_-_Mondial_de_l%27Automobile_de_Paris_2018_-_001.jpg/960px-Peugeot_Tricycle_de_Dion_-_1898_-_Mondial_de_l%27Automobile_de_Paris_2018_-_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Peugeot_Tricycle_de_Dion_-_1898_-_Mondial_de_l%27Automobile_de_Paris_2018_-_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Peugeot_Tricycle_de_Dion_-_1898_-_Mondial_de_l%27Automobile_de_Paris_2018_-_001.jpg",
+          "author": "Thesupermat",
+          "attribution": "",
+          "creditLine": "Own work",
+          "description": "Un Peugeot Tricycle de Dion exposé lors du mondial de l'automobile de Paris 2018.",
+          "width": 5760,
+          "height": 3840,
+          "mime": "image/jpeg",
+          "license": {
+            "status": "allowed",
+            "name": "CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "shareAlike": true,
+            "attributionRequired": true,
+            "reason": "Licence et auteur identifiés dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2019-01-08 20:58:55",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Peugeot Tricycle de Dion - 1898 - Mondial de l'Automobile de Paris 2018 - 001",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Taken with Canon EOS 5D Mark III and Canon EF 24-70mm F2.8L II USM|Peugeot motorcycles|Routes mythiques|Self-published work|Files by User:Thesupermat|Media supported by Wikimedia France|Images supported by Wikimedia France - Atget|1898 Peugeot vehicles|Vehicles images Supported by Wikimedia France|Automobiles at Mondial de l’Automobile de Paris 2018|Files by User:Thesupermat/Mondial de l'Automobile de Paris 2018|Mondial de l'Automobile de Paris 2018 - Supported by Wikimedia France|Motor-assisted tricycles",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Un Peugeot Tricycle de Dion exposé lors du mondial de l'automobile de Paris 2018.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2018-10-11 16:44:49",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Thesupermat\" title=\"User:Thesupermat\">Thesupermat</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-05T11:20:02.016308+00:00",
+          "score": 65.7,
+          "match": "unreviewed"
+        },
+        {
+          "fileTitle": "File:MAP 49 - Peugeot.jpg",
+          "pageId": 80485605,
+          "query": "Peugeot motorcycle 1898",
+          "sourceSha1": "8e4403a5de3883bf4283e304182cdf82c5c928e6",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/MAP_49_-_Peugeot.jpg/960px-MAP_49_-_Peugeot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/MAP_49_-_Peugeot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:MAP_49_-_Peugeot.jpg",
+          "author": "Herranderssvensson",
+          "attribution": "",
+          "creditLine": "Own work",
+          "description": "1898 Peugeot Tricycle",
+          "width": 3901,
+          "height": 3456,
+          "mime": "image/jpeg",
+          "license": {
+            "status": "allowed",
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "shareAlike": true,
+            "attributionRequired": true,
+            "reason": "Licence et auteur identifiés dans extmetadata"
+          },
+          "metadata": {
+            "DateTime": {
+              "value": "2019-07-18 06:10:28",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "MAP 49 - Peugeot",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Self-published work|1898 Peugeot vehicles|Motorcycles in the Musée de l'Aventure Peugeot",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "1898 Peugeot Tricycle",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2019-07-18",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Herranderssvensson\" title=\"User:Herranderssvensson\">Herranderssvensson</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 3.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 3.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/3.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-3.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          },
+          "checkedAt": "2026-11-05T11:20:02.016308+00:00",
+          "score": 65.7,
           "match": "unreviewed"
         }
       ]
