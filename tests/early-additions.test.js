@@ -4,7 +4,7 @@ import {readFile} from 'node:fs/promises';
 import {validateInventory,constructionBounds,constructionDate} from '../src/history/domain.js';
 import {migrateLegacy} from '../src/history/migrate.js';
 import {appendSeedAdditions} from '../src/history/seed-update.js';
-const actual=JSON.parse(await readFile(new URL('../public/inventory.json',import.meta.url),'utf8'));
+const actual=JSON.parse(await readFile(new URL('../data/migrations/catalogue-24-before-peugeot.json',import.meta.url),'utf8'));
 const original=JSON.parse(await readFile(new URL('../data/migrations/catalogue-v1.json',import.meta.url),'utf8'));
 test('seven requested references are unique, with stable internal IDs separate from 005–011',()=>{const additions=actual.vehicles.filter(v=>Number(v.id)>=18);assert.equal(actual.vehicles.length,24);assert.deepEqual(additions.map(v=>v.inventory_reference),['005','006','007','008','009','010','011']);assert.deepEqual(additions.map(v=>v.id),['18','19','20','21','22','23','24']);assert.equal(new Set(actual.vehicles.map(v=>v.id)).size,24);assert.equal(validateInventory(actual).filter(e=>e.severity==='error').length,0)});
 test('a documented Hildebrand specimen is not silently converted into a first prototype',()=>{const v=actual.vehicles.find(v=>v.id==='18');assert.equal(v.dates.prototype_year.year,null);assert.equal(v.documented_construction.year,1894);assert.equal(v.documented_construction.precision,'approximate');assert.equal(constructionBounds(v).start,1894);assert.equal(constructionDate(v).confidence,'A');assert.equal(v.technical.displacement_cc,null)});

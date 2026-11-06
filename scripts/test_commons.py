@@ -1,4 +1,6 @@
-import unittest,json
+import unittest,json,tempfile
+from unittest.mock import patch
+import commons_sync
 from pathlib import Path
 from commons_sync import license_policy,normalize,ROOT
 
@@ -23,4 +25,15 @@ class RightsPolicyTests(unittest.TestCase):
     self.assertEqual(photo['license']['status'],'allowed');self.assertIn(photo['match'],['exact','approximate']);self.assertTrue(photo['thumbnailUrl']);self.assertTrue(photo['originalUrl']);self.assertTrue(photo['sourcePage'].startswith('https://commons.wikimedia.org/'))
     for local in photo['local'].values():self.assertTrue((ROOT/'public'/local.lstrip('/')).exists());shipped.add(Path(local).name)
   self.assertEqual(shipped,{p.name for p in (ROOT/'public/images').glob('*.webp')})
+class DiscoveryTests(unittest.TestCase):
+ def test_query_refinement_keeps_old_candidates_and_only_requests_new_queries(self):
+  with tempfile.TemporaryDirectory() as root:
+   folder=Path(root);(folder/'data').mkdir();old={'fileTitle':'File:Known.jpg','score':50}
+   (folder/'data/commons-inventory.json').write_text(json.dumps({'models':[{'modelId':'bike','queries':['old query'],'candidates':[old]}]}))
+   with patch.object(commons_sync,'ROOT',folder),patch.object(commons_sync,'request',return_value={'query':{'pages':[]}}) as request:
+    model={'id':'bike','brand':'Maker','model':'Model','imageQueries':['old query','new query']}
+    commons_sync.discover([model]);self.assertEqual(request.call_count,1)
+    self.assertEqual(request.call_args.args[0]['gsrsearch'],'new query filetype:bitmap')
+    data=json.loads((folder/'data/commons-inventory.json').read_text())['models'];self.assertEqual(len(data),1);self.assertEqual(data[0]['candidates'],[old]);self.assertEqual(data[0]['queries'],['old query','new query'])
+    commons_sync.discover([model]);self.assertEqual(request.call_count,1)
 if __name__=='__main__':unittest.main()

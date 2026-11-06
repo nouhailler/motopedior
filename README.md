@@ -14,7 +14,7 @@ Le build statique se trouve dans `dist`. Servir en HTTPS pour l’installation e
 
 ## Données et extension
 
-`public/motos.json` contient 17 modèles. Chaque entrée possède un identifiant stable, marque, modèle, production, pays, catégorie, description, spécifications indicatives et image. Remplacer ce fichier ou l’appel `fetch` dans `src/main.jsx` par une API paginée pour un grand catalogue. Pour plusieurs milliers d’entrées, déplacer les filtres et la recherche côté API et charger les pages avec le même IntersectionObserver. Les collections référencent les identifiants stables.
+`public/inventory.json` contient 52 fiches normalisées, dont les anciennes fiches non validées conservées pour compatibilité. Les 54 nouvelles candidates du lot 1901–1910 sont séparées dans `research_batches`, hors de la liste des véhicules. C’est la source historique chargée par `HistoryProvider`, puis conservée dans IndexedDB. `data/models.json` et le catalogue généré `public/motos.json` alimentent le pipeline iconographique ; ils ne remplacent pas les assertions documentaires de l’inventaire. Pour plusieurs milliers d’entrées, prévoir une API paginée, déplacer les filtres et la recherche côté API et charger les pages avec le même IntersectionObserver. Les collections référencent les identifiants techniques stables.
 
 IndexedDB conserve les collections et les 20 dernières consultations. Workbox précache l’interface et le catalogue ; les images locales optimisées sont distribuées en trois tailles et mises en cache à la consultation. Un visuel de secours local remplace les photos absentes ou non validées. Les favoris restent propres à l’appareil ; pas de synchronisation serveur.
 
@@ -76,6 +76,18 @@ IndexedDB passe de v1 à v2 sans suppression des collections. Les modifications 
 
 ### Références historiques 005–011
 
-Sept fiches supplémentaires sont ajoutées avec leurs références et années proposées, distinctes des années effectivement documentées. Voir `docs/EARLY-REFERENCES-005-011.md`. Le catalogue normalisé contient 24 fiches. Les dates incertaines, variantes iconographiques et identifications non confirmées restent visibles ; aucune confusion de tricycle ou de millésime n’est masquée.
+Sept fiches supplémentaires sont ajoutées avec leurs références et années proposées, distinctes des années effectivement documentées. Voir `docs/EARLY-REFERENCES-005-011.md`. Cette étape a porté le catalogue normalisé à 24 fiches. Les dates incertaines, variantes iconographiques et identifications non confirmées restent visibles ; aucune confusion de tricycle ou de millésime n’est masquée.
 
 Les nouveautés éditoriales sont ajoutées à IndexedDB de façon additive et idempotente, avec sauvegarde préalable, sans remplacer les modifications locales. `npm run add:early-history` génère ces nouveaux enregistrements normalisés ; ne pas utiliser la migration initiale pour régénérer un inventaire documentaire enrichi.
+
+### Peugeot 1898, ZL 1901 et De Dion-Bouton 1895
+
+Cette étape a porté le catalogue à 27 entrées avec trois fiches documentées : prototype Peugeot présenté en 1898, Motobicyclette ZL présentée en 1901, et tricycle à essence De Dion-Bouton de 1895. Les dates de présentation restent distinctes de la construction. Deux photos Commons approuvées sont intégrées avec attribution ; le prototype de 1898 conserve un visuel de remplacement. Les références incertaines précédentes restent accessibles avec des liens vers ces alternatives. Voir `docs/PEUGEOT-DE-DION.md` et `npm run add:peugeot-de-dion`.
+
+### Lot historique 1890–1900
+
+Le catalogue contient désormais 34 fiches : les 14 références de ce lot réutilisent 7 fiches, ajoutent 4 modèles documentés et conservent 3 candidates non validées. `npm run add:1890-1900` génère les ajouts de façon idempotente. L’inventaire affiche les décisions, un focus statistique distinct des tricycles et une base de filtre séparant construction et présentation. La migration éditoriale conserve notes locales, favoris, consultations et sauvegardes. Le [rapport 1890–1900](docs/INTEGRATION-1890-1900.md) détaille chaque modèle, les sources, les limites et les 59 tests réussis.
+
+### Lot historique 1901–1910
+
+75 références examinées : 18 nouvelles fiches documentées (dont une variante), 3 réutilisations et 54 références en attente séparées de l’inventaire des véhicules. Le catalogue comporte 52 fiches ; le compteur de la période compte 17 familles de motos sans recomptage de la variante Indian. Les 3 tricycles demandés restent des dossiers à documenter. `npm run add:1901-1910` est idempotent ; `npm run prepare:1901-media` prépare les requêtes iconographiques. Le [rapport 1901–1910](docs/INTEGRATION-1901-1910.md) détaille les 75 décisions, les sources, les conflits, les 4 photos Commons autorisées, la migration et les 77 tests réussis.

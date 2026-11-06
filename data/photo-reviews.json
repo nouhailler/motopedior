@@ -325,5 +325,933 @@
     "reviewedAt": "2026-11-05T11:21:43.131108+00:00",
     "note": "Aucune photo validée pour la désignation 1899. Les tricycles Peugeot 1898 ne sont pas substitués à une motobicyclette.",
     "photos": []
+  },
+  "25": {
+    "reviewedAt": "2026-11-05T11:41:57.546915+00:00",
+    "note": "Aucun visuel Commons validé du prototype présenté en 1898. Les tricycles Peugeot de la même époque ne sont pas utilisés comme substituts.",
+    "photos": []
+  },
+  "26": {
+    "reviewedAt": "2026-11-05T11:41:57.546915+00:00",
+    "note": "Exemplaire Peugeot ZL désigné 1901 dans Commons ; photographie prise au Mondial de l’Automobile 2018, année de prise de vue distincte du modèle.",
+    "photos": [
+      {
+        "fileTitle": "File:Peugeot ZL - 1901 - Mondial de l'Automobile de Paris 2018 - 001.jpg",
+        "match": "exact",
+        "approved": true,
+        "note": "Le titre Commons identifie Peugeot ZL 1901, exposée au Mondial 2018 ; la photo documente le modèle, pas la date de fabrication de cet exemplaire."
+      }
+    ]
+  },
+  "27": {
+    "reviewedAt": "2026-11-05T11:44:34.092099+00:00",
+    "note": "Photographie historique de Georges Bouton au rendez-vous de Tunbridge Wells en octobre 1895 ; tricycle De Dion-Bouton identifié. Les tricycles d’autres marques équipés d’un moteur De Dion sont écartés.",
+    "photos": [
+      {
+        "fileTitle": "File:Georges Bouton at 1895 Tunbridge Wells Meeting, De Dion-Bouton Tricycle (1).jpg",
+        "match": "exact",
+        "approved": true,
+        "mediaKind": "archive",
+        "note": "La description Commons situe Georges Bouton et le tricycle à Tunbridge Wells le 15 octobre 1895 ; cette date est celle de l’événement photographié, pas la fabrication certifiée de cet exemplaire."
+      }
+    ]
+  },
+  "28": {
+    "reviewedAt": "2026-11-05",
+    "reviewBasis": "Comparaison du nom, description, type de véhicule, version et licence extmetadata.",
+    "note": "Geneva : exemplaire d’exposition ; authenticité et reconstruction à éclaircir avant utilisation.",
+    "photos": [
+      {
+        "fileTitle": "File:Wooden Ped. Bikes 1.jpg",
+        "match": "none",
+        "approved": false,
+        "note": "Geneva : exemplaire d’exposition ; authenticité et reconstruction à éclaircir avant utilisation."
+      }
+    ]
+  },
+  "29": {
+    "reviewedAt": "2026-11-05",
+    "reviewBasis": "Comparaison du nom, description, type de véhicule, version et licence extmetadata.",
+    "note": "Aucun fichier correspondant identifié par la recherche Commons.",
+    "photos": []
+  },
+  "30": {
+    "reviewedAt": "2026-11-05",
+    "reviewBasis": "Comparaison du nom, description, type de véhicule, version et licence extmetadata.",
+    "note": "Aucun fichier de deux-roues identifié ; le brevet et le tricycle Autocar ne servent pas de photo de ce candidat.",
+    "photos": []
+  },
+  "31": {
+    "reviewedAt": "2026-11-05",
+    "reviewBasis": "Comparaison du nom, description, type de véhicule, version et licence extmetadata.",
+    "note": "Exemplaire Perks & Birch Autowheel 1899 du National Motor Museum : photo du vélocipède avec moteur dans la roue arrière, contrôle visuel effectué.",
+    "photos": [
+      {
+        "fileTitle": "File:1899 Perks & Birch Autowheel motorcycle (5947909163).jpg",
+        "match": "none",
+        "approved": false,
+        "note": "Panneau du musée et détail de roue ; le document reproduit aussi un tricycle différent. Écarté de la galerie principale."
+      },
+      {
+        "fileTitle": "File:1899 Perks & Birch Autowheel motorcycle (5947905171).jpg",
+        "match": "exact",
+        "approved": true,
+        "note": "Exemplaire Perks & Birch Autowheel 1899 du National Motor Museum : photo du vélocipède avec moteur dans la roue arrière, contrôle visuel effectué."
+      }
+    ]
+  },
+  "32": {
+    "reviewedAt": "2026-11-05",
+    "reviewBasis": "Comparaison du nom, description, type de véhicule, version et licence extmetadata.",
+    "note": "Aucune photo du prototype à galet Design Number Two n’a été validée. Les vues exposées de Thomas ne permettent pas de confirmer cette version.",
+    "photos": [
+      {
+        "fileTitle": "File:CW Eckersberg, En dansk korvet, som ligger bi for at tale med en dansk orlogsbrig Scenen er tænkt at foregå i Vestindien, 1827, KMS1664, Statens Museum for Kunst.jpg",
+        "match": "none",
+        "approved": false,
+        "note": "Les photos de Thomas exposées ne prouvent pas la correspondance avec le prototype à galet Design Number Two. Un résultat maritime est hors sujet."
+      },
+      {
+        "fileTitle": "File:1900 Thomas (1) - The Art of the Motorcycle - Memphis.jpg",
+        "match": "none",
+        "approved": false,
+        "note": "Les photos de Thomas exposées ne prouvent pas la correspondance avec le prototype à galet Design Number Two. Un résultat maritime est hors sujet."
+      },
+      {
+        "fileTitle": "File:1900 Thomas (2) - The Art of the Motorcycle - Memphis.jpg",
+        "match": "none",
+        "approved": false,
+        "note": "Les photos de Thomas exposées ne prouvent pas la correspondance avec le prototype à galet Design Number Two. Un résultat maritime est hors sujet."
+      }
+    ]
+  },
+  "33": {
+    "reviewedAt": "2026-11-05",
+    "reviewBasis": "Comparaison du nom, description, type de véhicule, version et licence extmetadata.",
+    "note": "Aucune photo du modèle de 1898 n’a été validée ; les vues repérées concernent des exemplaires datés de 1898–1899.",
+    "photos": [
+      {
+        "fileTitle": "File:Ariel Tricycle 1898-1899 schräg 1.JPG",
+        "match": "none",
+        "approved": false,
+        "note": "Les fichiers concernent 1898–1899 ; la licence CC BY-SA 3.0 de est une licence portée que l’importeur actuel ne prend pas en charge. Aucun fichier intégré par défaut."
+      },
+      {
+        "fileTitle": "File:Ariel Tricycle 1898-1899 schräg 2.JPG",
+        "match": "none",
+        "approved": false,
+        "note": "Les fichiers concernent 1898–1899 ; la licence CC BY-SA 3.0 de est une licence portée que l’importeur actuel ne prend pas en charge. Aucun fichier intégré par défaut."
+      },
+      {
+        "fileTitle": "File:Ariel Tricycle 1898-1899 seitlich 2.JPG",
+        "match": "none",
+        "approved": false,
+        "note": "Les fichiers concernent 1898–1899 ; la licence CC BY-SA 3.0 de est une licence portée que l’importeur actuel ne prend pas en charge. Aucun fichier intégré par défaut."
+      },
+      {
+        "fileTitle": "File:Ariel Tricycle 1898-1899 seitlich 1.JPG",
+        "match": "none",
+        "approved": false,
+        "note": "Les fichiers concernent 1898–1899 ; la licence CC BY-SA 3.0 de est une licence portée que l’importeur actuel ne prend pas en charge. Aucun fichier intégré par défaut."
+      }
+    ]
+  },
+  "34": {
+    "reviewedAt": "2026-11-05",
+    "reviewBasis": "Comparaison du nom, description, type de véhicule, version et licence extmetadata.",
+    "note": "Aucun résultat Commons correspondant ; les droits de l’image Smithsonian ne sont pas automatiquement déduits des métadonnées CC0.",
+    "photos": []
+  },
+  "1901-enfield-motor-bicycle": {
+    "reviewedAt": "2026-11-06",
+    "reviewBasis": "Métadonnées imageinfo/extmetadata, version, année, type de véhicule et contrôle visuel des fichiers retenus.",
+    "note": "Aucune photo de cette version suffisamment identifiée et approuvée ; les vues d’autres années, composants, répliques et résultats sans rapport sont écartés.",
+    "photos": [
+      {
+        "fileTitle": "File:1964 Royal Enfield Crusader Coventry Transport Museum.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Royal Enfield, JM 3239, London to Brighton Veteran Car Run 2024, Quadricycle 1901 - 23.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Royal Enfield car (52499922356).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Cei-Rigotti - 6.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Rifle (AM 1940.173-7).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Rifle (AM 1940.173-10).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Rifle (AM 1940.173-13).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Rifle (AM 1940.173-19).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      }
+    ]
+  },
+  "1902-indian-single": {
+    "reviewedAt": "2026-11-06",
+    "reviewBasis": "Métadonnées imageinfo/extmetadata, version, année, type de véhicule et contrôle visuel des fichiers retenus.",
+    "note": "Aucune photo de cette version suffisamment identifiée et approuvée ; les vues d’autres années, composants, répliques et résultats sans rapport sont écartés.",
+    "photos": [
+      {
+        "fileTitle": "File:Zedel 1902.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Progress 1902.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Frozen Yogurt Moab, Utah (26038354167).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Indian Single 16 ci engine (1902).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Naval Motorcycle Expedition Team in Front of Vivekananda Rock Memorial at Kanyakumari.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      }
+    ]
+  },
+  "1902-triumph-no1": {
+    "reviewedAt": "2026-11-06",
+    "reviewBasis": "Métadonnées imageinfo/extmetadata, version, année, type de véhicule et contrôle visuel des fichiers retenus.",
+    "note": "Aucune photo de cette version suffisamment identifiée et approuvée ; les vues d’autres années, composants, répliques et résultats sans rapport sont écartés.",
+    "photos": [
+      {
+        "fileTitle": "File:Triumph Herald 1200 cabriolet (8477649603).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:1975 Triumph Dolomite Saloon (46516299034).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:1967 Triumph 2000 Mk I Saloon (47239944521).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:1951 Triumph Mayflower Saloon (39938685683).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:1963 Triumph Spitfire Mk I Roadster (39938701913).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:1969 Triumph Herald Mk II 13 60 Convertible (45737749731).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Flickr - ronsaunders47 - TRIUMPH BOSS. 350cc TWO-STROKE. GERMANY..jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      }
+    ]
+  },
+  "1905-fn-four": {
+    "reviewedAt": "2026-11-06",
+    "reviewBasis": "Métadonnées imageinfo/extmetadata, version, année, type de véhicule et contrôle visuel des fichiers retenus.",
+    "note": "FN Four 1905 exposée au Petersen Museum, autre exemplaire que celui du Franschhoek Motor Museum. La photo illustre le modèle sans attribuer ses caractéristiques à cet exemplaire.",
+    "photos": [
+      {
+        "fileTitle": "File:1905 FN Four Cylinder Petersen Automotive Museum.jpg",
+        "approved": true,
+        "match": "approximate",
+        "note": "FN Four 1905 exposée au Petersen Museum, autre exemplaire que celui du Franschhoek Motor Museum. La photo illustre le modèle sans attribuer ses caractéristiques à cet exemplaire."
+      },
+      {
+        "fileTitle": "File:FN 1905.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:History of the First battalion Pennsylvania six months volunteers and the 187th regiment Pennsylvania volunteer infantry; six months and three years service, civil war, 1863-1865; (1905) (14759630281).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:SHEPHERD, F.N. LCCN2016859866.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:The new international encyclopaedia (1905) (14781920705).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:FN 363 cc viercilinder 1905.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:PM 137016 B Leuze.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:SHEPHERD, F.N. LCCN2016859866.tif",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      }
+    ]
+  },
+  "1909-harley-5d": {
+    "reviewedAt": "2026-11-06",
+    "reviewBasis": "Métadonnées imageinfo/extmetadata, version, année, type de véhicule et contrôle visuel des fichiers retenus.",
+    "note": "La 5-D de 1909 est la moto grise à gauche, à moteur V-twin et pancarte 1909. La moto noire à droite est un monocylindre Model 2 de 1906, distinct et non décrit par cette fiche.",
+    "photos": [
+      {
+        "fileTitle": "File:Harley-Davidson Museum December 2023 04 (1909 Model 5-D--Atmospheric-Valve V-Twin and 1906 Model 2--Atmospheric-Valve Single).jpg",
+        "approved": true,
+        "match": "exact",
+        "note": "La 5-D de 1909 est la moto grise à gauche, à moteur V-twin et pancarte 1909. La moto noire à droite est un monocylindre Model 2 de 1906, distinct et non décrit par cette fiche."
+      },
+      {
+        "fileTitle": "File:Harley-Davidson Museum December 2023 01 (1911 Model 7-A--Atmospheric-Valve Single and 1909 Model 5-D--Atmospheric-Valve V-Twin).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Version ou sujet ne correspondant pas à la fiche : fichier écarté."
+      },
+      {
+        "fileTitle": "File:1909 Harley Davidson Model 5, replica built by Michael Hanlon - Lyman & Merrie Wood Museum of Springfield History - DSC04175.JPG",
+        "approved": false,
+        "match": "none",
+        "note": "Version ou sujet ne correspondant pas à la fiche : fichier écarté."
+      },
+      {
+        "fileTitle": "File:Harley-Davidson Museum 1909 & 1911 Bikes.JPG",
+        "approved": false,
+        "match": "none",
+        "note": "Version ou sujet ne correspondant pas à la fiche : fichier écarté."
+      }
+    ]
+  },
+  "1909-royal-pioneer": {
+    "reviewedAt": "2026-11-06",
+    "reviewBasis": "Métadonnées imageinfo/extmetadata, version, année, type de véhicule et contrôle visuel des fichiers retenus.",
+    "note": "Aucune photo de cette version suffisamment identifiée et approuvée ; les vues d’autres années, composants, répliques et résultats sans rapport sont écartés.",
+    "photos": [
+      {
+        "fileTitle": "File:Here from 1868 to 1909 lived George James Symons FRS pioneer in the scientific study of rainfall.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Aircraft and Balloons Used by Some of the Air Pioneers Who Were Contemporary With Samuel Franklin Cody. RAE-O949.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:The Forfar Directory and Yearbook 1909 (1909) (14793213833).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Alvin Langdon Coburn (8386800964).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:The American florist - a weekly journal for the trade (1900) (17951096280).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Royal Wootton Bassett War Memorial, Wiltshire.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Cody Biplane at Doncaster Aero Meet 1909.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Aviation in Britain Before the First World War- the work of Samuel Franklin Cody in Airship, Kite and Aircraft Aeronautics 1903 - 1913 RAE-O161.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      }
+    ]
+  },
+  "1908-scott-333": {
+    "reviewedAt": "2026-11-06",
+    "reviewBasis": "Métadonnées imageinfo/extmetadata, version, année, type de véhicule et contrôle visuel des fichiers retenus.",
+    "note": "Aucune photo de cette version suffisamment identifiée et approuvée ; les vues d’autres années, composants, répliques et résultats sans rapport sont écartés.",
+    "photos": [
+      {
+        "fileTitle": "File:THE DOT MOTORCYCLE. TRIALS 1960s.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Flickr - ronsaunders47 - THE SCOTT SQUIRREL. 1908-1969. YORKSHIRE UK..jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Jessie Ennis - a fast Brooklands lady (44695849451).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:1908 Scott Motorcycle Patent.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Bikes, buses and cars - geograph.org.uk - 1516362.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      }
+    ]
+  },
+  "1907-indian-single": {
+    "reviewedAt": "2026-11-06",
+    "reviewBasis": "Métadonnées imageinfo/extmetadata, version, année, type de véhicule et contrôle visuel des fichiers retenus.",
+    "note": "Aucune photo de cette version suffisamment identifiée et approuvée ; les vues d’autres années, composants, répliques et résultats sans rapport sont écartés.",
+    "photos": [
+      {
+        "fileTitle": "File:Mindus 1907.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:The Cuba review (1907-1931) (20804897955).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Eddie August Schneider (1911-1940) in Flying magazine on October 1, 1931 with I Break a Record. This is page 27 of the magazine. This is page 1 of 5 of the article.png",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Photograph of pensioned Indian officers of the XI, King Edward's Own Lancers (Probyn's Horse), at Rawalpindi, Punjab, 1907.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Version ou sujet ne correspondant pas à la fiche : fichier écarté."
+      },
+      {
+        "fileTitle": "File:NNC-US-1907-G$10-Indian Head (no motto).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Version ou sujet ne correspondant pas à la fiche : fichier écarté."
+      },
+      {
+        "fileTitle": "File:Admiralty Chart No 5 Indian Ocean -- Sokotra Surveyed by Lieutenants S.B. Haines and I.R. Wellsted, I.N. , Published 1835, Corrections to 1907.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Version ou sujet ne correspondant pas à la fiche : fichier écarté."
+      },
+      {
+        "fileTitle": "File:Gordon 1907 Round about the North Pole 0233 Kutchin Indians.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Version ou sujet ne correspondant pas à la fiche : fichier écarté."
+      },
+      {
+        "fileTitle": "File:Smith Showing His Compass to the Indians p61 of Sadlier's excelsior studies in the history of the United States, for schools (1907).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Version ou sujet ne correspondant pas à la fiche : fichier écarté."
+      },
+      {
+        "fileTitle": "File:Indian post 1907.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Version ou sujet ne correspondant pas à la fiche : fichier écarté."
+      },
+      {
+        "fileTitle": "File:Indian pictures and problems (1907) (14590996408).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Version ou sujet ne correspondant pas à la fiche : fichier écarté."
+      },
+      {
+        "fileTitle": "File:Indian pictures and problems (1907) (14775363944).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Version ou sujet ne correspondant pas à la fiche : fichier écarté."
+      }
+    ]
+  },
+  "1902-norton-energette": {
+    "reviewedAt": "2026-11-06",
+    "reviewBasis": "Métadonnées imageinfo/extmetadata, version, année, type de véhicule et contrôle visuel des fichiers retenus.",
+    "note": "Aucune photo de cette version suffisamment identifiée et approuvée ; les vues d’autres années, composants, répliques et résultats sans rapport sont écartés.",
+    "photos": [
+      {
+        "fileTitle": "File:Clément 143 cc AIV engine 1902.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      }
+    ]
+  },
+  "1902-humber-275": {
+    "reviewedAt": "2026-11-06",
+    "reviewBasis": "Métadonnées imageinfo/extmetadata, version, année, type de véhicule et contrôle visuel des fichiers retenus.",
+    "note": "Aucune photo de cette version suffisamment identifiée et approuvée ; les vues d’autres années, composants, répliques et résultats sans rapport sont écartés.",
+    "photos": [
+      {
+        "fileTitle": "File:PhelonMotorcycle1902.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      }
+    ]
+  },
+  "1902-california-motor-bicycle": {
+    "reviewedAt": "2026-11-06",
+    "reviewBasis": "Métadonnées imageinfo/extmetadata, version, année, type de véhicule et contrôle visuel des fichiers retenus.",
+    "note": "Aucune photo de cette version suffisamment identifiée et approuvée ; les vues d’autres années, composants, répliques et résultats sans rapport sont écartés.",
+    "photos": [
+      {
+        "fileTitle": "File:Wright EX Vin Fiz - DPLA - 3f6b472789fc10ab9fad6e3e23f98190 (page 6).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Wright EX Vin Fiz - DPLA - 3f6b472789fc10ab9fad6e3e23f98190 (page 8).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Wright EX Vin Fiz - DPLA - 3f6b472789fc10ab9fad6e3e23f98190 (page 11).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Wright EX Vin Fiz - DPLA - 3f6b472789fc10ab9fad6e3e23f98190 (page 17).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Wright EX Vin Fiz - DPLA - 3f6b472789fc10ab9fad6e3e23f98190 (page 18).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Wright EX Vin Fiz - DPLA - 3f6b472789fc10ab9fad6e3e23f98190 (page 16).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Wright EX Vin Fiz - DPLA - 3f6b472789fc10ab9fad6e3e23f98190 (page 10).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Wright EX Vin Fiz - DPLA - 3f6b472789fc10ab9fad6e3e23f98190 (page 15).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      }
+    ]
+  },
+  "1903-laurin-klement-bz": {
+    "reviewedAt": "2026-11-06",
+    "reviewBasis": "Métadonnées imageinfo/extmetadata, version, année, type de véhicule et contrôle visuel des fichiers retenus.",
+    "note": "Aucune photo de cette version suffisamment identifiée et approuvée ; les vues d’autres années, composants, répliques et résultats sans rapport sont écartés.",
+    "photos": [
+      {
+        "fileTitle": "File:Motocykl Laurin a Klement 1901.gif",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      }
+    ]
+  },
+  "1905-triumph-3hp": {
+    "reviewedAt": "2026-11-06",
+    "reviewBasis": "Métadonnées imageinfo/extmetadata, version, année, type de véhicule et contrôle visuel des fichiers retenus.",
+    "note": "Aucune photo de cette version suffisamment identifiée et approuvée ; les vues d’autres années, composants, répliques et résultats sans rapport sont écartés.",
+    "photos": [
+      {
+        "fileTitle": "File:05929-Tyssa-1905-Tyssaer Wände - Triumph-Pforte-Brück & Sohn Kunstverlag.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Version ou sujet ne correspondant pas à la fiche : fichier écarté."
+      },
+      {
+        "fileTitle": "File:Constantine the Great; the reorganisation of the empire and the triumph of the church (1905) (14587092329).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Version ou sujet ne correspondant pas à la fiche : fichier écarté."
+      },
+      {
+        "fileTitle": "File:Constantine the Great; the reorganisation of the empire and the triumph of the church (1905) (14793610843).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Version ou sujet ne correspondant pas à la fiche : fichier écarté."
+      },
+      {
+        "fileTitle": "File:Constantine the Great; the reorganisation of the empire and the triumph of the church (1905) (14587100988).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Version ou sujet ne correspondant pas à la fiche : fichier écarté."
+      },
+      {
+        "fileTitle": "File:Constantine the Great; the reorganisation of the empire and the triumph of the church (1905) (14587115808).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Version ou sujet ne correspondant pas à la fiche : fichier écarté."
+      },
+      {
+        "fileTitle": "File:Constantine the Great; the reorganisation of the empire and the triumph of the church (1905) (14587099818).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Version ou sujet ne correspondant pas à la fiche : fichier écarté."
+      },
+      {
+        "fileTitle": "File:Constantine the Great; the reorganisation of the empire and the triumph of the church (1905) (14773398802).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Version ou sujet ne correspondant pas à la fiche : fichier écarté."
+      },
+      {
+        "fileTitle": "File:Franz von Matsch - le Triomphe de la lumière sur les ténèbres (1905) (Triumph des Lichtes über die Finsternis).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Version ou sujet ne correspondant pas à la fiche : fichier écarté."
+      }
+    ]
+  },
+  "1909-reading-standard-x102": {
+    "reviewedAt": "2026-11-06",
+    "reviewBasis": "Métadonnées imageinfo/extmetadata, version, année, type de véhicule et contrôle visuel des fichiers retenus.",
+    "note": "Aucune photo de cette version suffisamment identifiée et approuvée ; les vues d’autres années, composants, répliques et résultats sans rapport sont écartés.",
+    "photos": [
+      {
+        "fileTitle": "File:Sanborn Fire Insurance Map from Reading, Middlesex County, Massachusetts, 1909, Plate 0002.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Broad Street, Reading, south side, 1900-1909.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Sanborn Fire Insurance Map from Reading, Middlesex County, Massachusetts, 1909, Plate 0008.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Sanborn Fire Insurance Map from Reading, Middlesex County, Massachusetts, 1909, Plate 0005.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Sanborn Fire Insurance Map from Reading, Middlesex County, Massachusetts, 1909, Plate 0009.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Sanborn Fire Insurance Map from Reading, Middlesex County, Massachusetts, 1909, Plate 0010.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Franklin Brownell - Reading (c. 1909).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Renoir - leontine-reading-1909-1.jpg!PinterestLarge.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Reading Standard 1920.JPG",
+        "approved": false,
+        "match": "none",
+        "note": "Version ou sujet ne correspondant pas à la fiche : fichier écarté."
+      },
+      {
+        "fileTitle": "File:Motorsykkel \"RS Reading Standard\" - no-nb digifoto 20140826 00044 NB NS NM 12652.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Version ou sujet ne correspondant pas à la fiche : fichier écarté."
+      },
+      {
+        "fileTitle": "File:Reading Standard 1918.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Version ou sujet ne correspondant pas à la fiche : fichier écarté."
+      },
+      {
+        "fileTitle": "File:Reading Standard 1160 cc twin 1920.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Version ou sujet ne correspondant pas à la fiche : fichier écarté."
+      },
+      {
+        "fileTitle": "File:Reading Standard 1160 cc 1918.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Version ou sujet ne correspondant pas à la fiche : fichier écarté."
+      },
+      {
+        "fileTitle": "File:Reading Standard Model A 400 cc 1908.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Version ou sujet ne correspondant pas à la fiche : fichier écarté."
+      }
+    ]
+  },
+  "1910-rudge-prototype": {
+    "reviewedAt": "2026-11-06",
+    "reviewBasis": "Métadonnées imageinfo/extmetadata, version, année, type de véhicule et contrôle visuel des fichiers retenus.",
+    "note": "Aucune photo de cette version suffisamment identifiée et approuvée ; les vues d’autres années, composants, répliques et résultats sans rapport sont écartés.",
+    "photos": [
+      {
+        "fileTitle": "File:Publi S.F. 09.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      }
+    ]
+  },
+  "1901-nsu-neckarsulmer": {
+    "reviewedAt": "2026-11-06",
+    "reviewBasis": "Métadonnées imageinfo/extmetadata, version, année, type de véhicule et contrôle visuel des fichiers retenus.",
+    "note": "Neckarsulmer Motorrad de 1901, moteur Zédel identifiable sur le carter. Les 230 cm³ indiqués par Commons ne sont pas importés comme caractéristique vérifiée de la première série.",
+    "photos": [
+      {
+        "fileTitle": "File:Neckarsulmer Motorrad 1901 01.jpg",
+        "approved": true,
+        "match": "exact",
+        "note": "Neckarsulmer Motorrad de 1901, moteur Zédel identifiable sur le carter. Les 230 cm³ indiqués par Commons ne sont pas importés comme caractéristique vérifiée de la première série."
+      },
+      {
+        "fileTitle": "File:Neckarsulmer Motorrad 1901 02.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Neckarsulmer Motorrad 1901 03.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Vintage motorcycle NSU 1 of 3 (18846885568).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Langenburg Jul 2012 05 (Deutsches Automuseum - 1901 Neckarsulmer Fahrradwerke Typ 1).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      }
+    ]
+  },
+  "1910-pierce-four": {
+    "reviewedAt": "2026-11-06",
+    "reviewBasis": "Métadonnées imageinfo/extmetadata, version, année, type de véhicule et contrôle visuel des fichiers retenus.",
+    "note": "Pierce Four de 1910 photographiée au Barber Vintage Motorsports Museum, cohérente avec le catalogue de cet objet. Aucun chiffre technique d’un autre millésime n’est transféré.",
+    "photos": [
+      {
+        "fileTitle": "File:1910PierceFour-Barber.jpg",
+        "approved": true,
+        "match": "exact",
+        "note": "Pierce Four de 1910 photographiée au Barber Vintage Motorsports Museum, cohérente avec le catalogue de cet objet. Aucun chiffre technique d’un autre millésime n’est transféré."
+      },
+      {
+        "fileTitle": "File:Pierce Four 1910 Barber.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Four-year old orange (lemon?) tree laden with oranges (lemons?) \"at H.S. Snow's\", Riverside, California, ca.1910 (CHS-172).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:A group of about forty-four women and children Yaqui Indian prisoners under guard, Mexico, ca.1910 (CHS-1510).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Pierce Arrow Model 38 Four-Passenger Touring (1916) (52959312465).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Pierce Arrow Model 38 Four-Passenger Touring (1916) (52959073549).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:1910 Pierce Four (1) - The Art of the Motorcycle - Memphis.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:1910 Pierce Four (2) - The Art of the Motorcycle - Memphis.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      }
+    ]
+  },
+  "1908-indian-twin-t961": {
+    "reviewedAt": "2026-11-06",
+    "reviewBasis": "Métadonnées imageinfo/extmetadata, version, année, type de véhicule et contrôle visuel des fichiers retenus.",
+    "note": "Aucune photo de cette version suffisamment identifiée et approuvée ; les vues d’autres années, composants, répliques et résultats sans rapport sont écartés.",
+    "photos": [
+      {
+        "fileTitle": "File:Indian 1908 Twin 1.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:The Americana; a universal reference library, comprising the arts and sciences, literature, history, biography, geography, commerce, etc., of the world (1908) (14578997827).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:PH036 5087 Lee Moorhouse photographs - DPLA - dfc03172521a4b92fc77b701fea8c7ed.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:PH036 5080 Lee Moorhouse photographs - DPLA - e62a730776321bfcfcff2111c1aa8432.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:PH036 5086 Lee Moorhouse photographs - DPLA - 46e5eeb432b4e7ec82ba17c07dc6835c.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:Bulletin (1946) (20241385249).jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:World Trade Center towers, New York, New York LCCN2015645969 - restoration1.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      },
+      {
+        "fileTitle": "File:World Trade Center towers, New York, LCCN2015645969.jpg",
+        "approved": false,
+        "match": "none",
+        "note": "Correspondance avec la version précise non validée."
+      }
+    ]
   }
 }

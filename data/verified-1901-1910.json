@@ -1,0 +1,1473 @@
+{
+  "sources": {
+    "enfield": {
+      "url": "https://www.royalenfield.com/in/en/our-world/since-1901/",
+      "title": "Since 1901 — Royal Enfield",
+      "organization": "Royal Enfield",
+      "reliability": "A",
+      "type": "manufacturer_catalog",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "origin": {
+      "url": "https://www.royalenfield.com/content/dam/royal-enfield/united-kingdom/our-world/media/news/product-launches/project-origin/retta-120-show.pdf",
+      "title": "Project Origin — archives de la Motor-Bicycle de 1901",
+      "organization": "Royal Enfield",
+      "reliability": "A",
+      "type": "manufacturer_catalog",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "enfield-brochure": {
+      "url": "https://www.royalenfield.com/content/dam/royal-enfield/united-kingdom/home/banner/desktop/A4_Brochure.pdf",
+      "title": "Our Legacy — brochure Royal Enfield",
+      "organization": "Royal Enfield",
+      "reliability": "A",
+      "type": "manufacturer_catalog",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "indian02": {
+      "url": "https://americanhistory.si.edu/collections/object/nmah_843056",
+      "title": "Indian Motorcycle, 1902 — TR.309934",
+      "organization": "Smithsonian — National Museum of American History",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "indian-bulletin": {
+      "url": "https://repository.si.edu/bitstreams/18eed3d2-9ec8-4ba5-8816-ef785b9413a2/download",
+      "title": "Indian Motorcycle, 1902 — Smithsonian Collection",
+      "organization": "Smithsonian Institution",
+      "reliability": "B",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "sfo": {
+      "url": "https://www.sfomuseum.org/exhibitions/early-american-motorcycles/gallery",
+      "title": "Early American Motorcycles — exposition et objets",
+      "organization": "SFO Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "triumph": {
+      "url": "https://www.triumphmotorcycles.co.uk/our-story/brand-timeline",
+      "title": "Brand Timeline — No. 1 de 1902",
+      "organization": "Triumph",
+      "reliability": "A",
+      "type": "manufacturer_catalog",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "tri1903": {
+      "url": "https://nationalmotormuseum.org.uk/collections/vehicles/triumph-25hp/",
+      "title": "Triumph 2.5HP — exemplaire 1903 et historique 1902",
+      "organization": "National Motor Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "fn": {
+      "url": "https://www.fmm.co.za/two-wheelin-fn-four/",
+      "title": "Two Wheelin’: FN Four — exemplaire circa 1905",
+      "organization": "Franschhoek Motor Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "fn-display": {
+      "url": "https://www.fmm.co.za/on-display/",
+      "title": "Collection — c1905 FN Four",
+      "organization": "Franschhoek Motor Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "hd5d": {
+      "url": "https://www.harley-davidson.com/content/dam/h-d/documents/owners/hog/h-o-g-magazine-archive/canada/content-tile-2011-spring.pdf",
+      "title": "The Heart of a Harley-Davidson Motorcycle — Model 5-D, p.28",
+      "organization": "Harley-Davidson",
+      "reliability": "A",
+      "type": "manufacturer_catalog",
+      "published_at": "2011",
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "hd-museum": {
+      "url": "https://www.museumofamericanspeed.org/2harleydavidson.html",
+      "title": "Harley-Davidson — chronologie des premiers moteurs",
+      "organization": "Museum of American Speed",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "royal": {
+      "url": "https://nationalmcmuseum.org/featured-bikes/1909-royal-pioneer/",
+      "title": "1909 Royal Pioneer",
+      "organization": "National Motorcycle Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "royal-lot": {
+      "url": "https://www.goodingco.com/lot/1909-royal-pioneer/",
+      "title": "1909 Royal Pioneer — moteur 786, collection Otis Chandler",
+      "organization": "Gooding Christie’s",
+      "reliability": "B",
+      "type": "documented_private_collection",
+      "published_at": "2006",
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "scott": {
+      "url": "https://scottownersclub.org/models/",
+      "title": "Models — Veteran Machines 1908–1909",
+      "organization": "Scott Owners Club",
+      "reliability": "B",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "indian07": {
+      "url": "https://nationalmcmuseum.org/2022/11/04/1907-indian/",
+      "title": "1907 Indian — exemplaire Camel Back",
+      "organization": "National Motorcycle Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": "2022-11-04",
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "norton": {
+      "url": "https://www.nortonresurgence.com/en/norton-heritage/norton-motorcycles-a-legacy-of-heritage%2C-innovation-and-resurgence.html",
+      "title": "Norton Motorcycles: A Legacy of Heritage, Innovation and Resurgence",
+      "organization": "Norton",
+      "reliability": "A",
+      "type": "manufacturer_catalog",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "norton-museum": {
+      "url": "https://nationalmotorcyclemuseum.com.au/norton-motorcycles.htm",
+      "title": "Norton Motorcycles — Energette 1902–1903",
+      "organization": "National Motorcycle Museum Australia",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "humber": {
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co24380/humber-motorcycle",
+      "title": "Humber motorcycle, 1902 — 1925-36",
+      "organization": "Science Museum Group",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "humber-other": {
+      "url": "https://www.mtcc.mc/portfolio/humber-275-hp/",
+      "title": "Humber 2.75HP — machine du prince Albert I",
+      "organization": "Collection des voitures de S.A.S. le Prince de Monaco",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "bz": {
+      "url": "https://www.skoda-storyboard.com/en/press-kits/classic-days-2026-press-kit/laurin-klement-bz-1902-1904/",
+      "title": "Laurin & Klement BZ (1902–1904) — exemplaire du musée 1903",
+      "organization": "Škoda Auto",
+      "reliability": "A",
+      "type": "manufacturer_catalog",
+      "published_at": "2026-10-12",
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "bz-other": {
+      "url": "https://cdn.skoda-storyboard.com/2026/01/260129_Retromobile-exhibition-commemorate-the-125th-anniversary-of-Skoda-Motorsport_c32d950e.pdf",
+      "title": "Rétromobile — Laurin & Klement BZ et 125 ans de compétition",
+      "organization": "Škoda Auto",
+      "reliability": "A",
+      "type": "manufacturer_catalog",
+      "published_at": "2026-01-29",
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "tri05": {
+      "url": "https://www.beaulieu.co.uk/news/110-year-old-motorcycle-rides-into-beaulieu/",
+      "title": "110-year-old motorcycle rides into Beaulieu — Triumph 3HP 1905",
+      "organization": "Beaulieu — National Motor Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "reading": {
+      "url": "https://nationalmcmuseum.org/2019/02/08/1909-reading-standard-x1-02/",
+      "title": "1909 Reading Standard X1-02",
+      "organization": "National Motorcycle Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": "2019-02-08",
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "rudge": {
+      "url": "https://www.rudge-whitworth.com/the-motorcycles/model-history",
+      "title": "Rudge-Whitworth Model History — première machine du 27 juillet 1910",
+      "organization": "Rudge-Whitworth Club",
+      "reliability": "B",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "russell": {
+      "url": "https://openaccess.city.ac.uk/id/eprint/14789/",
+      "title": "The trend to standardization: product development in the British motor cycle industry 1896–1916",
+      "organization": "City University London",
+      "reliability": "B",
+      "type": "historical_book",
+      "published_at": "1985",
+      "consulted_at": "2026-11-05",
+      "author": "Bernard Russell"
+    },
+    "nsu": {
+      "url": "https://audi-touchscreen-150-jahre-nsu.timm4.de/touchscreen-1/en/unternehmen",
+      "title": "150 Jahre NSU — Neckarsulmer Fahrradwerke et premiers moteurs Zédel",
+      "organization": "Audi Tradition",
+      "reliability": "A",
+      "type": "manufacturer_catalog",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "audi": {
+      "url": "https://www.audi-mediacenter.com/system/production/uploaded_files/24123/file/8f33886885fa55d408bf7577841fbfce0680828f/AUDI_AG_Historie_Kurzversion_EN.pdf?1691658833=&disposition=attachment",
+      "title": "Audi AG — histoire de NSU",
+      "organization": "Audi AG",
+      "reliability": "A",
+      "type": "manufacturer_catalog",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "barber": {
+      "url": "https://www.barbermuseum.org/collection/",
+      "title": "Collection — Pierce Four 1910",
+      "organization": "Barber Vintage Motorsports Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "stein": {
+      "url": "https://nysm.nysed.gov/sites/default/files/motorcycle_industry_in_nys-geoff_stein.pdf",
+      "title": "The Motorcycle Industry in New York State — Pierce Cycle Company, p.108–111",
+      "organization": "New York State Museum",
+      "reliability": "B",
+      "type": "historical_book",
+      "published_at": "2001",
+      "consulted_at": "2026-11-05",
+      "author": "Geoffrey N. Stein"
+    },
+    "indian08": {
+      "url": "https://rmsothebys.com/auctions/mo26/lots/s0021-1908-indian-twin/",
+      "title": "1908 Indian Twin — moteur T961, collection Mann",
+      "organization": "RM Sotheby’s",
+      "reliability": "B",
+      "type": "documented_private_collection",
+      "published_at": "2026",
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "a1-archive": {
+      "url": "https://sammlung.verkehrshaus.ch/en/collection/item/163963/",
+      "title": "Documentation Motosacoche — chronologie",
+      "organization": "Verkehrshaus der Schweiz",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "a1-museum": {
+      "url": "https://www.museovehiculosguadalest.com/en/list-of-vehicles/",
+      "title": "Inventaire — Motosacoche A1 1900–1910",
+      "organization": "Museo de Vehículos Históricos Guadalest",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "a1-home": {
+      "url": "https://www.museovehiculosguadalest.com/en/museum-vehicles-guadalest/",
+      "title": "Collection — exemplaire Motosacoche 1908",
+      "organization": "Museo de Vehículos Históricos Guadalest",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "quadrant": {
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/cp60456/quadrant-cycle-company-limited",
+      "title": "Quadrant Cycle Company Limited — notice constructeur",
+      "organization": "Science Museum Group",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "clement": {
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co25362/clement-1-3-h-p-clip-on-engine-1901",
+      "title": "Clément 1.3 HP clip-on engine, 1901 — composant",
+      "organization": "Science Museum Group",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "fn-single": {
+      "url": "https://museudocaramulo.pt/en/colecoes/fn-2/",
+      "title": "FN — exemplaire 1911 et historique du monocylindre",
+      "organization": "Museu do Caramulo",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "bat": {
+      "url": "https://images1.bonhams.com/original?src=Images%2Flive%2F2023-01%2F13%2FS-28798-0-1.pdf",
+      "title": "Catalogue — historique BAT dans la notice 1912",
+      "organization": "Bonhams",
+      "reliability": "B",
+      "type": "documented_private_collection",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "jap": {
+      "url": "https://discovery.nationalarchives.gov.uk/download/GB%200069%20JAP",
+      "title": "Archives J. A. Prestwich — cadres et composants Chater-Lea",
+      "organization": "Science Museum / National Archives",
+      "reliability": "A",
+      "type": "archive",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "gillet": {
+      "url": "https://chateaudecompiegne.fr/sites/compiegne/files/dp_epopeefantastique_palaisdecompiegne_.pdf",
+      "title": "L’Épopée fantastique — René Gillet V-Twin 1910",
+      "organization": "Musée national de la Voiture",
+      "reliability": "B",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "aeolus": {
+      "url": "https://cybermotorcycle.com/marques/british/aeolus.htm",
+      "title": "Aeolus — identification et existence à confirmer",
+      "organization": "Cybermotorcycle",
+      "reliability": "C",
+      "type": "secondary",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "dot": {
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap2036/dot-cycle-motor-manufacturing-company-limited",
+      "title": "Dot Cycle & Motor Manufacturing Company — notice constructeur",
+      "organization": "Science Museum Group",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "danish": {
+      "url": "https://www.danmarksmotorcykelmuseum.dk/en/mc-1897-1925/",
+      "title": "Collection 1897–1925 — exemples datés",
+      "organization": "Danmarks Motorcykelmuseum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "elleham": {
+      "url": "https://www.danmarksteknologihistorie.dk/ellehammer-danmarks-edison/",
+      "title": "Ellehammer — histoire technologique danoise",
+      "organization": "Danmarks Teknologihistorie",
+      "reliability": "B",
+      "type": "secondary",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "veloce": {
+      "url": "https://velocetteclub.nl/?page_id=721",
+      "title": "Veloce 2 HP — Taylor Gue, 1905",
+      "organization": "Velocette Club Nederland",
+      "reliability": "B",
+      "type": "secondary",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "yale": {
+      "url": "https://library.amf.foundation/pages/search.php?access=&advsearch=true&archive=0&display=xlthumbs&foredit=&k=&modal=&noreload=true&offset=826&order_by=field12&per_page=240&recentdaylimit=&restypes=&search=&sort=DESC",
+      "title": "Répertoire — catalogue Yale-California 1905",
+      "organization": "AMF Vintage Motorcycle Library",
+      "reliability": "B",
+      "type": "archive",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "alcyon": {
+      "url": "https://www.ffve.org/carte/alcyon-automobiles",
+      "title": "Alcyon — chronologie constructeur",
+      "organization": "FFVE",
+      "reliability": "B",
+      "type": "secondary",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "alcyon-photo": {
+      "url": "https://catalogue.bnf.fr/ark%3A/12148/cb466314845",
+      "title": "Canale sur Alcyon à la course du 22 avril 1904 — photographie",
+      "organization": "Bibliothèque nationale de France",
+      "reliability": "A",
+      "type": "archive",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "hercules": {
+      "url": "https://glennhcurtissmuseum.org/exhibits-on-display/",
+      "title": "Collection — 1904 Curtiss Hercules Single Cylinder",
+      "organization": "Glenn H. Curtiss Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "stimula": {
+      "url": "https://lestricars.es.tl/Stimula.htm",
+      "title": "Stimula — documents de motos et tricars",
+      "organization": "Les Tricars",
+      "reliability": "C",
+      "type": "secondary",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "wanderer-ad": {
+      "url": "https://anno.onb.ac.at/cgi-content/anno?aid=ofa&datum=19050810&seite=18",
+      "title": "Österreichische Fahrrad- und Automobil-Zeitung, 10 août 1905, p.18",
+      "organization": "Österreichische Nationalbibliothek",
+      "reliability": "A",
+      "type": "archive",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "victoria": {
+      "url": "https://artsandculture.google.com/story/legends-in-chrome-and-steel-museum-for-industrial-culture-nuremberg/LAVxyFEdYeKLIA?hl=en",
+      "title": "Legends in Chrome and Steel — Victoria",
+      "organization": "Museum for Industrial Culture Nuremberg",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "ajs": {
+      "url": "https://www.nationalmotorcyclemuseum.co.uk/from-single-cylinders-to-racing-legends-the-story-of-ajs-motorcycles/",
+      "title": "The Story of AJS Motorcycles — premier monocylindre 1910",
+      "organization": "National Motorcycle Museum UK",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": "2023-01-17",
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "austral-1905": {
+      "url": "https://cnum.cnam.fr/pgi/redir.php?ident=P575.2&onglet=i",
+      "title": "La Vie Automobile, 1905 — mototricycle Austral p.583–585",
+      "organization": "Cnam — Cnum",
+      "reliability": "A",
+      "type": "technical_publication",
+      "published_at": "1905",
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "austral-archive": {
+      "url": "https://www.puteaux.fr/wp-content/uploads/2025/06/393-juin-2025-V4.pdf",
+      "title": "Archives municipales — Austral, p.84",
+      "organization": "Ville de Puteaux",
+      "reliability": "A",
+      "type": "archive",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "bsa": {
+      "url": "https://bsacompany.ph/history/",
+      "title": "History — première moto complète BSA 1910",
+      "organization": "BSA Motorcycles",
+      "reliability": "A",
+      "type": "manufacturer_catalog",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "bsa-book": {
+      "url": "https://www.bsafiles.se/history/BSA_100_Years_1961.pdf",
+      "title": "BSA 100 Years, 1961 — chronologie ancienne",
+      "organization": "BSA",
+      "reliability": "A",
+      "type": "manufacturer_catalog",
+      "published_at": "1961",
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "bmct": {
+      "url": "https://www.bmct.org/the-collection",
+      "title": "Collection — BSA 3.5HP 1911 et premières motos 1910",
+      "organization": "British Motorcycle Charitable Trust",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "douglas": {
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/cp39676/douglas-kingswood-limited",
+      "title": "Douglas Kingswood Limited — début des ventes 1907",
+      "organization": "Science Museum Group",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "achilles": {
+      "url": "https://achilles-werke.de/achilles-fabrikationen/mopeds-und-motorroller-2/",
+      "title": "Achilles — machines d’Ober-Politz",
+      "organization": "Archives Achilles",
+      "reliability": "C",
+      "type": "secondary",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "roland": {
+      "url": "https://motocyclettesaustral.es.tl/La-Soci-e2-t-e2--Industrielle-d-h-Albert.htm",
+      "title": "Société industrielle d’Albert — catalogue Roland 1906",
+      "organization": "Motocyclettes Austral",
+      "reliability": "C",
+      "type": "secondary",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "griffon": {
+      "url": "https://www.shcourbevoie.fr/griffon/",
+      "title": "Griffon — modèles et documents de 1905–1906",
+      "organization": "Société historique de Courbevoie",
+      "reliability": "B",
+      "type": "secondary",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "strap": {
+      "url": "https://www.mecum.com/lots/435701/",
+      "title": "Harley-Davidson Strap Tank — moteur 1877, reconstruction composite",
+      "organization": "Mecum",
+      "reliability": "B",
+      "type": "documented_private_collection",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "gillet-1906": {
+      "url": "https://www.moto-collection.org/blog/villa-deste-2019-vive-la-france/",
+      "title": "Villa d’Este 2019 — René Gillet bicylindre 1906",
+      "organization": "François-Marie Dumas",
+      "reliability": "B",
+      "type": "specialist_press",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "terrot": {
+      "url": "https://www.archivesnationales.culture.gouv.fr/camt/fr/egf/donnees_efg/2002_026/Pieces_isolees_icono_INV.pdf",
+      "title": "Terrot — notice des Archives nationales du monde du travail",
+      "organization": "Archives nationales",
+      "reliability": "A",
+      "type": "archive",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "terrot-types": {
+      "url": "https://terrot-club-ballancourt.fr/musee-terrot/motocyclette-n1-2/",
+      "title": "Terrot N°1 et N°2 de 1902",
+      "organization": "Terrot Club Ballancourt",
+      "reliability": "B",
+      "type": "secondary",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "thor": {
+      "url": "https://motolady.com/1908-thor-model-7-motorcycle/",
+      "title": "1908 Thor Model 7 — témoignage de conduite d’un objet privé",
+      "organization": "Alicia Mariah Elfving / Krystal Hess",
+      "reliability": "C",
+      "type": "documented_private_collection",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "brough": {
+      "url": "https://www.brough-superior.com/en/heritage/first-brough-motorcycles",
+      "title": "First Brough Motorcycles — W.E. Brough",
+      "organization": "Brough Superior",
+      "reliability": "A",
+      "type": "manufacturer_catalog",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "calthorpe": {
+      "url": "https://calthorpe.info/company-history",
+      "title": "Calthorpe — historique",
+      "organization": "Calthorpe Club",
+      "reliability": "B",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "calthorpe-show": {
+      "url": "https://cybermotorcycle.com/marques/calthorpe/calthorpe-1909.htm",
+      "title": "The Motor Cycle, 22 novembre 1909, p.913 — transcription",
+      "organization": "The Motor Cycle",
+      "reliability": "B",
+      "type": "technical_publication",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "husqvarna": {
+      "url": "https://press.husqvarna-motorcycles.com/Info.aspx?l=international&menueid=7460",
+      "title": "The Brand — début des motos en 1903",
+      "organization": "Husqvarna Motorcycles",
+      "reliability": "A",
+      "type": "manufacturer_catalog",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "husqvarna-1911": {
+      "url": "https://www.husqvarna-motorcycles.com/en-ph/Good-old-times/husqvarna-era-1911-1920.html",
+      "title": "Husqvarna Era 1911–1920 — Model 65",
+      "organization": "Husqvarna Motorcycles",
+      "reliability": "A",
+      "type": "manufacturer_catalog",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "motoreve": {
+      "url": "https://www.moto-reve.de/english/history/huqvarna--moto-reve/index.html",
+      "title": "Husqvarna / Moto-Rêve — Model 65",
+      "organization": "Moto-Rêve History",
+      "reliability": "B",
+      "type": "secondary",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "newimperial": {
+      "url": "https://www.classicmotorcycle.co.uk/a-to-z-classic-reference-new-imperial-norman/",
+      "title": "A to Z: New Imperial — contestation de la chronologie 1910",
+      "organization": "The Classic Motorcycle",
+      "reliability": "B",
+      "type": "specialist_press",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "ajs-period": {
+      "url": "https://cybermotorcycle.com/articles/olympia-show-1911-p1210.htm",
+      "title": "The Motor Cycle, 16 novembre 1911, p.1210 — transcription",
+      "organization": "The Motor Cycle",
+      "reliability": "B",
+      "type": "technical_publication",
+      "published_at": null,
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "austral-1906": {
+      "url": "https://cnum.cnam.fr/pgi/fpage.php?P575.3/122/100/874/0/0=",
+      "title": "La Vie Automobile 1906, p.117 — course et tricar Austral",
+      "organization": "Cnam — Cnum",
+      "reliability": "A",
+      "type": "technical_publication",
+      "published_at": "1906",
+      "consulted_at": "2026-11-05",
+      "author": null
+    },
+    "evart": {
+      "url": "https://graces-guide-s3-live.s3.amazonaws.com/gracesguide/4/43/Motor-19030121.pdf",
+      "title": "The Motor, 21 janvier 1903 — Evart-Hall",
+      "organization": "The Motor",
+      "reliability": "A",
+      "type": "technical_publication",
+      "published_at": "1903-01-21",
+      "consulted_at": "2026-11-05",
+      "author": null
+    }
+  },
+  "models": [
+    {
+      "id": "1901-enfield-motor-bicycle",
+      "name": "Royal Enfield Motor-Bicycle — type 1901",
+      "manufacturer": "Royal Enfield",
+      "brand": "Royal Enfield",
+      "origin_country": "Royaume-Uni",
+      "construction": {
+        "year": 1901,
+        "precision": "exact",
+        "note": "La chronologie et le dossier d’archives du constructeur attestent la machine produite en 1901 ; la reconstruction Project Origin est moderne."
+      },
+      "references": [
+        "001"
+      ],
+      "sources": [
+        "enfield",
+        "origin",
+        "enfield-brochure"
+      ],
+      "technical": {
+        "cylinders": 1,
+        "transmission": "Longue courroie croisée en cuir vers la roue arrière"
+      },
+      "status": "production",
+      "description": "La chronologie et le dossier d’archives du constructeur attestent la machine produite en 1901 ; la reconstruction Project Origin est moderne.",
+      "historical_manufacturer": "The Enfield Cycle Co. Ltd. (Redditch)",
+      "dates": {
+        "production_start_year": 1901,
+        "commercialization_year": 1901
+      },
+      "conflicts": [
+        {
+          "field_path": "technical.power_hp",
+          "description": "La chronologie et Project Origin mentionnent 1¾ hp ; la brochure Our Legacy indique 1½ hp. Valeur métrique non déterminée : puissance laissée null.",
+          "values": [
+            "1¾ hp",
+            "1½ hp"
+          ],
+          "sources": [
+            "enfield",
+            "origin",
+            "enfield-brochure"
+          ]
+        }
+      ],
+      "imageQueries": [
+        "Royal Enfield 1901"
+      ]
+    },
+    {
+      "id": "1902-indian-single",
+      "name": "Single — exemplaire Smithsonian 1902",
+      "manufacturer": "Indian",
+      "brand": "Indian",
+      "origin_country": "États-Unis",
+      "construction": {
+        "year": 1902,
+        "precision": "exact",
+        "note": "Exemplaire TR.309934 daté 1902 par le Smithsonian ; conception 1901 et vente 1902 restent distinctes."
+      },
+      "references": [
+        "002"
+      ],
+      "sources": [
+        "indian02",
+        "indian-bulletin",
+        "sfo"
+      ],
+      "technical": {
+        "cylinders": 1,
+        "engine_type": "Monocylindre à quatre temps",
+        "cooling": "Air"
+      },
+      "status": "production",
+      "description": "Exemplaire TR.309934 daté 1902 par le Smithsonian ; conception 1901 et vente 1902 restent distinctes.",
+      "historical_manufacturer": "Hendee Manufacturing Company",
+      "dates": {
+        "design_year": 1901,
+        "commercialization_year": 1902
+      },
+      "variant": "Exemplaire Smithsonian 1902",
+      "aliases": [
+        "Indian Single",
+        "Indian Motocycle 1902"
+      ],
+      "imageQueries": [
+        "Indian motorcycle 1902"
+      ],
+      "manufacturer_official_name": "Hendee Manufacturing Company",
+      "manufacturer_aliases": [
+        "Hendee Manufacturing Company"
+      ]
+    },
+    {
+      "id": "1902-triumph-no1",
+      "name": "No. 1 — moteur Minerva",
+      "manufacturer": "Triumph",
+      "brand": "Triumph",
+      "origin_country": "Royaume-Uni",
+      "construction": {
+        "year": 1902,
+        "precision": "exact",
+        "note": "No. 1 produite en 1902 selon Triumph. La notice de Beaulieu distingue la première machine et son exemplaire JAP de 1903."
+      },
+      "references": [
+        "009"
+      ],
+      "sources": [
+        "triumph",
+        "tri1903"
+      ],
+      "technical": {
+        "engine_type": "Moteur Minerva de fabrication belge",
+        "displacement_cc": 239,
+        "transmission": "Courroie vers la roue arrière"
+      },
+      "status": "production",
+      "description": "No. 1 produite en 1902 selon Triumph. La notice de Beaulieu distingue la première machine et son exemplaire JAP de 1903.",
+      "historical_manufacturer": "Triumph Cycle Co. Ltd.",
+      "dates": {
+        "production_start_year": 1902
+      },
+      "technical_sources": {
+        "displacement_cc": "tri1903",
+        "transmission": "tri1903"
+      },
+      "imageQueries": [
+        "Triumph motorcycle 1902"
+      ]
+    },
+    {
+      "id": "1905-fn-four",
+      "name": "Four — exemplaire circa 1905",
+      "manufacturer": "FN",
+      "brand": "FN",
+      "origin_country": "Belgique",
+      "construction": {
+        "year": 1905,
+        "precision": "approximate",
+        "note": "Exemplaire du Franschhoek Motor Museum daté circa 1905 ; aucune date exacte de prototype déduite."
+      },
+      "references": [
+        "032"
+      ],
+      "sources": [
+        "fn",
+        "fn-display"
+      ],
+      "technical": {
+        "engine_type": "Quatre cylindres en ligne",
+        "cylinders": 4,
+        "displacement_cc": 362
+      },
+      "status": "production",
+      "description": "Exemplaire du Franschhoek Motor Museum daté circa 1905 ; aucune date exacte de prototype déduite.",
+      "technical_notes": "La notice indique une plage de puissance 3,5–3,75 hp : aucune extrémité ni conversion en ch métriques n’est choisie.",
+      "imageQueries": [
+        "FN Four 1905"
+      ],
+      "historical_manufacturer": "Fabrique Nationale d’Armes de Guerre",
+      "manufacturer_official_name": "Fabrique Nationale d’Armes de Guerre",
+      "manufacturer_aliases": [
+        "Fabrique Nationale"
+      ]
+    },
+    {
+      "id": "1909-harley-5d",
+      "name": "Model 5-D — V-Twin",
+      "manufacturer": "Harley-Davidson",
+      "brand": "Harley-Davidson",
+      "origin_country": "États-Unis",
+      "construction": {
+        "year": 1909,
+        "precision": "exact",
+        "note": "Le dossier Harley-Davidson décrit les 5-D construits en 1909 et l’exemplaire conservé aux archives ; distinct des monocylindres et du 7-D de 1911."
+      },
+      "references": [
+        "060"
+      ],
+      "sources": [
+        "hd5d",
+        "hd-museum"
+      ],
+      "technical": {
+        "engine_type": "Bicylindre en V à 45°",
+        "cylinders": 2,
+        "displacement_cc": 810.83,
+        "transmission": "Courroie sans galet tendeur"
+      },
+      "status": "limited_production",
+      "description": "Le dossier Harley-Davidson décrit les 5-D construits en 1909 et l’exemplaire conservé aux archives ; distinct des monocylindres et du 7-D de 1911.",
+      "dates": {
+        "production_start_year": 1909,
+        "commercialization_year": 1909
+      },
+      "technical_notes": "Les 7 horsepower et les 27 exemplaires « reportedly » ne deviennent pas une mesure métrique certaine ni un nombre de production certain.",
+      "imageQueries": [
+        "Harley Davidson 5D 1909",
+        "intitle:Harley intitle:1909"
+      ]
+    },
+    {
+      "id": "1909-royal-pioneer",
+      "name": "Pioneer — type 1909",
+      "manufacturer": "Royal Motor Works",
+      "brand": "Royal Pioneer",
+      "origin_country": "États-Unis",
+      "construction": {
+        "year": 1909,
+        "precision": "exact",
+        "note": "Modèle et exemplaire de 1909 documentés par le musée ; le lot Chandler constitue une autre référence d’objet et ses chiffres ne sont pas mélangés."
+      },
+      "references": [
+        "063"
+      ],
+      "sources": [
+        "royal",
+        "royal-lot"
+      ],
+      "technical": {
+        "engine_type": "Monocylindre vertical",
+        "cylinders": 1,
+        "displacement_cc": 500,
+        "cooling": "Air",
+        "transmission": "Courroie en V Watawata",
+        "starting": "Pédales",
+        "brakes": "Frein arrière à rétropédalage"
+      },
+      "status": "production",
+      "description": "Modèle et exemplaire de 1909 documentés par le musée ; le lot Chandler constitue une autre référence d’objet et ses chiffres ne sont pas mélangés.",
+      "conflicts": [
+        {
+          "field_path": "technical.power_hp",
+          "description": "Le musée indique Four Horsepower et le lot privé 4.5 HP ; exemplaires et unités non établis comme identiques. Puissance laissée null.",
+          "values": [
+            "4 horsepower (musée)",
+            "4.5 HP (autre exemplaire)"
+          ],
+          "sources": [
+            "royal",
+            "royal-lot"
+          ]
+        }
+      ],
+      "imageQueries": [
+        "Royal Pioneer 1909"
+      ]
+    },
+    {
+      "id": "1908-scott-333",
+      "name": "333 cm³ — type Jowett 1908",
+      "manufacturer": "Scott",
+      "brand": "Scott",
+      "origin_country": "Royaume-Uni",
+      "construction": {
+        "year": 1908,
+        "precision": "exact",
+        "note": "Le club distingue six machines fabriquées sous contrat chez Jowett en 1908 des 450 cm³ fabriquées en 1909."
+      },
+      "references": [
+        "064"
+      ],
+      "sources": [
+        "scott"
+      ],
+      "technical": {
+        "engine_type": "Bicylindre deux temps",
+        "cylinders": 2,
+        "displacement_cc": 333,
+        "cooling": "Eau",
+        "transmission": "Chaîne",
+        "gears": 2,
+        "chassis": "Cadre triangulé"
+      },
+      "status": "limited_production",
+      "description": "Le club distingue six machines fabriquées sous contrat chez Jowett en 1908 des 450 cm³ fabriquées en 1909.",
+      "historical_manufacturer": "Jowett Motor Manufacturing Company, pour Alfred Scott",
+      "dates": {
+        "production_start_year": 1908
+      },
+      "technical_notes": "Le kick-starter des machines de 1909 n’est pas attribué aux 333 cm³ de 1908.",
+      "imageQueries": [
+        "Scott motorcycle 1908"
+      ]
+    },
+    {
+      "id": "1907-indian-single",
+      "name": "Single Camel Back — évolution 1907",
+      "manufacturer": "Indian",
+      "brand": "Indian",
+      "origin_country": "États-Unis",
+      "construction": {
+        "year": 1907,
+        "precision": "exact",
+        "note": "Exemplaire de 1907 et évolution du Single documentés ; le cadre de 1908 et les chiffres de tous les modèles ne sont pas transférés."
+      },
+      "references": [
+        "048"
+      ],
+      "sources": [
+        "indian07"
+      ],
+      "technical": {
+        "engine_type": "Monocylindre à quatre temps",
+        "cylinders": 1,
+        "displacement_cc": 288,
+        "cooling": "Air",
+        "transmission": "Chaîne",
+        "chassis": "Cadre diamant Camel Back"
+      },
+      "status": "production",
+      "description": "Exemplaire de 1907 et évolution du Single documentés ; le cadre de 1908 et les chiffres de tous les modèles ne sont pas transférés.",
+      "historical_manufacturer": "Hendee Manufacturing Company",
+      "variant": "Évolution Camel Back 1907",
+      "relationships": [
+        {
+          "type": "variant_of",
+          "target_id": "1902-indian-single",
+          "note": "Évolution du Single de même famille : la notice détaille l’augmentation de cylindrée et le cadre Camel Back, avant la refonte de 1908.",
+          "sources": [
+            "indian07"
+          ]
+        }
+      ],
+      "imageQueries": [
+        "Indian motorcycle 1907",
+        "intitle:Indian intitle:1907"
+      ],
+      "manufacturer_official_name": "Hendee Manufacturing Company",
+      "manufacturer_aliases": [
+        "Hendee Manufacturing Company"
+      ]
+    },
+    {
+      "id": "1902-norton-energette",
+      "name": "Energette — type 1902",
+      "manufacturer": "Norton",
+      "brand": "Norton",
+      "origin_country": "Royaume-Uni",
+      "construction": {
+        "year": 1902,
+        "precision": "exact",
+        "note": "La source officielle identifie la première machine complète comme Energette de 1902, et non une première construction 1901 ou 1905."
+      },
+      "references": [
+        "005",
+        "034"
+      ],
+      "sources": [
+        "norton",
+        "norton-museum"
+      ],
+      "technical": {
+        "engine_type": "Moteur Clément",
+        "displacement_cc": 147,
+        "gears": 2
+      },
+      "status": "production",
+      "description": "La source officielle identifie la première machine complète comme Energette de 1902, et non une première construction 1901 ou 1905.",
+      "technical_notes": "Deux transmissions proposées selon versions, chaîne ou courroie : aucune n’est choisie arbitrairement pour ce dossier familial.",
+      "imageQueries": [
+        "Norton Energette",
+        "intitle:Energette"
+      ]
+    },
+    {
+      "id": "1902-humber-275",
+      "name": "2¾ HP — exemplaire de Beeston 1902",
+      "manufacturer": "Humber",
+      "brand": "Humber",
+      "origin_country": "Royaume-Uni",
+      "construction": {
+        "year": 1902,
+        "precision": "exact",
+        "note": "Objet Science Museum 1925-36, construit par Humber Limited à Beeston en 1902. Les 350 cm³ de l’autre référence ne sont pas transposés."
+      },
+      "references": [
+        "012"
+      ],
+      "sources": [
+        "humber",
+        "humber-other"
+      ],
+      "technical": {
+        "weight_kg": 52.5
+      },
+      "status": "production",
+      "description": "Objet Science Museum 1925-36, construit par Humber Limited à Beeston en 1902. Les 350 cm³ de l’autre référence ne sont pas transposés.",
+      "historical_manufacturer": "Humber Limited",
+      "imageQueries": [
+        "Humber motorcycle 1902"
+      ]
+    },
+    {
+      "id": "1902-california-motor-bicycle",
+      "name": "Motor Bicycle — exemplaire SFO 1902",
+      "manufacturer": "California Motor Company",
+      "brand": "California Motor Company",
+      "origin_country": "États-Unis",
+      "construction": {
+        "year": 1902,
+        "precision": "exact",
+        "note": "Objet restauré L2020.2301.001 daté 1902 par le SFO Museum ; les modifications de la traversée de Wyman en 1903 ne sont pas attribuées à cet exemplaire."
+      },
+      "references": [
+        "014"
+      ],
+      "sources": [
+        "sfo"
+      ],
+      "technical": {},
+      "status": "production",
+      "description": "Objet restauré L2020.2301.001 daté 1902 par le SFO Museum ; les modifications de la traversée de Wyman en 1903 ne sont pas attribuées à cet exemplaire.",
+      "historical_manufacturer": "California Motor Company, Inc.",
+      "relationships": [
+        {
+          "type": "related_to",
+          "target_id": "29",
+          "note": "Lien de recherche avec Roy C. Marks, sans fusion avec son prototype non identifié.",
+          "sources": [
+            "sfo"
+          ]
+        }
+      ],
+      "imageQueries": [
+        "California motorcycle 1902"
+      ],
+      "manufacturer_official_name": "California Motor Company, Inc."
+    },
+    {
+      "id": "1903-laurin-klement-bz",
+      "name": "BZ — exemplaire du musée 1903",
+      "manufacturer": "Laurin & Klement",
+      "brand": "Laurin & Klement",
+      "origin_country": "Bohême (Autriche-Hongrie)",
+      "construction": {
+        "year": 1903,
+        "precision": "exact",
+        "note": "L’exemplaire restauré du Škoda Museum est daté 1903 ; présentation automne 1902 et production 1902–1904 distinctes. La référence BZ 1908 n’est pas une nouvelle génération démontrée."
+      },
+      "references": [
+        "018",
+        "057"
+      ],
+      "sources": [
+        "bz",
+        "bz-other"
+      ],
+      "technical": {
+        "engine_type": "Monocylindre quatre temps",
+        "cylinders": 1,
+        "displacement_cc": 331,
+        "cooling": "Air",
+        "transmission": "Entraînement direct",
+        "wheelbase_mm": 1350
+      },
+      "status": "production",
+      "description": "L’exemplaire restauré du Škoda Museum est daté 1903 ; présentation automne 1902 et production 1902–1904 distinctes. La référence BZ 1908 n’est pas une nouvelle génération démontrée.",
+      "dates": {
+        "production_start_year": 1902,
+        "production_end_year": 1904
+      },
+      "presentation_year": 1902,
+      "conflicts": [
+        {
+          "field_path": "technical.top_speed_kmh",
+          "description": "Deux documents officiels Škoda donnent 50 et 60 km/h pour la BZ ; aucune valeur unique retenue.",
+          "values": [
+            50,
+            60
+          ],
+          "sources": [
+            "bz",
+            "bz-other"
+          ]
+        }
+      ],
+      "technical_notes": "Poids 55–58 kg et puissance « up to 2.5 hp » : aucune valeur ponctuelle en kg/ch n’est inventée.",
+      "imageQueries": [
+        "Laurin Klement BZ"
+      ]
+    },
+    {
+      "id": "1905-triumph-3hp",
+      "name": "3 HP — type 1905",
+      "manufacturer": "Triumph",
+      "brand": "Triumph",
+      "origin_country": "Royaume-Uni",
+      "construction": {
+        "year": 1905,
+        "precision": "exact",
+        "note": "Exemplaire 1905 de Nick Jonckheere décrit et essayé à Beaulieu ; les 292 cm³ du modèle JAP 1903 ne sont pas transférés."
+      },
+      "references": [
+        "033"
+      ],
+      "sources": [
+        "tri05"
+      ],
+      "technical": {
+        "transmission": "Courroie ; pédalier auxiliaire par chaîne",
+        "starting": "Pédales"
+      },
+      "status": "production",
+      "description": "Exemplaire 1905 de Nick Jonckheere décrit et essayé à Beaulieu ; les 292 cm³ du modèle JAP 1903 ne sont pas transférés.",
+      "historical_manufacturer": "Triumph Cycle Co. Ltd.",
+      "relationships": [
+        {
+          "type": "successor_of",
+          "target_id": "1902-triumph-no1",
+          "note": "Le type 1905 est identifié séparément, sans fusion de ses caractéristiques avec la No. 1 à moteur Minerva.",
+          "sources": [
+            "tri05"
+          ]
+        }
+      ],
+      "imageQueries": [
+        "Triumph motorcycle 1905",
+        "intitle:Triumph intitle:1905"
+      ]
+    },
+    {
+      "id": "1909-reading-standard-x102",
+      "name": "X1-02 — type 1909",
+      "manufacturer": "Reading Standard",
+      "brand": "Reading Standard",
+      "origin_country": "États-Unis",
+      "construction": {
+        "year": 1909,
+        "precision": "exact",
+        "note": "Modèle X1-02 et exemplaire 1909 du National Motorcycle Museum. Les spécifications restent propres à cette notice."
+      },
+      "references": [
+        "062"
+      ],
+      "sources": [
+        "reading"
+      ],
+      "technical": {
+        "engine_type": "Bicylindre en V à soupapes latérales",
+        "cylinders": 2,
+        "displacement_cc": 722,
+        "cooling": "Air",
+        "transmission": "Chaîne",
+        "starting": "Pédales",
+        "brakes": "Frein à rétropédalage",
+        "chassis": "Tubes d’acier brasés"
+      },
+      "status": "production",
+      "description": "Modèle X1-02 et exemplaire 1909 du National Motorcycle Museum. Les spécifications restent propres à cette notice.",
+      "imageQueries": [
+        "Reading Standard 1909",
+        "intitle:\"Reading Standard\""
+      ]
+    },
+    {
+      "id": "1910-rudge-prototype",
+      "name": "Monocylindre — prototype assemblé en 1910",
+      "manufacturer": "Rudge-Whitworth",
+      "brand": "Rudge-Whitworth",
+      "origin_country": "Royaume-Uni",
+      "construction": {
+        "year": 1910,
+        "precision": "exact",
+        "note": "Première machine assemblée le 27 juillet 1910 selon l’historique spécialisé, corroborée par Russell p.198 ; vente publique en 1911."
+      },
+      "references": [
+        "067",
+        "071"
+      ],
+      "sources": [
+        "rudge",
+        "russell"
+      ],
+      "technical": {},
+      "status": "prototype",
+      "description": "Première machine assemblée le 27 juillet 1910 selon l’historique spécialisé, corroborée par Russell p.198 ; vente publique en 1911.",
+      "dates": {
+        "prototype_year": 1910,
+        "commercialization_year": 1911
+      },
+      "technical_notes": "La cylindrée 499 cm³ du modèle commercial 1911 n’est pas attribuée au premier prototype.",
+      "imageQueries": [
+        "Rudge Whitworth 1910"
+      ]
+    },
+    {
+      "id": "1901-nsu-neckarsulmer",
+      "name": "Neckarsulmer Motorrad — moteur Zédel",
+      "manufacturer": "NSU",
+      "brand": "NSU",
+      "origin_country": "Allemagne",
+      "construction": {
+        "year": 1901,
+        "precision": "exact",
+        "note": "Audi Tradition distingue les premières Neckarsulmer de 1901 à moteur Zédel des moteurs propres et de l’appellation NSU ultérieurs."
+      },
+      "references": [
+        "007"
+      ],
+      "sources": [
+        "nsu",
+        "audi"
+      ],
+      "technical": {
+        "engine_type": "Moteur Zédel de fabrication suisse"
+      },
+      "status": "production",
+      "description": "Audi Tradition distingue les premières Neckarsulmer de 1901 à moteur Zédel des moteurs propres et de l’appellation NSU ultérieurs.",
+      "historical_manufacturer": "Neckarsulmer Fahrradwerke AG",
+      "dates": {
+        "production_start_year": 1901
+      },
+      "technical_notes": "Les cylindrées et puissances divergentes publiées ailleurs ne sont pas transposées à cette première série.",
+      "imageQueries": [
+        "NSU motorcycle 1901"
+      ],
+      "manufacturer_official_name": "Neckarsulmer Fahrradwerke AG",
+      "manufacturer_aliases": [
+        "Neckarsulmer Fahrradwerke"
+      ]
+    },
+    {
+      "id": "1910-pierce-four",
+      "name": "Four — exemplaire Barber 1910",
+      "manufacturer": "Pierce Cycle Company",
+      "brand": "Pierce Cycle Company",
+      "origin_country": "États-Unis",
+      "construction": {
+        "year": 1910,
+        "precision": "exact",
+        "note": "Barber conserve une Four de 1910 ; la famille est commercialisée en 1909 et les essais antérieurs décrits par Stein ne datent pas la fabrication de cet exemplaire."
+      },
+      "references": [
+        "061"
+      ],
+      "sources": [
+        "barber",
+        "sfo",
+        "stein"
+      ],
+      "technical": {
+        "engine_type": "Quatre cylindres",
+        "cylinders": 4
+      },
+      "status": "production",
+      "description": "Barber conserve une Four de 1910 ; la famille est commercialisée en 1909 et les essais antérieurs décrits par Stein ne datent pas la fabrication de cet exemplaire.",
+      "dates": {
+        "commercialization_year": 1909
+      },
+      "date_sources": {
+        "commercialization_year": "sfo"
+      },
+      "technical_notes": "Les spécifications détaillées des Four de 1909 ou 1911 ne sont pas copiées sur l’exemplaire 1910.",
+      "imageQueries": [
+        "Pierce Four 1910"
+      ],
+      "manufacturer_aliases": [
+        "Pierce",
+        "Pierce Cycle Co."
+      ]
+    },
+    {
+      "id": "1908-indian-twin-t961",
+      "name": "Twin — exemplaire moteur T961, 1908",
+      "manufacturer": "Indian",
+      "brand": "Indian",
+      "origin_country": "États-Unis",
+      "construction": {
+        "year": 1908,
+        "precision": "exact",
+        "note": "Objet restauré en 2002, collection Mann et ancien musée Otis Chandler, attribué à 1908 par le catalogue RM Sotheby’s. Cette datation est celle de l’exemplaire, pas celle du premier Twin."
+      },
+      "references": [
+        "051"
+      ],
+      "sources": [
+        "indian08"
+      ],
+      "technical": {
+        "engine_type": "Bicylindre en V à 42°",
+        "cylinders": 2,
+        "gears": 1,
+        "brakes": "Frein arrière à rétropédalage"
+      },
+      "status": "production",
+      "description": "Objet restauré en 2002, collection Mann et ancien musée Otis Chandler, attribué à 1908 par le catalogue RM Sotheby’s. Cette datation est celle de l’exemplaire, pas celle du premier Twin.",
+      "historical_manufacturer": "Hendee Manufacturing Company",
+      "technical_notes": "La puissance et la cylindrée ne sont pas choisies parmi des valeurs divergentes de notices commerciales.",
+      "imageQueries": [
+        "Indian Twin 1908"
+      ],
+      "manufacturer_official_name": "Hendee Manufacturing Company",
+      "manufacturer_aliases": [
+        "Hendee Manufacturing Company"
+      ]
+    }
+  ]
+}

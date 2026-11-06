@@ -7,10 +7,14 @@
     "build": "vite build",
     "preview": "vite preview --host 0.0.0.0",
     "test:photos": "python3 scripts/test_commons.py",
-    "test:history": "node tests/history.test.js && node tests/storage.test.js && node tests/early-additions.test.js",
+    "test:history": "node tests/history.test.js && node tests/storage.test.js && node tests/early-additions.test.js && node tests/peugeot-de-dion.test.js && node tests/period-1890-1900.test.js && node tests/period-1901-1910.test.js",
     "test": "npm run test:history && npm run test:photos",
     "migrate:history": "node scripts/migrate-inventory.mjs",
-    "add:early-history": "node scripts/add-early-inventory.mjs"
+    "add:early-history": "node scripts/add-early-inventory.mjs",
+    "add:peugeot-de-dion": "node scripts/add-peugeot-de-dion.mjs",
+    "add:1890-1900": "node scripts/add-1890-1900.mjs",
+    "add:1901-1910": "node scripts/add-1901-1910.mjs",
+    "prepare:1901-media": "node scripts/prepare-1901-media.mjs"
   },
   "dependencies": {
     "fuse.js": "^7.0.0",

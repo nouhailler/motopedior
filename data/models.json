@@ -832,5 +832,982 @@
         "checkedAt": "2026-11-05T11:19:06.903398+00:00"
       }
     ]
+  },
+  {
+    "id": "25",
+    "brand": "Peugeot",
+    "model": "Première moto — présentée en 1898",
+    "year": 1898,
+    "endYear": null,
+    "presentation_year": 1898,
+    "country": "France",
+    "category": "Pionnière",
+    "propulsion": "Essence",
+    "vehicleType": "Moto",
+    "historicalLabel": "Prototype de salon",
+    "historicalPrototype": true,
+    "historical_status": "prototype",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Présentée au salon de 1898, cette première moto Peugeot reçoit un moteur De Dion-Bouton monté près de la roue arrière. L’Aventure Peugeot indique qu’elle n’est pas entrée en production. Elle est distincte des tricycles Peugeot contemporains et de la Motobicyclette ZL de 1901.",
+    "sourcePage": "https://fr.wikipedia.org/wiki/Peugeot_Motocycles",
+    "imageQueries": [
+      "Peugeot motorcycle 1898 prototype",
+      "Peugeot première moto 1898"
+    ],
+    "documentation": [
+      {
+        "provider": "L’Aventure Peugeot",
+        "url": "https://laventure-association.com/article/motos_peugeot/",
+        "title": "Les motos Peugeot — prototype présenté en 1898 et Motobicyclette ZL présentée en 1901",
+        "role": "primary",
+        "checkedAt": "2026-11-05T11:40:23.376396+00:00"
+      },
+      {
+        "provider": "Peugeot Motocycles",
+        "url": "https://peugeot-motocycles.com/fr/success-story/",
+        "title": "Histoire officielle — première moto 1898 et motobicyclette ZL 1901",
+        "role": "primary",
+        "checkedAt": "2026-11-05T11:40:23.376396+00:00"
+      },
+      {
+        "provider": "Wikipedia",
+        "url": "https://fr.wikipedia.org/wiki/Peugeot_Motocycles",
+        "title": "Peugeot Motocycles",
+        "role": "complementary",
+        "checkedAt": "2026-11-05T11:40:23.376396+00:00"
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "brand": "Peugeot",
+    "model": "Motobicyclette ZL — présentée en 1901",
+    "year": 1901,
+    "endYear": null,
+    "presentation_year": 1901,
+    "country": "France",
+    "category": "Pionnière",
+    "propulsion": "Essence",
+    "vehicleType": "Moto",
+    "historicalLabel": "Motobicyclette à moteur ZL",
+    "historicalPrototype": false,
+    "historical_status": "production",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "La Motobicyclette ZL est présentée au salon de Paris de 1901 et constitue, selon L’Aventure Peugeot, la première moto produite par la marque. Elle utilise un moteur suisse Zürcher et Lüthi de 198 cm³ placé devant le pédalier, avec transmission par courroie. Sa date de présentation est distinguée des dates de construction et de début de commercialisation qui restent à préciser.",
+    "sourcePage": "https://fr.wikipedia.org/wiki/Peugeot_Motocycles",
+    "imageQueries": [
+      "Peugeot motobicyclette 1901",
+      "Peugeot ZL motorcycle 1901"
+    ],
+    "documentation": [
+      {
+        "provider": "L’Aventure Peugeot",
+        "url": "https://laventure-association.com/article/motos_peugeot/",
+        "title": "Les motos Peugeot — prototype présenté en 1898 et Motobicyclette ZL présentée en 1901",
+        "role": "primary",
+        "checkedAt": "2026-11-05T11:40:23.376396+00:00"
+      },
+      {
+        "provider": "Peugeot Motocycles",
+        "url": "https://peugeot-motocycles.com/fr/success-story/",
+        "title": "Histoire officielle — première moto 1898 et motobicyclette ZL 1901",
+        "role": "primary",
+        "checkedAt": "2026-11-05T11:40:23.376396+00:00"
+      },
+      {
+        "provider": "Wikipedia",
+        "url": "https://fr.wikipedia.org/wiki/Peugeot_Motocycles",
+        "title": "Peugeot Motocycles",
+        "role": "complementary",
+        "checkedAt": "2026-11-05T11:40:23.376396+00:00"
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "brand": "De Dion-Bouton",
+    "model": "Tricycle à essence — modèle de 1895",
+    "year": 1895,
+    "endYear": null,
+    "country": "France",
+    "category": "Pionnière",
+    "propulsion": "Essence",
+    "vehicleType": "Tricycle",
+    "historicalLabel": "Tricycle motorisé à essence",
+    "historicalPrototype": false,
+    "historical_status": "production",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Le tricycle à essence De Dion-Bouton est documenté dès 1895 dans le catalogue du Cnam et dans l’histoire des collections du musée The Henry Ford. Il appartient aux véhicules apparentés à trois roues, et ne doit pas être confondu avec une bicyclette motorisée. Les caractéristiques d’exemplaires de 1898 ou 1900 ne sont pas automatiquement attribuées au modèle de 1895.",
+    "sourcePage": "https://en.wikipedia.org/wiki/De_Dion-Bouton_tricycle",
+    "imageQueries": [
+      "De Dion Bouton tricycle 1895",
+      "De Dion Bouton motor tricycle"
+    ],
+    "documentation": [
+      {
+        "provider": "Cnam — Cnum",
+        "url": "https://cnum.cnam.fr/pgi/redir.php?ident=M6118&onglet=i",
+        "title": "Catalogue du musée — Section DA, Transports sur route",
+        "role": "primary",
+        "checkedAt": "2026-11-05T11:43:18.390584+00:00"
+      },
+      {
+        "provider": "The Henry Ford",
+        "url": "https://www.thehenryford.org/collections/explore/artifact/147364",
+        "title": "De Dion-Bouton Motor Tricycle, circa 1898 — premiers tricycles à essence en 1895",
+        "role": "primary",
+        "checkedAt": "2026-11-05T11:43:18.390584+00:00"
+      },
+      {
+        "provider": "Louwman Museum",
+        "url": "https://www.louwmanmuseum.nl/en/collections/automobiles/de-dion-bouton-tricycle",
+        "title": "De Dion-Bouton Tricycle — exemplaire de 1900 et moteur de 1895",
+        "role": "primary",
+        "checkedAt": "2026-11-05T11:43:18.390584+00:00"
+      },
+      {
+        "provider": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/De_Dion-Bouton_tricycle",
+        "title": "De Dion-Bouton tricycle",
+        "role": "complementary",
+        "checkedAt": "2026-11-05T11:43:18.390584+00:00"
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "brand": "Geneva Cycle Company",
+    "model": "Steam Bicycle — identification à documenter",
+    "year": null,
+    "endYear": null,
+    "country": "États-Unis",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "La Geneva est attribuée à une entreprise de l’Ohio et datée de 1896 par les références secondaires. Le spécialiste François-Marie Dumas signale une reconstruction ; la notice originale de l’exposition Guggenheim n’a pas pu être consultée. La datation et l’authenticité de l’exemplaire restent à établir avant validation.",
+    "requested_year": "1896",
+    "sourcePage": "https://en.wikipedia.org/wiki/Geneva_steam_bicycle",
+    "imageQueries": [
+      "Geneva steam bicycle"
+    ],
+    "documentation": [
+      {
+        "provider": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Geneva_steam_bicycle",
+        "title": "Geneva steam bicycle",
+        "role": "complementary",
+        "checkedAt": "2026-11-05"
+      },
+      {
+        "provider": "Vintage Motor Cycle Club",
+        "url": "https://old.vmcc.net/A-to-Z-of-Motorcycles",
+        "title": "A to Z of Motorcycles — Geneva",
+        "role": "complementary",
+        "checkedAt": "2026-11-05"
+      },
+      {
+        "provider": "François-Marie Dumas",
+        "url": "https://www.moto-collection.org/blog/1896-a-1996-100-ans-danniversaires/",
+        "title": "1896 à 1996 : 100 ans d’anniversaires",
+        "role": "complementary",
+        "checkedAt": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "brand": "Roy C. Marks",
+    "model": "Motor Bicycle — identification à confirmer",
+    "year": null,
+    "endYear": null,
+    "country": null,
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Une machine est attribuée à Roy C. Marks dans une collection privée, et les sources secondaires évoquent un premier deux-roues à San Francisco en 1896. La période proposée 1896–1901 n’est pas une production confirmée. L’identité exacte, l’origine et la datation restent à vérifier sans emprunter les données des California ultérieures.",
+    "requested_year": "1896–1901",
+    "sourcePage": "https://en.wikipedia.org/wiki/California_Motor_Company",
+    "imageQueries": [
+      "Roy Marks motorcycle 1896"
+    ],
+    "documentation": [
+      {
+        "provider": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/California_Motor_Company",
+        "title": "California Motor Company",
+        "role": "complementary",
+        "checkedAt": "2026-11-05"
+      },
+      {
+        "provider": "Antique Motorcycle and Auto Museum",
+        "url": "https://vft.org/Museums/AntiqueMCmuseum/OldIndexPageFirst_files/a.htm",
+        "title": "Collection — Marks Motorcycle",
+        "role": "complementary",
+        "checkedAt": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "brand": "Edward J. Pennington",
+    "model": "Motor Bicycle — prototype à identifier",
+    "year": null,
+    "endYear": null,
+    "country": null,
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Les archives de l’IMechE mentionnent des prototypes Pennington et un catalogue New Beeston de 1898. Le brevet américain US570440A décrit un projet mais ne prouve pas sa construction. Le tricycle Autocar de 1896 conservé à Beaulieu est un véhicule distinct ; ses caractéristiques ne sont pas transférées à ce deux-roues candidat.",
+    "requested_year": "Années 1890",
+    "sourcePage": "https://imechearchive.wordpress.com/2015/12/07/early-motor-bicycles/",
+    "imageQueries": [
+      "Pennington motor bicycle"
+    ],
+    "documentation": [
+      {
+        "provider": "IMechE Archive and Library",
+        "url": "https://imechearchive.wordpress.com/2015/12/07/early-motor-bicycles/",
+        "title": "Early Motor Bicycles",
+        "role": "complementary",
+        "checkedAt": "2026-11-05"
+      },
+      {
+        "provider": "Google Patents / USPTO",
+        "url": "https://patents.google.com/patent/US570440A/en",
+        "title": "US570440A — Motor vehicle",
+        "role": "primary",
+        "checkedAt": "2026-11-05"
+      },
+      {
+        "provider": "National Motor Museum",
+        "url": "https://nationalmotormuseum.org.uk/collections/vehicles/pennington-autocar/",
+        "title": "Pennington Autocar — véhicule distinct",
+        "role": "primary",
+        "checkedAt": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "id": "31",
+    "brand": "Perks and Birch",
+    "model": "Autowheel / Motor-Wheel",
+    "year": null,
+    "endYear": null,
+    "country": "Royaume-Uni",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Le National Motor Museum conserve une Autowheel Perks and Birch datée de 1899. Ce vélocipède utilise une roue motrice intégrant le moteur ; le musée indique 222 cm³ et un cylindre. Les versions Singer postérieures et la date divergente de cession des droits sont documentées séparément.",
+    "requested_year": "1899",
+    "sourcePage": "https://nationalmotormuseum.org.uk/collections/vehicles/perks-and-birch-autowheel/",
+    "imageQueries": [
+      "Perks Birch Autowheel 1899"
+    ],
+    "documentation": [
+      {
+        "provider": "National Motor Museum",
+        "url": "https://nationalmotormuseum.org.uk/collections/vehicles/perks-and-birch-autowheel/",
+        "title": "Perks and Birch Autowheel",
+        "role": "primary",
+        "checkedAt": "2026-11-05"
+      },
+      {
+        "provider": "Louwman Museum",
+        "url": "https://www.louwmanmuseum.nl/en/collections/automobiles/singer-tricycle",
+        "title": "Singer Tricycle — historique de la Motor Wheel",
+        "role": "primary",
+        "checkedAt": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "id": "32",
+    "brand": "E. R. Thomas Motor Company",
+    "model": "Auto-Bi — prototype Design Number Two",
+    "year": null,
+    "endYear": null,
+    "country": "États-Unis",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Le New York State Museum décrit le prototype Thomas Design Number Two de 1900, observé par la presse, avec entraînement par galet. Il distingue les machines destinées à la saison 1901, modifiées pour entraîner la roue par courroie. Les caractéristiques de l’exemplaire de production de 1901 ne sont pas attribuées au prototype.",
+    "requested_year": "1900",
+    "sourcePage": "https://nysm.nysed.gov/sites/default/files/motorcycle_industry_in_nys-geoff_stein.pdf",
+    "imageQueries": [
+      "Thomas Auto-Bi 1900"
+    ],
+    "documentation": [
+      {
+        "provider": "New York State Museum",
+        "url": "https://nysm.nysed.gov/sites/default/files/motorcycle_industry_in_nys-geoff_stein.pdf",
+        "title": "Geoffrey N. Stein — The Motorcycle Industry in New York State, p. 144–146",
+        "role": "primary",
+        "checkedAt": "2026-11-05"
+      },
+      {
+        "provider": "National Motorcycle Museum",
+        "url": "https://nationalmcmuseum.org/2018/09/28/1901-thomas-auto-bi/",
+        "title": "1901 Thomas Auto-Bi — version de production",
+        "role": "primary",
+        "checkedAt": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "id": "33",
+    "brand": "Components Ltd",
+    "model": "Ariel Tricycle",
+    "year": null,
+    "endYear": null,
+    "country": "Royaume-Uni",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Le tricycle Ariel de 1898 est identifié par le National Motor Museum comme une fabrication de Components Ltd. Il possède un monocylindre De Dion-Bouton de 239 cm³ placé devant l’essieu arrière. Il reste classé parmi les tricycles, distinct des premières motos Ariel et du quadricycle ultérieur.",
+    "requested_year": "1898",
+    "sourcePage": "https://nationalmotormuseum.org.uk/collections/vehicles/ariel-tricycle/",
+    "imageQueries": [
+      "Ariel tricycle 1898"
+    ],
+    "documentation": [
+      {
+        "provider": "National Motor Museum",
+        "url": "https://nationalmotormuseum.org.uk/collections/vehicles/ariel-tricycle/",
+        "title": "Ariel Tricycle",
+        "role": "primary",
+        "checkedAt": "2026-11-05"
+      },
+      {
+        "provider": "Ariel Motor Company",
+        "url": "https://www.arielmotor.co.uk/our-history/",
+        "title": "Our History — Ariel tricycle 1898",
+        "role": "primary",
+        "checkedAt": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "id": "34",
+    "brand": "Louis S. Clarke",
+    "model": "Gasoline Tricycle",
+    "year": null,
+    "endYear": null,
+    "country": "États-Unis",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Louis S. Clarke construit ce tricycle à essence en 1897, selon le Smithsonian qui en conserve l’exemplaire. Son monocylindre refroidi par air entraîne les roues arrière par engrenages et différentiel. Aussi appelé Autocar No. 1, ce véhicule expérimental n’est pas compté comme une motocyclette à deux roues.",
+    "requested_year": "1897",
+    "sourcePage": "https://www.si.edu/object/clarke-gasoline-tricycle-1897:nmah_843060",
+    "imageQueries": [
+      "Clarke gasoline tricycle 1897"
+    ],
+    "documentation": [
+      {
+        "provider": "Smithsonian — National Museum of American History",
+        "url": "https://www.si.edu/object/clarke-gasoline-tricycle-1897:nmah_843060",
+        "title": "Clarke Gasoline Tricycle, 1897",
+        "role": "primary",
+        "checkedAt": "2026-11-05"
+      },
+      {
+        "provider": "Smithsonian Institution",
+        "url": "https://repository.si.edu/bitstream/handle/10088/2423/SSHT-0024_Hi_res.pdf?isAllowed=y&sequence=1",
+        "title": "Smithsonian Studies in History and Technology 24 — Wheels and Wheeling",
+        "role": "primary",
+        "checkedAt": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "id": "1901-enfield-motor-bicycle",
+    "brand": "Royal Enfield",
+    "model": "Royal Enfield Motor-Bicycle — type 1901",
+    "year": null,
+    "endYear": null,
+    "country": "Royaume-Uni",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "La chronologie et le dossier d’archives du constructeur attestent la machine produite en 1901 ; la reconstruction Project Origin est moderne.",
+    "sourcePage": "https://www.royalenfield.com/in/en/our-world/since-1901/",
+    "imageQueries": [
+      "Royal Enfield 1901"
+    ],
+    "documentation": [
+      {
+        "provider": "Royal Enfield",
+        "title": "Since 1901 — Royal Enfield",
+        "url": "https://www.royalenfield.com/in/en/our-world/since-1901/",
+        "role": "primary",
+        "checkedAt": "2026-11-05"
+      },
+      {
+        "provider": "Royal Enfield",
+        "title": "Project Origin — archives de la Motor-Bicycle de 1901",
+        "url": "https://www.royalenfield.com/content/dam/royal-enfield/united-kingdom/our-world/media/news/product-launches/project-origin/retta-120-show.pdf",
+        "role": "primary",
+        "checkedAt": "2026-11-05"
+      },
+      {
+        "provider": "Royal Enfield",
+        "title": "Our Legacy — brochure Royal Enfield",
+        "url": "https://www.royalenfield.com/content/dam/royal-enfield/united-kingdom/home/banner/desktop/A4_Brochure.pdf",
+        "role": "primary",
+        "checkedAt": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "id": "1902-indian-single",
+    "brand": "Indian",
+    "model": "Single — exemplaire Smithsonian 1902",
+    "year": null,
+    "endYear": null,
+    "country": "États-Unis",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Exemplaire TR.309934 daté 1902 par le Smithsonian ; conception 1901 et vente 1902 restent distinctes.",
+    "sourcePage": "https://americanhistory.si.edu/collections/object/nmah_843056",
+    "imageQueries": [
+      "Indian motorcycle 1902"
+    ],
+    "documentation": [
+      {
+        "provider": "Smithsonian — National Museum of American History",
+        "title": "Indian Motorcycle, 1902 — TR.309934",
+        "url": "https://americanhistory.si.edu/collections/object/nmah_843056",
+        "role": "complementary",
+        "checkedAt": "2026-11-05"
+      },
+      {
+        "provider": "Smithsonian Institution",
+        "title": "Indian Motorcycle, 1902 — Smithsonian Collection",
+        "url": "https://repository.si.edu/bitstreams/18eed3d2-9ec8-4ba5-8816-ef785b9413a2/download",
+        "role": "complementary",
+        "checkedAt": "2026-11-05"
+      },
+      {
+        "provider": "SFO Museum",
+        "title": "Early American Motorcycles — exposition et objets",
+        "url": "https://www.sfomuseum.org/exhibitions/early-american-motorcycles/gallery",
+        "role": "complementary",
+        "checkedAt": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "id": "1902-triumph-no1",
+    "brand": "Triumph",
+    "model": "No. 1 — moteur Minerva",
+    "year": null,
+    "endYear": null,
+    "country": "Royaume-Uni",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "No. 1 produite en 1902 selon Triumph. La notice de Beaulieu distingue la première machine et son exemplaire JAP de 1903.",
+    "sourcePage": "https://www.triumphmotorcycles.co.uk/our-story/brand-timeline",
+    "imageQueries": [
+      "Triumph motorcycle 1902"
+    ],
+    "documentation": [
+      {
+        "provider": "Triumph",
+        "title": "Brand Timeline — No. 1 de 1902",
+        "url": "https://www.triumphmotorcycles.co.uk/our-story/brand-timeline",
+        "role": "primary",
+        "checkedAt": "2026-11-05"
+      },
+      {
+        "provider": "National Motor Museum",
+        "title": "Triumph 2.5HP — exemplaire 1903 et historique 1902",
+        "url": "https://nationalmotormuseum.org.uk/collections/vehicles/triumph-25hp/",
+        "role": "complementary",
+        "checkedAt": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "id": "1905-fn-four",
+    "brand": "FN",
+    "model": "Four — exemplaire circa 1905",
+    "year": null,
+    "endYear": null,
+    "country": "Belgique",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Exemplaire du Franschhoek Motor Museum daté circa 1905 ; aucune date exacte de prototype déduite.",
+    "sourcePage": "https://www.fmm.co.za/two-wheelin-fn-four/",
+    "imageQueries": [
+      "FN Four 1905"
+    ],
+    "documentation": [
+      {
+        "provider": "Franschhoek Motor Museum",
+        "title": "Two Wheelin’: FN Four — exemplaire circa 1905",
+        "url": "https://www.fmm.co.za/two-wheelin-fn-four/",
+        "role": "complementary",
+        "checkedAt": "2026-11-05"
+      },
+      {
+        "provider": "Franschhoek Motor Museum",
+        "title": "Collection — c1905 FN Four",
+        "url": "https://www.fmm.co.za/on-display/",
+        "role": "complementary",
+        "checkedAt": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "id": "1909-harley-5d",
+    "brand": "Harley-Davidson",
+    "model": "Model 5-D — V-Twin",
+    "year": null,
+    "endYear": null,
+    "country": "États-Unis",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Le dossier Harley-Davidson décrit les 5-D construits en 1909 et l’exemplaire conservé aux archives ; distinct des monocylindres et du 7-D de 1911.",
+    "sourcePage": "https://www.harley-davidson.com/content/dam/h-d/documents/owners/hog/h-o-g-magazine-archive/canada/content-tile-2011-spring.pdf",
+    "imageQueries": [
+      "Harley Davidson 5D 1909",
+      "intitle:Harley intitle:1909"
+    ],
+    "documentation": [
+      {
+        "provider": "Harley-Davidson",
+        "title": "The Heart of a Harley-Davidson Motorcycle — Model 5-D, p.28",
+        "url": "https://www.harley-davidson.com/content/dam/h-d/documents/owners/hog/h-o-g-magazine-archive/canada/content-tile-2011-spring.pdf",
+        "role": "primary",
+        "checkedAt": "2026-11-05"
+      },
+      {
+        "provider": "Museum of American Speed",
+        "title": "Harley-Davidson — chronologie des premiers moteurs",
+        "url": "https://www.museumofamericanspeed.org/2harleydavidson.html",
+        "role": "complementary",
+        "checkedAt": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "id": "1909-royal-pioneer",
+    "brand": "Royal Pioneer",
+    "model": "Pioneer — type 1909",
+    "year": null,
+    "endYear": null,
+    "country": "États-Unis",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Modèle et exemplaire de 1909 documentés par le musée ; le lot Chandler constitue une autre référence d’objet et ses chiffres ne sont pas mélangés.",
+    "sourcePage": "https://nationalmcmuseum.org/featured-bikes/1909-royal-pioneer/",
+    "imageQueries": [
+      "Royal Pioneer 1909"
+    ],
+    "documentation": [
+      {
+        "provider": "National Motorcycle Museum",
+        "title": "1909 Royal Pioneer",
+        "url": "https://nationalmcmuseum.org/featured-bikes/1909-royal-pioneer/",
+        "role": "complementary",
+        "checkedAt": "2026-11-05"
+      },
+      {
+        "provider": "Gooding Christie’s",
+        "title": "1909 Royal Pioneer — moteur 786, collection Otis Chandler",
+        "url": "https://www.goodingco.com/lot/1909-royal-pioneer/",
+        "role": "complementary",
+        "checkedAt": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "id": "1908-scott-333",
+    "brand": "Scott",
+    "model": "333 cm³ — type Jowett 1908",
+    "year": null,
+    "endYear": null,
+    "country": "Royaume-Uni",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Le club distingue six machines fabriquées sous contrat chez Jowett en 1908 des 450 cm³ fabriquées en 1909.",
+    "sourcePage": "https://scottownersclub.org/models/",
+    "imageQueries": [
+      "Scott motorcycle 1908"
+    ],
+    "documentation": [
+      {
+        "provider": "Scott Owners Club",
+        "title": "Models — Veteran Machines 1908–1909",
+        "url": "https://scottownersclub.org/models/",
+        "role": "complementary",
+        "checkedAt": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "id": "1907-indian-single",
+    "brand": "Indian",
+    "model": "Single Camel Back — évolution 1907",
+    "year": null,
+    "endYear": null,
+    "country": "États-Unis",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Exemplaire de 1907 et évolution du Single documentés ; le cadre de 1908 et les chiffres de tous les modèles ne sont pas transférés.",
+    "sourcePage": "https://nationalmcmuseum.org/2022/11/04/1907-indian/",
+    "imageQueries": [
+      "Indian motorcycle 1907",
+      "intitle:Indian intitle:1907"
+    ],
+    "documentation": [
+      {
+        "provider": "National Motorcycle Museum",
+        "title": "1907 Indian — exemplaire Camel Back",
+        "url": "https://nationalmcmuseum.org/2022/11/04/1907-indian/",
+        "role": "complementary",
+        "checkedAt": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "id": "1902-norton-energette",
+    "brand": "Norton",
+    "model": "Energette — type 1902",
+    "year": null,
+    "endYear": null,
+    "country": "Royaume-Uni",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "La source officielle identifie la première machine complète comme Energette de 1902, et non une première construction 1901 ou 1905.",
+    "sourcePage": "https://www.nortonresurgence.com/en/norton-heritage/norton-motorcycles-a-legacy-of-heritage%2C-innovation-and-resurgence.html",
+    "imageQueries": [
+      "Norton Energette",
+      "intitle:Energette"
+    ],
+    "documentation": [
+      {
+        "provider": "Norton",
+        "title": "Norton Motorcycles: A Legacy of Heritage, Innovation and Resurgence",
+        "url": "https://www.nortonresurgence.com/en/norton-heritage/norton-motorcycles-a-legacy-of-heritage%2C-innovation-and-resurgence.html",
+        "role": "primary",
+        "checkedAt": "2026-11-05"
+      },
+      {
+        "provider": "National Motorcycle Museum Australia",
+        "title": "Norton Motorcycles — Energette 1902–1903",
+        "url": "https://nationalmotorcyclemuseum.com.au/norton-motorcycles.htm",
+        "role": "complementary",
+        "checkedAt": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "id": "1902-humber-275",
+    "brand": "Humber",
+    "model": "2¾ HP — exemplaire de Beeston 1902",
+    "year": null,
+    "endYear": null,
+    "country": "Royaume-Uni",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Objet Science Museum 1925-36, construit par Humber Limited à Beeston en 1902. Les 350 cm³ de l’autre référence ne sont pas transposés.",
+    "sourcePage": "https://collection.sciencemuseumgroup.org.uk/objects/co24380/humber-motorcycle",
+    "imageQueries": [
+      "Humber motorcycle 1902"
+    ],
+    "documentation": [
+      {
+        "provider": "Science Museum Group",
+        "title": "Humber motorcycle, 1902 — 1925-36",
+        "url": "https://collection.sciencemuseumgroup.org.uk/objects/co24380/humber-motorcycle",
+        "role": "complementary",
+        "checkedAt": "2026-11-05"
+      },
+      {
+        "provider": "Collection des voitures de S.A.S. le Prince de Monaco",
+        "title": "Humber 2.75HP — machine du prince Albert I",
+        "url": "https://www.mtcc.mc/portfolio/humber-275-hp/",
+        "role": "complementary",
+        "checkedAt": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "id": "1902-california-motor-bicycle",
+    "brand": "California Motor Company",
+    "model": "Motor Bicycle — exemplaire SFO 1902",
+    "year": null,
+    "endYear": null,
+    "country": "États-Unis",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Objet restauré L2020.2301.001 daté 1902 par le SFO Museum ; les modifications de la traversée de Wyman en 1903 ne sont pas attribuées à cet exemplaire.",
+    "sourcePage": "https://www.sfomuseum.org/exhibitions/early-american-motorcycles/gallery",
+    "imageQueries": [
+      "California motorcycle 1902"
+    ],
+    "documentation": [
+      {
+        "provider": "SFO Museum",
+        "title": "Early American Motorcycles — exposition et objets",
+        "url": "https://www.sfomuseum.org/exhibitions/early-american-motorcycles/gallery",
+        "role": "complementary",
+        "checkedAt": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "id": "1903-laurin-klement-bz",
+    "brand": "Laurin & Klement",
+    "model": "BZ — exemplaire du musée 1903",
+    "year": null,
+    "endYear": null,
+    "country": "Bohême (Autriche-Hongrie)",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "L’exemplaire restauré du Škoda Museum est daté 1903 ; présentation automne 1902 et production 1902–1904 distinctes. La référence BZ 1908 n’est pas une nouvelle génération démontrée.",
+    "sourcePage": "https://www.skoda-storyboard.com/en/press-kits/classic-days-2026-press-kit/laurin-klement-bz-1902-1904/",
+    "imageQueries": [
+      "Laurin Klement BZ"
+    ],
+    "documentation": [
+      {
+        "provider": "Škoda Auto",
+        "title": "Laurin & Klement BZ (1902–1904) — exemplaire du musée 1903",
+        "url": "https://www.skoda-storyboard.com/en/press-kits/classic-days-2026-press-kit/laurin-klement-bz-1902-1904/",
+        "role": "primary",
+        "checkedAt": "2026-11-05"
+      },
+      {
+        "provider": "Škoda Auto",
+        "title": "Rétromobile — Laurin & Klement BZ et 125 ans de compétition",
+        "url": "https://cdn.skoda-storyboard.com/2026/01/260129_Retromobile-exhibition-commemorate-the-125th-anniversary-of-Skoda-Motorsport_c32d950e.pdf",
+        "role": "primary",
+        "checkedAt": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "id": "1905-triumph-3hp",
+    "brand": "Triumph",
+    "model": "3 HP — type 1905",
+    "year": null,
+    "endYear": null,
+    "country": "Royaume-Uni",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Exemplaire 1905 de Nick Jonckheere décrit et essayé à Beaulieu ; les 292 cm³ du modèle JAP 1903 ne sont pas transférés.",
+    "sourcePage": "https://www.beaulieu.co.uk/news/110-year-old-motorcycle-rides-into-beaulieu/",
+    "imageQueries": [
+      "Triumph motorcycle 1905",
+      "intitle:Triumph intitle:1905"
+    ],
+    "documentation": [
+      {
+        "provider": "Beaulieu — National Motor Museum",
+        "title": "110-year-old motorcycle rides into Beaulieu — Triumph 3HP 1905",
+        "url": "https://www.beaulieu.co.uk/news/110-year-old-motorcycle-rides-into-beaulieu/",
+        "role": "complementary",
+        "checkedAt": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "id": "1909-reading-standard-x102",
+    "brand": "Reading Standard",
+    "model": "X1-02 — type 1909",
+    "year": null,
+    "endYear": null,
+    "country": "États-Unis",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Modèle X1-02 et exemplaire 1909 du National Motorcycle Museum. Les spécifications restent propres à cette notice.",
+    "sourcePage": "https://nationalmcmuseum.org/2019/02/08/1909-reading-standard-x1-02/",
+    "imageQueries": [
+      "Reading Standard 1909",
+      "intitle:\"Reading Standard\""
+    ],
+    "documentation": [
+      {
+        "provider": "National Motorcycle Museum",
+        "title": "1909 Reading Standard X1-02",
+        "url": "https://nationalmcmuseum.org/2019/02/08/1909-reading-standard-x1-02/",
+        "role": "complementary",
+        "checkedAt": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "id": "1910-rudge-prototype",
+    "brand": "Rudge-Whitworth",
+    "model": "Monocylindre — prototype assemblé en 1910",
+    "year": null,
+    "endYear": null,
+    "country": "Royaume-Uni",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Première machine assemblée le 27 juillet 1910 selon l’historique spécialisé, corroborée par Russell p.198 ; vente publique en 1911.",
+    "sourcePage": "https://www.rudge-whitworth.com/the-motorcycles/model-history",
+    "imageQueries": [
+      "Rudge Whitworth 1910"
+    ],
+    "documentation": [
+      {
+        "provider": "Rudge-Whitworth Club",
+        "title": "Rudge-Whitworth Model History — première machine du 27 juillet 1910",
+        "url": "https://www.rudge-whitworth.com/the-motorcycles/model-history",
+        "role": "complementary",
+        "checkedAt": "2026-11-05"
+      },
+      {
+        "provider": "City University London",
+        "title": "The trend to standardization: product development in the British motor cycle industry 1896–1916",
+        "url": "https://openaccess.city.ac.uk/id/eprint/14789/",
+        "role": "complementary",
+        "checkedAt": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "id": "1901-nsu-neckarsulmer",
+    "brand": "NSU",
+    "model": "Neckarsulmer Motorrad — moteur Zédel",
+    "year": null,
+    "endYear": null,
+    "country": "Allemagne",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Audi Tradition distingue les premières Neckarsulmer de 1901 à moteur Zédel des moteurs propres et de l’appellation NSU ultérieurs.",
+    "sourcePage": "https://audi-touchscreen-150-jahre-nsu.timm4.de/touchscreen-1/en/unternehmen",
+    "imageQueries": [
+      "NSU motorcycle 1901"
+    ],
+    "documentation": [
+      {
+        "provider": "Audi Tradition",
+        "title": "150 Jahre NSU — Neckarsulmer Fahrradwerke et premiers moteurs Zédel",
+        "url": "https://audi-touchscreen-150-jahre-nsu.timm4.de/touchscreen-1/en/unternehmen",
+        "role": "primary",
+        "checkedAt": "2026-11-05"
+      },
+      {
+        "provider": "Audi AG",
+        "title": "Audi AG — histoire de NSU",
+        "url": "https://www.audi-mediacenter.com/system/production/uploaded_files/24123/file/8f33886885fa55d408bf7577841fbfce0680828f/AUDI_AG_Historie_Kurzversion_EN.pdf?1691658833=&disposition=attachment",
+        "role": "primary",
+        "checkedAt": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "id": "1910-pierce-four",
+    "brand": "Pierce Cycle Company",
+    "model": "Four — exemplaire Barber 1910",
+    "year": null,
+    "endYear": null,
+    "country": "États-Unis",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Barber conserve une Four de 1910 ; la famille est commercialisée en 1909 et les essais antérieurs décrits par Stein ne datent pas la fabrication de cet exemplaire.",
+    "sourcePage": "https://www.barbermuseum.org/collection/",
+    "imageQueries": [
+      "Pierce Four 1910"
+    ],
+    "documentation": [
+      {
+        "provider": "Barber Vintage Motorsports Museum",
+        "title": "Collection — Pierce Four 1910",
+        "url": "https://www.barbermuseum.org/collection/",
+        "role": "complementary",
+        "checkedAt": "2026-11-05"
+      },
+      {
+        "provider": "SFO Museum",
+        "title": "Early American Motorcycles — exposition et objets",
+        "url": "https://www.sfomuseum.org/exhibitions/early-american-motorcycles/gallery",
+        "role": "complementary",
+        "checkedAt": "2026-11-05"
+      },
+      {
+        "provider": "New York State Museum",
+        "title": "The Motorcycle Industry in New York State — Pierce Cycle Company, p.108–111",
+        "url": "https://nysm.nysed.gov/sites/default/files/motorcycle_industry_in_nys-geoff_stein.pdf",
+        "role": "complementary",
+        "checkedAt": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "id": "1908-indian-twin-t961",
+    "brand": "Indian",
+    "model": "Twin — exemplaire moteur T961, 1908",
+    "year": null,
+    "endYear": null,
+    "country": "États-Unis",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Objet restauré en 2002, collection Mann et ancien musée Otis Chandler, attribué à 1908 par le catalogue RM Sotheby’s. Cette datation est celle de l’exemplaire, pas celle du premier Twin.",
+    "sourcePage": "https://rmsothebys.com/auctions/mo26/lots/s0021-1908-indian-twin/",
+    "imageQueries": [
+      "Indian Twin 1908"
+    ],
+    "documentation": [
+      {
+        "provider": "RM Sotheby’s",
+        "title": "1908 Indian Twin — moteur T961, collection Mann",
+        "url": "https://rmsothebys.com/auctions/mo26/lots/s0021-1908-indian-twin/",
+        "role": "complementary",
+        "checkedAt": "2026-11-05"
+      }
+    ]
   }
 ]

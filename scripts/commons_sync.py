@@ -59,14 +59,18 @@ def discover(models):
  existing=ROOT/'data/commons-inventory.json'
  if existing.exists():inventory=json.loads(existing.read_text()).get('models',[])
  for model in models:
-  if any(i['modelId']==model['id'] for i in inventory):continue
-  candidates={}
-  for query in model['imageQueries']:
+  previous=next((i for i in inventory if i['modelId']==model['id']),None)
+  pending=[q for q in model['imageQueries'] if not previous or q not in previous['queries']]
+  if not pending:continue
+  candidates={key(p['fileTitle']):p for p in previous.get('candidates',[])} if previous else {}
+  for query in pending:
    result=request(dict(generator='search',gsrsearch=query+' filetype:bitmap',gsrnamespace=6,gsrlimit=8,prop='imageinfo',iiprop='url|size|mime|sha1|extmetadata',iiurlwidth=800))
    for page in result.get('query',{}).get('pages',[]):
     if not page.get('imageinfo'):continue
     p=normalize(page,query);p['score']=score(p,model);p['match']='unreviewed';candidates[key(p['fileTitle'])]=p
-  inventory.append(dict(modelId=model['id'],queries=model['imageQueries'],candidates=sorted(candidates.values(),key=lambda p:-p['score'])))
+  updated=dict(modelId=model['id'],queries=list(dict.fromkeys([*(previous['queries'] if previous else []),*model['imageQueries']])),candidates=sorted(candidates.values(),key=lambda p:-p['score']))
+  if previous:inventory[inventory.index(previous)]=updated
+  else:inventory.append(updated)
   write(ROOT/'data/commons-inventory.json',dict(provider='Wikimedia Commons',generatedAt=NOW,models=inventory))
   print(model['id'],model['brand'],model['model'],len(candidates),'candidates',flush=True)
  write(ROOT/'data/commons-inventory.json',dict(provider='Wikimedia Commons',generatedAt=NOW,models=inventory))

@@ -1,0 +1,1083 @@
+{
+  "id": "historical-1901-1910-v1",
+  "title": "Inventaire 1901–1910",
+  "consulted_at": "2026-11-05",
+  "start": 1901,
+  "end": 1910,
+  "references": [
+    {
+      "reference": "001",
+      "name": "Royal Enfield première motocyclette",
+      "requested_year": "1901",
+      "decision": "added",
+      "vehicle_id": "1901-enfield-motor-bicycle",
+      "note": "La chronologie et le dossier d’archives du constructeur attestent la machine produite en 1901 ; la reconstruction Project Origin est moderne.",
+      "source_ids": [],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Royal Enfield",
+      "source_keys": [
+        "enfield",
+        "origin",
+        "enfield-brochure"
+      ]
+    },
+    {
+      "reference": "002",
+      "name": "Indian Single",
+      "requested_year": "1901",
+      "decision": "added",
+      "vehicle_id": "1902-indian-single",
+      "note": "Exemplaire TR.309934 daté 1902 par le Smithsonian ; conception 1901 et vente 1902 restent distinctes.",
+      "source_ids": [],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Indian",
+      "source_keys": [
+        "indian02",
+        "indian-bulletin",
+        "sfo"
+      ]
+    },
+    {
+      "reference": "003",
+      "name": "Motosacoche A1",
+      "requested_year": "1901",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "L’existence d’un premier moteur Motosacoche vers 1900–1901 ne suffit pas à identifier un A1 construit en 1901. L’exemplaire A1 muséal est référencé sur un intervalle ; aucune année arbitraire choisie.",
+      "source_ids": [],
+      "source_keys": [
+        "a1-archive",
+        "a1-museum"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Motosacoche"
+    },
+    {
+      "reference": "004",
+      "name": "Matchless première motocyclette",
+      "requested_year": "1901",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Les sources divergent entre premier essai, fabrication et commercialisation Matchless. Aucun modèle complet précis de 1901 identifié pour ce dossier.",
+      "source_ids": [],
+      "source_keys": [
+        "danish"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Matchless"
+    },
+    {
+      "reference": "005",
+      "name": "Norton première motocyclette",
+      "requested_year": "1901",
+      "decision": "added",
+      "vehicle_id": "1902-norton-energette",
+      "note": "La source officielle identifie la première machine complète comme Energette de 1902, et non une première construction 1901 ou 1905.",
+      "source_ids": [],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Norton",
+      "source_keys": [
+        "norton",
+        "norton-museum"
+      ]
+    },
+    {
+      "reference": "006",
+      "name": "Quadrant",
+      "requested_year": "1901",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "La notice du constructeur situe le développement vers 1900–1901, sans désignation ni exemplaire précis ; pays et technique restent à documenter.",
+      "source_ids": [],
+      "source_keys": [
+        "quadrant"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Quadrant"
+    },
+    {
+      "reference": "007",
+      "name": "NSU première motocyclette",
+      "requested_year": "1901",
+      "decision": "added",
+      "vehicle_id": "1901-nsu-neckarsulmer",
+      "note": "Audi Tradition distingue les premières Neckarsulmer de 1901 à moteur Zédel des moteurs propres et de l’appellation NSU ultérieurs.",
+      "source_ids": [],
+      "group": "motorcycle",
+      "proposed_manufacturer": "NSU",
+      "source_keys": [
+        "nsu",
+        "audi"
+      ]
+    },
+    {
+      "reference": "008",
+      "name": "Clément",
+      "requested_year": "1901",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Le Science Museum conserve un moteur Clément adaptable de 1901, pas une machine complète identifiée. Ne pas attribuer automatiquement les 143 cm³ de l’Autocyclette 1903.",
+      "source_ids": [],
+      "source_keys": [
+        "clement"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Clément"
+    },
+    {
+      "reference": "009",
+      "name": "Triumph première motocyclette",
+      "requested_year": "1902",
+      "decision": "added",
+      "vehicle_id": "1902-triumph-no1",
+      "note": "No. 1 produite en 1902 selon Triumph. La notice de Beaulieu distingue la première machine et son exemplaire JAP de 1903.",
+      "source_ids": [],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Triumph",
+      "source_keys": [
+        "triumph",
+        "tri1903"
+      ]
+    },
+    {
+      "reference": "010",
+      "name": "FN Monocylindre",
+      "requested_year": "1902",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "La notice muséale cite un premier monocylindre 133 cm³ en 1901, mais son objet est de 1911. Une machine FN précise de 1902 reste à identifier.",
+      "source_ids": [],
+      "source_keys": [
+        "fn-single"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "FN"
+    },
+    {
+      "reference": "011",
+      "name": "BAT Motorcycle",
+      "requested_year": "1902",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Début d’activité de Batson vers 1902 documenté rétrospectivement, mais pas de modèle 1902 précis. Le V-twin de 1912 n’est pas transféré.",
+      "source_ids": [],
+      "source_keys": [
+        "bat"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "BAT"
+    },
+    {
+      "reference": "012",
+      "name": "Humber Motorcycle",
+      "requested_year": "1902",
+      "decision": "added",
+      "vehicle_id": "1902-humber-275",
+      "note": "Objet Science Museum 1925-36, construit par Humber Limited à Beeston en 1902. Les 350 cm³ de l’autre référence ne sont pas transposés.",
+      "source_ids": [],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Humber",
+      "source_keys": [
+        "humber",
+        "humber-other"
+      ]
+    },
+    {
+      "reference": "013",
+      "name": "Simplex",
+      "requested_year": "1902",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Simplex est un nom homonyme ; aucun pays, modèle et exemplaire de 1902 suffisamment identifiés. Aucune référence historique n’est créée pour combler ce manque.",
+      "source_ids": [],
+      "source_keys": [],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Simplex"
+    },
+    {
+      "reference": "014",
+      "name": "California Motor Company",
+      "requested_year": "1902",
+      "decision": "added",
+      "vehicle_id": "1902-california-motor-bicycle",
+      "note": "Objet restauré L2020.2301.001 daté 1902 par le SFO Museum ; les modifications de la traversée de Wyman en 1903 ne sont pas attribuées à cet exemplaire.",
+      "source_ids": [],
+      "group": "motorcycle",
+      "proposed_manufacturer": "California Motor Company",
+      "source_keys": [
+        "sfo"
+      ]
+    },
+    {
+      "reference": "015",
+      "name": "Harley-Davidson prototype",
+      "requested_year": "1903",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Les premières machines de 1903 sont décrites par le musée, mais ce dossier ne permet pas de distinguer un prototype précis d’une version produite.",
+      "source_ids": [],
+      "source_keys": [
+        "hd-museum"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Harley-Davidson"
+    },
+    {
+      "reference": "016",
+      "name": "Harley-Davidson première production",
+      "requested_year": "1903",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Ne pas créer une seconde fiche uniquement à partir du libellé première production : identification et différence avec le prototype encore à établir.",
+      "source_ids": [],
+      "source_keys": [
+        "hd-museum"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Harley-Davidson"
+    },
+    {
+      "reference": "017",
+      "name": "New Werner",
+      "requested_year": "1903",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "La New Werner doit être distinguée du premier type déjà présent (ID 23). Millésime 1903, variante mécanique et exemplaire précis non établis dans ce lot.",
+      "source_ids": [],
+      "source_keys": [],
+      "group": "motorcycle",
+      "proposed_manufacturer": "New"
+    },
+    {
+      "reference": "018",
+      "name": "Laurin & Klement",
+      "requested_year": "1903",
+      "decision": "added",
+      "vehicle_id": "1903-laurin-klement-bz",
+      "note": "L’exemplaire restauré du Škoda Museum est daté 1903 ; présentation automne 1902 et production 1902–1904 distinctes. La référence BZ 1908 n’est pas une nouvelle génération démontrée.",
+      "source_ids": [],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Laurin & Klement",
+      "source_keys": [
+        "bz",
+        "bz-other"
+      ]
+    },
+    {
+      "reference": "019",
+      "name": "Husqvarna première motocyclette",
+      "requested_year": "1903",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Le constructeur confirme une motorised bicycle produite en 1903 ; une désignation et une version technique suffisamment précises restent à identifier.",
+      "source_ids": [],
+      "source_keys": [
+        "husqvarna"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Husqvarna"
+    },
+    {
+      "reference": "020",
+      "name": "Chater-Lea",
+      "requested_year": "1903",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Les archives décrivent des éléments Chater-Lea et des moteurs JAP : un cadre fourni ne suffit pas à identifier la marque d’une machine complète construite en 1903.",
+      "source_ids": [],
+      "source_keys": [
+        "jap"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Chater-Lea"
+    },
+    {
+      "reference": "021",
+      "name": "René Gillet",
+      "requested_year": "1903",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Une René Gillet V-twin de 1910 est répertoriée par le musée, sans prouver la machine générique de 1903.",
+      "source_ids": [],
+      "source_keys": [
+        "gillet"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "René Gillet"
+    },
+    {
+      "reference": "022",
+      "name": "Evart-Hall",
+      "requested_year": "1903",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Le périodique de janvier 1903 décrit une offre Evart-Hall ; version exacte et date de fabrication non établies ici. Ne pas confondre avec le quatre-cylindres Binks ultérieur.",
+      "source_ids": [],
+      "source_keys": [
+        "evart"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Evart-Hall"
+    },
+    {
+      "reference": "023",
+      "name": "Aeolus",
+      "requested_year": "1903",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "L’existence même de l’Aeolus proposée est mise en doute par l’étude spécialisée. Ne pas confondre avec Bown-Aeolus de 1914.",
+      "source_ids": [],
+      "source_keys": [
+        "aeolus"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Aeolus"
+    },
+    {
+      "reference": "024",
+      "name": "DOT",
+      "requested_year": "1903",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "1903 est une date de société ; la notice atteste la compétition de 1908 mais pas un modèle construit précisément en 1903.",
+      "source_ids": [],
+      "source_keys": [
+        "dot"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "DOT"
+    },
+    {
+      "reference": "025",
+      "name": "Peugeot 2½ HP",
+      "requested_year": "1904",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Le musée conserve une Peugeot 500 cm³ de 1904 ; sa correspondance avec la désignation 2½ HP n’est pas démontrée.",
+      "source_ids": [],
+      "source_keys": [
+        "danish"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Peugeot"
+    },
+    {
+      "reference": "026",
+      "name": "Elleham",
+      "requested_year": "1904",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Le lancement Elleham est situé en 1904 ; les 734 cm³ de la machine muséale 1908 ne sont pas transposés à une machine 1904 sans version identifiée.",
+      "source_ids": [],
+      "source_keys": [
+        "elleham",
+        "danish"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Elleham"
+    },
+    {
+      "reference": "027",
+      "name": "Veloce",
+      "requested_year": "1904",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Le type Veloce 2 HP est documenté pour Taylor Gue en 1905 ; la construction 1904 proposée n’est pas établie.",
+      "source_ids": [],
+      "source_keys": [
+        "veloce",
+        "russell"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Veloce"
+    },
+    {
+      "reference": "028",
+      "name": "Yale-California",
+      "requested_year": "1904",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Un catalogue Yale-California 1905 est référencé ; identité, date et lien exact avec California 1904 restent à démontrer.",
+      "source_ids": [],
+      "source_keys": [
+        "yale"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Yale-California"
+    },
+    {
+      "reference": "029",
+      "name": "Alcyon",
+      "requested_year": "1904",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Production Alcyon et présence en course attestées en 1904 ; la date de l’événement ne date pas la fabrication d’une version commerciale précise.",
+      "source_ids": [],
+      "source_keys": [
+        "alcyon",
+        "alcyon-photo"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Alcyon"
+    },
+    {
+      "reference": "030",
+      "name": "Hercules",
+      "requested_year": "1904",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Hercules peut désigner la marque allemande ou Curtiss-Hercules aux États-Unis. Le choix de constructeur n’est pas fait implicitement.",
+      "source_ids": [],
+      "source_keys": [
+        "hercules",
+        "sfo"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Hercules"
+    },
+    {
+      "reference": "031",
+      "name": "Stimula",
+      "requested_year": "1904",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Les annonces mêlent moto, tricar et saison 1905 ; aucune version construite en 1904 attribuée arbitrairement.",
+      "source_ids": [],
+      "source_keys": [
+        "stimula"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Stimula"
+    },
+    {
+      "reference": "032",
+      "name": "FN Four",
+      "requested_year": "1905",
+      "decision": "added",
+      "vehicle_id": "1905-fn-four",
+      "note": "Exemplaire du Franschhoek Motor Museum daté circa 1905 ; aucune date exacte de prototype déduite.",
+      "source_ids": [],
+      "group": "motorcycle",
+      "proposed_manufacturer": "FN",
+      "source_keys": [
+        "fn",
+        "fn-display"
+      ]
+    },
+    {
+      "reference": "033",
+      "name": "Triumph 3 HP",
+      "requested_year": "1905",
+      "decision": "added",
+      "vehicle_id": "1905-triumph-3hp",
+      "note": "Exemplaire 1905 de Nick Jonckheere décrit et essayé à Beaulieu ; les 292 cm³ du modèle JAP 1903 ne sont pas transférés.",
+      "source_ids": [],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Triumph",
+      "source_keys": [
+        "tri05"
+      ]
+    },
+    {
+      "reference": "034",
+      "name": "Norton première production",
+      "requested_year": "1905",
+      "decision": "existing",
+      "vehicle_id": "1902-norton-energette",
+      "note": "La source officielle identifie la première machine complète comme Energette de 1902, et non une première construction 1901 ou 1905.",
+      "source_ids": [],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Norton",
+      "source_keys": [
+        "norton",
+        "norton-museum"
+      ]
+    },
+    {
+      "reference": "035",
+      "name": "Excelsior",
+      "requested_year": "1905",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Excelsior est ambigu entre plusieurs constructeurs, notamment britannique et américain. La moto britannique 1896 existante n’est pas réutilisée automatiquement.",
+      "source_ids": [],
+      "source_keys": [],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Excelsior"
+    },
+    {
+      "reference": "036",
+      "name": "Merkel",
+      "requested_year": "1905",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Des Merkel antérieurs et un Model A muséal 1907 sont documentés ; ils n’identifient pas un modèle précis de 1905.",
+      "source_ids": [],
+      "source_keys": [
+        "stein",
+        "barber"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Merkel"
+    },
+    {
+      "reference": "037",
+      "name": "Wanderer",
+      "requested_year": "1905",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Annonce Wanderer publiée en 1905, mais une offre commerciale ne date pas la construction d’un exemplaire. Les 300 cm³ de 1908 ne sont pas transposés.",
+      "source_ids": [],
+      "source_keys": [
+        "wanderer-ad",
+        "danish"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Wanderer"
+    },
+    {
+      "reference": "038",
+      "name": "Victoria",
+      "requested_year": "1905",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Les sources distinguent prototype 1901, série 1903 et automobile doctor car de 1905. Une Victoria moto 1905 précise reste à identifier.",
+      "source_ids": [],
+      "source_keys": [
+        "victoria"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Victoria"
+    },
+    {
+      "reference": "039",
+      "name": "AJS",
+      "requested_year": "1905",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "La date 1905 ne suffit pas à établir une AJS complète. Le musée situe la première AJS en 1910 ; l’activité des Stevens n’est pas assimilée à un modèle AJS.",
+      "source_ids": [],
+      "source_keys": [
+        "ajs"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "AJS"
+    },
+    {
+      "reference": "040",
+      "name": "Austral",
+      "requested_year": "1905",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Les documents Austral de 1905 concernent notamment un mototricycle. Ne pas le compter comme moto à deux roues. Version exacte et construction à préciser.",
+      "source_ids": [],
+      "source_keys": [
+        "austral-1905",
+        "austral-archive"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Austral"
+    },
+    {
+      "reference": "041",
+      "name": "BSA première motocyclette",
+      "requested_year": "1906",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Les chronologies BSA divergent : sources récentes 1910, brochure 1961 mentionnant 1909. La proposition 1906 et l’identité exacte de la première machine restent à vérifier.",
+      "source_ids": [],
+      "source_keys": [
+        "bsa",
+        "bsa-book",
+        "bmct"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "BSA"
+    },
+    {
+      "reference": "042",
+      "name": "Douglas",
+      "requested_year": "1906",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "La notice constructeur du Science Museum situe les ventes sous le nom Douglas en 1907. Une Douglas complète de 1906 n’est pas établie.",
+      "source_ids": [],
+      "source_keys": [
+        "douglas"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Douglas"
+    },
+    {
+      "reference": "043",
+      "name": "Achille",
+      "requested_year": "1906",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Achille doit être distingué d’Achilles d’Ober-Politz et des homonymes automobiles ; aucune attribution automatique de la machine 1906.",
+      "source_ids": [],
+      "source_keys": [
+        "achilles"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Achille"
+    },
+    {
+      "reference": "044",
+      "name": "Bradbury",
+      "requested_year": "1906",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Le musée conserve une Bradbury monocylindre 500 cm³ de 1906 ; désignation commerciale et version exactes restent à identifier avant insertion d’un modèle.",
+      "source_ids": [],
+      "source_keys": [
+        "danish"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Bradbury"
+    },
+    {
+      "reference": "045",
+      "name": "Roland",
+      "requested_year": "1906",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Le catalogue Roland 1906 distingue les Types A et B. Aucun choix arbitraire ni mélange des deux versions.",
+      "source_ids": [],
+      "source_keys": [
+        "roland"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Roland"
+    },
+    {
+      "reference": "046",
+      "name": "Griffon",
+      "requested_year": "1906",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Plusieurs Griffon 1906 sont décrites dans les documents ; monocylindres et bicylindres doivent être distingués.",
+      "source_ids": [],
+      "source_keys": [
+        "griffon"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Griffon"
+    },
+    {
+      "reference": "047",
+      "name": "Harley-Davidson Strap Tank",
+      "requested_year": "1907",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Le lot moteur 1877 est reconstitué avec des éléments de plusieurs années. Il ne prouve pas un original homogène Strap Tank de 1907.",
+      "source_ids": [],
+      "source_keys": [
+        "strap"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Harley-Davidson"
+    },
+    {
+      "reference": "048",
+      "name": "Indian Single nouvelle génération",
+      "requested_year": "1907",
+      "decision": "added",
+      "vehicle_id": "1907-indian-single",
+      "note": "Exemplaire de 1907 et évolution du Single documentés ; le cadre de 1908 et les chiffres de tous les modèles ne sont pas transférés.",
+      "source_ids": [],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Indian",
+      "source_keys": [
+        "indian07"
+      ]
+    },
+    {
+      "reference": "049",
+      "name": "René Gillet V-Twin",
+      "requested_year": "1907",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "La machine bicylindre décrite par le spécialiste est datée 1906 ; elle n’établit pas la variante demandée de 1907.",
+      "source_ids": [],
+      "source_keys": [
+        "gillet-1906"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "René Gillet"
+    },
+    {
+      "reference": "050",
+      "name": "Terrot première motocyclette",
+      "requested_year": "1907",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Les Archives nationales situent les premières motos Terrot dès 1902. Les N°1 et N°2 diffèrent ; ne pas choisir l’une pour fabriquer une première moto 1907.",
+      "source_ids": [],
+      "source_keys": [
+        "terrot",
+        "terrot-types"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Terrot"
+    },
+    {
+      "reference": "051",
+      "name": "Indian Twin",
+      "requested_year": "1908",
+      "decision": "added",
+      "vehicle_id": "1908-indian-twin-t961",
+      "note": "Objet restauré en 2002, collection Mann et ancien musée Otis Chandler, attribué à 1908 par le catalogue RM Sotheby’s. Cette datation est celle de l’exemplaire, pas celle du premier Twin.",
+      "source_ids": [],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Indian",
+      "source_keys": [
+        "indian08"
+      ]
+    },
+    {
+      "reference": "052",
+      "name": "Thor Model 7",
+      "requested_year": "1908",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Témoignage de conduite d’un Thor Model 7 de collection privée ; datation et identité non corroborées par une archive indépendante.",
+      "source_ids": [],
+      "source_keys": [
+        "thor"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Thor"
+    },
+    {
+      "reference": "053",
+      "name": "Motosacoche 1908",
+      "requested_year": "1908",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Le musée mentionne Motosacoche 1908 et A1 sur un intervalle 1900–1910 ; le rapprochement exact des deux notices et de l’exemplaire doit être confirmé.",
+      "source_ids": [],
+      "source_keys": [
+        "a1-home",
+        "a1-museum"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Motosacoche"
+    },
+    {
+      "reference": "054",
+      "name": "Cito",
+      "requested_year": "1908",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "La collection répertorie une Cito monocylindre de 1908, mais sans désignation commerciale ni version exacte. Pas de fiche générique inventée.",
+      "source_ids": [],
+      "source_keys": [
+        "danish"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Cito"
+    },
+    {
+      "reference": "055",
+      "name": "Wanderer 300",
+      "requested_year": "1908",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "La collection répertorie Wanderer 1908, 300 cm³ et un cylindre ; la désignation et la version précise du modèle restent à vérifier.",
+      "source_ids": [],
+      "source_keys": [
+        "danish"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Wanderer"
+    },
+    {
+      "reference": "056",
+      "name": "Elleham 1908",
+      "requested_year": "1908",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Deux exemplaires Elleham 1908 de 734 cm³ sont listés ; ils ne deviennent pas deux modèles indépendants sans identification des variantes.",
+      "source_ids": [],
+      "source_keys": [
+        "danish"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Elleham"
+    },
+    {
+      "reference": "057",
+      "name": "Laurin & Klement BZ",
+      "requested_year": "1908",
+      "decision": "existing",
+      "vehicle_id": "1903-laurin-klement-bz",
+      "note": "L’exemplaire restauré du Škoda Museum est daté 1903 ; présentation automne 1902 et production 1902–1904 distinctes. La référence BZ 1908 n’est pas une nouvelle génération démontrée.",
+      "source_ids": [],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Laurin & Klement",
+      "source_keys": [
+        "bz",
+        "bz-other"
+      ]
+    },
+    {
+      "reference": "058",
+      "name": "Aiglon",
+      "requested_year": "1908",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "La date 1908 retrouvée pour Aiglon ne suffit pas à identifier une machine précise construite cette année-là.",
+      "source_ids": [],
+      "source_keys": [],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Aiglon"
+    },
+    {
+      "reference": "059",
+      "name": "W.E. Brough",
+      "requested_year": "1908",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "L’historique distingue W.E. Brough, premières machines 1902 et bicylindre 1910. Ne pas confondre avec Brough Superior ni créer une version générique 1908.",
+      "source_ids": [],
+      "source_keys": [
+        "brough"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "W.E. Brough"
+    },
+    {
+      "reference": "060",
+      "name": "Harley-Davidson V-Twin",
+      "requested_year": "1909",
+      "decision": "added",
+      "vehicle_id": "1909-harley-5d",
+      "note": "Le dossier Harley-Davidson décrit les 5-D construits en 1909 et l’exemplaire conservé aux archives ; distinct des monocylindres et du 7-D de 1911.",
+      "source_ids": [],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Harley-Davidson",
+      "source_keys": [
+        "hd5d",
+        "hd-museum"
+      ]
+    },
+    {
+      "reference": "061",
+      "name": "Pierce Four",
+      "requested_year": "1909",
+      "decision": "added",
+      "vehicle_id": "1910-pierce-four",
+      "note": "Barber conserve une Four de 1910 ; la famille est commercialisée en 1909 et les essais antérieurs décrits par Stein ne datent pas la fabrication de cet exemplaire.",
+      "source_ids": [],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Pierce",
+      "source_keys": [
+        "barber",
+        "sfo",
+        "stein"
+      ]
+    },
+    {
+      "reference": "062",
+      "name": "Reading Standard",
+      "requested_year": "1909",
+      "decision": "added",
+      "vehicle_id": "1909-reading-standard-x102",
+      "note": "Modèle X1-02 et exemplaire 1909 du National Motorcycle Museum. Les spécifications restent propres à cette notice.",
+      "source_ids": [],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Reading Standard",
+      "source_keys": [
+        "reading"
+      ]
+    },
+    {
+      "reference": "063",
+      "name": "Royal Pioneer",
+      "requested_year": "1909",
+      "decision": "added",
+      "vehicle_id": "1909-royal-pioneer",
+      "note": "Modèle et exemplaire de 1909 documentés par le musée ; le lot Chandler constitue une autre référence d’objet et ses chiffres ne sont pas mélangés.",
+      "source_ids": [],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Royal Pioneer",
+      "source_keys": [
+        "royal",
+        "royal-lot"
+      ]
+    },
+    {
+      "reference": "064",
+      "name": "Scott 333",
+      "requested_year": "1909",
+      "decision": "added",
+      "vehicle_id": "1908-scott-333",
+      "note": "Le club distingue six machines fabriquées sous contrat chez Jowett en 1908 des 450 cm³ fabriquées en 1909.",
+      "source_ids": [],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Scott",
+      "source_keys": [
+        "scott"
+      ]
+    },
+    {
+      "reference": "065",
+      "name": "Griffon 5 HP",
+      "requested_year": "1909",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Documents Griffon 5 HP antérieurs retrouvés ; version et construction de l’exemplaire 1909 non établies.",
+      "source_ids": [],
+      "source_keys": [
+        "griffon"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Griffon"
+    },
+    {
+      "reference": "066",
+      "name": "Calthorpe",
+      "requested_year": "1909",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Le type 3½ HP White & Poppe est exposé au salon de 1909. Présentation attestée, date de fabrication non suffisamment établie pour ce dossier.",
+      "source_ids": [],
+      "source_keys": [
+        "calthorpe",
+        "calthorpe-show"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Calthorpe"
+    },
+    {
+      "reference": "067",
+      "name": "Rudge-Whitworth première motocyclette",
+      "requested_year": "1909",
+      "decision": "added",
+      "vehicle_id": "1910-rudge-prototype",
+      "note": "Première machine assemblée le 27 juillet 1910 selon l’historique spécialisé, corroborée par Russell p.198 ; vente publique en 1911.",
+      "source_ids": [],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Rudge-Whitworth",
+      "source_keys": [
+        "rudge",
+        "russell"
+      ]
+    },
+    {
+      "reference": "068",
+      "name": "Husqvarna Moto-Rêve",
+      "requested_year": "1910",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Le Model 65 Moto-Rêve est documenté, mais des chronologies divergent entre 1910 et 1911 et sur 274/298 cm³. Pas de valeur ni d’année choisie arbitrairement.",
+      "source_ids": [],
+      "source_keys": [
+        "motoreve",
+        "husqvarna-1911"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Husqvarna"
+    },
+    {
+      "reference": "069",
+      "name": "New Imperial Light Tourist",
+      "requested_year": "1910",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "La chronologie Light Tourist 1910 est contestée par l’étude spécialisée ; une machine de 1914 ne doit pas être ramenée à 1910.",
+      "source_ids": [],
+      "source_keys": [
+        "newimperial"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "New Imperial"
+    },
+    {
+      "reference": "070",
+      "name": "BSA première motocyclette entièrement BSA",
+      "requested_year": "1910",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "La première BSA complète est située en 1910 par des sources récentes ; une brochure ancienne indique 1909 et le spécimen précis du BMCT est de 1911. Identification et conflit à arbitrer.",
+      "source_ids": [],
+      "source_keys": [
+        "bsa",
+        "bsa-book",
+        "bmct"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "BSA"
+    },
+    {
+      "reference": "071",
+      "name": "Rudge-Whitworth première gamme",
+      "requested_year": "1910",
+      "decision": "existing",
+      "vehicle_id": "1910-rudge-prototype",
+      "note": "Première machine assemblée le 27 juillet 1910 selon l’historique spécialisé, corroborée par Russell p.198 ; vente publique en 1911.",
+      "source_ids": [],
+      "group": "motorcycle",
+      "proposed_manufacturer": "Rudge-Whitworth",
+      "source_keys": [
+        "rudge",
+        "russell"
+      ]
+    },
+    {
+      "reference": "072",
+      "name": "AJS V-Twin",
+      "requested_year": "1910",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Les sources distinguent les monocylindres A/B de 1910 et un bicylindre nouveau annoncé en 1911 pour 1912 ; l’attribution V-Twin 1910 reste litigieuse.",
+      "source_ids": [],
+      "source_keys": [
+        "ajs",
+        "ajs-period"
+      ],
+      "group": "motorcycle",
+      "proposed_manufacturer": "AJS"
+    },
+    {
+      "reference": "073",
+      "name": "Austral Tricar",
+      "requested_year": "1901–1910",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Tricar Austral physiquement photographié en course en 1906 ; présence ne suffit pas à dater la fabrication de cet exemplaire. Dossier apparenté distinct.",
+      "source_ids": [],
+      "source_keys": [
+        "austral-1906",
+        "austral-1905"
+      ],
+      "group": "related",
+      "proposed_manufacturer": "Austral"
+    },
+    {
+      "reference": "074",
+      "name": "Rochet Tricycle",
+      "requested_year": "1901–1910",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Rochet Tricycle : preuve suffisante d’un exemplaire construit dans la période non obtenue. Ne pas emprunter les données Rochet-Bruneau.",
+      "source_ids": [],
+      "source_keys": [],
+      "group": "related",
+      "proposed_manufacturer": "Rochet"
+    },
+    {
+      "reference": "075",
+      "name": "Orient Tricycle",
+      "requested_year": "1901–1910",
+      "decision": "pending",
+      "vehicle_id": null,
+      "note": "Les objets Orient clairement datés retrouvés concernent surtout 1900. Ne pas utiliser la moto à deux roues ou le Buckboard à quatre roues pour cette entrée.",
+      "source_ids": [],
+      "source_keys": [],
+      "group": "related",
+      "proposed_manufacturer": "Orient"
+    }
+  ]
+}
