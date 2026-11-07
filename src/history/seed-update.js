@@ -1,9 +1,16 @@
+import {appendAttestations} from './attestations.js';
+import {appendResearchReferences} from './research-updates.js';
 import {clone,duplicateCandidates,now,validateInventory} from './domain.js';
 // Append new editorial records without replacing local reviews, sources or identifiers.
 const sourceContent=source=>{const {confirmed_fields,...content}=source;return content};
 export function appendSeedAdditions(current,seed){
  const next=clone(current);const added=[],skipped=[];let metadataChanged=false;
- for(const batch of seed.research_batches||[]){if(!next.research_batches?.some(b=>b.id===batch.id)){next.research_batches??=[];next.research_batches.push(clone(batch));for(const id of batch.references.flatMap(r=>r.source_ids||[])){if(!next.sources.some(s=>s.id===id)){const source=seed.sources.find(s=>s.id===id);if(source)next.sources.push(clone(source))}}metadataChanged=true}}
+ for(const batch of seed.research_batches||[]){
+  next.research_batches??=[];const local=next.research_batches.find(b=>b.id===batch.id);
+  if(!local){next.research_batches.push(clone(batch));metadataChanged=true}
+  else if(appendResearchReferences(local,batch))metadataChanged=true;
+  for(const id of batch.references.flatMap(r=>r.source_ids||[]))if(!next.sources.some(s=>s.id===id)){const source=seed.sources.find(s=>s.id===id);if(source){next.sources.push(clone(source));metadataChanged=true}}
+ }
  for(const vehicle of seed.vehicles){
   if(next.vehicles.some(v=>v.id===vehicle.id)||next.redirects?.[vehicle.id])continue;
   const staged=clone(next);
@@ -15,6 +22,7 @@ export function appendSeedAdditions(current,seed){
   if(validateInventory(staged).some(e=>e.severity==='error')){skipped.push({id:vehicle.id,reason:'Validation structurelle à réviser'});continue}
   for(const table of ['manufacturers','brands','sources','vehicles'])next[table]=staged[table];added.push(vehicle.id);
  }
+ const attestations=appendAttestations(next,seed);if(attestations.changed)metadataChanged=true;for(const id of attestations.skipped)skipped.push({id,reason:"Attestation annuelle : source locale modifiée ou véhicule absent"});
  if(added.length){next.seed_updates??=[];next.seed_updates.push({at:now(),added,skipped});next.history.push({at:now(),action:'append_editorial_seed',vehicle_ids:added,note:'Ajouts éditoriaux uniquement ; fiches locales existantes inchangées.'})}
  if(metadataChanged&&!added.length)next.history.push({at:now(),action:'append_research_index',note:'Index documentaire ajouté sans remplacer les fiches locales.'});
  return {inventory:added.length||metadataChanged?next:current,added,skipped,changed:!!(added.length||metadataChanged)};

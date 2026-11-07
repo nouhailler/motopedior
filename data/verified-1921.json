@@ -1,0 +1,694 @@
+{
+  "sources": {
+    "abc": {
+      "url": "https://collection.powerhouse.com.au/object/207138",
+      "title": "Sopwith-ABC motorcycle, built 1921 — B1199",
+      "organization": "Powerhouse",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    },
+    "abcsmg": {
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co25388/abc-motor-cycle-1921-motor-cycle",
+      "title": "ABC 3 HP — FC3511, made 1921",
+      "organization": "Science Museum Group",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    },
+    "nera": {
+      "url": "https://nationalmotormuseum.org.uk/collections/vehicles/ner-a-car-2-hp/",
+      "title": "Ner-a-Car 2¾ HP — 1921",
+      "organization": "National Motor Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    },
+    "nortonrace": {
+      "url": "https://www.nationalmotorcyclemuseum.co.uk/time-warp-racers/",
+      "title": "Norton 16H Works Race — 1921 TT, Jimmy Shaw",
+      "organization": "National Motorcycle Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    },
+    "nortonbig": {
+      "url": "https://www.nationalmotorcyclemuseum.co.uk/norton-motorcycles-purchases-55-classic-motorcycles-to-start-heritage-collection/",
+      "title": "Collection Norton — Model 1 Big Four 1921",
+      "organization": "National Motorcycle Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    },
+    "bsa": {
+      "url": "https://www.nationalmotorcyclemuseum.co.uk/stunning-1921-bsa-r34-showcased-at-motorcyclelive-2021/",
+      "title": "1921 BSA 500cc R34 — exemplaire présenté par le musée",
+      "organization": "National Motorcycle Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    },
+    "bmct": {
+      "url": "https://www.bmct.org/the-collection",
+      "title": "Collection — Humber, Revere, Zenith Bradshaw, 1921",
+      "organization": "British Motorcycle Charitable Trust",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    },
+    "danmarks": {
+      "url": "https://www.danmarksmotorcykelmuseum.dk/en/mc-1897-1925/",
+      "title": "Collection 1897–1925 — Year of construction",
+      "organization": "Danmarks Motorcykelmuseum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    },
+    "wanderer": {
+      "url": "https://demomu.de/project/nsu-sammlung-adolf-muehlich/",
+      "title": "Collection Adolf Mühlich — Wanderer 2,5 PS 1921",
+      "organization": "Deutsches Zweirad- und NSU-Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    },
+    "guzzi": {
+      "url": "https://collezioni-online.museoscienza.org/detail/IT-MUST-NTR001-021913/moto-normale-500",
+      "title": "Moto Normale 500 — IGB-2974, quatrième exemplaire, 1921",
+      "organization": "Museo Nazionale Scienza e Tecnologia Leonardo da Vinci",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    },
+    "sport": {
+      "url": "https://www.reynoldsmuseum.ca/transportation",
+      "title": "1921 Harley-Davidson Model W/WJ Sport Twin — collection",
+      "organization": "Reynolds-Alberta Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    },
+    "single": {
+      "url": "https://wheelsthroughtime.com/board-track-america/",
+      "title": "1921 Harley-Davidson Single Cylinder Factory Board Track Racer",
+      "organization": "Wheels Through Time",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    },
+    "victoria": {
+      "url": "https://bmwclubslaf.org/wp-content/uploads/2020/08/Mobile-Tradition-Live-0306.pdf",
+      "title": "BMW Mobile Tradition live 03.2006 — Victoria KR1 1921, pp.56–57",
+      "organization": "BMW Mobile Tradition",
+      "reliability": "A",
+      "type": "technical_publication",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    },
+    "gillet": {
+      "url": "https://www.moto-collection.org/blog/101-ans-de-gillet-herstal/",
+      "title": "101 ans de Gillet-Herstal — exemplaires de l’exposition Autoworld",
+      "organization": "François-Marie Dumas",
+      "reliability": "B",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    },
+    "nimbus": {
+      "url": "https://nimbus.dk/historie/",
+      "title": "Industrihistorie — Nimbus A, constructions 1921",
+      "organization": "Danmarks Nimbus Touring / Nimbus Museet",
+      "reliability": "B",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    },
+    "z22club": {
+      "url": "https://xn--zndapp-ks601-club-22b.de/die-firmengeschichte-von-zundapp/2/",
+      "title": "Histoire Zündapp — cinq livraisons signalées en 1921",
+      "organization": "Zündapp KS601 Club",
+      "reliability": "B",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    },
+    "z22museum": {
+      "url": "https://zuendappmuseum.de/exponate/",
+      "title": "Exponate — chronologie Z22 autour de 1922",
+      "organization": "Zündapp Museum Sigmaringen",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    },
+    "soyer": {
+      "url": "https://www.moto-collection.org/moto-collection/fmd-moto-Soyer-5402.htm",
+      "title": "Soyer 250 Sport — version et course 1921",
+      "organization": "François-Marie Dumas",
+      "reliability": "B",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    },
+    "nortoncat": {
+      "url": "https://www.nationalmotorcyclemuseum.co.uk/product/norton-1921-annual-sales-catalogue-all-models/",
+      "title": "Norton 1921 Annual Sales Catalogue — notice de catalogue",
+      "organization": "National Motorcycle Museum",
+      "reliability": "B",
+      "type": "secondary",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    },
+    "z22archive": {
+      "url": "https://www.zundapp529.nl/wp-content/uploads/2024/12/300000ste-in-1959-was-een-DB201.pdf",
+      "title": "300000 Zündapp Motorräder — Die 1. Zündapp, page 2 du PDF",
+      "organization": "Zündapp — brochure constructeur numérisée, réhébergée par un club",
+      "reliability": "A",
+      "type": "manufacturer_catalog",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    }
+  },
+  "models": [
+    {
+      "id": "1921-sopwith-abc",
+      "name": "3 HP / Sopwith-ABC — B1199",
+      "manufacturer": "Sopwith Aviation & Engineering Co Ltd",
+      "brand": "ABC",
+      "origin_country": "Royaume-Uni",
+      "construction": {
+        "year": 1921,
+        "precision": "exact",
+        "note": "Exemplaire daté 1921 par la notice documentaire ; cette datation ne désigne pas automatiquement le premier exemplaire de la famille."
+      },
+      "sources": [
+        "abc",
+        "abcsmg"
+      ],
+      "status": "production",
+      "technical": {
+        "engine_type": "Bicylindre opposé",
+        "cylinders": 2,
+        "displacement_cc": 398,
+        "gears": 4
+      },
+      "description": "ABC 3 HP / Sopwith-ABC — B1199. Exemplaire attribué à 1921 par Powerhouse ; les valeurs absentes de la notice restent inconnues.",
+      "imageQueries": [
+        "ABC 3 HP / Sopwith-ABC 1921"
+      ],
+      "manufacturer_aliases": [
+        "Sopwith Aviation Co Ltd"
+      ],
+      "technical_notes": "ABC/Granville Bradshaw conçoit ; Sopwith construit. La notice SMG décrit un autre exemplaire de 1921 ; aucune seconde famille créée."
+    },
+    {
+      "id": "1921-neracar-sheffield",
+      "name": "2¾ HP — exemplaire britannique 1921",
+      "manufacturer": "Sheffield Simplex Ltd",
+      "brand": "Ner-a-Car",
+      "origin_country": "Royaume-Uni",
+      "construction": {
+        "year": 1921,
+        "precision": "exact",
+        "note": "Exemplaire daté 1921 par la notice documentaire ; cette datation ne désigne pas automatiquement le premier exemplaire de la famille."
+      },
+      "sources": [
+        "nera"
+      ],
+      "status": "production",
+      "technical": {
+        "cylinders": 1,
+        "displacement_cc": 285,
+        "chassis": "Monocoque bas, direction dans le moyeu"
+      },
+      "description": "Ner-a-Car 2¾ HP — exemplaire britannique 1921. Exemplaire attribué à 1921 par National Motor Museum ; les valeurs absentes de la notice restent inconnues.",
+      "imageQueries": [
+        "Ner-a-Car 2¾ HP 1921"
+      ],
+      "technical_notes": "Fabrication britannique sous droits américains. Ne pas attribuer cet exemplaire à un constructeur allemand ni le confondre avec la version américaine."
+    },
+    {
+      "id": "1921-norton-16h-race",
+      "name": "16H Works Race — Jimmy Shaw, TT 1921",
+      "manufacturer": "Norton",
+      "brand": "Norton",
+      "origin_country": "Royaume-Uni",
+      "construction": {
+        "year": 1921,
+        "precision": "exact",
+        "note": "Exemplaire daté 1921 par la notice documentaire ; cette datation ne désigne pas automatiquement le premier exemplaire de la famille."
+      },
+      "sources": [
+        "nortonrace"
+      ],
+      "status": "production",
+      "technical": {},
+      "description": "Norton 16H Works Race — Jimmy Shaw, TT 1921. Exemplaire attribué à 1921 par National Motorcycle Museum ; les valeurs absentes de la notice restent inconnues.",
+      "imageQueries": [
+        "Norton 16H Works Race 1921"
+      ],
+      "specializations": [
+        "competition"
+      ],
+      "technical_notes": "Survivante restaurée en 2012–2013. La participation au TT accompagne la datation explicite 1921 de cet objet ; elle ne sert pas seule de preuve d’année d’assemblage."
+    },
+    {
+      "id": "1921-norton-big-four",
+      "name": "Model 1 Big Four — exemplaire 1921",
+      "manufacturer": "Norton",
+      "brand": "Norton",
+      "origin_country": "Royaume-Uni",
+      "construction": {
+        "year": 1921,
+        "precision": "exact",
+        "note": "Exemplaire daté 1921 par la notice documentaire ; cette datation ne désigne pas automatiquement le premier exemplaire de la famille."
+      },
+      "sources": [
+        "nortonbig"
+      ],
+      "status": "production",
+      "technical": {
+        "displacement_cc": 633
+      },
+      "description": "Norton Model 1 Big Four — exemplaire 1921. Exemplaire attribué à 1921 par National Motorcycle Museum ; les valeurs absentes de la notice restent inconnues.",
+      "imageQueries": [
+        "Norton Model 1 Big Four 1921"
+      ],
+      "technical_notes": "Big Four est une désignation commerciale ; aucun nombre de cylindres n’en est déduit."
+    },
+    {
+      "id": "1921-bsa-r34",
+      "name": "R34 — exemplaire de musée 1921",
+      "manufacturer": "Birmingham Small Arms Company",
+      "brand": "BSA",
+      "origin_country": "Royaume-Uni",
+      "construction": {
+        "year": 1921,
+        "precision": "exact",
+        "note": "Exemplaire daté 1921 par la notice documentaire ; cette datation ne désigne pas automatiquement le premier exemplaire de la famille."
+      },
+      "sources": [
+        "bsa"
+      ],
+      "status": "production",
+      "technical": {
+        "displacement_cc": 500
+      },
+      "description": "BSA R34 — exemplaire de musée 1921. Exemplaire attribué à 1921 par National Motorcycle Museum ; les valeurs absentes de la notice restent inconnues.",
+      "imageQueries": [
+        "BSA R34 1921"
+      ],
+      "manufacturer_aliases": [
+        "BSA"
+      ]
+    },
+    {
+      "id": "1921-humber-flat-twin",
+      "name": "4½ HP — exemplaire BMCT 1921",
+      "manufacturer": "Humber",
+      "brand": "Humber",
+      "origin_country": "Royaume-Uni",
+      "construction": {
+        "year": 1921,
+        "precision": "exact",
+        "note": "Exemplaire daté 1921 par la notice documentaire ; cette datation ne désigne pas automatiquement le premier exemplaire de la famille."
+      },
+      "sources": [
+        "bmct"
+      ],
+      "status": "production",
+      "technical": {
+        "engine_type": "Bicylindre opposé à soupapes latérales",
+        "cylinders": 2,
+        "displacement_cc": 601,
+        "gears": 3,
+        "transmission": "Chaîne"
+      },
+      "description": "Humber 4½ HP — exemplaire BMCT 1921. Exemplaire attribué à 1921 par British Motorcycle Charitable Trust ; les valeurs absentes de la notice restent inconnues.",
+      "imageQueries": [
+        "Humber 4½ HP 1921"
+      ],
+      "historical_manufacturer": "Humber & Co."
+    },
+    {
+      "id": "1921-revere-25hp",
+      "name": "2½ HP — exemplaire BMCT 1921",
+      "manufacturer": "W H Whitehouse Ltd",
+      "brand": "Revere",
+      "origin_country": "Royaume-Uni",
+      "construction": {
+        "year": 1921,
+        "precision": "exact",
+        "note": "Exemplaire daté 1921 par la notice documentaire ; cette datation ne désigne pas automatiquement le premier exemplaire de la famille."
+      },
+      "sources": [
+        "bmct"
+      ],
+      "status": "production",
+      "technical": {
+        "engine_type": "Deux-temps",
+        "displacement_cc": 269
+      },
+      "description": "Revere 2½ HP — exemplaire BMCT 1921. Exemplaire attribué à 1921 par British Motorcycle Charitable Trust ; les valeurs absentes de la notice restent inconnues.",
+      "imageQueries": [
+        "Revere 2½ HP 1921"
+      ],
+      "mechanical_details": {
+        "engine_manufacturer": "Villiers",
+        "engine_cycle": "Deux-temps",
+        "clutch": null,
+        "engine_speed_rpm": null,
+        "final_drive": null,
+        "front_suspension": null,
+        "rear_suspension": null,
+        "front_brake": null,
+        "rear_brake": null,
+        "wheels": null
+      },
+      "technical_notes": "Moteur Villiers et cadre Sparkbrook ; assemblage de la moto W H Whitehouse. La notice décrit plusieurs transmissions de gamme : aucun nombre de rapports choisi pour cet exemplaire."
+    },
+    {
+      "id": "1921-zenith-bradshaw",
+      "name": "Bradshaw 3½ HP — exemplaire BMCT 1921",
+      "manufacturer": "Zenith Motor Engineering",
+      "brand": "Zenith",
+      "origin_country": "Royaume-Uni",
+      "construction": {
+        "year": 1921,
+        "precision": "exact",
+        "note": "Exemplaire daté 1921 par la notice documentaire ; cette datation ne désigne pas automatiquement le premier exemplaire de la famille."
+      },
+      "sources": [
+        "bmct"
+      ],
+      "status": "production",
+      "technical": {
+        "engine_type": "Bicylindre opposé à soupapes en tête",
+        "cylinders": 2,
+        "cooling": "Huile"
+      },
+      "description": "Zenith Bradshaw 3½ HP — exemplaire BMCT 1921. Exemplaire attribué à 1921 par British Motorcycle Charitable Trust ; les valeurs absentes de la notice restent inconnues.",
+      "imageQueries": [
+        "Zenith Bradshaw 3½ HP 1921"
+      ],
+      "mechanical_details": {
+        "engine_manufacturer": "Bradshaw",
+        "engine_cycle": null,
+        "clutch": null,
+        "engine_speed_rpm": null,
+        "final_drive": null,
+        "front_suspension": null,
+        "rear_suspension": null,
+        "front_brake": null,
+        "rear_brake": null,
+        "wheels": null
+      }
+    },
+    {
+      "id": "1921-fn-four-748",
+      "name": "Four 748 — exemplaire danois 1921",
+      "manufacturer": "FN",
+      "brand": "FN",
+      "origin_country": "Belgique",
+      "construction": {
+        "year": 1921,
+        "precision": "exact",
+        "note": "Exemplaire daté 1921 par la notice documentaire ; cette datation ne désigne pas automatiquement le premier exemplaire de la famille."
+      },
+      "sources": [
+        "danmarks"
+      ],
+      "status": "production",
+      "technical": {
+        "engine_type": "Quatre-cylindres en ligne",
+        "cylinders": 4,
+        "displacement_cc": 748
+      },
+      "description": "FN Four 748 — exemplaire danois 1921. Exemplaire attribué à 1921 par Danmarks Motorcykelmuseum ; les valeurs absentes de la notice restent inconnues.",
+      "imageQueries": [
+        "FN Four 748 1921"
+      ],
+      "variant": "Version 748 cm³, désignation commerciale précise à compléter",
+      "relationships": [
+        {
+          "type": "variant_of",
+          "target_id": "1905-fn-four",
+          "sources": [
+            "danmarks"
+          ],
+          "note": "Rattachement éditorial à la famille quatre-cylindres FN déjà présente. La cylindrée de 748 cm³ n’est pas recopiée sur la machine circa 1905 ; aucune désignation M50 supposée."
+        }
+      ]
+    },
+    {
+      "id": "1921-wanderer-25ps",
+      "name": "2,5 PS — exemplaire Mühlich 1921",
+      "manufacturer": "Wanderer",
+      "brand": "Wanderer",
+      "origin_country": "Allemagne",
+      "construction": {
+        "year": 1921,
+        "precision": "exact",
+        "note": "Exemplaire daté 1921 par la notice documentaire ; cette datation ne désigne pas automatiquement le premier exemplaire de la famille."
+      },
+      "sources": [
+        "wanderer"
+      ],
+      "status": "production",
+      "technical": {},
+      "description": "Wanderer 2,5 PS — exemplaire Mühlich 1921. Exemplaire attribué à 1921 par Deutsches Zweirad- und NSU-Museum ; les valeurs absentes de la notice restent inconnues.",
+      "imageQueries": [
+        "Wanderer 2,5 PS 1921"
+      ],
+      "technical_notes": "Désignation et datation muséales ; ne pas convertir le nom 2,5 PS en une mesure mécanique vérifiée, ni inventer une cylindrée."
+    },
+    {
+      "id": "1921-guzzi-normale",
+      "name": "Normale 500 — IGB-2974, quatrième exemplaire",
+      "manufacturer": "Moto Guzzi",
+      "brand": "Moto Guzzi",
+      "origin_country": "Italie",
+      "construction": {
+        "year": 1921,
+        "precision": "exact",
+        "note": "Exemplaire daté 1921 par la notice documentaire ; cette datation ne désigne pas automatiquement le premier exemplaire de la famille."
+      },
+      "sources": [
+        "guzzi"
+      ],
+      "status": "production",
+      "technical": {
+        "engine_type": "Monocylindre horizontal quatre-temps",
+        "cylinders": 1,
+        "transmission": "Chaîne",
+        "chassis": "Double berceau tubulaire"
+      },
+      "description": "Moto Guzzi Normale 500 — IGB-2974, quatrième exemplaire. Exemplaire attribué à 1921 par Museo Nazionale Scienza e Tecnologia Leonardo da Vinci ; les valeurs absentes de la notice restent inconnues.",
+      "imageQueries": [
+        "Moto Guzzi Normale 500 1921"
+      ],
+      "dates": {
+        "production_start_year": 1921
+      },
+      "technical_notes": "Les mesures du musée sont approximatives ; puissance, poids et cylindrée mécanique restent nulles. La distribution des soupapes de la notice n’est pas transposée sans recoupement."
+    },
+    {
+      "id": "1921-harley-sport-twin",
+      "name": "W / WJ Sport Twin — exemplaire 1921",
+      "manufacturer": "Harley-Davidson",
+      "brand": "Harley-Davidson",
+      "origin_country": "États-Unis",
+      "construction": {
+        "year": 1921,
+        "precision": "exact",
+        "note": "Exemplaire daté 1921 par la notice documentaire ; cette datation ne désigne pas automatiquement le premier exemplaire de la famille."
+      },
+      "sources": [
+        "sport"
+      ],
+      "status": "production",
+      "technical": {},
+      "description": "Harley-Davidson W / WJ Sport Twin — exemplaire 1921. Exemplaire attribué à 1921 par Reynolds-Alberta Museum ; les valeurs absentes de la notice restent inconnues.",
+      "imageQueries": [
+        "Harley-Davidson W / WJ Sport Twin 1921"
+      ],
+      "aliases": [
+        "Model W",
+        "Sport Twin",
+        "WJ"
+      ],
+      "variant": "WJ / Sport Twin",
+      "technical_notes": "W et Sport Twin désignent la même famille ; WJ est une version. Pas de second modèle créé pour ces appellations, pas de première construction ou vente déduite de l’année de l’objet."
+    },
+    {
+      "id": "1921-harley-single-racer",
+      "name": "Single Cylinder Factory Board Track Racer — 1921",
+      "manufacturer": "Harley-Davidson",
+      "brand": "Harley-Davidson",
+      "origin_country": "États-Unis",
+      "construction": {
+        "year": 1921,
+        "precision": "exact",
+        "note": "Exemplaire daté 1921 par la notice documentaire ; cette datation ne désigne pas automatiquement le premier exemplaire de la famille."
+      },
+      "sources": [
+        "single"
+      ],
+      "status": "production",
+      "technical": {
+        "cylinders": 1,
+        "chassis": "Keystone"
+      },
+      "description": "Harley-Davidson Single Cylinder Factory Board Track Racer — 1921. Exemplaire attribué à 1921 par Wheels Through Time ; les valeurs absentes de la notice restent inconnues.",
+      "imageQueries": [
+        "Harley-Davidson Single Cylinder Factory Board Track Racer 1921"
+      ],
+      "specializations": [
+        "competition"
+      ],
+      "technical_notes": "Le musée relie le numéro de série au premier exemplaire de ce type fabriqué en 1921. Cette machine monocylindre n’est pas assimilée au V-twin Eight-Valve."
+    },
+    {
+      "id": "1921-victoria-kr1",
+      "name": "KR 1 — exemplaire BMW Museum 1921",
+      "manufacturer": "Victoria Werke",
+      "brand": "Victoria",
+      "origin_country": "Allemagne",
+      "construction": {
+        "year": 1921,
+        "precision": "exact",
+        "note": "Exemplaire daté 1921 par la notice documentaire ; cette datation ne désigne pas automatiquement le premier exemplaire de la famille."
+      },
+      "sources": [
+        "victoria"
+      ],
+      "status": "production",
+      "technical": {
+        "engine_type": "Bicylindre opposé BMW M2 B15",
+        "cylinders": 2,
+        "displacement_cc": 500,
+        "power_hp": 6.5
+      },
+      "description": "Victoria KR 1 — exemplaire BMW Museum 1921. Exemplaire attribué à 1921 par BMW Mobile Tradition ; les valeurs absentes de la notice restent inconnues.",
+      "imageQueries": [
+        "Victoria KR 1 1921"
+      ],
+      "mechanical_details": {
+        "engine_manufacturer": "BMW",
+        "engine_cycle": null,
+        "clutch": null,
+        "engine_speed_rpm": null,
+        "final_drive": null,
+        "front_suspension": null,
+        "rear_suspension": null,
+        "front_brake": null,
+        "rear_brake": null,
+        "wheels": null
+      },
+      "technical_notes": "Véhicule fabriqué à Nuremberg par Victoria, moteur BMW. Le récit signale une ancienne restauration non conforme puis une restauration documentaire. Source primaire BMW réhébergée par un club."
+    },
+    {
+      "id": "1921-gillet-350",
+      "name": "350 à courroie — exemplaire Autoworld 1921",
+      "manufacturer": "Gillet-Herstal",
+      "brand": "Gillet-Herstal",
+      "origin_country": "Belgique",
+      "construction": {
+        "year": 1921,
+        "precision": "exact",
+        "note": "Exemplaire daté 1921 par la notice documentaire ; cette datation ne désigne pas automatiquement le premier exemplaire de la famille."
+      },
+      "sources": [
+        "gillet"
+      ],
+      "status": "production",
+      "technical": {
+        "displacement_cc": 350,
+        "transmission": "Courroie"
+      },
+      "description": "Gillet-Herstal 350 à courroie — exemplaire Autoworld 1921. Exemplaire attribué à 1921 par François-Marie Dumas ; les valeurs absentes de la notice restent inconnues.",
+      "imageQueries": [
+        "Gillet-Herstal 350 à courroie 1921"
+      ],
+      "technical_notes": "Intitulé descriptif, pas un nom commercial inventé. Datation de l’exemplaire exposé selon la légende du reportage de l’historien F.-M. Dumas ; caractéristiques de 1922 et 1925 non recopiées."
+    },
+    {
+      "id": "1921-zundapp-z22",
+      "name": "Z 22 — premières constructions d’octobre 1921",
+      "manufacturer": "Zündapp",
+      "brand": "Zündapp",
+      "origin_country": "Allemagne",
+      "construction": {
+        "year": 1921,
+        "precision": "exact",
+        "note": "Brochure constructeur : début de fabrication de la Z22 en octobre 1921. Le millésime 1922 d’autres exemplaires ne redéfinit pas ce démarrage."
+      },
+      "sources": [
+        "z22archive",
+        "z22club",
+        "z22museum"
+      ],
+      "status": "limited_production",
+      "field_sources": {
+        "historical_status": "z22club"
+      },
+      "technical": {
+        "displacement_cc": 211,
+        "engine_type": "Deux-temps",
+        "transmission": "Sans boîte de vitesses ; transmission par courroie"
+      },
+      "dates": {
+        "production_start_year": 1921
+      },
+      "description": "La brochure historique Zündapp situe le début de fabrication de la Z22 en octobre 1921. Les premières livraisons restent une petite production ; la montée en volume et les versions ultérieures ne sont pas confondues avec ces premières machines.",
+      "technical_notes": "Source primaire contrôlée visuellement, page 2. Le club indique cinq premières livraisons. Puissance non renseignée : 2½ PS dans la brochure contre 2,2 PS dans le récit du club. Aucun chiffre n’est choisi arbitrairement. La date vers 1922 de notices d’objets ultérieurs n’invalide pas une fabrication initiale en 1921.",
+      "imageQueries": [
+        "Zündapp Z22 1921"
+      ]
+    }
+  ],
+  "attestations": [
+    {
+      "id": "construction-1921-nimbus",
+      "vehicle_id": "1919-nimbus-preserie",
+      "year": 1921,
+      "sources": [
+        "nimbus"
+      ],
+      "historical_status": "production",
+      "note": "Continuité de la famille Nimbus : le dossier décrit la Nimbus A en 1921 et le volume de constructions de cette année. La fiche existante de la famille est réutilisée, sans transformer 1921 en année du premier prototype ni recopier ses anciennes caractéristiques."
+    }
+  ]
+}

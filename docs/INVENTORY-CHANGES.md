@@ -63,3 +63,11 @@ Les composants photographiques, le service worker, les licences et la chaîne Co
 ## Publication
 
 Version locale compilée et vérifiée. Après le refus initial du contrôle automatique, l’utilisateur a explicitement autorisé le commit et le push des sources du projet MotoPedia. La synchronisation Git ne constitue pas à elle seule un déploiement : la publication de cette version reste une opération distincte.
+
+## 2026-11-07 — Lot 1911–1920
+
+18 fiches documentées, 2 variantes reliées, archive intégrale des 52 fiches précédentes. Ajout du registre 119 références (96 encore en attente). Filtres cylindrée/type moteur/confiance, statistiques par cylindres/année/confiance et usages militaires. Détails mécaniques optionnels sourcés, dates complémentaires validées, photographies Commons contrôlées et publication isolée. Voir `inventories/1911-1920.md`.
+
+## 2026-11-07 — Année 1921
+
+16 fiches documentées, 1 continuité annuelle Nimbus rattachée sans doublon ; 62 dossiers de recherche dont 45 en attente. Archive intégrale des 70 fiches précédentes. Attestations annuelles optionnelles, filtres et distributions de cylindrée/architecture, exports, import et fusion adaptés, sources et photographies revues. Rapport : `inventories/1921.md`.

@@ -14,7 +14,7 @@ Le build statique se trouve dans `dist`. Servir en HTTPS pour l’installation e
 
 ## Données et extension
 
-`public/inventory.json` contient 52 fiches normalisées, dont les anciennes fiches non validées conservées pour compatibilité. Les 54 nouvelles candidates du lot 1901–1910 sont séparées dans `research_batches`, hors de la liste des véhicules. C’est la source historique chargée par `HistoryProvider`, puis conservée dans IndexedDB. `data/models.json` et le catalogue généré `public/motos.json` alimentent le pipeline iconographique ; ils ne remplacent pas les assertions documentaires de l’inventaire. Pour plusieurs milliers d’entrées, prévoir une API paginée, déplacer les filtres et la recherche côté API et charger les pages avec le même IntersectionObserver. Les collections référencent les identifiants techniques stables.
+`public/inventory.json` contient 70 fiches normalisées, dont les anciennes fiches non validées conservées pour compatibilité. Les 54 nouvelles candidates du lot 1901–1910 sont séparées dans `research_batches`, hors de la liste des véhicules. C’est la source historique chargée par `HistoryProvider`, puis conservée dans IndexedDB. `data/models.json` et le catalogue généré `public/motos.json` alimentent le pipeline iconographique ; ils ne remplacent pas les assertions documentaires de l’inventaire. Pour plusieurs milliers d’entrées, prévoir une API paginée, déplacer les filtres et la recherche côté API et charger les pages avec le même IntersectionObserver. Les collections référencent les identifiants techniques stables.
 
 IndexedDB conserve les collections et les 20 dernières consultations. Workbox précache l’interface et le catalogue ; les images locales optimisées sont distribuées en trois tailles et mises en cache à la consultation. Un visuel de secours local remplace les photos absentes ou non validées. Les favoris restent propres à l’appareil ; pas de synchronisation serveur.
 
@@ -90,4 +90,12 @@ Le catalogue contient désormais 34 fiches : les 14 références de ce lot réut
 
 ### Lot historique 1901–1910
 
-75 références examinées : 18 nouvelles fiches documentées (dont une variante), 3 réutilisations et 54 références en attente séparées de l’inventaire des véhicules. Le catalogue comporte 52 fiches ; le compteur de la période compte 17 familles de motos sans recomptage de la variante Indian. Les 3 tricycles demandés restent des dossiers à documenter. `npm run add:1901-1910` est idempotent ; `npm run prepare:1901-media` prépare les requêtes iconographiques. Le [rapport 1901–1910](docs/INTEGRATION-1901-1910.md) détaille les 75 décisions, les sources, les conflits, les 4 photos Commons autorisées, la migration et les 77 tests réussis.
+75 références examinées : 18 nouvelles fiches documentées (dont une variante), 3 réutilisations et 54 références en attente séparées de l’inventaire des véhicules. Cette livraison portait le catalogue à 52 fiches ; le compteur de la période compte 17 familles de motos sans recomptage de la variante Indian. Les 3 tricycles demandés restent des dossiers à documenter. `npm run add:1901-1910` est idempotent ; `npm run prepare:1901-media` prépare les requêtes iconographiques. Le [rapport 1901–1910](docs/INTEGRATION-1901-1910.md) détaille les 75 décisions, les sources, les conflits, les 4 photos Commons autorisées, la migration et les 77 tests réussis.
+
+## Lot historique 1911–1920
+
+18 fiches documentées ajoutées ; variantes reliées, 98 références en attente hors du catalogue confirmé. Voir le [rapport et les sources](docs/inventories/1911-1920.md) et l’[audit préalable](docs/inventories/1911-1920-audit.md). `npm run add:1911-1920` est idempotent et conserve les 52 fiches antérieures.
+
+## Inventaire annuel 1921
+
+16 nouvelles fiches et une continuité Nimbus sourcée, sans recréer la famille : 86 véhicules au total. Les 70 fiches antérieures sont préservées. Le lot compte 62 références, dont 45 en attente. Voir [audit](docs/inventories/1921-audit.md) et [rapport avec sources et décisions](docs/inventories/1921.md). Import : `npm run add:1921` ; préparation média : `npm run prepare:1921-media`.

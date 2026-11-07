@@ -1,0 +1,808 @@
+{
+  "id": "historical-1921-v1",
+  "title": "Inventaire annuel 1921",
+  "consulted_at": "2026-11-07",
+  "start": 1921,
+  "end": 1921,
+  "references": [
+    {
+      "reference": "001",
+      "name": "Harley-Davidson Model F",
+      "requested_year": "1921",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Une notice de vente donne vers 1921, sans numéro visible : datation approximative insuffisante pour le compteur annuel strict. La famille F existante est conservée."
+    },
+    {
+      "reference": "002",
+      "name": "Harley-Davidson Model J",
+      "requested_year": "1921",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Candidat examiné ; aucune notice précise avec preuve de construction physique en 1921 retenue dans ce lot. Une activité de marque, un catalogue, une annonce ou une course ne fixe pas l’année d’assemblage. Recherche à poursuivre."
+    },
+    {
+      "reference": "003",
+      "name": "Harley-Davidson Model W / Sport Twin",
+      "requested_year": "1921",
+      "region": "États-Unis",
+      "decision": "added",
+      "vehicle_id": "1921-harley-sport-twin",
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [
+        "sport"
+      ],
+      "note": "W et Sport Twin désignent la même famille ; WJ est une version. Pas de second modèle créé pour ces appellations, pas de première construction ou vente déduite de l’année de l’objet."
+    },
+    {
+      "reference": "004",
+      "name": "Harley-Davidson Eight-Valve Racer",
+      "requested_year": "1921",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Une utilisation en compétition en 1921 ne prouve pas une fabrication cette année. Ne pas confondre avec le monocylindre ni le V-twin F-head."
+    },
+    {
+      "reference": "005",
+      "name": "Harley-Davidson Racer",
+      "requested_year": "1921",
+      "region": "États-Unis",
+      "decision": "added",
+      "vehicle_id": "1921-harley-single-racer",
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [
+        "single"
+      ],
+      "note": "Le musée relie le numéro de série au premier exemplaire de ce type fabriqué en 1921. Cette machine monocylindre n’est pas assimilée au V-twin Eight-Valve."
+    },
+    {
+      "reference": "006",
+      "name": "Indian BGE",
+      "requested_year": "1921",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation trouvée surtout dans les agrégateurs ; identité exacte, variante et preuve annuelle insuffisantes. Aucun rapprochement automatique avec Scout."
+    },
+    {
+      "reference": "007",
+      "name": "Indian NE",
+      "requested_year": "1921",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "N/NE paraît une référence Powerplus et équipement électrique ; identité à vérifier dans le catalogue original. La famille Powerplus existe déjà, aucune nouvelle famille indépendante présumée."
+    },
+    {
+      "reference": "008",
+      "name": "Excelsior 20R",
+      "requested_year": "1921",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [
+        "danmarks"
+      ],
+      "note": "Le musée atteste un Excelsior bicylindre 1000 cm³ de 1921, sans désignation 20R ; identité américaine/britannique et modèle exact restent à vérifier."
+    },
+    {
+      "reference": "009",
+      "name": "Cleveland EL",
+      "requested_year": "1921",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Candidat examiné ; aucune notice précise avec preuve de construction physique en 1921 retenue dans ce lot. Une activité de marque, un catalogue, une annonce ou une course ne fixe pas l’année d’assemblage. Recherche à poursuivre."
+    },
+    {
+      "reference": "010",
+      "name": "Cleveland Lightweight Engine No. 286",
+      "requested_year": "1921",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "286 est un numéro de moteur proposé, pas une désignation commerciale démontrée. Attribution concurrente à 1920 ; aucune nouvelle moto Engine No.286 créée."
+    },
+    {
+      "reference": "011",
+      "name": "Reading Standard R-S",
+      "requested_year": "1921",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [
+        "danmarks"
+      ],
+      "note": "Exemplaire bicylindre 1170 cm³ construit en 1921 attesté par le musée. R-S n’est pas une désignation validée ; lien de gamme/variante avec X1-02 déjà présent à établir avant insertion."
+    },
+    {
+      "reference": "012",
+      "name": "ABC 3 HP",
+      "requested_year": "1921",
+      "region": "Royaume-Uni",
+      "decision": "added",
+      "vehicle_id": "1921-sopwith-abc",
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [
+        "abc",
+        "abcsmg"
+      ],
+      "note": "ABC/Granville Bradshaw conçoit ; Sopwith construit. La notice SMG décrit un autre exemplaire de 1921 ; aucune seconde famille créée."
+    },
+    {
+      "reference": "013",
+      "name": "Norton 3½ HP",
+      "requested_year": "1921",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [
+        "nortoncat"
+      ],
+      "note": "Catalogue commercial 1921 repéré, mais lecture de sa notice seule ne prouve ni assemblage annuel ni relations entre modèles/finitions. Aucun doublon de 16H ou Big Four créé."
+    },
+    {
+      "reference": "014",
+      "name": "Norton Tourist",
+      "requested_year": "1921",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [
+        "nortoncat"
+      ],
+      "note": "Catalogue commercial 1921 repéré, mais lecture de sa notice seule ne prouve ni assemblage annuel ni relations entre modèles/finitions. Aucun doublon de 16H ou Big Four créé."
+    },
+    {
+      "reference": "015",
+      "name": "Norton Speedman",
+      "requested_year": "1921",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [
+        "nortoncat"
+      ],
+      "note": "Catalogue commercial 1921 repéré, mais lecture de sa notice seule ne prouve ni assemblage annuel ni relations entre modèles/finitions. Aucun doublon de 16H ou Big Four créé."
+    },
+    {
+      "reference": "016",
+      "name": "Norton Model 16H",
+      "requested_year": "1921",
+      "region": "Royaume-Uni",
+      "decision": "added",
+      "vehicle_id": "1921-norton-16h-race",
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [
+        "nortonrace"
+      ],
+      "note": "Survivante restaurée en 2012–2013. La participation au TT accompagne la datation explicite 1921 de cet objet ; elle ne sert pas seule de preuve d’année d’assemblage."
+    },
+    {
+      "reference": "017",
+      "name": "Norton Model 17C",
+      "requested_year": "1921",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [
+        "nortoncat"
+      ],
+      "note": "Catalogue commercial 1921 repéré, mais lecture de sa notice seule ne prouve ni assemblage annuel ni relations entre modèles/finitions. Aucun doublon de 16H ou Big Four créé."
+    },
+    {
+      "reference": "018",
+      "name": "Norton Big Four",
+      "requested_year": "1921",
+      "region": "Royaume-Uni",
+      "decision": "added",
+      "vehicle_id": "1921-norton-big-four",
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [
+        "nortonbig"
+      ],
+      "note": "Big Four est une désignation commerciale ; aucun nombre de cylindres n’en est déduit."
+    },
+    {
+      "reference": "019",
+      "name": "Triumph",
+      "requested_year": "1921",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Candidat examiné ; aucune notice précise avec preuve de construction physique en 1921 retenue dans ce lot. Une activité de marque, un catalogue, une annonce ou une course ne fixe pas l’année d’assemblage. Recherche à poursuivre."
+    },
+    {
+      "reference": "020",
+      "name": "AJS",
+      "requested_year": "1921",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Candidat examiné ; aucune notice précise avec preuve de construction physique en 1921 retenue dans ce lot. Une activité de marque, un catalogue, une annonce ou une course ne fixe pas l’année d’assemblage. Recherche à poursuivre."
+    },
+    {
+      "reference": "021",
+      "name": "BSA",
+      "requested_year": "1921",
+      "region": "Royaume-Uni",
+      "decision": "added",
+      "vehicle_id": "1921-bsa-r34",
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [
+        "bsa"
+      ],
+      "note": "Exemplaire daté 1921 par la notice documentaire ; cette datation ne désigne pas automatiquement le premier exemplaire de la famille."
+    },
+    {
+      "reference": "022",
+      "name": "Matchless",
+      "requested_year": "1921",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Candidat examiné ; aucune notice précise avec preuve de construction physique en 1921 retenue dans ce lot. Une activité de marque, un catalogue, une annonce ou une course ne fixe pas l’année d’assemblage. Recherche à poursuivre."
+    },
+    {
+      "reference": "023",
+      "name": "Ariel",
+      "requested_year": "1921",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Candidat examiné ; aucune notice précise avec preuve de construction physique en 1921 retenue dans ce lot. Une activité de marque, un catalogue, une annonce ou une course ne fixe pas l’année d’assemblage. Recherche à poursuivre."
+    },
+    {
+      "reference": "024",
+      "name": "Royal Enfield",
+      "requested_year": "1921",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Candidat examiné ; aucune notice précise avec preuve de construction physique en 1921 retenue dans ce lot. Une activité de marque, un catalogue, une annonce ou une course ne fixe pas l’année d’assemblage. Recherche à poursuivre."
+    },
+    {
+      "reference": "025",
+      "name": "Velocette",
+      "requested_year": "1921",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Candidat examiné ; aucune notice précise avec preuve de construction physique en 1921 retenue dans ce lot. Une activité de marque, un catalogue, une annonce ou une course ne fixe pas l’année d’assemblage. Recherche à poursuivre."
+    },
+    {
+      "reference": "026",
+      "name": "Scott",
+      "requested_year": "1921",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Candidat examiné ; aucune notice précise avec preuve de construction physique en 1921 retenue dans ce lot. Une activité de marque, un catalogue, une annonce ou une course ne fixe pas l’année d’assemblage. Recherche à poursuivre."
+    },
+    {
+      "reference": "027",
+      "name": "Rudge-Whitworth",
+      "requested_year": "1921",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Candidat examiné ; aucune notice précise avec preuve de construction physique en 1921 retenue dans ce lot. Une activité de marque, un catalogue, une annonce ou une course ne fixe pas l’année d’assemblage. Recherche à poursuivre."
+    },
+    {
+      "reference": "028",
+      "name": "Levis",
+      "requested_year": "1921",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Candidat examiné ; aucune notice précise avec preuve de construction physique en 1921 retenue dans ce lot. Une activité de marque, un catalogue, une annonce ou une course ne fixe pas l’année d’assemblage. Recherche à poursuivre."
+    },
+    {
+      "reference": "029",
+      "name": "Zenith",
+      "requested_year": "1921",
+      "region": "Royaume-Uni",
+      "decision": "added",
+      "vehicle_id": "1921-zenith-bradshaw",
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [
+        "bmct"
+      ],
+      "note": "Exemplaire daté 1921 par la notice documentaire ; cette datation ne désigne pas automatiquement le premier exemplaire de la famille."
+    },
+    {
+      "reference": "030",
+      "name": "Clyno",
+      "requested_year": "1921",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Candidat examiné ; aucune notice précise avec preuve de construction physique en 1921 retenue dans ce lot. Une activité de marque, un catalogue, une annonce ou une course ne fixe pas l’année d’assemblage. Recherche à poursuivre."
+    },
+    {
+      "reference": "031",
+      "name": "Clyno Spring 8",
+      "requested_year": "1921",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Candidat examiné ; aucune notice précise avec preuve de construction physique en 1921 retenue dans ce lot. Une activité de marque, un catalogue, une annonce ou une course ne fixe pas l’année d’assemblage. Recherche à poursuivre."
+    },
+    {
+      "reference": "032",
+      "name": "Zündapp Z 22",
+      "requested_year": "1921",
+      "region": "Allemagne",
+      "decision": "added",
+      "vehicle_id": "1921-zundapp-z22",
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [
+        "z22archive",
+        "z22club",
+        "z22museum"
+      ],
+      "note": "Brochure constructeur contrôlée : fabrication commencée en octobre 1921. Cinq premières livraisons selon le club ; production limitée, sans supposer un prototype. Les objets vers 1922 ne sont pas la datation des premières constructions. Puissance divergente laissée inconnue."
+    },
+    {
+      "reference": "033",
+      "name": "NSU 4 PS",
+      "requested_year": "1921",
+      "region": "Allemagne",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [
+        "wanderer"
+      ],
+      "note": "La collection consultée date sa NSU 4 PS de 1919 ; cela ne prouve pas une construction en 1921."
+    },
+    {
+      "reference": "034",
+      "name": "NSU 8 PS",
+      "requested_year": "1921",
+      "region": "Allemagne",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Candidat examiné ; aucune notice précise avec preuve de construction physique en 1921 retenue dans ce lot. Une activité de marque, un catalogue, une annonce ou une course ne fixe pas l’année d’assemblage. Recherche à poursuivre."
+    },
+    {
+      "reference": "035",
+      "name": "Ner-A-Car",
+      "requested_year": "1921",
+      "region": "Allemagne",
+      "decision": "added",
+      "vehicle_id": "1921-neracar-sheffield",
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [
+        "nera"
+      ],
+      "note": "Fabrication britannique sous droits américains. Ne pas attribuer cet exemplaire à un constructeur allemand ni le confondre avec la version américaine. Correction de pays : cet exemplaire est britannique, fabriqué par Sheffield Simplex ; la rubrique allemande de la liste initiale n’est pas reprise comme origine."
+    },
+    {
+      "reference": "036",
+      "name": "DKW Golem",
+      "requested_year": "1921",
+      "region": "Allemagne",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [
+        "danmarks"
+      ],
+      "note": "Le musée danois date son exemplaire de 1919 ; le lancement signalé ailleurs en 1921 n’atteste pas une nouvelle construction précisément datée. Dossier antérieur conservé."
+    },
+    {
+      "reference": "037",
+      "name": "Victoria",
+      "requested_year": "1921",
+      "region": "Allemagne",
+      "decision": "added",
+      "vehicle_id": "1921-victoria-kr1",
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [
+        "victoria"
+      ],
+      "note": "Véhicule fabriqué à Nuremberg par Victoria, moteur BMW. Le récit signale une ancienne restauration non conforme puis une restauration documentaire. Source primaire BMW réhébergée par un club."
+    },
+    {
+      "reference": "038",
+      "name": "Wanderer",
+      "requested_year": "1921",
+      "region": "Allemagne",
+      "decision": "added",
+      "vehicle_id": "1921-wanderer-25ps",
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [
+        "wanderer"
+      ],
+      "note": "Désignation et datation muséales ; ne pas convertir le nom 2,5 PS en une mesure mécanique vérifiée, ni inventer une cylindrée."
+    },
+    {
+      "reference": "039",
+      "name": "Ardie",
+      "requested_year": "1921",
+      "region": "Allemagne",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Candidat examiné ; aucune notice précise avec preuve de construction physique en 1921 retenue dans ce lot. Une activité de marque, un catalogue, une annonce ou une course ne fixe pas l’année d’assemblage. Recherche à poursuivre."
+    },
+    {
+      "reference": "040",
+      "name": "FN Four 748 cm³",
+      "requested_year": "1921",
+      "region": "Belgique",
+      "decision": "added",
+      "vehicle_id": "1921-fn-four-748",
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [
+        "danmarks"
+      ],
+      "note": "Exemplaire daté 1921 par la notice documentaire ; cette datation ne désigne pas automatiquement le premier exemplaire de la famille."
+    },
+    {
+      "reference": "041",
+      "name": "Saroléa",
+      "requested_year": "1921",
+      "region": "Belgique",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Candidat examiné ; aucune notice précise avec preuve de construction physique en 1921 retenue dans ce lot. Une activité de marque, un catalogue, une annonce ou une course ne fixe pas l’année d’assemblage. Recherche à poursuivre."
+    },
+    {
+      "reference": "042",
+      "name": "Gillet-Herstal",
+      "requested_year": "1921",
+      "region": "Belgique",
+      "decision": "added",
+      "vehicle_id": "1921-gillet-350",
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [
+        "gillet"
+      ],
+      "note": "Intitulé descriptif, pas un nom commercial inventé. Datation de l’exemplaire exposé selon la légende du reportage de l’historien F.-M. Dumas ; caractéristiques de 1922 et 1925 non recopiées."
+    },
+    {
+      "reference": "043",
+      "name": "Minerva",
+      "requested_year": "1921",
+      "region": "Belgique",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Candidat examiné ; aucune notice précise avec preuve de construction physique en 1921 retenue dans ce lot. Une activité de marque, un catalogue, une annonce ou une course ne fixe pas l’année d’assemblage. Recherche à poursuivre."
+    },
+    {
+      "reference": "044",
+      "name": "Soyer 250 cm³ deux-temps",
+      "requested_year": "1921",
+      "region": "France",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [
+        "soyer"
+      ],
+      "note": "Sport identifiée comme version 1921, mais annonce dès 1920 et photographie de course en février 1921 : date d’assemblage annuelle non établie sans ambiguïté. Aucun premier exemplaire daté automatiquement de 1921."
+    },
+    {
+      "reference": "045",
+      "name": "Peugeot",
+      "requested_year": "1921",
+      "region": "France",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Candidat examiné ; aucune notice précise avec preuve de construction physique en 1921 retenue dans ce lot. Une activité de marque, un catalogue, une annonce ou une course ne fixe pas l’année d’assemblage. Recherche à poursuivre."
+    },
+    {
+      "reference": "046",
+      "name": "Terrot",
+      "requested_year": "1921",
+      "region": "France",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Candidat examiné ; aucune notice précise avec preuve de construction physique en 1921 retenue dans ce lot. Une activité de marque, un catalogue, une annonce ou une course ne fixe pas l’année d’assemblage. Recherche à poursuivre."
+    },
+    {
+      "reference": "047",
+      "name": "René Gillet",
+      "requested_year": "1921",
+      "region": "France",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Candidat examiné ; aucune notice précise avec preuve de construction physique en 1921 retenue dans ce lot. Une activité de marque, un catalogue, une annonce ou une course ne fixe pas l’année d’assemblage. Recherche à poursuivre."
+    },
+    {
+      "reference": "048",
+      "name": "Ultima",
+      "requested_year": "1921",
+      "region": "France",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Candidat examiné ; aucune notice précise avec preuve de construction physique en 1921 retenue dans ce lot. Une activité de marque, un catalogue, une annonce ou une course ne fixe pas l’année d’assemblage. Recherche à poursuivre."
+    },
+    {
+      "reference": "049",
+      "name": "Alcyon",
+      "requested_year": "1921",
+      "region": "France",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Candidat examiné ; aucune notice précise avec preuve de construction physique en 1921 retenue dans ce lot. Une activité de marque, un catalogue, une annonce ou une course ne fixe pas l’année d’assemblage. Recherche à poursuivre."
+    },
+    {
+      "reference": "050",
+      "name": "Griffon",
+      "requested_year": "1921",
+      "region": "France",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Candidat examiné ; aucune notice précise avec preuve de construction physique en 1921 retenue dans ce lot. Une activité de marque, un catalogue, une annonce ou une course ne fixe pas l’année d’assemblage. Recherche à poursuivre."
+    },
+    {
+      "reference": "051",
+      "name": "Monet & Goyon",
+      "requested_year": "1921",
+      "region": "France",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Candidat examiné ; aucune notice précise avec preuve de construction physique en 1921 retenue dans ce lot. Une activité de marque, un catalogue, une annonce ou une course ne fixe pas l’année d’assemblage. Recherche à poursuivre."
+    },
+    {
+      "reference": "052",
+      "name": "Magnat-Debon",
+      "requested_year": "1921",
+      "region": "France",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Candidat examiné ; aucune notice précise avec preuve de construction physique en 1921 retenue dans ce lot. Une activité de marque, un catalogue, une annonce ou une course ne fixe pas l’année d’assemblage. Recherche à poursuivre."
+    },
+    {
+      "reference": "053",
+      "name": "Puch",
+      "requested_year": "1921",
+      "region": "Autriche",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Candidat examiné ; aucune notice précise avec preuve de construction physique en 1921 retenue dans ce lot. Une activité de marque, un catalogue, une annonce ou une course ne fixe pas l’année d’assemblage. Recherche à poursuivre."
+    },
+    {
+      "reference": "054",
+      "name": "Nimbus",
+      "requested_year": "1921",
+      "region": "Danemark",
+      "decision": "existing",
+      "vehicle_id": "1919-nimbus-preserie",
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [
+        "nimbus"
+      ],
+      "note": "Continuité de la famille Nimbus : le dossier décrit la Nimbus A en 1921 et le volume de constructions de cette année. La fiche existante de la famille est réutilisée, sans transformer 1921 en année du premier prototype ni recopier ses anciennes caractéristiques."
+    },
+    {
+      "reference": "055",
+      "name": "Moto-Rêve",
+      "requested_year": "1921",
+      "region": "Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Candidat examiné ; aucune notice précise avec preuve de construction physique en 1921 retenue dans ce lot. Une activité de marque, un catalogue, une annonce ou une course ne fixe pas l’année d’assemblage. Recherche à poursuivre."
+    },
+    {
+      "reference": "056",
+      "name": "Pays-Bas — constructeurs locaux",
+      "requested_year": "1921",
+      "region": "Recherche internationale",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Candidat examiné ; aucune notice précise avec preuve de construction physique en 1921 retenue dans ce lot. Une activité de marque, un catalogue, une annonce ou une course ne fixe pas l’année d’assemblage. Recherche à poursuivre."
+    },
+    {
+      "reference": "057",
+      "name": "Italie — constructeurs locaux",
+      "requested_year": "1921",
+      "region": "Recherche internationale",
+      "decision": "added",
+      "vehicle_id": "1921-guzzi-normale",
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [
+        "guzzi"
+      ],
+      "note": "Les mesures du musée sont approximatives ; puissance, poids et cylindrée mécanique restent nulles. La distribution des soupapes de la notice n’est pas transposée sans recoupement."
+    },
+    {
+      "reference": "058",
+      "name": "Espagne — constructeurs locaux",
+      "requested_year": "1921",
+      "region": "Recherche internationale",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Candidat examiné ; aucune notice précise avec preuve de construction physique en 1921 retenue dans ce lot. Une activité de marque, un catalogue, une annonce ou une course ne fixe pas l’année d’assemblage. Recherche à poursuivre."
+    },
+    {
+      "reference": "059",
+      "name": "Australie — constructeurs locaux",
+      "requested_year": "1921",
+      "region": "Recherche internationale",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Candidat examiné ; aucune notice précise avec preuve de construction physique en 1921 retenue dans ce lot. Une activité de marque, un catalogue, une annonce ou une course ne fixe pas l’année d’assemblage. Recherche à poursuivre."
+    },
+    {
+      "reference": "060",
+      "name": "Japon — productions locales",
+      "requested_year": "1921",
+      "region": "Recherche internationale",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Candidat examiné ; aucune notice précise avec preuve de construction physique en 1921 retenue dans ce lot. Une activité de marque, un catalogue, une annonce ou une course ne fixe pas l’année d’assemblage. Recherche à poursuivre."
+    },
+    {
+      "reference": "061",
+      "name": "Humber 4½ HP — exemplaire BMCT 1921",
+      "requested_year": "1921",
+      "region": "Compléments documentés",
+      "decision": "added",
+      "vehicle_id": "1921-humber-flat-twin",
+      "group": "motorcycle",
+      "proposed_manufacturer": "Humber",
+      "source_keys": [
+        "bmct"
+      ],
+      "note": "Exemplaire daté 1921 par la notice documentaire ; cette datation ne désigne pas automatiquement le premier exemplaire de la famille."
+    },
+    {
+      "reference": "062",
+      "name": "Revere 2½ HP — exemplaire BMCT 1921",
+      "requested_year": "1921",
+      "region": "Compléments documentés",
+      "decision": "added",
+      "vehicle_id": "1921-revere-25hp",
+      "group": "motorcycle",
+      "proposed_manufacturer": "W H Whitehouse Ltd",
+      "source_keys": [
+        "bmct"
+      ],
+      "note": "Moteur Villiers et cadre Sparkbrook ; assemblage de la moto W H Whitehouse. La notice décrit plusieurs transmissions de gamme : aucun nombre de rapports choisi pour cet exemplaire."
+    }
+  ]
+}

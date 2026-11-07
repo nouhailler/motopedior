@@ -1,0 +1,4 @@
+import {readFile,writeFile} from 'node:fs/promises';
+const curated=JSON.parse(await readFile('data/verified-1911-1920.json','utf8')),models=JSON.parse(await readFile('data/models.json','utf8'));
+for(const m of curated.models){if(models.some(row=>row.id===m.id))continue;models.push({id:m.id,brand:m.brand,model:m.name,year:null,endYear:null,country:m.origin_country,category:'Pionnière',engine:null,power:null,weight:null,description:m.description,sourcePage:curated.sources[m.sources[0]].url,imageQueries:m.imageQueries||[m.brand+' '+m.name.split(' — ')[0]+' '+m.construction.year],documentation:m.sources.map(k=>{const s=curated.sources[k];return {provider:s.organization,title:s.title,url:s.url,role:s.reliability==='A'?'primary':'complementary',checkedAt:s.consulted_at}})});}
+await writeFile('data/models.json',JSON.stringify(models,null,2)+'\n');

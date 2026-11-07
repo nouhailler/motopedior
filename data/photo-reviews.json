@@ -1253,5 +1253,71 @@
         "note": "Correspondance avec la version précise non validée."
       }
     ]
+  },
+  "1915-harley-11f": {
+    "reviewedAt": "2026-11-07",
+    "reviewBasis": "Contrôle visuel, identification de la description Commons et examen individuel de imageinfo/extmetadata. Aucun fait mécanique validé à partir de la seule photo.",
+    "note": "Autre exemplaire du Model 11-F 1915 photographié à Cascais ; ce n’est pas Effie. Correspondance du modèle, illustration approximative de la machine décrite.",
+    "photos": [
+      {
+        "fileTitle": "File:Harley Davidson Model F (1915) (29839990905).jpg",
+        "match": "approximate",
+        "approved": true,
+        "note": "Autre exemplaire du Model 11-F 1915 photographié à Cascais ; ce n’est pas Effie. Correspondance du modèle, illustration approximative de la machine décrite."
+      }
+    ]
+  },
+  "1916-indian-powerplus": {
+    "reviewedAt": "2026-11-07",
+    "reviewBasis": "Contrôle visuel, identification de la description Commons et examen individuel de imageinfo/extmetadata. Aucun fait mécanique validé à partir de la seule photo.",
+    "note": "Autre Indian Powerplus datée 1916 par Commons ; ce n’est pas une des deux motos des sœurs Van Buren. Résolution originale limitée à 640 pixels.",
+    "photos": [
+      {
+        "fileTitle": "File:Indian 1916 Powerplus 2.jpg",
+        "match": "approximate",
+        "approved": true,
+        "note": "Autre Indian Powerplus datée 1916 par Commons ; ce n’est pas une des deux motos des sœurs Van Buren. Résolution originale limitée à 640 pixels."
+      }
+    ]
+  },
+  "1921-neracar-sheffield": {
+    "reviewedAt": "2026-11-07",
+    "reviewBasis": "Contrôle visuel et comparaison de la notice du fichier avec l’objet documenté ; licence imageinfo/extmetadata vérifiée individuellement.",
+    "note": "Exemplaire du National Motor Museum identifié 1921. Le fichier voisin 5953737854 est un cartel et n’est pas une photo principale.",
+    "photos": [
+      {
+        "fileTitle": "File:1921 Ner-A-Car 2¾hp motorcycle (5953741394).jpg",
+        "match": "exact",
+        "approved": true,
+        "note": "Exemplaire du National Motor Museum identifié 1921. Le fichier voisin 5953737854 est un cartel et n’est pas une photo principale."
+      }
+    ]
+  },
+  "1921-norton-big-four": {
+    "reviewedAt": "2026-11-07",
+    "reviewBasis": "Contrôle visuel et comparaison de la notice du fichier avec l’objet documenté ; licence imageinfo/extmetadata vérifiée individuellement.",
+    "note": "Autre exemplaire du Model 1 Big Four 1921, photographié chez Yesterdays ; ce n’est pas une identité d’objet établie avec la machine de la collection Norton.",
+    "photos": [
+      {
+        "fileTitle": "File:1921 Norton Model 1 Big Four left side.jpg",
+        "match": "approximate",
+        "approved": true,
+        "note": "Autre exemplaire du Model 1 Big Four 1921, photographié chez Yesterdays ; ce n’est pas une identité d’objet établie avec la machine de la collection Norton."
+      }
+    ]
+  },
+  "1921-guzzi-normale": {
+    "reviewedAt": "2026-11-07",
+    "reviewBasis": "Contrôle visuel et comparaison de la notice du fichier avec l’objet documenté ; licence imageinfo/extmetadata vérifiée individuellement.",
+    "note": "Fichier du catalogue Museo Scienza, IGB-2974. Artist désigne constructeur et concepteur de l’objet, pas un photographe identifié. Crédit musée et auteurs de l’objet explicités.",
+    "photos": [
+      {
+        "fileTitle": "File:Motocicletta - Museo scienza tecnologia Milano 02974 dia.jpg",
+        "match": "exact",
+        "approved": true,
+        "note": "Fichier du catalogue Museo Scienza, IGB-2974. Artist désigne constructeur et concepteur de l’objet, pas un photographe identifié. Crédit musée et auteurs de l’objet explicités.",
+        "attribution": "Museo Nazionale Scienza e Tecnologia Leonardo da Vinci, Milano ; objet : Moto Guzzi / Carlo Guzzi ; photographe non identifié"
+      }
+    ]
   }
 }

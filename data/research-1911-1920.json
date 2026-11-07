@@ -1,0 +1,1909 @@
+{
+  "id": "historical-1911-1920-v1",
+  "title": "Inventaire 1911–1920",
+  "consulted_at": "2026-11-07",
+  "start": 1911,
+  "end": 1920,
+  "references": [
+    {
+      "reference": "001",
+      "name": "Harley-Davidson Model 7D",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée.",
+      "list_annotations": [
+        {
+          "id": "us-checklist-2026-11-07:001",
+          "origin": "user_supplied_list",
+          "label": "Harley-Davidson Model 7D",
+          "period_label": "1911",
+          "date_basis": "construction_or_commercialization_unspecified",
+          "verified": false,
+          "note": "Repère fourni par la liste complémentaire, pas une date de premier exemplaire vérifiée."
+        }
+      ]
+    },
+    {
+      "reference": "002",
+      "name": "Harley-Davidson Model J",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée.",
+      "list_annotations": [
+        {
+          "id": "us-checklist-2026-11-07:002",
+          "origin": "user_supplied_list",
+          "label": "Harley-Davidson Model J",
+          "period_label": "Années 1910",
+          "date_basis": "construction_or_commercialization_unspecified",
+          "verified": false,
+          "note": "Repère fourni par la liste complémentaire, pas une date de premier exemplaire vérifiée."
+        }
+      ]
+    },
+    {
+      "reference": "003",
+      "name": "Harley-Davidson Model 10F",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "added",
+      "vehicle_id": "1914-harley-10f",
+      "group": "motorcycle",
+      "proposed_manufacturer": "Harley-Davidson",
+      "source_keys": [
+        "hd10"
+      ],
+      "note": "Datation de l’exemplaire ou de la construction explicitement attestée ; ne désigne pas automatiquement le premier prototype.",
+      "list_annotations": [
+        {
+          "id": "us-checklist-2026-11-07:003",
+          "origin": "user_supplied_list",
+          "label": "Harley-Davidson Model 10F",
+          "period_label": "Années 1910",
+          "date_basis": "construction_or_commercialization_unspecified",
+          "verified": false,
+          "note": "Repère fourni par la liste complémentaire, pas une date de premier exemplaire vérifiée."
+        }
+      ]
+    },
+    {
+      "reference": "004",
+      "name": "Harley-Davidson Model 8A",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée.",
+      "list_annotations": [
+        {
+          "id": "us-checklist-2026-11-07:004",
+          "origin": "user_supplied_list",
+          "label": "Harley-Davidson Model 8A",
+          "period_label": "Années 1910",
+          "date_basis": "construction_or_commercialization_unspecified",
+          "verified": false,
+          "note": "8A et X8A restent deux désignations à comparer ; aucune fusion sur la seule similarité du nom."
+        }
+      ]
+    },
+    {
+      "reference": "005",
+      "name": "Harley-Davidson Model X8A",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée.",
+      "list_annotations": [
+        {
+          "id": "us-checklist-2026-11-07:005",
+          "origin": "user_supplied_list",
+          "label": "Harley-Davidson Model X8A",
+          "period_label": "1912",
+          "date_basis": "construction_or_commercialization_unspecified",
+          "verified": false,
+          "note": "8A et X8A restent deux désignations à comparer ; aucune fusion sur la seule similarité du nom."
+        }
+      ]
+    },
+    {
+      "reference": "006",
+      "name": "Harley-Davidson Model 11F",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "added",
+      "vehicle_id": "1915-harley-11f",
+      "group": "motorcycle",
+      "proposed_manufacturer": "Harley-Davidson",
+      "source_keys": [
+        "sfo"
+      ],
+      "note": "Effie a été modifiée pour les épreuves modernes ; ne pas attribuer son frein avant et ses roues actuelles à la version d’origine.",
+      "list_annotations": [
+        {
+          "id": "us-checklist-2026-11-07:006",
+          "origin": "user_supplied_list",
+          "label": "Harley-Davidson Model 11F",
+          "period_label": "Années 1910",
+          "date_basis": "construction_or_commercialization_unspecified",
+          "verified": false,
+          "note": "Repère fourni par la liste complémentaire, pas une date de premier exemplaire vérifiée."
+        }
+      ]
+    },
+    {
+      "reference": "007",
+      "name": "Harley-Davidson Model W",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée.",
+      "list_annotations": [
+        {
+          "id": "us-checklist-2026-11-07:007",
+          "origin": "user_supplied_list",
+          "label": "Harley-Davidson Model W",
+          "period_label": "Années 1910",
+          "date_basis": "construction_or_commercialization_unspecified",
+          "verified": false,
+          "note": "Repère fourni par la liste complémentaire, pas une date de premier exemplaire vérifiée."
+        }
+      ]
+    },
+    {
+      "reference": "008",
+      "name": "Indian Model O",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée.",
+      "list_annotations": [
+        {
+          "id": "us-checklist-2026-11-07:008",
+          "origin": "user_supplied_list",
+          "label": "Indian Model O",
+          "period_label": "Années 1910",
+          "date_basis": "construction_or_commercialization_unspecified",
+          "verified": false,
+          "note": "Repère fourni par la liste complémentaire, pas une date de premier exemplaire vérifiée."
+        }
+      ]
+    },
+    {
+      "reference": "009",
+      "name": "Indian Powerplus",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "added",
+      "vehicle_id": "1916-indian-powerplus",
+      "group": "motorcycle",
+      "proposed_manufacturer": "Indian",
+      "source_keys": [
+        "powerplus"
+      ],
+      "note": "Le voyage des sœurs Van Buren prouve la construction en 1916. Les spécifications détaillées de l’exemplaire photographié en 1917 ne sont pas transposées intégralement aux machines de 1916.",
+      "list_annotations": [
+        {
+          "id": "us-checklist-2026-11-07:009",
+          "origin": "user_supplied_list",
+          "label": "Indian Powerplus",
+          "period_label": "1916 et années suivantes",
+          "date_basis": "construction_or_commercialization_unspecified",
+          "verified": false,
+          "note": "Repère fourni par la liste complémentaire, pas une date de premier exemplaire vérifiée."
+        }
+      ]
+    },
+    {
+      "reference": "010",
+      "name": "Indian Scout",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée.",
+      "list_annotations": [
+        {
+          "id": "us-checklist-2026-11-07:010",
+          "origin": "user_supplied_list",
+          "label": "Indian Scout",
+          "period_label": "Présentée en 1919, millésime 1920",
+          "date_basis": "construction_or_commercialization_unspecified",
+          "verified": false,
+          "note": "Présentation 1919 et millésime 1920 à vérifier séparément ; aucune année de construction déduite."
+        }
+      ]
+    },
+    {
+      "reference": "011",
+      "name": "Henderson Model A",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée.",
+      "list_annotations": [
+        {
+          "id": "us-checklist-2026-11-07:011",
+          "origin": "user_supplied_list",
+          "label": "Henderson Model A",
+          "period_label": "1912",
+          "date_basis": "construction_or_commercialization_unspecified",
+          "verified": false,
+          "note": "Vérifier une évolution ou variante de la famille Henderson Four déjà présente ; ne pas compter automatiquement chaque lettre comme une famille indépendante."
+        }
+      ]
+    },
+    {
+      "reference": "012",
+      "name": "Henderson Model B",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée.",
+      "list_annotations": [
+        {
+          "id": "us-checklist-2026-11-07:012",
+          "origin": "user_supplied_list",
+          "label": "Henderson Model B",
+          "period_label": "1913",
+          "date_basis": "construction_or_commercialization_unspecified",
+          "verified": false,
+          "note": "Vérifier une évolution ou variante de la famille Henderson Four déjà présente ; ne pas compter automatiquement chaque lettre comme une famille indépendante."
+        }
+      ]
+    },
+    {
+      "reference": "013",
+      "name": "Henderson Model C",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée.",
+      "list_annotations": [
+        {
+          "id": "us-checklist-2026-11-07:013",
+          "origin": "user_supplied_list",
+          "label": "Henderson Model C",
+          "period_label": "1914",
+          "date_basis": "construction_or_commercialization_unspecified",
+          "verified": false,
+          "note": "Vérifier une évolution ou variante de la famille Henderson Four déjà présente ; ne pas compter automatiquement chaque lettre comme une famille indépendante."
+        }
+      ]
+    },
+    {
+      "reference": "014",
+      "name": "Henderson Model F",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée.",
+      "list_annotations": [
+        {
+          "id": "us-checklist-2026-11-07:014",
+          "origin": "user_supplied_list",
+          "label": "Henderson Model F",
+          "period_label": "1916",
+          "date_basis": "construction_or_commercialization_unspecified",
+          "verified": false,
+          "note": "Vérifier une évolution ou variante de la famille Henderson Four déjà présente ; ne pas compter automatiquement chaque lettre comme une famille indépendante."
+        }
+      ]
+    },
+    {
+      "reference": "015",
+      "name": "Henderson Model G",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée.",
+      "list_annotations": [
+        {
+          "id": "us-checklist-2026-11-07:015",
+          "origin": "user_supplied_list",
+          "label": "Henderson Model G",
+          "period_label": "1917",
+          "date_basis": "construction_or_commercialization_unspecified",
+          "verified": false,
+          "note": "Vérifier une évolution ou variante de la famille Henderson Four déjà présente ; ne pas compter automatiquement chaque lettre comme une famille indépendante."
+        }
+      ]
+    },
+    {
+      "reference": "016",
+      "name": "Henderson Model H",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée.",
+      "list_annotations": [
+        {
+          "id": "us-checklist-2026-11-07:016",
+          "origin": "user_supplied_list",
+          "label": "Henderson Model H",
+          "period_label": "1918",
+          "date_basis": "construction_or_commercialization_unspecified",
+          "verified": false,
+          "note": "Vérifier une évolution ou variante de la famille Henderson Four déjà présente ; ne pas compter automatiquement chaque lettre comme une famille indépendante."
+        }
+      ]
+    },
+    {
+      "reference": "017",
+      "name": "Henderson Model Z",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée.",
+      "list_annotations": [
+        {
+          "id": "us-checklist-2026-11-07:017",
+          "origin": "user_supplied_list",
+          "label": "Henderson Model Z",
+          "period_label": "1919",
+          "date_basis": "construction_or_commercialization_unspecified",
+          "verified": false,
+          "note": "Vérifier une évolution ou variante de la famille Henderson Four déjà présente ; ne pas compter automatiquement chaque lettre comme une famille indépendante."
+        }
+      ]
+    },
+    {
+      "reference": "018",
+      "name": "Cyclone Board Track Racer",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée.",
+      "list_annotations": [
+        {
+          "id": "us-checklist-2026-11-07:018",
+          "origin": "user_supplied_list",
+          "label": "Cyclone Board Track Racer V-Twin",
+          "period_label": "1915",
+          "date_basis": "construction_or_commercialization_unspecified",
+          "verified": false,
+          "note": "Repère fourni par la liste complémentaire, pas une date de premier exemplaire vérifiée."
+        }
+      ]
+    },
+    {
+      "reference": "019",
+      "name": "Flying Merkel Model 471",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée.",
+      "list_annotations": [
+        {
+          "id": "us-checklist-2026-11-07:019",
+          "origin": "user_supplied_list",
+          "label": "Flying Merkel Model 471",
+          "period_label": "Années 1910",
+          "date_basis": "construction_or_commercialization_unspecified",
+          "verified": false,
+          "note": "Repère fourni par la liste complémentaire, pas une date de premier exemplaire vérifiée."
+        }
+      ]
+    },
+    {
+      "reference": "020",
+      "name": "Flying Merkel Model 50",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée.",
+      "list_annotations": [
+        {
+          "id": "us-checklist-2026-11-07:020",
+          "origin": "user_supplied_list",
+          "label": "Flying Merkel Model 50",
+          "period_label": "Années 1910",
+          "date_basis": "construction_or_commercialization_unspecified",
+          "verified": false,
+          "note": "Repère fourni par la liste complémentaire, pas une date de premier exemplaire vérifiée."
+        }
+      ]
+    },
+    {
+      "reference": "021",
+      "name": "Flying Merkel Model 70",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée.",
+      "list_annotations": [
+        {
+          "id": "us-checklist-2026-11-07:021",
+          "origin": "user_supplied_list",
+          "label": "Flying Merkel Model 70",
+          "period_label": "Années 1910",
+          "date_basis": "construction_or_commercialization_unspecified",
+          "verified": false,
+          "note": "Repère fourni par la liste complémentaire, pas une date de premier exemplaire vérifiée."
+        }
+      ]
+    },
+    {
+      "reference": "022",
+      "name": "Thor Model U",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "added",
+      "vehicle_id": "1916-thor-u",
+      "group": "motorcycle",
+      "proposed_manufacturer": "Aurora Machine and Tool Company",
+      "source_keys": [
+        "thor"
+      ],
+      "note": "La source donne 76,25 pouces cubes dans sa fiche mais cite aussi 61 puis 72 dans le récit de gamme ; aucune cylindrée convertie choisie arbitrairement.",
+      "list_annotations": [
+        {
+          "id": "us-checklist-2026-11-07:022",
+          "origin": "user_supplied_list",
+          "label": "Thor Model U",
+          "period_label": "Années 1910",
+          "date_basis": "construction_or_commercialization_unspecified",
+          "verified": false,
+          "note": "Repère fourni par la liste complémentaire, pas une date de premier exemplaire vérifiée."
+        }
+      ]
+    },
+    {
+      "reference": "023",
+      "name": "Pope Model K",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée.",
+      "list_annotations": [
+        {
+          "id": "us-checklist-2026-11-07:023",
+          "origin": "user_supplied_list",
+          "label": "Pope Model K",
+          "period_label": "Années 1910",
+          "date_basis": "construction_or_commercialization_unspecified",
+          "verified": false,
+          "note": "Repère fourni par la liste complémentaire, pas une date de premier exemplaire vérifiée."
+        }
+      ]
+    },
+    {
+      "reference": "024",
+      "name": "Pope Model L",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée.",
+      "list_annotations": [
+        {
+          "id": "us-checklist-2026-11-07:024",
+          "origin": "user_supplied_list",
+          "label": "Pope Model L",
+          "period_label": "Années 1910",
+          "date_basis": "construction_or_commercialization_unspecified",
+          "verified": false,
+          "note": "Comparer Model L et 8L sur catalogue ; aucune fusion automatique ni nouvelle famille présumée."
+        }
+      ]
+    },
+    {
+      "reference": "025",
+      "name": "Pope Model 8L",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée.",
+      "list_annotations": [
+        {
+          "id": "us-checklist-2026-11-07:025",
+          "origin": "user_supplied_list",
+          "label": "Pope Model 8L",
+          "period_label": "Années 1910",
+          "date_basis": "construction_or_commercialization_unspecified",
+          "verified": false,
+          "note": "Comparer Model L et 8L sur catalogue ; aucune fusion automatique ni nouvelle famille présumée."
+        }
+      ]
+    },
+    {
+      "reference": "026",
+      "name": "Pierce Four",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "existing",
+      "vehicle_id": "1910-pierce-four",
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [
+        "sfo"
+      ],
+      "note": "Famille déjà présente. La notice SFO atteste aussi un exemplaire 1911 ; aucune seconde famille créée.",
+      "list_annotations": [
+        {
+          "id": "us-checklist-2026-11-07:026",
+          "origin": "user_supplied_list",
+          "label": "Pierce Four",
+          "period_label": "1909–1913",
+          "date_basis": "construction_or_commercialization_unspecified",
+          "verified": false,
+          "note": "Repère fourni par la liste complémentaire, pas une date de premier exemplaire vérifiée."
+        }
+      ]
+    },
+    {
+      "reference": "027",
+      "name": "Pierce Single",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée.",
+      "list_annotations": [
+        {
+          "id": "us-checklist-2026-11-07:027",
+          "origin": "user_supplied_list",
+          "label": "Pierce Single",
+          "period_label": "Années 1910",
+          "date_basis": "construction_or_commercialization_unspecified",
+          "verified": false,
+          "note": "Repère fourni par la liste complémentaire, pas une date de premier exemplaire vérifiée."
+        }
+      ]
+    },
+    {
+      "reference": "028",
+      "name": "Iver Johnson",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "added",
+      "vehicle_id": "1915-iver-johnson-157",
+      "group": "motorcycle",
+      "proposed_manufacturer": "Iver Johnson’s Arms and Cycle Works",
+      "source_keys": [
+        "sfo"
+      ],
+      "note": "Datation de l’exemplaire ou de la construction explicitement attestée ; ne désigne pas automatiquement le premier prototype.",
+      "list_annotations": [
+        {
+          "id": "us-checklist-2026-11-07:028",
+          "origin": "user_supplied_list",
+          "label": "Iver Johnson — famille",
+          "period_label": "Années 1910",
+          "date_basis": "construction_or_commercialization_unspecified",
+          "verified": false,
+          "note": "Repère fourni par la liste complémentaire, pas une date de premier exemplaire vérifiée."
+        }
+      ]
+    },
+    {
+      "reference": "029",
+      "name": "Cleveland 300",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée.",
+      "list_annotations": [
+        {
+          "id": "us-checklist-2026-11-07:029",
+          "origin": "user_supplied_list",
+          "label": "Cleveland 300",
+          "period_label": "1920",
+          "date_basis": "construction_or_commercialization_unspecified",
+          "verified": false,
+          "note": "Repère fourni par la liste complémentaire, pas une date de premier exemplaire vérifiée."
+        }
+      ]
+    },
+    {
+      "reference": "030",
+      "name": "Detroit Single",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée.",
+      "list_annotations": [
+        {
+          "id": "us-checklist-2026-11-07:030",
+          "origin": "user_supplied_list",
+          "label": "Detroit Single",
+          "period_label": "Années 1910",
+          "date_basis": "construction_or_commercialization_unspecified",
+          "verified": false,
+          "note": "Repère fourni par la liste complémentaire, pas une date de premier exemplaire vérifiée."
+        }
+      ]
+    },
+    {
+      "reference": "031",
+      "name": "Militaire Four",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée.",
+      "list_annotations": [
+        {
+          "id": "us-checklist-2026-11-07:031",
+          "origin": "user_supplied_list",
+          "label": "Militaire Four / Model 2",
+          "period_label": "Années 1910",
+          "date_basis": "construction_or_commercialization_unspecified",
+          "verified": false,
+          "note": "Four et Model 2 sont des appellations proposées à rapprocher documentairement ; pas de deuxième dossier créé."
+        }
+      ]
+    },
+    {
+      "reference": "032",
+      "name": "Minneapolis S-2 Deluxe Twin",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée.",
+      "list_annotations": [
+        {
+          "id": "us-checklist-2026-11-07:032",
+          "origin": "user_supplied_list",
+          "label": "Minneapolis Model S-2 Deluxe Twin",
+          "period_label": "Années 1910",
+          "date_basis": "construction_or_commercialization_unspecified",
+          "verified": false,
+          "note": "Repère fourni par la liste complémentaire, pas une date de premier exemplaire vérifiée."
+        }
+      ]
+    },
+    {
+      "reference": "033",
+      "name": "Sears Dreadnought",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée.",
+      "list_annotations": [
+        {
+          "id": "us-checklist-2026-11-07:033",
+          "origin": "user_supplied_list",
+          "label": "Sears Dreadnought",
+          "period_label": "Années 1910",
+          "date_basis": "construction_or_commercialization_unspecified",
+          "verified": false,
+          "note": "Repère fourni par la liste complémentaire, pas une date de premier exemplaire vérifiée."
+        }
+      ]
+    },
+    {
+      "reference": "034",
+      "name": "Winchester 6 HP",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée.",
+      "list_annotations": [
+        {
+          "id": "us-checklist-2026-11-07:034",
+          "origin": "user_supplied_list",
+          "label": "Winchester 6 HP",
+          "period_label": "Années 1910",
+          "date_basis": "construction_or_commercialization_unspecified",
+          "verified": false,
+          "note": "Repère fourni par la liste complémentaire, pas une date de premier exemplaire vérifiée."
+        }
+      ]
+    },
+    {
+      "reference": "035",
+      "name": "Royal Pioneer",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "existing",
+      "vehicle_id": "1909-royal-pioneer",
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Identité de la famille déjà présente. Pas de nouvelle construction dans la période retenue.",
+      "list_annotations": [
+        {
+          "id": "us-checklist-2026-11-07:035",
+          "origin": "user_supplied_list",
+          "label": "Royal Pioneer — famille",
+          "period_label": "Années 1910",
+          "date_basis": "construction_or_commercialization_unspecified",
+          "verified": false,
+          "note": "Repère fourni par la liste complémentaire, pas une date de premier exemplaire vérifiée."
+        }
+      ]
+    },
+    {
+      "reference": "036",
+      "name": "Acme",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée.",
+      "list_annotations": [
+        {
+          "id": "us-checklist-2026-11-07:036",
+          "origin": "user_supplied_list",
+          "label": "Acme — modèles",
+          "period_label": "1911–1917",
+          "date_basis": "construction_or_commercialization_unspecified",
+          "verified": false,
+          "note": "Repère fourni par la liste complémentaire, pas une date de premier exemplaire vérifiée."
+        }
+      ]
+    },
+    {
+      "reference": "037",
+      "name": "Yale",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "added",
+      "vehicle_id": "1914-yale-twin",
+      "group": "motorcycle",
+      "proposed_manufacturer": "Consolidated Manufacturing Company",
+      "source_keys": [
+        "yale"
+      ],
+      "note": "Datation de l’exemplaire ou de la construction explicitement attestée ; ne désigne pas automatiquement le premier prototype."
+    },
+    {
+      "reference": "038",
+      "name": "Excelsior",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "added",
+      "vehicle_id": "1912-excelsior-4b",
+      "group": "motorcycle",
+      "proposed_manufacturer": "Excelsior Motor and Manufacturing Company",
+      "source_keys": [
+        "sfo"
+      ],
+      "note": "Datation de l’exemplaire ou de la construction explicitement attestée ; ne désigne pas automatiquement le premier prototype."
+    },
+    {
+      "reference": "039",
+      "name": "AJS Model D",
+      "requested_year": "1911–1920",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "040",
+      "name": "Norton Model 16H",
+      "requested_year": "1911–1920",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [
+        "norton"
+      ],
+      "note": "Désignation rétrospective incertaine : la notice musée associe 1911 à la famille puis mentionne un renommage après 1921. Aucun exemplaire précis 1911–1920 retenu sous 16H."
+    },
+    {
+      "reference": "041",
+      "name": "Triumph Model H",
+      "requested_year": "1911–1920",
+      "region": "Royaume-Uni",
+      "decision": "added",
+      "vehicle_id": "1917-triumph-h",
+      "group": "motorcycle",
+      "proposed_manufacturer": "Triumph",
+      "source_keys": [
+        "triumph"
+      ],
+      "note": "Exemplaire fabriqué en 1917. La présentation du modèle en 1915 n’est pas sa date de construction. L’usage militaire concerne la famille H, pas une provenance militaire certifiée de cet objet."
+    },
+    {
+      "reference": "042",
+      "name": "Rover 3½ HP",
+      "requested_year": "1911–1920",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "043",
+      "name": "Rover TT 500",
+      "requested_year": "1911–1920",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "044",
+      "name": "Rover Imperial 500",
+      "requested_year": "1911–1920",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "045",
+      "name": "Douglas Flat Twin",
+      "requested_year": "1911–1920",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "046",
+      "name": "Douglas 600 cm³",
+      "requested_year": "1911–1920",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "047",
+      "name": "BSA monocylindre 500 cm³",
+      "requested_year": "1911–1920",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "048",
+      "name": "New Hudson 211 cm³",
+      "requested_year": "1911–1920",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "049",
+      "name": "Sunbeam bicylindre en V 1 000 cm³",
+      "requested_year": "1911–1920",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "050",
+      "name": "Calthorpe 200 cm³",
+      "requested_year": "1911–1920",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "051",
+      "name": "Wilkinson TMC",
+      "requested_year": "1911–1920",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "052",
+      "name": "Hazlewood Colonial",
+      "requested_year": "1911–1920",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "053",
+      "name": "Blackburne",
+      "requested_year": "1911–1920",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "054",
+      "name": "Williamson Flat Twin",
+      "requested_year": "1911–1920",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [
+        "williamson"
+      ],
+      "note": "Publicité de décembre 1913 pour la saison 1914 : constructeur Williamson et moteur/boîte Douglas distincts. Catalogue commercial repéré ; preuve individuelle de construction à compléter avant insertion."
+    },
+    {
+      "reference": "055",
+      "name": "Vindec 225 cm³",
+      "requested_year": "1911–1920",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "056",
+      "name": "OK 247 cm³",
+      "requested_year": "1911–1920",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "057",
+      "name": "Matchless",
+      "requested_year": "1911–1920",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "058",
+      "name": "Ariel",
+      "requested_year": "1911–1920",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "059",
+      "name": "Royal Enfield",
+      "requested_year": "1911–1920",
+      "region": "Royaume-Uni",
+      "decision": "added",
+      "vehicle_id": "1914-enfield-tt",
+      "group": "motorcycle",
+      "proposed_manufacturer": "Royal Enfield",
+      "source_keys": [
+        "enfieldtt"
+      ],
+      "note": "346 cm³ décrit la configuration de course de 1914. L’exemplaire a reçu ultérieurement un moteur standard de 425 cm³ ; cette dernière valeur n’est pas réattribuée à 1914."
+    },
+    {
+      "reference": "060",
+      "name": "Velocette",
+      "requested_year": "1911–1920",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "061",
+      "name": "Scott",
+      "requested_year": "1911–1920",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "062",
+      "name": "Rudge-Whitworth",
+      "requested_year": "1911–1920",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "063",
+      "name": "Bradbury",
+      "requested_year": "1911–1920",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "064",
+      "name": "BAT",
+      "requested_year": "1911–1920",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "065",
+      "name": "New Imperial",
+      "requested_year": "1911–1920",
+      "region": "Royaume-Uni",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "066",
+      "name": "Terrot",
+      "requested_year": "1911–1920",
+      "region": "France",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "067",
+      "name": "Peugeot bicylindre Paris-Nice",
+      "requested_year": "1911–1920",
+      "region": "France",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [
+        "compiegne"
+      ],
+      "note": "Conflit interne dans le dossier officiel : liste des œuvres Paris-Nice 350 en 1914, mais plan de l’exposition 500 Paris Nice. Identité et cylindrée à arbitrer ; aucune fiche confirmée créée."
+    },
+    {
+      "reference": "068",
+      "name": "Peugeot 500 M",
+      "requested_year": "1911–1920",
+      "region": "France",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "069",
+      "name": "Clément Autocyclette",
+      "requested_year": "1911–1920",
+      "region": "France",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "070",
+      "name": "René Gillet bicylindre en V",
+      "requested_year": "1911–1920",
+      "region": "France",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "071",
+      "name": "René Gillet 750 cm³",
+      "requested_year": "1911–1920",
+      "region": "France",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "072",
+      "name": "Alcyon",
+      "requested_year": "1911–1920",
+      "region": "France",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "073",
+      "name": "Ultima",
+      "requested_year": "1911–1920",
+      "region": "France",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "074",
+      "name": "Gratieux",
+      "requested_year": "1911–1920",
+      "region": "France",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "075",
+      "name": "Griffon",
+      "requested_year": "1911–1920",
+      "region": "France",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "076",
+      "name": "Austral",
+      "requested_year": "1911–1920",
+      "region": "France",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "077",
+      "name": "Rochet",
+      "requested_year": "1911–1920",
+      "region": "France",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "078",
+      "name": "Magnat-Debon",
+      "requested_year": "1911–1920",
+      "region": "France",
+      "decision": "added",
+      "vehicle_id": "1914-magnat-debon-4hp",
+      "group": "motorcycle",
+      "proposed_manufacturer": "Magnat-Debon",
+      "source_keys": [
+        "magnat"
+      ],
+      "note": "Datation de l’exemplaire ou de la construction explicitement attestée ; ne désigne pas automatiquement le premier prototype."
+    },
+    {
+      "reference": "079",
+      "name": "FN Four",
+      "requested_year": "1911–1920",
+      "region": "Belgique",
+      "decision": "existing",
+      "vehicle_id": "1905-fn-four",
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Famille Four déjà présente ; aucune nouvelle variante 1911–1920 assez précisément établie. La fiche antérieure reste inchangée."
+    },
+    {
+      "reference": "080",
+      "name": "FN monocylindres",
+      "requested_year": "1911–1920",
+      "region": "Belgique",
+      "decision": "added",
+      "vehicle_id": "1914-fn-285",
+      "group": "motorcycle",
+      "proposed_manufacturer": "FN",
+      "source_keys": [
+        "fn285"
+      ],
+      "note": "Poids à sec. Lancement 1912 distinct de l’exemplaire 1914 ; le kick remplace les pédales en 1914."
+    },
+    {
+      "reference": "081",
+      "name": "Minerva",
+      "requested_year": "1911–1920",
+      "region": "Belgique",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "082",
+      "name": "Gillet-Herstal",
+      "requested_year": "1911–1920",
+      "region": "Belgique",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "083",
+      "name": "Saroléa",
+      "requested_year": "1911–1920",
+      "region": "Belgique",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "084",
+      "name": "NSU monocylindre 326 cm³",
+      "requested_year": "1911–1920",
+      "region": "Allemagne",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "085",
+      "name": "NSU 350 TT",
+      "requested_year": "1911–1920",
+      "region": "Allemagne",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "086",
+      "name": "NSU Heeresmodell",
+      "requested_year": "1911–1920",
+      "region": "Allemagne",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "087",
+      "name": "Wanderer bicylindre en V 408 cm³",
+      "requested_year": "1911–1920",
+      "region": "Allemagne",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "088",
+      "name": "Wanderer 2 PS",
+      "requested_year": "1911–1920",
+      "region": "Allemagne",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "089",
+      "name": "Wanderer 4 PS",
+      "requested_year": "1911–1920",
+      "region": "Allemagne",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "090",
+      "name": "DKW Golem 122 cm³",
+      "requested_year": "1911–1920",
+      "region": "Allemagne",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [
+        "danmarks",
+        "golem"
+      ],
+      "note": "Conflit conservé : collection danoise 1919 contre mise sur le marché en 1921 au musée de Zschopau. Construction avant 1921 non arbitrée ; aucun modèle confirmé ajouté."
+    },
+    {
+      "reference": "091",
+      "name": "Victoria",
+      "requested_year": "1911–1920",
+      "region": "Allemagne",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "092",
+      "name": "Cito",
+      "requested_year": "1911–1920",
+      "region": "Allemagne",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "093",
+      "name": "Puch monocylindre 300 cm³",
+      "requested_year": "1911–1920",
+      "region": "Autriche",
+      "decision": "added",
+      "vehicle_id": "1912-puch-300",
+      "group": "motorcycle",
+      "proposed_manufacturer": "Puch",
+      "source_keys": [
+        "danmarks",
+        "puch"
+      ],
+      "note": "Désignation descriptive de l’exemplaire du musée, pas un nom commercial reconstruit. Pays établi séparément par l’histoire officielle de Puch."
+    },
+    {
+      "reference": "094",
+      "name": "Nimbus 750 cm³",
+      "requested_year": "1911–1920",
+      "region": "Danemark et Suisse",
+      "decision": "added",
+      "vehicle_id": "1918-nimbus-prototype",
+      "group": "motorcycle",
+      "proposed_manufacturer": "Fisker & Nielsen",
+      "source_keys": [
+        "nimbus"
+      ],
+      "note": "Prototype roulant en 1918 attesté par le dossier historique et ses photographies ; le brevet 1917 ne constitue pas la preuve de construction."
+    },
+    {
+      "reference": "095",
+      "name": "Elleham",
+      "requested_year": "1911–1920",
+      "region": "Danemark et Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "096",
+      "name": "Moto-Rêve",
+      "requested_year": "1911–1920",
+      "region": "Danemark et Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [
+        "danmarks"
+      ],
+      "note": "Exemplaire danois daté 1910, hors période. Aucun autre exemplaire précis retenu. Ne pas attribuer à Husqvarna les machines Moto-Rêve."
+    },
+    {
+      "reference": "097",
+      "name": "Constructeurs italiens",
+      "requested_year": "1911–1920",
+      "region": "Autres constructeurs internationaux",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "098",
+      "name": "Constructeurs espagnols",
+      "requested_year": "1911–1920",
+      "region": "Autres constructeurs internationaux",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "099",
+      "name": "Constructeurs suisses",
+      "requested_year": "1911–1920",
+      "region": "Autres constructeurs internationaux",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "100",
+      "name": "Constructeurs néerlandais",
+      "requested_year": "1911–1920",
+      "region": "Autres constructeurs internationaux",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "101",
+      "name": "Constructeurs scandinaves",
+      "requested_year": "1911–1920",
+      "region": "Autres constructeurs internationaux",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "102",
+      "name": "Constructeurs d'Europe centrale",
+      "requested_year": "1911–1920",
+      "region": "Autres constructeurs internationaux",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "103",
+      "name": "Constructeurs australiens",
+      "requested_year": "1911–1920",
+      "region": "Autres constructeurs internationaux",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "104",
+      "name": "Constructeurs japonais, si une construction effective entre 1911 et 1920 est démontrée",
+      "requested_year": "1911–1920",
+      "region": "Autres constructeurs internationaux",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Désignation candidate examinée ; aucune preuve de construction et d’identité assez précise retenue pour cette entrée à ce stade. Ne constitue ni un constat d’inexistence ni une fiche confirmée."
+    },
+    {
+      "reference": "105",
+      "name": "Flying Merkel Model 470 — 1914",
+      "requested_year": "1911–1920",
+      "region": "Compléments documentés",
+      "decision": "added",
+      "vehicle_id": "1914-flying-merkel-470",
+      "group": "motorcycle",
+      "proposed_manufacturer": "Miami Cycle & Manufacturing Company",
+      "source_keys": [
+        "sfo"
+      ],
+      "note": "Datation de l’exemplaire ou de la construction explicitement attestée ; ne désigne pas automatiquement le premier prototype."
+    },
+    {
+      "reference": "106",
+      "name": "Motosacoche 2½ HP — exemplaire 1913",
+      "requested_year": "1911–1920",
+      "region": "Compléments documentés",
+      "decision": "added",
+      "vehicle_id": "1913-motosacoche-25hp",
+      "group": "motorcycle",
+      "proposed_manufacturer": "Motosacoche SA",
+      "source_keys": [
+        "motosacoche"
+      ],
+      "note": "Datation de l’exemplaire ou de la construction explicitement attestée ; ne désigne pas automatiquement le premier prototype."
+    },
+    {
+      "reference": "107",
+      "name": "Garelli 350 — Normale da Turismo / Raid Nord-Sud",
+      "requested_year": "1911–1920",
+      "region": "Compléments documentés",
+      "decision": "added",
+      "vehicle_id": "1919-garelli-350",
+      "group": "motorcycle",
+      "proposed_manufacturer": "Garelli Motociclette",
+      "source_keys": [
+        "garelli"
+      ],
+      "note": "Deux versions d’une même famille, conservées dans la fiche et non comptées comme deux modèles. Les données du moteur prototype 1912–1914 ne sont pas automatiquement recopiées sur la série 1919."
+    },
+    {
+      "reference": "108",
+      "name": "Nimbus Premières machines — série de neuf, 1919–1920",
+      "requested_year": "1911–1920",
+      "region": "Compléments documentés",
+      "decision": "added",
+      "vehicle_id": "1919-nimbus-preserie",
+      "group": "motorcycle",
+      "proposed_manufacturer": "Fisker & Nielsen",
+      "source_keys": [
+        "nimbus"
+      ],
+      "note": "Neuf premières machines construites entre 1919 et 1920 ; aucune année unique choisie."
+    },
+    {
+      "reference": "109",
+      "name": "Peugeot Paris-Nice 350 — exemplaire 1914",
+      "requested_year": "1911–1920",
+      "region": "Compléments documentés",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": "Peugeot",
+      "source_keys": [
+        "compiegne"
+      ],
+      "note": "Conflit interne dans le dossier officiel : liste des œuvres Paris-Nice 350 en 1914, mais plan de l’exposition 500 Paris Nice. Identité et cylindrée à arbitrer ; aucune fiche confirmée créée."
+    },
+    {
+      "reference": "110",
+      "name": "Henderson Four / Model D — exemplaire 1915",
+      "requested_year": "1911–1920",
+      "region": "Compléments documentés",
+      "decision": "added",
+      "vehicle_id": "1915-henderson-four",
+      "group": "motorcycle",
+      "proposed_manufacturer": "Henderson Motorcycle Company",
+      "source_keys": [
+        "henderson"
+      ],
+      "note": "Exemplaire restauré et reconstitué à partir d’un moteur ancien ; datation attribuée par le musée. La correction du musée confirme un moyeu deux vitesses, non la boîte trois vitesses de 1917."
+    },
+    {
+      "reference": "111",
+      "name": "Miyata Asahi — Japon",
+      "requested_year": "1911–1920",
+      "region": "Recherche internationale",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [
+        "miyata"
+      ],
+      "note": "Chronologie constructeur consultée : Asahi exposé en 1914, sans identification suffisante comme motocyclette. L’affirmation 1913 reste à vérifier."
+    },
+    {
+      "reference": "112",
+      "name": "Eysink — Pays-Bas",
+      "requested_year": "1911–1920",
+      "region": "Recherche internationale",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Catalogues repérés par la recherche ; modèle exact et preuve de construction à établir."
+    },
+    {
+      "reference": "113",
+      "name": "Frera — Italie",
+      "requested_year": "1911–1920",
+      "region": "Recherche internationale",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Prêt muséal 1912 repéré, désignation 2¼ / 2½ HP contradictoire dans les publications ; examen du document original restant."
+    },
+    {
+      "reference": "114",
+      "name": "Della Ferrera — Italie",
+      "requested_year": "1911–1920",
+      "region": "Recherche internationale",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Notice institutionnelle 1919 repérée mais accès HTTP 502 ; données non intégrées sans lecture complète."
+    },
+    {
+      "reference": "115",
+      "name": "Waratah — Australie",
+      "requested_year": "1911–1920",
+      "region": "Recherche internationale",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Ne pas inférer un fabricant australien à partir du distributeur ; exemplaire 1911–1920 et origine industrielle à établir."
+    },
+    {
+      "reference": "116",
+      "name": "Constructeurs espagnols",
+      "requested_year": "1911–1920",
+      "region": "Recherche internationale",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Aucun modèle précis avec construction sourcée retenu ; recherche d’archives locales à poursuivre."
+    },
+    {
+      "reference": "117",
+      "name": "Constructeurs d’Europe centrale",
+      "requested_year": "1911–1920",
+      "region": "Recherche internationale",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Pas de modèle spécifique suffisamment documenté dans ce lot ; absence du catalogue ne prouve pas absence historique."
+    },
+    {
+      "reference": "118",
+      "name": "Flying Merkel Board Track Racer",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Complément de liste utilisateur ; identité exacte et construction à vérifier avant toute insertion.",
+      "list_annotations": [
+        {
+          "id": "us-checklist-2026-11-07:118",
+          "origin": "user_supplied_list",
+          "label": "Flying Merkel Board Track Racer",
+          "period_label": "Années 1910",
+          "date_basis": "construction_or_commercialization_unspecified",
+          "verified": false,
+          "note": "Repère fourni par la liste complémentaire, pas une date de premier exemplaire vérifiée."
+        }
+      ]
+    },
+    {
+      "reference": "119",
+      "name": "ANA — famille",
+      "requested_year": "1911–1920",
+      "region": "États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "proposed_manufacturer": null,
+      "source_keys": [],
+      "note": "Complément de liste utilisateur ; identité exacte et construction à vérifier avant toute insertion.",
+      "list_annotations": [
+        {
+          "id": "us-checklist-2026-11-07:119",
+          "origin": "user_supplied_list",
+          "label": "ANA — famille",
+          "period_label": "Années 1910",
+          "date_basis": "construction_or_commercialization_unspecified",
+          "verified": false,
+          "note": "Repère fourni par la liste complémentaire, pas une date de premier exemplaire vérifiée."
+        }
+      ]
+    }
+  ]
+}

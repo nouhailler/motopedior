@@ -123,6 +123,7 @@ def publish(models):
       for width in (480,800,1600):
        filename=f'{stem}-{width}.webp';target=ROOT/'public/images'/filename;target.parent.mkdir(exist_ok=True);copy=image.copy();copy.thumbnail((width,width));copy.save(target,'WEBP',quality=86);used.add(filename);local[str(width)]='/images/'+filename
      asset={k:v for k,v in photo.items() if k not in ('metadata','query','description')}
+     if choice.get('attribution'):asset['attribution']=choice['attribution']
      asset['downloadUrl']=snapshot.get('downloadUrl',snapshot['originalUrl']) if reusable else downloadUrl
      asset['sourceSha1']=snapshot.get('sourceSha1') if reusable else photo.get('sourceSha1')
      asset['originalImportedAt']=snapshot.get('originalImportedAt',snapshot.get('checkedAt')) if reusable else NOW

@@ -1,0 +1,749 @@
+{
+  "sources": {
+    "sfo": {
+      "url": "https://www.sfomuseum.org/exhibitions/early-american-motorcycles/gallery",
+      "title": "Early American Motorcycles — collection et notices",
+      "organization": "SFO Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    },
+    "hd10": {
+      "url": "https://nationalmcmuseum.org/2018/03/02/1914-harley-davidson-model-10-f-twin/",
+      "title": "1914 Harley-Davidson Model 10-F Twin",
+      "organization": "National Motorcycle Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    },
+    "thor": {
+      "url": "https://nationalmcmuseum.org/2016/02/27/1916-thor-model-u/",
+      "title": "1916 Thor Model U",
+      "organization": "National Motorcycle Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    },
+    "yale": {
+      "url": "https://nationalmcmuseum.org/featured-bikes/bike-feature-1914-yale-twin/",
+      "title": "1914 Yale Twin",
+      "organization": "National Motorcycle Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    },
+    "powerplus": {
+      "url": "https://nationalmcmuseum.org/2016/07/14/the-vanburen-sisters-and-the-indian-powerplus/",
+      "title": "The VanBuren Sisters and the Indian Powerplus",
+      "organization": "National Motorcycle Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    },
+    "triumph": {
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co25174/triumph-model-h-motorcycle",
+      "title": "Triumph Model H Motorcycle — exemplaire fabriqué en 1917",
+      "organization": "Science Museum Group",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    },
+    "enfieldtt": {
+      "url": "https://nationalmotormuseum.org.uk/collections/vehicles/royal-enfield-3hp/",
+      "title": "Royal Enfield 3hp — Junior TT 1914",
+      "organization": "National Motor Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    },
+    "fn285": {
+      "url": "https://www.fmm.co.za/on-yer-bike-1914-fn-model-285/",
+      "title": "On Yer Bike: 1914 FN Model 285",
+      "organization": "Franschhoek Motor Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    },
+    "magnat": {
+      "url": "https://www.musee-malartre.com/article/motocyclette-magnat-debon-4-hp",
+      "title": "Motocyclette Magnat Debon 4 HP — 1914",
+      "organization": "Musée de l’automobile Henri Malartre",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    },
+    "motosacoche": {
+      "url": "https://nationalmotormuseum.org.uk/collections/vehicles/motosacoche-25hp/",
+      "title": "Motosacoche 2.5hp — 1913",
+      "organization": "National Motor Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    },
+    "garelli": {
+      "url": "https://www.garelli.com/en/homepage-old/",
+      "title": "Garelli — chronologie 1912–1914 et 1919",
+      "organization": "Garelli",
+      "reliability": "A",
+      "type": "manufacturer_catalog",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    },
+    "nimbus": {
+      "url": "https://nimbus.dk/historie/",
+      "title": "Industrihistorie — prototype 1918, premières ventes 1919–1920",
+      "organization": "Danmarks Nimbus Touring / Nimbus Museet",
+      "reliability": "B",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    },
+    "compiegne": {
+      "url": "https://chateaudecompiegne.fr/sites/compiegne/files/documents/DP%20Vitesse.pdf",
+      "title": "Vitesse — liste des œuvres, Peugeot Paris-Nice 350, 1914",
+      "organization": "Musée national de la Voiture / RMN Grand Palais",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    },
+    "danmarks": {
+      "url": "https://www.danmarksmotorcykelmuseum.dk/de/mc-1897-1925/",
+      "title": "Collection 1897–1925 — inventaire des exemplaires",
+      "organization": "Danmarks Motorcykelmuseum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    },
+    "puch": {
+      "url": "https://www.puch-bikes.com/history/",
+      "title": "History — usine de Graz en Autriche",
+      "organization": "Puch",
+      "reliability": "A",
+      "type": "manufacturer_catalog",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    },
+    "henderson": {
+      "url": "https://nationalmcmuseum.org/2020/11/20/1915-henderson-model-d/",
+      "title": "1915 Henderson — exemplaire et correction du moyeu deux vitesses",
+      "organization": "National Motorcycle Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    },
+    "golem": {
+      "url": "https://www.schloss-wildeck.de/objekt-des-monats-maerz",
+      "title": "Objekt des Monats: März — Golem, marché en 1921",
+      "organization": "Museum Schloss Wildeck",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    },
+    "miyata": {
+      "url": "https://www.miyatabike.com/history/",
+      "title": "Miyata — chronologie officielle (Asahi à l’exposition 1914)",
+      "organization": "Miyata",
+      "reliability": "A",
+      "type": "manufacturer_catalog",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    },
+    "norton": {
+      "url": "https://remingtonreynolds.emuseum.com/objects/146992/1939-norton-16h-motorcycle",
+      "title": "1939 Norton 16H — chronologie divergente des désignations",
+      "organization": "Reynolds-Alberta Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    },
+    "williamson": {
+      "url": "https://openaccess.city.ac.uk/id/eprint/14789/1/Russell%2C%20Bernard.pdf",
+      "title": "The development of the British motorcycle industry — publicité Williamson 16 décembre 1913, p.230",
+      "organization": "City University London",
+      "reliability": "B",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-07",
+      "author": null
+    }
+  },
+  "models": [
+    {
+      "id": "1914-harley-10f",
+      "name": "Model 10-F — type 1914",
+      "manufacturer": "Harley-Davidson",
+      "brand": "Harley-Davidson",
+      "origin_country": "États-Unis",
+      "construction": {
+        "year": 1914,
+        "precision": "exact",
+        "note": "Datation de l’exemplaire ou de la construction explicitement attestée ; ne désigne pas automatiquement le premier prototype."
+      },
+      "sources": [
+        "hd10"
+      ],
+      "status": "production",
+      "technical": {
+        "engine_type": "V-twin quatre-temps, admission superposée à l’échappement",
+        "cylinders": 2,
+        "cooling": "Air",
+        "gears": 2,
+        "starting": "Kick",
+        "transmission": "Moyeu arrière à deux vitesses, transmission finale par chaîne",
+        "power_hp": 8
+      },
+      "description": "Harley-Davidson Model 10-F — type 1914. Construction attestée par National Motorcycle Museum ; les caractéristiques non établies restent inconnues.",
+      "imageQueries": [
+        "Harley-Davidson Model 10-F 1914"
+      ]
+    },
+    {
+      "id": "1915-harley-11f",
+      "name": "Model 11-F — Effie, 1915",
+      "manufacturer": "Harley-Davidson",
+      "brand": "Harley-Davidson",
+      "origin_country": "États-Unis",
+      "construction": {
+        "year": 1915,
+        "precision": "exact",
+        "note": "Datation de l’exemplaire ou de la construction explicitement attestée ; ne désigne pas automatiquement le premier prototype."
+      },
+      "sources": [
+        "sfo"
+      ],
+      "status": "production",
+      "technical": {},
+      "description": "Harley-Davidson Model 11-F — Effie, 1915. Construction attestée par SFO Museum ; les caractéristiques non établies restent inconnues.",
+      "imageQueries": [
+        "Harley-Davidson Model 11-F 1915"
+      ],
+      "variant": "Millésime 1915 — exemplaire Effie modifié pour le Cannonball",
+      "relationships": [
+        {
+          "type": "variant_of",
+          "target_id": "1914-harley-10f",
+          "sources": [
+            "sfo",
+            "hd10"
+          ],
+          "note": "Regroupement éditorial des évolutions du twin F : le millésime n’est pas compté comme une famille indépendante."
+        }
+      ],
+      "technical_notes": "Effie a été modifiée pour les épreuves modernes ; ne pas attribuer son frein avant et ses roues actuelles à la version d’origine."
+    },
+    {
+      "id": "1912-excelsior-4b",
+      "name": "Auto-Cycle Model 4B — 1912",
+      "manufacturer": "Excelsior Motor and Manufacturing Company",
+      "brand": "Excelsior",
+      "origin_country": "États-Unis",
+      "construction": {
+        "year": 1912,
+        "precision": "exact",
+        "note": "Datation de l’exemplaire ou de la construction explicitement attestée ; ne désigne pas automatiquement le premier prototype."
+      },
+      "sources": [
+        "sfo"
+      ],
+      "status": "production",
+      "technical": {
+        "cylinders": 1,
+        "power_hp": 4
+      },
+      "description": "Excelsior Auto-Cycle Model 4B — 1912. Construction attestée par SFO Museum ; les caractéristiques non établies restent inconnues.",
+      "imageQueries": [
+        "Excelsior Auto-Cycle Model 4B 1912"
+      ],
+      "manufacturer_aliases": [
+        "The Excelsior Motor and Manufacturing Company"
+      ]
+    },
+    {
+      "id": "1915-iver-johnson-157",
+      "name": "Model 15–7 — 1915",
+      "manufacturer": "Iver Johnson’s Arms and Cycle Works",
+      "brand": "Iver Johnson",
+      "origin_country": "États-Unis",
+      "construction": {
+        "year": 1915,
+        "precision": "exact",
+        "note": "Datation de l’exemplaire ou de la construction explicitement attestée ; ne désigne pas automatiquement le premier prototype."
+      },
+      "sources": [
+        "sfo"
+      ],
+      "status": "production",
+      "technical": {},
+      "description": "Iver Johnson Model 15–7 — 1915. Construction attestée par SFO Museum ; les caractéristiques non établies restent inconnues.",
+      "imageQueries": [
+        "Iver Johnson Model 15–7 1915"
+      ]
+    },
+    {
+      "id": "1914-flying-merkel-470",
+      "name": "Model 470 — 1914",
+      "manufacturer": "Miami Cycle & Manufacturing Company",
+      "brand": "Flying Merkel",
+      "origin_country": "États-Unis",
+      "construction": {
+        "year": 1914,
+        "precision": "exact",
+        "note": "Datation de l’exemplaire ou de la construction explicitement attestée ; ne désigne pas automatiquement le premier prototype."
+      },
+      "sources": [
+        "sfo"
+      ],
+      "status": "production",
+      "technical": {
+        "cylinders": 2,
+        "power_hp": 7,
+        "transmission": "Courroie trapézoïdale"
+      },
+      "description": "Flying Merkel Model 470 — 1914. Construction attestée par SFO Museum ; les caractéristiques non établies restent inconnues.",
+      "imageQueries": [
+        "Flying Merkel Model 470 1914"
+      ],
+      "manufacturer_aliases": [
+        "The Miami Cycle & Manufacturing Company"
+      ]
+    },
+    {
+      "id": "1914-yale-twin",
+      "name": "Twin — board-track 1914",
+      "manufacturer": "Consolidated Manufacturing Company",
+      "brand": "Yale",
+      "origin_country": "États-Unis",
+      "construction": {
+        "year": 1914,
+        "precision": "exact",
+        "note": "Datation de l’exemplaire ou de la construction explicitement attestée ; ne désigne pas automatiquement le premier prototype."
+      },
+      "sources": [
+        "yale"
+      ],
+      "status": "production",
+      "technical": {
+        "cylinders": 2
+      },
+      "description": "Yale Twin — board-track 1914. Construction attestée par National Motorcycle Museum ; les caractéristiques non établies restent inconnues.",
+      "imageQueries": [
+        "Yale Twin 1914"
+      ],
+      "specializations": [
+        "competition"
+      ]
+    },
+    {
+      "id": "1916-thor-u",
+      "name": "Model U — 1916",
+      "manufacturer": "Aurora Machine and Tool Company",
+      "brand": "Thor",
+      "origin_country": "États-Unis",
+      "construction": {
+        "year": 1916,
+        "precision": "exact",
+        "note": "Datation de l’exemplaire ou de la construction explicitement attestée ; ne désigne pas automatiquement le premier prototype."
+      },
+      "sources": [
+        "thor"
+      ],
+      "status": "production",
+      "technical": {
+        "engine_type": "V-twin à 50°, quatre-temps",
+        "cylinders": 2,
+        "gears": 3,
+        "starting": "Kick",
+        "power_hp": 7,
+        "transmission": "Primaire et finale par chaîne"
+      },
+      "description": "Thor Model U — 1916. Construction attestée par National Motorcycle Museum ; les caractéristiques non établies restent inconnues.",
+      "imageQueries": [
+        "Thor Model U 1916"
+      ],
+      "mechanical_details": {
+        "engine_manufacturer": "Aurora Machine and Tool Company",
+        "clutch": "Multidisque à sec",
+        "front_suspension": "Fourche à parallélogramme",
+        "rear_suspension": "Rigide",
+        "front_brake": null,
+        "rear_brake": "Bande",
+        "wheels": "2.50 × 26 pouces avant et arrière",
+        "engine_speed_rpm": null,
+        "engine_cycle": "Quatre-temps",
+        "final_drive": "Chaîne"
+      },
+      "technical_notes": "La source donne 76,25 pouces cubes dans sa fiche mais cite aussi 61 puis 72 dans le récit de gamme ; aucune cylindrée convertie choisie arbitrairement."
+    },
+    {
+      "id": "1916-indian-powerplus",
+      "name": "Powerplus — machines du voyage de 1916",
+      "manufacturer": "Indian",
+      "brand": "Indian",
+      "origin_country": "États-Unis",
+      "construction": {
+        "year": 1916,
+        "precision": "exact",
+        "note": "Datation de l’exemplaire ou de la construction explicitement attestée ; ne désigne pas automatiquement le premier prototype."
+      },
+      "sources": [
+        "powerplus"
+      ],
+      "status": "production",
+      "technical": {
+        "engine_type": "V-twin à soupapes latérales",
+        "cylinders": 2,
+        "gears": 3,
+        "starting": "Kick",
+        "transmission": "Chaîne"
+      },
+      "description": "Indian Powerplus — machines du voyage de 1916. Construction attestée par National Motorcycle Museum ; les caractéristiques non établies restent inconnues.",
+      "imageQueries": [
+        "Indian Powerplus 1916"
+      ],
+      "specializations": [
+        "road"
+      ],
+      "technical_notes": "Le voyage des sœurs Van Buren prouve la construction en 1916. Les spécifications détaillées de l’exemplaire photographié en 1917 ne sont pas transposées intégralement aux machines de 1916."
+    },
+    {
+      "id": "1917-triumph-h",
+      "name": "Model H — exemplaire de Coventry 1917",
+      "manufacturer": "Triumph",
+      "brand": "Triumph",
+      "origin_country": "Royaume-Uni",
+      "construction": {
+        "year": 1917,
+        "precision": "exact",
+        "note": "Datation de l’exemplaire ou de la construction explicitement attestée ; ne désigne pas automatiquement le premier prototype."
+      },
+      "sources": [
+        "triumph"
+      ],
+      "status": "production",
+      "technical": {},
+      "description": "Triumph Model H — exemplaire de Coventry 1917. Construction attestée par Science Museum Group ; les caractéristiques non établies restent inconnues.",
+      "imageQueries": [
+        "Triumph Model H 1917"
+      ],
+      "specializations": [
+        "road",
+        "military"
+      ],
+      "dates": {
+        "commercialization_year": 1915
+      },
+      "historical_manufacturer": "Triumph Cycle Co. Ltd",
+      "technical_notes": "Exemplaire fabriqué en 1917. La présentation du modèle en 1915 n’est pas sa date de construction. L’usage militaire concerne la famille H, pas une provenance militaire certifiée de cet objet."
+    },
+    {
+      "id": "1914-enfield-tt",
+      "name": "3 HP — Junior TT 1914",
+      "manufacturer": "Royal Enfield",
+      "brand": "Royal Enfield",
+      "origin_country": "Royaume-Uni",
+      "construction": {
+        "year": 1914,
+        "precision": "exact",
+        "note": "Datation de l’exemplaire ou de la construction explicitement attestée ; ne désigne pas automatiquement le premier prototype."
+      },
+      "sources": [
+        "enfieldtt"
+      ],
+      "status": "production",
+      "technical": {
+        "cylinders": 2,
+        "displacement_cc": 346
+      },
+      "description": "Royal Enfield 3 HP — Junior TT 1914. Construction attestée par National Motor Museum ; les caractéristiques non établies restent inconnues.",
+      "imageQueries": [
+        "Royal Enfield 3 HP 1914"
+      ],
+      "specializations": [
+        "competition"
+      ],
+      "historical_manufacturer": "The Enfield Cycle Co. Ltd",
+      "technical_notes": "346 cm³ décrit la configuration de course de 1914. L’exemplaire a reçu ultérieurement un moteur standard de 425 cm³ ; cette dernière valeur n’est pas réattribuée à 1914."
+    },
+    {
+      "id": "1914-fn-285",
+      "name": "Model 285 — exemplaire FMM 1914",
+      "manufacturer": "FN",
+      "brand": "FN",
+      "origin_country": "Belgique",
+      "construction": {
+        "year": 1914,
+        "precision": "exact",
+        "note": "Datation de l’exemplaire ou de la construction explicitement attestée ; ne désigne pas automatiquement le premier prototype."
+      },
+      "sources": [
+        "fn285"
+      ],
+      "status": "production",
+      "technical": {
+        "engine_type": "Monocylindre quatre-temps",
+        "cylinders": 1,
+        "displacement_cc": 285,
+        "power_kw": 1.8,
+        "gears": 2,
+        "starting": "Kick",
+        "transmission": "Arbre de transmission",
+        "weight_kg": 58
+      },
+      "description": "FN Model 285 — exemplaire FMM 1914. Construction attestée par Franschhoek Motor Museum ; les caractéristiques non établies restent inconnues.",
+      "imageQueries": [
+        "FN Model 285 1914"
+      ],
+      "dates": {
+        "commercialization_year": 1912
+      },
+      "historical_manufacturer": "Fabrique Nationale d’Armes de Guerre",
+      "technical_notes": "Poids à sec. Lancement 1912 distinct de l’exemplaire 1914 ; le kick remplace les pédales en 1914."
+    },
+    {
+      "id": "1914-magnat-debon-4hp",
+      "name": "4 HP — exemplaire Malartre 1914",
+      "manufacturer": "Magnat-Debon",
+      "brand": "Magnat-Debon",
+      "origin_country": "France",
+      "construction": {
+        "year": 1914,
+        "precision": "exact",
+        "note": "Datation de l’exemplaire ou de la construction explicitement attestée ; ne désigne pas automatiquement le premier prototype."
+      },
+      "sources": [
+        "magnat"
+      ],
+      "status": "production",
+      "technical": {
+        "engine_type": "Bicylindre en V quatre-temps à soupapes en tête",
+        "cylinders": 2,
+        "displacement_cc": 500,
+        "transmission": "Variateur et courroie",
+        "brakes": "Arrière double",
+        "top_speed_kmh": 90
+      },
+      "description": "Magnat-Debon 4 HP — exemplaire Malartre 1914. Construction attestée par Musée de l’automobile Henri Malartre ; les caractéristiques non établies restent inconnues.",
+      "imageQueries": [
+        "Magnat-Debon 4 HP 1914"
+      ],
+      "mechanical_details": {
+        "engine_manufacturer": null,
+        "clutch": null,
+        "front_suspension": "Fourche télescopique",
+        "rear_suspension": "Rigide",
+        "front_brake": null,
+        "rear_brake": "Double",
+        "wheels": null,
+        "engine_speed_rpm": null,
+        "engine_cycle": "Quatre-temps",
+        "final_drive": "Courroie"
+      }
+    },
+    {
+      "id": "1913-motosacoche-25hp",
+      "name": "2½ HP — exemplaire 1913",
+      "manufacturer": "Motosacoche SA",
+      "brand": "Motosacoche",
+      "origin_country": "Suisse",
+      "construction": {
+        "year": 1913,
+        "precision": "exact",
+        "note": "Datation de l’exemplaire ou de la construction explicitement attestée ; ne désigne pas automatiquement le premier prototype."
+      },
+      "sources": [
+        "motosacoche"
+      ],
+      "status": "production",
+      "technical": {
+        "cylinders": 1,
+        "displacement_cc": 290,
+        "top_speed_kmh": 48.28
+      },
+      "description": "Motosacoche 2½ HP — exemplaire 1913. Construction attestée par National Motor Museum ; les caractéristiques non établies restent inconnues.",
+      "imageQueries": [
+        "Motosacoche 2½ HP 1913"
+      ]
+    },
+    {
+      "id": "1919-garelli-350",
+      "name": "350 — Normale da Turismo / Raid Nord-Sud",
+      "manufacturer": "Garelli Motociclette",
+      "brand": "Garelli",
+      "origin_country": "Italie",
+      "construction": {
+        "year": 1919,
+        "precision": "exact",
+        "note": "Datation de l’exemplaire ou de la construction explicitement attestée ; ne désigne pas automatiquement le premier prototype."
+      },
+      "sources": [
+        "garelli"
+      ],
+      "status": "production",
+      "technical": {
+        "displacement_cc": 350
+      },
+      "description": "Garelli 350 — Normale da Turismo / Raid Nord-Sud. Construction attestée par Garelli ; les caractéristiques non établies restent inconnues.",
+      "imageQueries": [
+        "Garelli 350 1919"
+      ],
+      "aliases": [
+        "Normale da Turismo",
+        "Raid Nord-Sud"
+      ],
+      "technical_notes": "Deux versions d’une même famille, conservées dans la fiche et non comptées comme deux modèles. Les données du moteur prototype 1912–1914 ne sont pas automatiquement recopiées sur la série 1919."
+    },
+    {
+      "id": "1918-nimbus-prototype",
+      "name": "Prototype quatre-cylindres — 1918",
+      "manufacturer": "Fisker & Nielsen",
+      "brand": "Nimbus",
+      "origin_country": "Danemark",
+      "construction": {
+        "year": 1918,
+        "precision": "exact",
+        "note": "Prototype roulant en 1918 attesté par le dossier historique et ses photographies ; le brevet 1917 ne constitue pas la preuve de construction."
+      },
+      "sources": [
+        "nimbus"
+      ],
+      "status": "prototype",
+      "technical": {
+        "cylinders": 4
+      },
+      "description": "Nimbus Prototype quatre-cylindres — 1918. Construction attestée par Danmarks Nimbus Touring / Nimbus Museet ; les caractéristiques non établies restent inconnues.",
+      "imageQueries": [
+        "Nimbus Prototype quatre-cylindres 1918"
+      ],
+      "specializations": [
+        "experimental"
+      ],
+      "dates": {
+        "prototype_year": 1918,
+        "patent_year": 1917
+      }
+    },
+    {
+      "id": "1919-nimbus-preserie",
+      "name": "Premières machines — série de neuf, 1919–1920",
+      "manufacturer": "Fisker & Nielsen",
+      "brand": "Nimbus",
+      "origin_country": "Danemark",
+      "construction": {
+        "year": null,
+        "earliest": 1919,
+        "latest": 1920,
+        "precision": "range",
+        "note": "Neuf premières machines construites entre 1919 et 1920 ; aucune année unique choisie."
+      },
+      "sources": [
+        "nimbus"
+      ],
+      "status": "limited_production",
+      "technical": {},
+      "description": "Nimbus Premières machines — série de neuf, 1919–1920. Construction attestée par Danmarks Nimbus Touring / Nimbus Museet ; les caractéristiques non établies restent inconnues.",
+      "imageQueries": [
+        "Nimbus Premières machines "
+      ],
+      "variant": "Premières versions commerciales",
+      "relationships": [
+        {
+          "type": "variant_of",
+          "target_id": "1918-nimbus-prototype",
+          "sources": [
+            "nimbus"
+          ],
+          "note": "Variantes du projet initial, fourche et cadre modifiés ; famille Nimbus comptée une seule fois."
+        }
+      ]
+    },
+    {
+      "id": "1912-puch-300",
+      "name": "Monocylindre 300 — exemplaire danois 1912",
+      "manufacturer": "Puch",
+      "brand": "Puch",
+      "origin_country": "Autriche",
+      "construction": {
+        "year": 1912,
+        "precision": "exact",
+        "note": "Datation de l’exemplaire ou de la construction explicitement attestée ; ne désigne pas automatiquement le premier prototype."
+      },
+      "sources": [
+        "danmarks",
+        "puch"
+      ],
+      "status": "production",
+      "technical": {
+        "cylinders": 1,
+        "displacement_cc": 300
+      },
+      "description": "Puch Monocylindre 300 — exemplaire danois 1912. Construction attestée par Danmarks Motorcykelmuseum ; les caractéristiques non établies restent inconnues.",
+      "imageQueries": [
+        "Puch Monocylindre 300 1912"
+      ],
+      "technical_notes": "Désignation descriptive de l’exemplaire du musée, pas un nom commercial reconstruit. Pays établi séparément par l’histoire officielle de Puch."
+    },
+    {
+      "id": "1915-henderson-four",
+      "name": "Four / Model D — exemplaire 1915",
+      "manufacturer": "Henderson Motorcycle Company",
+      "brand": "Henderson",
+      "origin_country": "États-Unis",
+      "construction": {
+        "year": 1915,
+        "precision": "exact",
+        "note": "Datation de l’exemplaire ou de la construction explicitement attestée ; ne désigne pas automatiquement le premier prototype."
+      },
+      "sources": [
+        "henderson"
+      ],
+      "status": "production",
+      "technical": {
+        "engine_type": "Quatre-cylindres en ligne, F-head",
+        "cylinders": 4,
+        "displacement_cc": 1064,
+        "cooling": "Air",
+        "gears": 2,
+        "transmission": "Moyeu arrière deux vitesses ; chaîne finale"
+      },
+      "description": "Henderson Four / Model D — exemplaire 1915. Construction attestée par National Motorcycle Museum ; les caractéristiques non établies restent inconnues.",
+      "imageQueries": [
+        "Henderson Four / Model D 1915"
+      ],
+      "technical_notes": "Exemplaire restauré et reconstitué à partir d’un moteur ancien ; datation attribuée par le musée. La correction du musée confirme un moyeu deux vitesses, non la boîte trois vitesses de 1917."
+    }
+  ]
+}

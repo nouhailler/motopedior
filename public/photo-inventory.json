@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T16:19:19.383092+00:00",
+  "generatedAt": "2026-11-07T20:54:22.626106+00:00",
   "models": [
     {
       "modelId": "1",
@@ -16940,6 +16940,893 @@
           }
         }
       ]
+    },
+    {
+      "modelId": "1914-harley-10f",
+      "brand": "Harley-Davidson",
+      "model": "Model 10-F — type 1914",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1915-harley-11f",
+      "brand": "Harley-Davidson",
+      "model": "Model 11-F — Effie, 1915",
+      "status": "approximate",
+      "note": "Autre exemplaire du Model 11-F 1915 photographié à Cascais ; ce n’est pas Effie. Correspondance du modèle, illustration approximative de la machine décrite.",
+      "reviewedAt": "2026-11-07",
+      "files": [
+        {
+          "fileTitle": "File:Harley Davidson Model F (1915) (29839990905).jpg",
+          "match": "approximate",
+          "approved": true,
+          "reviewNote": "Autre exemplaire du Model 11-F 1915 photographié à Cascais ; ce n’est pas Effie. Correspondance du modèle, illustration approximative de la machine décrite.",
+          "reason": "Licence et auteur identifiés dans extmetadata",
+          "photo": {
+            "fileTitle": "File:Harley Davidson Model F (1915) (29839990905).jpg",
+            "pageId": 95156117,
+            "query": null,
+            "sourceSha1": "4ee381d2102899ba24afe63175e7b3edad3f37ef",
+            "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Harley_Davidson_Model_F_%281915%29_%2829839990905%29.jpg/960px-Harley_Davidson_Model_F_%281915%29_%2829839990905%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Harley_Davidson_Model_F_%281915%29_%2829839990905%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Harley_Davidson_Model_F_(1915)_(29839990905).jpg",
+            "author": "Pedro Ribeiro Simões from Lisboa, Portugal",
+            "attribution": "",
+            "creditLine": "Harley Davidson Model F (1915)",
+            "description": "Cascais Classic Motorshow, Cascais, Portugal Harley-Davidson 1915 Model 11-F The 1915 Model 11-F was the best-selling Harley-Davidson up to that time, mainly because of the use of inexpensive acetylene lamps. HARLEY-DAVIDSON INNOVATION “Art of the Harley-Davidson Motorcycle” by Dain Gingerelli, with artful photography by David Blattel, is a handsome, informative overview of Harley-Davidson’s 100-plus years of style and innovation. Historical and technical profiles written by Harley-Davidson expert Dain Gingerelli and masterful motorcycle photography by David Blattel come together in Art of the Harley-Davidson Motorcycle (Motorbooks, 2011). The result is a breathtaking review of over 100 stunning Harley-Davidson greatest hits from the early 1900s to today. The following excerpt is taken from Chapter 1, “Finding Form: The Early Harley Motorcycles.” 1915 Model 11-F Like the Model 11-J, the Model 11-F used the upgraded 11-horsepower V-twin engine that Harley-Davidson improved for 1915. The engine had a mechanically driven oil pump for more positive lubrication, a major improvement because it eliminated the need for the rider to work the hand pump that had been required to maintain pressure in the oil tank while riding. The mechanically driven pump did all the work, and did it in a more reliable way. Even though the 11-F’s engine had this new feature, the bike qualified as the poor man’s Harley of the time because it lacked the new electrical system found on the 11-J. Using the old acetylene-burning lights saved 11-F owners $35 compared to the 11-J’s MSRP, a hefty sum in 1915. Obviously the savings was worth it to customers, because the 11-F topped all other Harley models for the year, making it the best-selling Harley up to that time. The new engine also proved popular for racing, and Harley-Davidson offered a race model with the new engine for customers wanting to compete on dirt ovals and board tracks that were popular at the time. SPECIFICATIONS Engine Displacement: 30 cubic inches Transmission: 3-speed Horsepower: 11 horsepower Wheelbase: 59.5 inches Lore • 9,855 11-Fs were sold in 1915. • Even though the 11-J had electrical lighting, the 11-F still relied on acetylene lamps.",
+            "width": 4229,
+            "height": 2454,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY 2.0",
+              "url": "https://creativecommons.org/licenses/by/2.0/",
+              "shareAlike": false,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2020-10-17 18:06:26",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Harley Davidson Model F (1915) (29839990905)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Photos by Pedro Ribeiro Simões|Files with coordinates missing SDC location of creation|Portugal photographs taken on 2016-09-17|Flickr images reviewed by FlickreviewR 2|Harley-Davidson motorcycles in Portugal|Harley-Davidson F|Cascais Classic Motorshow",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "38.693850",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-9.423587",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<p>Cascais Classic Motorshow, Cascais, Portugal\n</p><p>Harley-Davidson 1915 Model 11-F\n</p><p>The 1915 Model 11-F was the best-selling Harley-Davidson up to that time, mainly because of the use of inexpensive acetylene lamps.\n</p><p><br>\n</p>\n<pre>HARLEY-DAVIDSON INNOVATION\n</pre>\n<p>“Art of the Harley-Davidson Motorcycle” by Dain Gingerelli, with artful photography by David Blattel, is a handsome, informative overview of Harley-Davidson’s 100-plus years of style and innovation.\n</p><p>Historical and technical profiles written by Harley-Davidson expert Dain Gingerelli and masterful motorcycle photography by David Blattel come together in Art of the Harley-Davidson Motorcycle (Motorbooks, 2011). The result is a breathtaking review of over 100 stunning Harley-Davidson greatest hits from the early 1900s to today. The following excerpt is taken from Chapter 1, “Finding Form: The Early Harley Motorcycles.” \n1915 Model 11-F \n</p><p>Like the Model 11-J, the Model 11-F used the upgraded 11-horsepower V-twin engine that Harley-Davidson improved for 1915. \n</p><p>The engine had a mechanically driven oil pump for more positive lubrication, a major improvement because it eliminated the need for the rider to work the hand pump that had been required to maintain pressure in the oil tank while riding. The mechanically driven pump did all the work, and did it in a more reliable way. \n</p><p>Even though the 11-F’s engine had this new feature, the bike qualified as the poor man’s Harley of the time because it lacked the new electrical system found on the 11-J. Using the old acetylene-burning lights saved 11-F owners $35 compared to the 11-J’s MSRP, a hefty sum in 1915. \n</p><p>Obviously the savings was worth it to customers, because the 11-F topped all other Harley models for the year, making it the best-selling Harley up to that time. The new engine also proved popular for racing, and Harley-Davidson offered a race model with the new engine for customers wanting to compete on dirt ovals and board tracks that were popular at the time.\n</p><p>SPECIFICATIONS\n</p><p>Engine Displacement: 30 cubic inches\nTransmission: 3-speed\nHorsepower: 11 horsepower\nWheelbase: 59.5 inches\n</p><p>Lore\n• 9,855 11-Fs were sold in 1915.\n</p>\n• Even though the 11-J had electrical lighting, the 11-F still relied on acetylene lamps.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016-09-17 11:46",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/pedrosimoes7/29839990905/\">Harley Davidson Model F (1915)</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/46944516@N00\">Pedro Ribeiro Simões</a> from Lisboa, Portugal",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-07T10:34:23.839082+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "modelId": "1912-excelsior-4b",
+      "brand": "Excelsior",
+      "model": "Auto-Cycle Model 4B — 1912",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1915-iver-johnson-157",
+      "brand": "Iver Johnson",
+      "model": "Model 15–7 — 1915",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1914-flying-merkel-470",
+      "brand": "Flying Merkel",
+      "model": "Model 470 — 1914",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1914-yale-twin",
+      "brand": "Yale",
+      "model": "Twin — board-track 1914",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1916-thor-u",
+      "brand": "Thor",
+      "model": "Model U — 1916",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1916-indian-powerplus",
+      "brand": "Indian",
+      "model": "Powerplus — machines du voyage de 1916",
+      "status": "approximate",
+      "note": "Autre Indian Powerplus datée 1916 par Commons ; ce n’est pas une des deux motos des sœurs Van Buren. Résolution originale limitée à 640 pixels.",
+      "reviewedAt": "2026-11-07",
+      "files": [
+        {
+          "fileTitle": "File:Indian 1916 Powerplus 2.jpg",
+          "match": "approximate",
+          "approved": true,
+          "reviewNote": "Autre Indian Powerplus datée 1916 par Commons ; ce n’est pas une des deux motos des sœurs Van Buren. Résolution originale limitée à 640 pixels.",
+          "reason": "Licence et auteur identifiés dans extmetadata",
+          "photo": {
+            "fileTitle": "File:Indian 1916 Powerplus 2.jpg",
+            "pageId": 2952364,
+            "query": null,
+            "sourceSha1": "5ccb7ec0612e39e0d711cbcf112b8a7fb4d84902",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Indian_1916_Powerplus_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Indian_1916_Powerplus_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Indian_1916_Powerplus_2.jpg",
+            "author": "Piero at Dutch Wikipedia",
+            "attribution": "Yesterdays Antique Motorcycles en Classic Motorcycle Archive",
+            "creditLine": "Transferred from nl.wikipedia to Commons.",
+            "description": "US Indian Powerplus motorcycle from 1916",
+            "width": 640,
+            "height": 480,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY-SA 3.0",
+              "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+              "shareAlike": true,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2007-10-21 14:06:28",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Indian 1916 Powerplus 2",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|License migration completed|Indian Powerplus|Self-published work|Items with VRTS permission confirmed",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "US Indian Powerplus motorcycle from 1916",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "6 November 2005 (original upload date)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi lang=\"en\" dir=\"ltr\">Transferred from <span class=\"plainlinks\"><a class=\"external text\" data-mw-original-href=\"//nl.wikipedia.org\" href=\"https://nl.wikipedia.org\">nl.wikipedia</a></span> to Commons.</bdi>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/nl:User:Piero\" class=\"extiw\" title=\"w:nl:User:Piero\">Piero</a> at <a href=\"https://en.wikipedia.org/wiki/nl:\" class=\"extiw\" title=\"w:nl:\">Dutch Wikipedia</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.yesterdays.nl/\">Yesterdays Antique Motorcycles</a> en <a rel=\"nofollow\" class=\"external text\" href=\"http://www.motorarchive.com/\">Classic Motorcycle Archive</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-07T10:34:23.839082+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "modelId": "1917-triumph-h",
+      "brand": "Triumph",
+      "model": "Model H — exemplaire de Coventry 1917",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1914-enfield-tt",
+      "brand": "Royal Enfield",
+      "model": "3 HP — Junior TT 1914",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1914-fn-285",
+      "brand": "FN",
+      "model": "Model 285 — exemplaire FMM 1914",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1914-magnat-debon-4hp",
+      "brand": "Magnat-Debon",
+      "model": "4 HP — exemplaire Malartre 1914",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1913-motosacoche-25hp",
+      "brand": "Motosacoche",
+      "model": "2½ HP — exemplaire 1913",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1919-garelli-350",
+      "brand": "Garelli",
+      "model": "350 — Normale da Turismo / Raid Nord-Sud",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1918-nimbus-prototype",
+      "brand": "Nimbus",
+      "model": "Prototype quatre-cylindres — 1918",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1919-nimbus-preserie",
+      "brand": "Nimbus",
+      "model": "Premières machines — série de neuf, 1919–1920",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1912-puch-300",
+      "brand": "Puch",
+      "model": "Monocylindre 300 — exemplaire danois 1912",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1915-henderson-four",
+      "brand": "Henderson",
+      "model": "Four / Model D — exemplaire 1915",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1921-sopwith-abc",
+      "brand": "ABC",
+      "model": "3 HP / Sopwith-ABC — B1199",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1921-neracar-sheffield",
+      "brand": "Ner-a-Car",
+      "model": "2¾ HP — exemplaire britannique 1921",
+      "status": "exact",
+      "note": "Exemplaire du National Motor Museum identifié 1921. Le fichier voisin 5953737854 est un cartel et n’est pas une photo principale.",
+      "reviewedAt": "2026-11-07",
+      "files": [
+        {
+          "fileTitle": "File:1921 Ner-A-Car 2¾hp motorcycle (5953741394).jpg",
+          "match": "exact",
+          "approved": true,
+          "reviewNote": "Exemplaire du National Motor Museum identifié 1921. Le fichier voisin 5953737854 est un cartel et n’est pas une photo principale.",
+          "reason": "Licence et auteur identifiés dans extmetadata",
+          "photo": {
+            "fileTitle": "File:1921 Ner-A-Car 2¾hp motorcycle (5953741394).jpg",
+            "pageId": 38834336,
+            "query": null,
+            "sourceSha1": "96b26c7545739d26779c1778b1bdea8554563553",
+            "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/1921_Ner-A-Car_2%C2%BEhp_motorcycle_%285953741394%29.jpg/960px-1921_Ner-A-Car_2%C2%BEhp_motorcycle_%285953741394%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/1921_Ner-A-Car_2%C2%BEhp_motorcycle_%285953741394%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:1921_Ner-A-Car_2%C2%BEhp_motorcycle_(5953741394).jpg",
+            "author": "sv1ambo",
+            "attribution": "",
+            "creditLine": "1921 Ner-A-Car 2¾hp motorcycle",
+            "description": "1921 Ner-A-Car 2¾hp motorcycle. Taken at the National Motor Museum in Beaulieu, Hampshire, England.",
+            "width": 3648,
+            "height": 2432,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY 2.0",
+              "url": "https://creativecommons.org/licenses/by/2.0/",
+              "shareAlike": false,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2015-03-10 10:27:00",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "1921 Ner-A-Car 2¾hp motorcycle (5953741394)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Flickr images reviewed by FlickreviewR|1920s motorcycles in the National Motor Museum, Beaulieu|Photographs by sv1ambo|Files with coordinates missing SDC location of creation (50° N, 2° W)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "50.823064",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-1.453596",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "1921 Ner-A-Car 2¾hp motorcycle. Taken at the National Motor Museum in Beaulieu, Hampshire, England.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2011-06-07 23:07",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/50415738@N04/5953741394/\">1921 Ner-A-Car 2¾hp motorcycle</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/50415738@N04\">sv1ambo</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-07T20:54:22.626106+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "modelId": "1921-norton-16h-race",
+      "brand": "Norton",
+      "model": "16H Works Race — Jimmy Shaw, TT 1921",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1921-norton-big-four",
+      "brand": "Norton",
+      "model": "Model 1 Big Four — exemplaire 1921",
+      "status": "approximate",
+      "note": "Autre exemplaire du Model 1 Big Four 1921, photographié chez Yesterdays ; ce n’est pas une identité d’objet établie avec la machine de la collection Norton.",
+      "reviewedAt": "2026-11-07",
+      "files": [
+        {
+          "fileTitle": "File:1921 Norton Model 1 Big Four left side.jpg",
+          "match": "approximate",
+          "approved": true,
+          "reviewNote": "Autre exemplaire du Model 1 Big Four 1921, photographié chez Yesterdays ; ce n’est pas une identité d’objet établie avec la machine de la collection Norton.",
+          "reason": "Licence et auteur identifiés dans extmetadata",
+          "photo": {
+            "fileTitle": "File:1921 Norton Model 1 Big Four left side.jpg",
+            "pageId": 115193177,
+            "query": null,
+            "sourceSha1": "d1019efb74bc63d4f6b5ca6aa7a68b0f48c4fdd4",
+            "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/1921_Norton_Model_1_Big_Four_left_side.jpg/960px-1921_Norton_Model_1_Big_Four_left_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/1921_Norton_Model_1_Big_Four_left_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:1921_Norton_Model_1_Big_Four_left_side.jpg",
+            "author": "Yesterdays Antique Motorcycles",
+            "attribution": "",
+            "creditLine": "https://www.yesterdays.nl/product/norton-1921-big-four-633cc-1-cyl-sv-3107/",
+            "description": "1921 Norton Model 1 Big Four motorcycle",
+            "width": 1018,
+            "height": 628,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+              "shareAlike": true,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2022-02-12 09:04:45",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "1921 Norton Model 1 Big Four left side",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Norton Big Four|Self-published work|Items with VRTS permission confirmed|Files from Yesterdays Antique Motorcycles or the Classic Motorcycle Archive",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "1921 Norton Model 1 Big Four motorcycle",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "12-2-2022",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.yesterdays.nl/product/norton-1921-big-four-633cc-1-cyl-sv-3107/\">https://www.yesterdays.nl/product/norton-1921-big-four-633cc-1-cyl-sv-3107/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Yesterdays Antique Motorcycles",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<div style=\"margin:.5em auto; border:2px solid #e0e0e0; background-color:#f0f0f0; padding:4px 8px\">\n<div style=\"text-align:center;\">This image comes from <a rel=\"nofollow\" class=\"external text\" href=\"http://www.yesterdays.nl/\">Yesterdays Antique Motorcycles</a> or from the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.motorarchive.com/\">Classic Motorcycle Archive</a>. From 2007-april 2020, this image was licensed under both <a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License\" title=\"Commons:GNU Free Documentation License\">GFDL</a> and CC-BY-SA-2.5. <br>The current license is CC-BY-SA-4.0.</div>\n<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/4.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/4.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 4.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 4.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n<p><span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=PermissionTicket 1%3Dhttps%3A%2F%2Fticket.wikimedia.org%2Fotrs%2Findex.pl%3FAction%3DAgentTicketZoom%26TicketNumber%3D2007071710013063 2%3D2007071710013063\"> </span>\n</p>\n<style data-mw-deduplicate=\"TemplateStyles:r1254222110\">.mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:var(--color-base,#202122);box-sizing:border-box;border-inline-start-width:8px}.mw-parser-output .messagebox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .mbox-warning,.mw-parser-output .mbox-speedy{border:2px solid var(--border-color-error,#b22222);background:var(--background-color-error-subtle,#ffdbdb);border-inline-start-width:8px}.mw-parser-output .mbox-serious,.mw-parser-output .mbox-delete,.mw-parser-output .mbox-stop{border:2px solid var(--border-color-error,#b22222);border-inline-start-width:8px}.mw-parser-output .mbox-issue,.mw-parser-output .mbox-content{border:2px solid #f28500;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-query,.mw-parser-output .mbox-style{border:2px solid #f4c430;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-shit{border:2px solid #960;border-inline-start-width:8px}.mw-parser-output .mbox-license{border:2px solid #88a;border-inline-start-width:initial}.mw-parser-output .mbox-legal{border:2px solid var(--border-color-notice,#666);background:var(--background-color-base,#fff);border-inline-start-width:8px}.mw-parser-output .mbox-honor{border:2px solid #ca3;background:var(--background-color-warning-subtle,#fcf4db);border-inline-start-width:8px}.mw-parser-output .mbox-growth{border:2px solid #8d4;background:var(--background-color-success-subtle,#d5fdf4);border-inline-start-width:8px}.mw-parser-output .mbox-move{border:2px solid #93c;border-inline-start-width:8px}.mw-parser-output .mbox-protection,.mw-parser-output .mbox-message{border:2px solid var(--border-color-base,#aaa);border-inline-start-width:8px}.mw-parser-output .messagebox .mbox-text{border:none;padding:0.25em 0.9em;width:100%}.mw-parser-output .messagebox .mbox-image{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0.9em;padding-inline-end:0;text-align:center}.mw-parser-output .messagebox .mbox-imageright{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0;padding-inline-end:0.9em;text-align:center}.mw-parser-output .messagebox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .messagebox .mbox-invalid-type{text-align:center}@media(min-width:720px){.mw-parser-output .messagebox{margin:4px 10%}.mw-parser-output .messagebox.mbox-small{clear:right;float:right;margin:4px 0 4px 1em;width:238px}}body.skin--responsive .mw-parser-output table.messagebox img{max-width:none!important}</style><table class=\"plainlinks messagebox mbox-notice layouttemplate\" role=\"presentation\" style=\"margin:0.3em 0;width:100%;\"><tbody><tr><td class=\"mbox-image\"><span typeof=\"mw:File\"><span title=\"VRT Wikimedia\"><img alt=\"VRT Wikimedia\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/120px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"75\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/250px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"935\" data-file-height=\"600\"></span></span></td><td class=\"mbox-text\">This work is <a href=\"https://freedomdefined.org/Definition\" class=\"extiw\" title=\"freedomdefined:Definition\">free</a> and may be used by anyone for any purpose. If you wish to <b><a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">use this content</a></b>, you do not need to request permission as long as you follow any licensing requirements mentioned on this page.\n<p>The Wikimedia Foundation has received an e-mail confirming that the copyright holder has approved publication under the terms mentioned on this page. This correspondence has been <b><span style=\"background:transparent;color:#0f7f1f;font-weight:400;\" title=\"transparent\">reviewed</span></b> by a <a href=\"//commons.wikimedia.org/wiki/Template:PermissionTicket/Users\" title=\"Template:PermissionTicket/Users\">Volunteer Response Team (VRT) member</a> and stored in our <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team\" title=\"Commons:Volunteer Response Team\">permission archive</a>. The correspondence is available to trusted volunteers as <b><a href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2007071710013063\" class=\"extiw\" title=\"ticket:2007071710013063\">ticket #2007071710013063</a></b>.\n</p><p><small>If you have questions about the archived correspondence, please use the <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team/Noticeboard\" title=\"Commons:Volunteer Response Team/Noticeboard\">VRT noticeboard</a>.</small>\n<small>Ticket link: <a class=\"external free\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2007071710013063\">https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2007071710013063</a></small>\n<br><small>Find other files from the same ticket:</small> <span typeof=\"mw:File\"><a href=\"https://wcqs-beta.wmflabs.org/#%23defaultView%3AImageGrid%09%0ASELECT%20%3Fimage%20%20%20%7B%0A%20%20%3Ffile%20wdt%3AP6305%20%222007071710013063%22%20.%0A%20%20%3Ffile%20schema%3Aurl%20%3Fimage.%0A%7D%20%0A\" title=\"SDC query (SPARQL)\" rel=\"nofollow\"><img alt=\"SDC query (SPARQL)\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/20px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"15\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/40px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"688\"></a></span>\n</p>\n<span id=\"field-otrs\" title=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2007071710013063\"></span></td></tr></tbody></table>\n</div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-07T20:54:22.626106+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "modelId": "1921-bsa-r34",
+      "brand": "BSA",
+      "model": "R34 — exemplaire de musée 1921",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1921-humber-flat-twin",
+      "brand": "Humber",
+      "model": "4½ HP — exemplaire BMCT 1921",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1921-revere-25hp",
+      "brand": "Revere",
+      "model": "2½ HP — exemplaire BMCT 1921",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1921-zenith-bradshaw",
+      "brand": "Zenith",
+      "model": "Bradshaw 3½ HP — exemplaire BMCT 1921",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1921-fn-four-748",
+      "brand": "FN",
+      "model": "Four 748 — exemplaire danois 1921",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1921-wanderer-25ps",
+      "brand": "Wanderer",
+      "model": "2,5 PS — exemplaire Mühlich 1921",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1921-guzzi-normale",
+      "brand": "Moto Guzzi",
+      "model": "Normale 500 — IGB-2974, quatrième exemplaire",
+      "status": "exact",
+      "note": "Fichier du catalogue Museo Scienza, IGB-2974. Artist désigne constructeur et concepteur de l’objet, pas un photographe identifié. Crédit musée et auteurs de l’objet explicités.",
+      "reviewedAt": "2026-11-07",
+      "files": [
+        {
+          "fileTitle": "File:Motocicletta - Museo scienza tecnologia Milano 02974 dia.jpg",
+          "match": "exact",
+          "approved": true,
+          "reviewNote": "Fichier du catalogue Museo Scienza, IGB-2974. Artist désigne constructeur et concepteur de l’objet, pas un photographe identifié. Crédit musée et auteurs de l’objet explicités.",
+          "reason": "Licence et auteur identifiés dans extmetadata",
+          "photo": {
+            "fileTitle": "File:Motocicletta - Museo scienza tecnologia Milano 02974 dia.jpg",
+            "pageId": 48926388,
+            "query": null,
+            "sourceSha1": "91ebd8b7fb415403a2b4b42875758b8e027f9e5b",
+            "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Motocicletta_-_Museo_scienza_tecnologia_Milano_02974_dia.jpg/960px-Motocicletta_-_Museo_scienza_tecnologia_Milano_02974_dia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Motocicletta_-_Museo_scienza_tecnologia_Milano_02974_dia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Motocicletta_-_Museo_scienza_tecnologia_Milano_02974_dia.jpg",
+            "author": "Moto Guzzi (costruttore), Guzzi Carlo (progettista)",
+            "attribution": "",
+            "creditLine": "Catalogo collezioni (Italian) . Museoscienza.org . Museo nazionale della scienza e della tecnologia Leonardo da Vinci, Milano.",
+            "description": "Motocicletta con telaio tubolare a culla doppia, serbatoi e parafanghi verniciati di verde, decorati da filetti dorati. Nella parte centrale del telaio è installato un motore monocilindrico orizzontale a quattro tempi con aspirazione e scarico in testa. Al di sopra del motore è posizionato il serbatoio del carburante, incastonato tra i tubi orizzontale e obliquo del telaio, in modo tale che il lato superiore sia inclinato. Sul serbatoio è sistemata una cassetta portaoggetti apribile. Al di sotto del serbatoio del carburante, si trova, più piccolo, il serbatoio dell'olio. La trasmissione è a catena. Le ruote sono a raggi; la ruota posteriore è sprovvista di sospensione, mentre quella anteriore è connessa mediante una forcella a parallelogramma. L'impianto frenante è a tamburo, collocato sulla ruota posteriore. Al di sopra del parafango posteriore è sistemato un portapacchi. Notizie storico-critiche Ideata da Carlo Guzzi, Giorgio Parodi e Giovanni Ravelli durante gli anni della Prima Guerra Mondiale, venne prodotta a partire dal 1921 grazie al finanziamento del padre dell'armatore genovese Vittorio Emanuele Parodi, padre di Giorgio. Si trattava di una moto particolarmente affidabile e solida che gettò le basi per la successiva fortuna del marchio Moto Guzzi. L'esemplare posseduto dal Museo Nazionale della Scienza e della Tecnologia \"Leonardo da Vinci\" è il quarto costruito dalla Moto Guzzi.",
+            "width": 1280,
+            "height": 818,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+              "shareAlike": true,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2016-05-21 12:06:44",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nmotocicletta  - Normale 500.</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Media from Museo Nazionale della Scienza e della Tecnologia (Milan)|Artworks without Wikidata item|Artworks with known accession number|Ground transport collection in the Museo Nazionale della Scienza e della Tecnologia (Milan)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nMoto Guzzi (costruttore), Guzzi Carlo (progettista)</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Motocicletta con telaio tubolare a culla doppia, serbatoi e parafanghi verniciati di verde, decorati da filetti dorati. Nella parte centrale del telaio è installato un motore monocilindrico orizzontale a quattro tempi con aspirazione e scarico in testa. Al di sopra del motore è posizionato il serbatoio del carburante, incastonato tra i tubi orizzontale e obliquo del telaio, in modo tale che il lato superiore sia inclinato. Sul serbatoio è sistemata una cassetta portaoggetti apribile. Al di sotto del serbatoio del carburante, si trova, più piccolo, il serbatoio dell'olio. La trasmissione è a catena. Le ruote sono a raggi; la ruota posteriore è sprovvista di sospensione, mentre quella anteriore è connessa mediante una forcella a parallelogramma. L'impianto frenante è a tamburo, collocato sulla ruota posteriore. Al di sopra del parafango posteriore è sistemato un portapacchi.\n<p><br>\n</p>\n<dl><dt>Notizie storico-critiche</dt></dl>\nIdeata da Carlo Guzzi, Giorgio Parodi e Giovanni Ravelli durante gli anni della Prima Guerra Mondiale, venne prodotta a partire dal 1921 grazie al finanziamento del padre dell'armatore genovese Vittorio Emanuele Parodi, padre di Giorgio. Si trattava di una moto particolarmente affidabile e solida che gettò le basi per la successiva fortuna del marchio Moto Guzzi. L'esemplare posseduto dal Museo Nazionale della Scienza e della Tecnologia \"Leonardo da Vinci\" è il quarto costruito dalla Moto Guzzi.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "between 1921 and 1921<div style=\"display: none;\">date QS:P571,+1921-00-00T00:00:00Z/10,P1319,+1921-00-00T00:00:00Z/9,P1326,+1921-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.museoscienza.org/dipartimenti/catalogo_collezioni/scheda_oggetto.asp?idk_in=ST120-00233\">Catalogo collezioni</a> <span style=\"font-size: 0.95em; font-weight: bold; color:#555; position: relative;\">(Italian)</span>. <i>Museoscienza.org</i>. Museo nazionale della scienza e della tecnologia Leonardo da Vinci, Milano.",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/4.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/4.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 4.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 4.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-07T20:54:22.626106+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "modelId": "1921-harley-sport-twin",
+      "brand": "Harley-Davidson",
+      "model": "W / WJ Sport Twin — exemplaire 1921",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1921-harley-single-racer",
+      "brand": "Harley-Davidson",
+      "model": "Single Cylinder Factory Board Track Racer — 1921",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1921-victoria-kr1",
+      "brand": "Victoria",
+      "model": "KR 1 — exemplaire BMW Museum 1921",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1921-gillet-350",
+      "brand": "Gillet-Herstal",
+      "model": "350 à courroie — exemplaire Autoworld 1921",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1921-zundapp-z22",
+      "brand": "Zündapp",
+      "model": "Z 22 — premières constructions d’octobre 1921",
+      "status": "none",
+      "note": "Aucune photo des premières constructions de 1921 validée.",
+      "reviewedAt": null,
+      "files": []
     }
   ]
 }

@@ -85,3 +85,17 @@ npm run build
 - Les noms juridiques, fondations, propriétaires et volumes de production restent nulls s’ils n’étaient pas documentés.
 - Les validations automatiques contrôlent la cohérence et la traçabilité déclarée, pas l’authenticité réelle d’un document externe. La revue historique reste humaine.
 - Stockage documentaire local à l’appareil, pas de serveur éditorial partagé. Utiliser les exports pour le transfert et la sauvegarde.
+
+## Extension 1911–1920 (7 novembre 2026)
+
+Le catalogue comporte désormais 70 fiches. L’archive avant ajout en conserve 52. Le schéma reste 2 ; `mechanical_details` est une extension optionnelle (fabricant moteur, cycle, régime, embrayage, transmission finale, suspensions, freins, roues), dont les valeurs sont nulles si inconnues. Le régime est numérique ; les autres valeurs sont textuelles. La validation d’une revue vérifiée exige une assertion au champ pour chaque valeur non nulle. Les dates complémentaires de construction et présentation font également l’objet d’une vérification de concordance des assertions. JSON et CSV conservent cette extension ; aucune ancienne fiche n’est enrichie artificiellement avec des valeurs absentes.
+
+La migration éditoriale ajoute les nouvelles entités et dossiers sans remplacer les modifications locales. Le lot comporte 119 références de recherche : 18 ajouts, 3 réutilisations, 98 dossiers non confirmés. Le [rapport](inventories/1911-1920.md) expose sources, conflits et limites. Les filtres ajoutent cylindrée, architecture moteur et confiance. Les distributions par année/intervalle ne divisent pas les intervalles ; les familles sont comptées indépendamment des variantes et des usages.
+
+## Attestations annuelles — 1921
+
+Extension optionnelle `construction_attestations` du schéma 2 : une preuve annuelle indépendante se rattache au véhicule existant, sans remplacer ses dates. La validation exige des sources A/B non iconographiques et non brevets, une date exacte avec ses sources, un statut, les usages et une confiance cohérente. Les attestations non vérifiées peuvent rester conservées, mais ne participent pas aux compteurs. Modifier une source rouvre la revue ; fusionner explicitement deux véhicules redirige les attestations.
+
+La vue annuelle n’est pas une mutation du véhicule. Elle remplace temporairement la date et le statut pour le filtre/compteur et laisse les caractéristiques mécaniques inconnues. Pour une recherche couvrant déjà la datation initiale, celle-ci reste prioritaire. JSON/CSV conservent la table ; les imports et mises à jour de catalogue sont idempotents et préservent les décisions locales.
+
+Voir [1921](inventories/1921.md) pour les données, les limites et le processus d’importation.

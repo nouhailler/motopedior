@@ -2906,5 +2906,1160 @@
     "gallery": [],
     "photoStatus": "none",
     "photoStatusNote": "Aucune photo de cette version suffisamment identifiée et approuvée ; les vues d’autres années, composants, répliques et résultats sans rapport sont écartés."
+  },
+  {
+    "id": "1914-harley-10f",
+    "brand": "Harley-Davidson",
+    "model": "Model 10-F — type 1914",
+    "year": null,
+    "endYear": null,
+    "country": "États-Unis",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Harley-Davidson Model 10-F — type 1914. Construction attestée par National Motorcycle Museum ; les caractéristiques non établies restent inconnues.",
+    "sourcePage": "https://nationalmcmuseum.org/2018/03/02/1914-harley-davidson-model-10-f-twin/",
+    "documentation": [
+      {
+        "provider": "National Motorcycle Museum",
+        "title": "1914 Harley-Davidson Model 10-F Twin",
+        "url": "https://nationalmcmuseum.org/2018/03/02/1914-harley-davidson-model-10-f-twin/",
+        "role": "complementary",
+        "checkedAt": "2026-11-07"
+      }
+    ],
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1915-harley-11f",
+    "brand": "Harley-Davidson",
+    "model": "Model 11-F — Effie, 1915",
+    "year": null,
+    "endYear": null,
+    "country": "États-Unis",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Harley-Davidson Model 11-F — Effie, 1915. Construction attestée par SFO Museum ; les caractéristiques non établies restent inconnues.",
+    "sourcePage": "https://www.sfomuseum.org/exhibitions/early-american-motorcycles/gallery",
+    "documentation": [
+      {
+        "provider": "SFO Museum",
+        "title": "Early American Motorcycles — collection et notices",
+        "url": "https://www.sfomuseum.org/exhibitions/early-american-motorcycles/gallery",
+        "role": "complementary",
+        "checkedAt": "2026-11-07"
+      }
+    ],
+    "photo": {
+      "fileTitle": "File:Harley Davidson Model F (1915) (29839990905).jpg",
+      "pageId": 95156117,
+      "sourceSha1": "4ee381d2102899ba24afe63175e7b3edad3f37ef",
+      "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Harley_Davidson_Model_F_%281915%29_%2829839990905%29.jpg/960px-Harley_Davidson_Model_F_%281915%29_%2829839990905%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Harley_Davidson_Model_F_%281915%29_%2829839990905%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Harley_Davidson_Model_F_(1915)_(29839990905).jpg",
+      "author": "Pedro Ribeiro Simões from Lisboa, Portugal",
+      "attribution": "",
+      "creditLine": "Harley Davidson Model F (1915)",
+      "width": 4229,
+      "height": 2454,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/",
+        "shareAlike": false,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-07T10:34:23.839082+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Harley_Davidson_Model_F_%281915%29_%2829839990905%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImportedAt": "2026-11-07T10:34:23.839082+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/1915-harley-11f-307aa03403ce-480.webp",
+        "800": "/images/1915-harley-11f-307aa03403ce-800.webp",
+        "1600": "/images/1915-harley-11f-307aa03403ce-1600.webp"
+      },
+      "image": "/images/1915-harley-11f-307aa03403ce-1600.webp",
+      "match": "approximate",
+      "reviewNote": "Autre exemplaire du Model 11-F 1915 photographié à Cascais ; ce n’est pas Effie. Correspondance du modèle, illustration approximative de la machine décrite.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-07"
+    },
+    "image": "/images/1915-harley-11f-307aa03403ce-1600.webp",
+    "gallery": [],
+    "photoStatus": "approximate",
+    "photoStatusNote": "Autre exemplaire du Model 11-F 1915 photographié à Cascais ; ce n’est pas Effie. Correspondance du modèle, illustration approximative de la machine décrite."
+  },
+  {
+    "id": "1912-excelsior-4b",
+    "brand": "Excelsior",
+    "model": "Auto-Cycle Model 4B — 1912",
+    "year": null,
+    "endYear": null,
+    "country": "États-Unis",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Excelsior Auto-Cycle Model 4B — 1912. Construction attestée par SFO Museum ; les caractéristiques non établies restent inconnues.",
+    "sourcePage": "https://www.sfomuseum.org/exhibitions/early-american-motorcycles/gallery",
+    "documentation": [
+      {
+        "provider": "SFO Museum",
+        "title": "Early American Motorcycles — collection et notices",
+        "url": "https://www.sfomuseum.org/exhibitions/early-american-motorcycles/gallery",
+        "role": "complementary",
+        "checkedAt": "2026-11-07"
+      }
+    ],
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1915-iver-johnson-157",
+    "brand": "Iver Johnson",
+    "model": "Model 15–7 — 1915",
+    "year": null,
+    "endYear": null,
+    "country": "États-Unis",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Iver Johnson Model 15–7 — 1915. Construction attestée par SFO Museum ; les caractéristiques non établies restent inconnues.",
+    "sourcePage": "https://www.sfomuseum.org/exhibitions/early-american-motorcycles/gallery",
+    "documentation": [
+      {
+        "provider": "SFO Museum",
+        "title": "Early American Motorcycles — collection et notices",
+        "url": "https://www.sfomuseum.org/exhibitions/early-american-motorcycles/gallery",
+        "role": "complementary",
+        "checkedAt": "2026-11-07"
+      }
+    ],
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1914-flying-merkel-470",
+    "brand": "Flying Merkel",
+    "model": "Model 470 — 1914",
+    "year": null,
+    "endYear": null,
+    "country": "États-Unis",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Flying Merkel Model 470 — 1914. Construction attestée par SFO Museum ; les caractéristiques non établies restent inconnues.",
+    "sourcePage": "https://www.sfomuseum.org/exhibitions/early-american-motorcycles/gallery",
+    "documentation": [
+      {
+        "provider": "SFO Museum",
+        "title": "Early American Motorcycles — collection et notices",
+        "url": "https://www.sfomuseum.org/exhibitions/early-american-motorcycles/gallery",
+        "role": "complementary",
+        "checkedAt": "2026-11-07"
+      }
+    ],
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1914-yale-twin",
+    "brand": "Yale",
+    "model": "Twin — board-track 1914",
+    "year": null,
+    "endYear": null,
+    "country": "États-Unis",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Yale Twin — board-track 1914. Construction attestée par National Motorcycle Museum ; les caractéristiques non établies restent inconnues.",
+    "sourcePage": "https://nationalmcmuseum.org/featured-bikes/bike-feature-1914-yale-twin/",
+    "documentation": [
+      {
+        "provider": "National Motorcycle Museum",
+        "title": "1914 Yale Twin",
+        "url": "https://nationalmcmuseum.org/featured-bikes/bike-feature-1914-yale-twin/",
+        "role": "complementary",
+        "checkedAt": "2026-11-07"
+      }
+    ],
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1916-thor-u",
+    "brand": "Thor",
+    "model": "Model U — 1916",
+    "year": null,
+    "endYear": null,
+    "country": "États-Unis",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Thor Model U — 1916. Construction attestée par National Motorcycle Museum ; les caractéristiques non établies restent inconnues.",
+    "sourcePage": "https://nationalmcmuseum.org/2016/02/27/1916-thor-model-u/",
+    "documentation": [
+      {
+        "provider": "National Motorcycle Museum",
+        "title": "1916 Thor Model U",
+        "url": "https://nationalmcmuseum.org/2016/02/27/1916-thor-model-u/",
+        "role": "complementary",
+        "checkedAt": "2026-11-07"
+      }
+    ],
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1916-indian-powerplus",
+    "brand": "Indian",
+    "model": "Powerplus — machines du voyage de 1916",
+    "year": null,
+    "endYear": null,
+    "country": "États-Unis",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Indian Powerplus — machines du voyage de 1916. Construction attestée par National Motorcycle Museum ; les caractéristiques non établies restent inconnues.",
+    "sourcePage": "https://nationalmcmuseum.org/2016/07/14/the-vanburen-sisters-and-the-indian-powerplus/",
+    "documentation": [
+      {
+        "provider": "National Motorcycle Museum",
+        "title": "The VanBuren Sisters and the Indian Powerplus",
+        "url": "https://nationalmcmuseum.org/2016/07/14/the-vanburen-sisters-and-the-indian-powerplus/",
+        "role": "complementary",
+        "checkedAt": "2026-11-07"
+      }
+    ],
+    "photo": {
+      "fileTitle": "File:Indian 1916 Powerplus 2.jpg",
+      "pageId": 2952364,
+      "sourceSha1": "5ccb7ec0612e39e0d711cbcf112b8a7fb4d84902",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Indian_1916_Powerplus_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Indian_1916_Powerplus_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Indian_1916_Powerplus_2.jpg",
+      "author": "Piero at Dutch Wikipedia",
+      "attribution": "Yesterdays Antique Motorcycles en Classic Motorcycle Archive",
+      "creditLine": "Transferred from nl.wikipedia to Commons.",
+      "width": 640,
+      "height": 480,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-07T10:34:23.839082+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Indian_1916_Powerplus_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImportedAt": "2026-11-07T10:34:23.839082+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/1916-indian-powerplus-370f5ef4e7d0-480.webp",
+        "800": "/images/1916-indian-powerplus-370f5ef4e7d0-800.webp",
+        "1600": "/images/1916-indian-powerplus-370f5ef4e7d0-1600.webp"
+      },
+      "image": "/images/1916-indian-powerplus-370f5ef4e7d0-1600.webp",
+      "match": "approximate",
+      "reviewNote": "Autre Indian Powerplus datée 1916 par Commons ; ce n’est pas une des deux motos des sœurs Van Buren. Résolution originale limitée à 640 pixels.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-07"
+    },
+    "image": "/images/1916-indian-powerplus-370f5ef4e7d0-1600.webp",
+    "gallery": [],
+    "photoStatus": "approximate",
+    "photoStatusNote": "Autre Indian Powerplus datée 1916 par Commons ; ce n’est pas une des deux motos des sœurs Van Buren. Résolution originale limitée à 640 pixels."
+  },
+  {
+    "id": "1917-triumph-h",
+    "brand": "Triumph",
+    "model": "Model H — exemplaire de Coventry 1917",
+    "year": null,
+    "endYear": null,
+    "country": "Royaume-Uni",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Triumph Model H — exemplaire de Coventry 1917. Construction attestée par Science Museum Group ; les caractéristiques non établies restent inconnues.",
+    "sourcePage": "https://collection.sciencemuseumgroup.org.uk/objects/co25174/triumph-model-h-motorcycle",
+    "documentation": [
+      {
+        "provider": "Science Museum Group",
+        "title": "Triumph Model H Motorcycle — exemplaire fabriqué en 1917",
+        "url": "https://collection.sciencemuseumgroup.org.uk/objects/co25174/triumph-model-h-motorcycle",
+        "role": "complementary",
+        "checkedAt": "2026-11-07"
+      }
+    ],
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1914-enfield-tt",
+    "brand": "Royal Enfield",
+    "model": "3 HP — Junior TT 1914",
+    "year": null,
+    "endYear": null,
+    "country": "Royaume-Uni",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Royal Enfield 3 HP — Junior TT 1914. Construction attestée par National Motor Museum ; les caractéristiques non établies restent inconnues.",
+    "sourcePage": "https://nationalmotormuseum.org.uk/collections/vehicles/royal-enfield-3hp/",
+    "documentation": [
+      {
+        "provider": "National Motor Museum",
+        "title": "Royal Enfield 3hp — Junior TT 1914",
+        "url": "https://nationalmotormuseum.org.uk/collections/vehicles/royal-enfield-3hp/",
+        "role": "complementary",
+        "checkedAt": "2026-11-07"
+      }
+    ],
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1914-fn-285",
+    "brand": "FN",
+    "model": "Model 285 — exemplaire FMM 1914",
+    "year": null,
+    "endYear": null,
+    "country": "Belgique",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "FN Model 285 — exemplaire FMM 1914. Construction attestée par Franschhoek Motor Museum ; les caractéristiques non établies restent inconnues.",
+    "sourcePage": "https://www.fmm.co.za/on-yer-bike-1914-fn-model-285/",
+    "documentation": [
+      {
+        "provider": "Franschhoek Motor Museum",
+        "title": "On Yer Bike: 1914 FN Model 285",
+        "url": "https://www.fmm.co.za/on-yer-bike-1914-fn-model-285/",
+        "role": "complementary",
+        "checkedAt": "2026-11-07"
+      }
+    ],
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1914-magnat-debon-4hp",
+    "brand": "Magnat-Debon",
+    "model": "4 HP — exemplaire Malartre 1914",
+    "year": null,
+    "endYear": null,
+    "country": "France",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Magnat-Debon 4 HP — exemplaire Malartre 1914. Construction attestée par Musée de l’automobile Henri Malartre ; les caractéristiques non établies restent inconnues.",
+    "sourcePage": "https://www.musee-malartre.com/article/motocyclette-magnat-debon-4-hp",
+    "documentation": [
+      {
+        "provider": "Musée de l’automobile Henri Malartre",
+        "title": "Motocyclette Magnat Debon 4 HP — 1914",
+        "url": "https://www.musee-malartre.com/article/motocyclette-magnat-debon-4-hp",
+        "role": "complementary",
+        "checkedAt": "2026-11-07"
+      }
+    ],
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1913-motosacoche-25hp",
+    "brand": "Motosacoche",
+    "model": "2½ HP — exemplaire 1913",
+    "year": null,
+    "endYear": null,
+    "country": "Suisse",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Motosacoche 2½ HP — exemplaire 1913. Construction attestée par National Motor Museum ; les caractéristiques non établies restent inconnues.",
+    "sourcePage": "https://nationalmotormuseum.org.uk/collections/vehicles/motosacoche-25hp/",
+    "documentation": [
+      {
+        "provider": "National Motor Museum",
+        "title": "Motosacoche 2.5hp — 1913",
+        "url": "https://nationalmotormuseum.org.uk/collections/vehicles/motosacoche-25hp/",
+        "role": "complementary",
+        "checkedAt": "2026-11-07"
+      }
+    ],
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1919-garelli-350",
+    "brand": "Garelli",
+    "model": "350 — Normale da Turismo / Raid Nord-Sud",
+    "year": null,
+    "endYear": null,
+    "country": "Italie",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Garelli 350 — Normale da Turismo / Raid Nord-Sud. Construction attestée par Garelli ; les caractéristiques non établies restent inconnues.",
+    "sourcePage": "https://www.garelli.com/en/homepage-old/",
+    "documentation": [
+      {
+        "provider": "Garelli",
+        "title": "Garelli — chronologie 1912–1914 et 1919",
+        "url": "https://www.garelli.com/en/homepage-old/",
+        "role": "primary",
+        "checkedAt": "2026-11-07"
+      }
+    ],
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1918-nimbus-prototype",
+    "brand": "Nimbus",
+    "model": "Prototype quatre-cylindres — 1918",
+    "year": null,
+    "endYear": null,
+    "country": "Danemark",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Nimbus Prototype quatre-cylindres — 1918. Construction attestée par Danmarks Nimbus Touring / Nimbus Museet ; les caractéristiques non établies restent inconnues.",
+    "sourcePage": "https://nimbus.dk/historie/",
+    "documentation": [
+      {
+        "provider": "Danmarks Nimbus Touring / Nimbus Museet",
+        "title": "Industrihistorie — prototype 1918, premières ventes 1919–1920",
+        "url": "https://nimbus.dk/historie/",
+        "role": "complementary",
+        "checkedAt": "2026-11-07"
+      }
+    ],
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1919-nimbus-preserie",
+    "brand": "Nimbus",
+    "model": "Premières machines — série de neuf, 1919–1920",
+    "year": null,
+    "endYear": null,
+    "country": "Danemark",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Nimbus Premières machines — série de neuf, 1919–1920. Construction attestée par Danmarks Nimbus Touring / Nimbus Museet ; les caractéristiques non établies restent inconnues.",
+    "sourcePage": "https://nimbus.dk/historie/",
+    "documentation": [
+      {
+        "provider": "Danmarks Nimbus Touring / Nimbus Museet",
+        "title": "Industrihistorie — prototype 1918, premières ventes 1919–1920",
+        "url": "https://nimbus.dk/historie/",
+        "role": "complementary",
+        "checkedAt": "2026-11-07"
+      }
+    ],
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1912-puch-300",
+    "brand": "Puch",
+    "model": "Monocylindre 300 — exemplaire danois 1912",
+    "year": null,
+    "endYear": null,
+    "country": "Autriche",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Puch Monocylindre 300 — exemplaire danois 1912. Construction attestée par Danmarks Motorcykelmuseum ; les caractéristiques non établies restent inconnues.",
+    "sourcePage": "https://www.danmarksmotorcykelmuseum.dk/de/mc-1897-1925/",
+    "documentation": [
+      {
+        "provider": "Danmarks Motorcykelmuseum",
+        "title": "Collection 1897–1925 — inventaire des exemplaires",
+        "url": "https://www.danmarksmotorcykelmuseum.dk/de/mc-1897-1925/",
+        "role": "complementary",
+        "checkedAt": "2026-11-07"
+      },
+      {
+        "provider": "Puch",
+        "title": "History — usine de Graz en Autriche",
+        "url": "https://www.puch-bikes.com/history/",
+        "role": "primary",
+        "checkedAt": "2026-11-07"
+      }
+    ],
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1915-henderson-four",
+    "brand": "Henderson",
+    "model": "Four / Model D — exemplaire 1915",
+    "year": null,
+    "endYear": null,
+    "country": "États-Unis",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Henderson Four / Model D — exemplaire 1915. Construction attestée par National Motorcycle Museum ; les caractéristiques non établies restent inconnues.",
+    "sourcePage": "https://nationalmcmuseum.org/2020/11/20/1915-henderson-model-d/",
+    "documentation": [
+      {
+        "provider": "National Motorcycle Museum",
+        "title": "1915 Henderson — exemplaire et correction du moyeu deux vitesses",
+        "url": "https://nationalmcmuseum.org/2020/11/20/1915-henderson-model-d/",
+        "role": "complementary",
+        "checkedAt": "2026-11-07"
+      }
+    ],
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1921-sopwith-abc",
+    "brand": "ABC",
+    "model": "3 HP / Sopwith-ABC — B1199",
+    "year": null,
+    "endYear": null,
+    "country": "Royaume-Uni",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "ABC 3 HP / Sopwith-ABC — B1199. Exemplaire attribué à 1921 par Powerhouse ; les valeurs absentes de la notice restent inconnues.",
+    "sourcePage": "https://collection.powerhouse.com.au/object/207138",
+    "documentation": [
+      {
+        "provider": "Powerhouse",
+        "title": "Sopwith-ABC motorcycle, built 1921 — B1199",
+        "url": "https://collection.powerhouse.com.au/object/207138",
+        "role": "complementary",
+        "checkedAt": "2026-11-07"
+      },
+      {
+        "provider": "Science Museum Group",
+        "title": "ABC 3 HP — FC3511, made 1921",
+        "url": "https://collection.sciencemuseumgroup.org.uk/objects/co25388/abc-motor-cycle-1921-motor-cycle",
+        "role": "complementary",
+        "checkedAt": "2026-11-07"
+      }
+    ],
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1921-neracar-sheffield",
+    "brand": "Ner-a-Car",
+    "model": "2¾ HP — exemplaire britannique 1921",
+    "year": null,
+    "endYear": null,
+    "country": "Royaume-Uni",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Ner-a-Car 2¾ HP — exemplaire britannique 1921. Exemplaire attribué à 1921 par National Motor Museum ; les valeurs absentes de la notice restent inconnues.",
+    "sourcePage": "https://nationalmotormuseum.org.uk/collections/vehicles/ner-a-car-2-hp/",
+    "documentation": [
+      {
+        "provider": "National Motor Museum",
+        "title": "Ner-a-Car 2¾ HP — 1921",
+        "url": "https://nationalmotormuseum.org.uk/collections/vehicles/ner-a-car-2-hp/",
+        "role": "complementary",
+        "checkedAt": "2026-11-07"
+      }
+    ],
+    "photo": {
+      "fileTitle": "File:1921 Ner-A-Car 2¾hp motorcycle (5953741394).jpg",
+      "pageId": 38834336,
+      "sourceSha1": "96b26c7545739d26779c1778b1bdea8554563553",
+      "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/1921_Ner-A-Car_2%C2%BEhp_motorcycle_%285953741394%29.jpg/960px-1921_Ner-A-Car_2%C2%BEhp_motorcycle_%285953741394%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/1921_Ner-A-Car_2%C2%BEhp_motorcycle_%285953741394%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:1921_Ner-A-Car_2%C2%BEhp_motorcycle_(5953741394).jpg",
+      "author": "sv1ambo",
+      "attribution": "",
+      "creditLine": "1921 Ner-A-Car 2¾hp motorcycle",
+      "width": 3648,
+      "height": 2432,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/",
+        "shareAlike": false,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-07T20:54:22.626106+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/1921_Ner-A-Car_2%C2%BEhp_motorcycle_%285953741394%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImportedAt": "2026-11-07T20:54:22.626106+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/1921-neracar-sheffield-a53dbf661139-480.webp",
+        "800": "/images/1921-neracar-sheffield-a53dbf661139-800.webp",
+        "1600": "/images/1921-neracar-sheffield-a53dbf661139-1600.webp"
+      },
+      "image": "/images/1921-neracar-sheffield-a53dbf661139-1600.webp",
+      "match": "exact",
+      "reviewNote": "Exemplaire du National Motor Museum identifié 1921. Le fichier voisin 5953737854 est un cartel et n’est pas une photo principale.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-07"
+    },
+    "image": "/images/1921-neracar-sheffield-a53dbf661139-1600.webp",
+    "gallery": [],
+    "photoStatus": "exact",
+    "photoStatusNote": "Exemplaire du National Motor Museum identifié 1921. Le fichier voisin 5953737854 est un cartel et n’est pas une photo principale."
+  },
+  {
+    "id": "1921-norton-16h-race",
+    "brand": "Norton",
+    "model": "16H Works Race — Jimmy Shaw, TT 1921",
+    "year": null,
+    "endYear": null,
+    "country": "Royaume-Uni",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Norton 16H Works Race — Jimmy Shaw, TT 1921. Exemplaire attribué à 1921 par National Motorcycle Museum ; les valeurs absentes de la notice restent inconnues.",
+    "sourcePage": "https://www.nationalmotorcyclemuseum.co.uk/time-warp-racers/",
+    "documentation": [
+      {
+        "provider": "National Motorcycle Museum",
+        "title": "Norton 16H Works Race — 1921 TT, Jimmy Shaw",
+        "url": "https://www.nationalmotorcyclemuseum.co.uk/time-warp-racers/",
+        "role": "complementary",
+        "checkedAt": "2026-11-07"
+      }
+    ],
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1921-norton-big-four",
+    "brand": "Norton",
+    "model": "Model 1 Big Four — exemplaire 1921",
+    "year": null,
+    "endYear": null,
+    "country": "Royaume-Uni",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Norton Model 1 Big Four — exemplaire 1921. Exemplaire attribué à 1921 par National Motorcycle Museum ; les valeurs absentes de la notice restent inconnues.",
+    "sourcePage": "https://www.nationalmotorcyclemuseum.co.uk/norton-motorcycles-purchases-55-classic-motorcycles-to-start-heritage-collection/",
+    "documentation": [
+      {
+        "provider": "National Motorcycle Museum",
+        "title": "Collection Norton — Model 1 Big Four 1921",
+        "url": "https://www.nationalmotorcyclemuseum.co.uk/norton-motorcycles-purchases-55-classic-motorcycles-to-start-heritage-collection/",
+        "role": "complementary",
+        "checkedAt": "2026-11-07"
+      }
+    ],
+    "photo": {
+      "fileTitle": "File:1921 Norton Model 1 Big Four left side.jpg",
+      "pageId": 115193177,
+      "sourceSha1": "d1019efb74bc63d4f6b5ca6aa7a68b0f48c4fdd4",
+      "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/1921_Norton_Model_1_Big_Four_left_side.jpg/960px-1921_Norton_Model_1_Big_Four_left_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/1921_Norton_Model_1_Big_Four_left_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:1921_Norton_Model_1_Big_Four_left_side.jpg",
+      "author": "Yesterdays Antique Motorcycles",
+      "attribution": "",
+      "creditLine": "https://www.yesterdays.nl/product/norton-1921-big-four-633cc-1-cyl-sv-3107/",
+      "width": 1018,
+      "height": 628,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-07T20:54:22.626106+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/1921_Norton_Model_1_Big_Four_left_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImportedAt": "2026-11-07T20:54:22.626106+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/1921-norton-big-four-5807b70ddaca-480.webp",
+        "800": "/images/1921-norton-big-four-5807b70ddaca-800.webp",
+        "1600": "/images/1921-norton-big-four-5807b70ddaca-1600.webp"
+      },
+      "image": "/images/1921-norton-big-four-5807b70ddaca-1600.webp",
+      "match": "approximate",
+      "reviewNote": "Autre exemplaire du Model 1 Big Four 1921, photographié chez Yesterdays ; ce n’est pas une identité d’objet établie avec la machine de la collection Norton.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-07"
+    },
+    "image": "/images/1921-norton-big-four-5807b70ddaca-1600.webp",
+    "gallery": [],
+    "photoStatus": "approximate",
+    "photoStatusNote": "Autre exemplaire du Model 1 Big Four 1921, photographié chez Yesterdays ; ce n’est pas une identité d’objet établie avec la machine de la collection Norton."
+  },
+  {
+    "id": "1921-bsa-r34",
+    "brand": "BSA",
+    "model": "R34 — exemplaire de musée 1921",
+    "year": null,
+    "endYear": null,
+    "country": "Royaume-Uni",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "BSA R34 — exemplaire de musée 1921. Exemplaire attribué à 1921 par National Motorcycle Museum ; les valeurs absentes de la notice restent inconnues.",
+    "sourcePage": "https://www.nationalmotorcyclemuseum.co.uk/stunning-1921-bsa-r34-showcased-at-motorcyclelive-2021/",
+    "documentation": [
+      {
+        "provider": "National Motorcycle Museum",
+        "title": "1921 BSA 500cc R34 — exemplaire présenté par le musée",
+        "url": "https://www.nationalmotorcyclemuseum.co.uk/stunning-1921-bsa-r34-showcased-at-motorcyclelive-2021/",
+        "role": "complementary",
+        "checkedAt": "2026-11-07"
+      }
+    ],
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1921-humber-flat-twin",
+    "brand": "Humber",
+    "model": "4½ HP — exemplaire BMCT 1921",
+    "year": null,
+    "endYear": null,
+    "country": "Royaume-Uni",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Humber 4½ HP — exemplaire BMCT 1921. Exemplaire attribué à 1921 par British Motorcycle Charitable Trust ; les valeurs absentes de la notice restent inconnues.",
+    "sourcePage": "https://www.bmct.org/the-collection",
+    "documentation": [
+      {
+        "provider": "British Motorcycle Charitable Trust",
+        "title": "Collection — Humber, Revere, Zenith Bradshaw, 1921",
+        "url": "https://www.bmct.org/the-collection",
+        "role": "complementary",
+        "checkedAt": "2026-11-07"
+      }
+    ],
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1921-revere-25hp",
+    "brand": "Revere",
+    "model": "2½ HP — exemplaire BMCT 1921",
+    "year": null,
+    "endYear": null,
+    "country": "Royaume-Uni",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Revere 2½ HP — exemplaire BMCT 1921. Exemplaire attribué à 1921 par British Motorcycle Charitable Trust ; les valeurs absentes de la notice restent inconnues.",
+    "sourcePage": "https://www.bmct.org/the-collection",
+    "documentation": [
+      {
+        "provider": "British Motorcycle Charitable Trust",
+        "title": "Collection — Humber, Revere, Zenith Bradshaw, 1921",
+        "url": "https://www.bmct.org/the-collection",
+        "role": "complementary",
+        "checkedAt": "2026-11-07"
+      }
+    ],
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1921-zenith-bradshaw",
+    "brand": "Zenith",
+    "model": "Bradshaw 3½ HP — exemplaire BMCT 1921",
+    "year": null,
+    "endYear": null,
+    "country": "Royaume-Uni",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Zenith Bradshaw 3½ HP — exemplaire BMCT 1921. Exemplaire attribué à 1921 par British Motorcycle Charitable Trust ; les valeurs absentes de la notice restent inconnues.",
+    "sourcePage": "https://www.bmct.org/the-collection",
+    "documentation": [
+      {
+        "provider": "British Motorcycle Charitable Trust",
+        "title": "Collection — Humber, Revere, Zenith Bradshaw, 1921",
+        "url": "https://www.bmct.org/the-collection",
+        "role": "complementary",
+        "checkedAt": "2026-11-07"
+      }
+    ],
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1921-fn-four-748",
+    "brand": "FN",
+    "model": "Four 748 — exemplaire danois 1921",
+    "year": null,
+    "endYear": null,
+    "country": "Belgique",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "FN Four 748 — exemplaire danois 1921. Exemplaire attribué à 1921 par Danmarks Motorcykelmuseum ; les valeurs absentes de la notice restent inconnues.",
+    "sourcePage": "https://www.danmarksmotorcykelmuseum.dk/en/mc-1897-1925/",
+    "documentation": [
+      {
+        "provider": "Danmarks Motorcykelmuseum",
+        "title": "Collection 1897–1925 — Year of construction",
+        "url": "https://www.danmarksmotorcykelmuseum.dk/en/mc-1897-1925/",
+        "role": "complementary",
+        "checkedAt": "2026-11-07"
+      }
+    ],
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1921-wanderer-25ps",
+    "brand": "Wanderer",
+    "model": "2,5 PS — exemplaire Mühlich 1921",
+    "year": null,
+    "endYear": null,
+    "country": "Allemagne",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Wanderer 2,5 PS — exemplaire Mühlich 1921. Exemplaire attribué à 1921 par Deutsches Zweirad- und NSU-Museum ; les valeurs absentes de la notice restent inconnues.",
+    "sourcePage": "https://demomu.de/project/nsu-sammlung-adolf-muehlich/",
+    "documentation": [
+      {
+        "provider": "Deutsches Zweirad- und NSU-Museum",
+        "title": "Collection Adolf Mühlich — Wanderer 2,5 PS 1921",
+        "url": "https://demomu.de/project/nsu-sammlung-adolf-muehlich/",
+        "role": "complementary",
+        "checkedAt": "2026-11-07"
+      }
+    ],
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1921-guzzi-normale",
+    "brand": "Moto Guzzi",
+    "model": "Normale 500 — IGB-2974, quatrième exemplaire",
+    "year": null,
+    "endYear": null,
+    "country": "Italie",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Moto Guzzi Normale 500 — IGB-2974, quatrième exemplaire. Exemplaire attribué à 1921 par Museo Nazionale Scienza e Tecnologia Leonardo da Vinci ; les valeurs absentes de la notice restent inconnues.",
+    "sourcePage": "https://collezioni-online.museoscienza.org/detail/IT-MUST-NTR001-021913/moto-normale-500",
+    "documentation": [
+      {
+        "provider": "Museo Nazionale Scienza e Tecnologia Leonardo da Vinci",
+        "title": "Moto Normale 500 — IGB-2974, quatrième exemplaire, 1921",
+        "url": "https://collezioni-online.museoscienza.org/detail/IT-MUST-NTR001-021913/moto-normale-500",
+        "role": "complementary",
+        "checkedAt": "2026-11-07"
+      }
+    ],
+    "photo": {
+      "fileTitle": "File:Motocicletta - Museo scienza tecnologia Milano 02974 dia.jpg",
+      "pageId": 48926388,
+      "sourceSha1": "91ebd8b7fb415403a2b4b42875758b8e027f9e5b",
+      "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Motocicletta_-_Museo_scienza_tecnologia_Milano_02974_dia.jpg/960px-Motocicletta_-_Museo_scienza_tecnologia_Milano_02974_dia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Motocicletta_-_Museo_scienza_tecnologia_Milano_02974_dia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Motocicletta_-_Museo_scienza_tecnologia_Milano_02974_dia.jpg",
+      "author": "Moto Guzzi (costruttore), Guzzi Carlo (progettista)",
+      "attribution": "Museo Nazionale Scienza e Tecnologia Leonardo da Vinci, Milano ; objet : Moto Guzzi / Carlo Guzzi ; photographe non identifié",
+      "creditLine": "Catalogo collezioni (Italian) . Museoscienza.org . Museo nazionale della scienza e della tecnologia Leonardo da Vinci, Milano.",
+      "width": 1280,
+      "height": 818,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-07T20:54:22.626106+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Motocicletta_-_Museo_scienza_tecnologia_Milano_02974_dia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImportedAt": "2026-11-07T20:54:22.626106+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/1921-guzzi-normale-1fc6b93dbfaf-480.webp",
+        "800": "/images/1921-guzzi-normale-1fc6b93dbfaf-800.webp",
+        "1600": "/images/1921-guzzi-normale-1fc6b93dbfaf-1600.webp"
+      },
+      "image": "/images/1921-guzzi-normale-1fc6b93dbfaf-1600.webp",
+      "match": "exact",
+      "reviewNote": "Fichier du catalogue Museo Scienza, IGB-2974. Artist désigne constructeur et concepteur de l’objet, pas un photographe identifié. Crédit musée et auteurs de l’objet explicités.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-07"
+    },
+    "image": "/images/1921-guzzi-normale-1fc6b93dbfaf-1600.webp",
+    "gallery": [],
+    "photoStatus": "exact",
+    "photoStatusNote": "Fichier du catalogue Museo Scienza, IGB-2974. Artist désigne constructeur et concepteur de l’objet, pas un photographe identifié. Crédit musée et auteurs de l’objet explicités."
+  },
+  {
+    "id": "1921-harley-sport-twin",
+    "brand": "Harley-Davidson",
+    "model": "W / WJ Sport Twin — exemplaire 1921",
+    "year": null,
+    "endYear": null,
+    "country": "États-Unis",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Harley-Davidson W / WJ Sport Twin — exemplaire 1921. Exemplaire attribué à 1921 par Reynolds-Alberta Museum ; les valeurs absentes de la notice restent inconnues.",
+    "sourcePage": "https://www.reynoldsmuseum.ca/transportation",
+    "documentation": [
+      {
+        "provider": "Reynolds-Alberta Museum",
+        "title": "1921 Harley-Davidson Model W/WJ Sport Twin — collection",
+        "url": "https://www.reynoldsmuseum.ca/transportation",
+        "role": "complementary",
+        "checkedAt": "2026-11-07"
+      }
+    ],
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1921-harley-single-racer",
+    "brand": "Harley-Davidson",
+    "model": "Single Cylinder Factory Board Track Racer — 1921",
+    "year": null,
+    "endYear": null,
+    "country": "États-Unis",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Harley-Davidson Single Cylinder Factory Board Track Racer — 1921. Exemplaire attribué à 1921 par Wheels Through Time ; les valeurs absentes de la notice restent inconnues.",
+    "sourcePage": "https://wheelsthroughtime.com/board-track-america/",
+    "documentation": [
+      {
+        "provider": "Wheels Through Time",
+        "title": "1921 Harley-Davidson Single Cylinder Factory Board Track Racer",
+        "url": "https://wheelsthroughtime.com/board-track-america/",
+        "role": "complementary",
+        "checkedAt": "2026-11-07"
+      }
+    ],
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1921-victoria-kr1",
+    "brand": "Victoria",
+    "model": "KR 1 — exemplaire BMW Museum 1921",
+    "year": null,
+    "endYear": null,
+    "country": "Allemagne",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Victoria KR 1 — exemplaire BMW Museum 1921. Exemplaire attribué à 1921 par BMW Mobile Tradition ; les valeurs absentes de la notice restent inconnues.",
+    "sourcePage": "https://bmwclubslaf.org/wp-content/uploads/2020/08/Mobile-Tradition-Live-0306.pdf",
+    "documentation": [
+      {
+        "provider": "BMW Mobile Tradition",
+        "title": "BMW Mobile Tradition live 03.2006 — Victoria KR1 1921, pp.56–57",
+        "url": "https://bmwclubslaf.org/wp-content/uploads/2020/08/Mobile-Tradition-Live-0306.pdf",
+        "role": "primary",
+        "checkedAt": "2026-11-07"
+      }
+    ],
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1921-gillet-350",
+    "brand": "Gillet-Herstal",
+    "model": "350 à courroie — exemplaire Autoworld 1921",
+    "year": null,
+    "endYear": null,
+    "country": "Belgique",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Gillet-Herstal 350 à courroie — exemplaire Autoworld 1921. Exemplaire attribué à 1921 par François-Marie Dumas ; les valeurs absentes de la notice restent inconnues.",
+    "sourcePage": "https://www.moto-collection.org/blog/101-ans-de-gillet-herstal/",
+    "documentation": [
+      {
+        "provider": "François-Marie Dumas",
+        "title": "101 ans de Gillet-Herstal — exemplaires de l’exposition Autoworld",
+        "url": "https://www.moto-collection.org/blog/101-ans-de-gillet-herstal/",
+        "role": "complementary",
+        "checkedAt": "2026-11-07"
+      }
+    ],
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1921-zundapp-z22",
+    "brand": "Zündapp",
+    "model": "Z 22 — premières constructions d’octobre 1921",
+    "year": null,
+    "endYear": null,
+    "country": "Allemagne",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "La brochure historique Zündapp situe le début de fabrication de la Z22 en octobre 1921. Les premières livraisons restent une petite production ; la montée en volume et les versions ultérieures ne sont pas confondues avec ces premières machines.",
+    "sourcePage": "https://www.zundapp529.nl/wp-content/uploads/2024/12/300000ste-in-1959-was-een-DB201.pdf",
+    "documentation": [
+      {
+        "provider": "Zündapp — brochure constructeur numérisée, réhébergée par un club",
+        "title": "300000 Zündapp Motorräder — Die 1. Zündapp, page 2 du PDF",
+        "url": "https://www.zundapp529.nl/wp-content/uploads/2024/12/300000ste-in-1959-was-een-DB201.pdf",
+        "role": "primary",
+        "checkedAt": "2026-11-07"
+      },
+      {
+        "provider": "Zündapp KS601 Club",
+        "title": "Histoire Zündapp — cinq livraisons signalées en 1921",
+        "url": "https://xn--zndapp-ks601-club-22b.de/die-firmengeschichte-von-zundapp/2/",
+        "role": "complementary",
+        "checkedAt": "2026-11-07"
+      },
+      {
+        "provider": "Zündapp Museum Sigmaringen",
+        "title": "Exponate — chronologie Z22 autour de 1922",
+        "url": "https://zuendappmuseum.de/exponate/",
+        "role": "complementary",
+        "checkedAt": "2026-11-07"
+      }
+    ],
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo des premières constructions de 1921 validée."
   }
 ]
