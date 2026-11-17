@@ -99,3 +99,13 @@ Extension optionnelle `construction_attestations` du schéma 2 : une preuve annu
 La vue annuelle n’est pas une mutation du véhicule. Elle remplace temporairement la date et le statut pour le filtre/compteur et laisse les caractéristiques mécaniques inconnues. Pour une recherche couvrant déjà la datation initiale, celle-ci reste prioritaire. JSON/CSV conservent la table ; les imports et mises à jour de catalogue sont idempotents et préservent les décisions locales.
 
 Voir [1921](inventories/1921.md) pour les données, les limites et le processus d’importation.
+
+## Lot 1922 — compatibilité et précache
+
+Sous-catégorie additive `sesselrad` pour le Lomos : deux roues, architecture d’ancêtre du scooter, catégorie structurelle `motorcycle`. Un attelage conserve sa catégorie de motocyclette ; ni le Hazlewood ni le BSA avec side-car ne devient `motor_tricycle`. Les champs précédents sont inchangés. Ville du constructeur optionnelle texte/null, uniquement renseignée si documentée.
+
+La migration du catalogue utilise les attestations annuelles existantes et archive les 86 fiches précédentes. Le générateur prend la date de consignation du lot. Les JSON et CSV gardent tous les champs. Aucun changement de version physique IndexedDB ni réécriture des fiches locales.
+
+Pour garder le catalogue dans le précache Workbox, le build minifie uniquement sa copie `dist/inventory.json`. La source documentaire `public/inventory.json` conserve sa mise en forme. `check-offline-catalog.mjs` exige l’égalité des données, une taille sous 2 Mio et une entrée de précache dans le service worker ; si cette limite est dépassée, le build signale le besoin de répartir les données en lots plutôt que de perdre silencieusement l’accès hors ligne.
+
+Voir [rapport 1922](inventories/1922.md) pour sources, fichiers, limites et tests.

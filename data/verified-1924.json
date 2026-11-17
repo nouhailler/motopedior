@@ -1,0 +1,199 @@
+{
+  "sources": {
+    "bmw": {
+      "url": "https://www.bmwgroup.com/de/news/allgemein/2023/100-years-bmw-motorrad.html",
+      "title": "BMW Motorrad — trois prototypes R 37 à la Solitude en 1924",
+      "organization": "BMW Group",
+      "reliability": "A",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    },
+    "r37": {
+      "url": "https://www.bmwgroup-classic.com/en/company/museum/motorcycle-racing/popup/bmw-r-37.html",
+      "title": "BMW R 37 — modèle de compétition et présentation en 1925",
+      "organization": "BMW Group Classic",
+      "reliability": "A",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    },
+    "r32": {
+      "url": "https://www.bmwgroup-classic.com/de/modelle/bmw-motorrad-klassiker/product-description-page.md-569-1.bmw-r-32.html",
+      "title": "BMW R 32 — fabrication 1923–1926",
+      "organization": "BMW Group Archiv",
+      "reliability": "A",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    },
+    "bsa": {
+      "url": "https://www.motorcyclemecca.nz/collection/british-bikes/bsa-motorcycles/1924-bsa-2-34hp-side-valve-model-l/",
+      "title": "1924 BSA 2¾ HP Side-Valve Model L",
+      "organization": "Classic Motorcycle Mecca",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    },
+    "ace": {
+      "url": "https://www.danmarksmotorcykelmuseum.dk/en/mc-1897-1925/",
+      "title": "MC 1897–1925 — exemplaire ACE Sporting Solo 1924",
+      "organization": "Danmarks Motorcykelmuseum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    },
+    "spark": {
+      "url": "https://www.bmct.org/the-collection",
+      "title": "Collection — Sparkbrook 350 cm³ SV 1924",
+      "organization": "British Motorcycle Charitable Trust",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    },
+    "mb1": {
+      "url": "https://www.motobecane-club-de-france.fr/histoire-de-la-marque/",
+      "title": "Chronologie — sortie de la MB1 en 1924",
+      "organization": "Motobécane Club de France",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    }
+  },
+  "models": [
+    {
+      "id": "1924-bmw-r37-prototype",
+      "manufacturer": "BMW",
+      "brand": "BMW",
+      "name": "R 37 — prototypes de la Solitude",
+      "origin_country": "Allemagne",
+      "description": "BMW documente trois prototypes engagés en 1924. La présentation du modèle de série date de 1925. L’archive ne donne pas les dates d’assemblage des trois châssis individuellement.",
+      "construction": {
+        "year": 1924,
+        "precision": "exact",
+        "note": "BMW documente trois prototypes engagés en 1924. La présentation du modèle de série date de 1925. L’archive ne donne pas les dates d’assemblage des trois châssis individuellement."
+      },
+      "sources": [
+        "bmw",
+        "r37"
+      ],
+      "technical": {
+        "cylinders": 2,
+        "engine_type": "Bicylindre boxer"
+      },
+      "status": "prototype",
+      "specializations": [
+        "competition"
+      ],
+      "dates": {
+        "prototype_year": 1924
+      },
+      "relationships": [
+        {
+          "type": "related_to",
+          "target_id": "1923-bmw-r32",
+          "note": "Architecture de partie-cycle issue de la R 32.",
+          "sources": [
+            "bmw"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1924-bsa-model-l-sv",
+      "manufacturer": "Birmingham Small Arms Company",
+      "brand": "BSA",
+      "name": "Model L 2¾ HP — soupapes latérales",
+      "origin_country": "Royaume-Uni",
+      "description": "Classic Motorcycle Mecca conserve une Model L 2¾ HP à soupapes latérales datée de 1924. Le nom Model L a aussi été utilisé pour des variantes à soupapes en tête.",
+      "construction": {
+        "year": 1924,
+        "precision": "exact",
+        "note": "Classic Motorcycle Mecca conserve une Model L 2¾ HP à soupapes latérales datée de 1924. Le nom Model L a aussi été utilisé pour des variantes à soupapes en tête."
+      },
+      "sources": [
+        "bsa"
+      ],
+      "technical": {
+        "engine_type": "Monocylindre à soupapes latérales"
+      },
+      "status": "production"
+    },
+    {
+      "id": "1924-ace-sporting-solo",
+      "manufacturer": "Ace Motor Corporation",
+      "brand": "Ace",
+      "name": "Sporting Solo — exemplaire danois",
+      "origin_country": "États-Unis",
+      "description": "Le Danmarks Motorcykelmuseum inventorie une Sporting Solo de 1924, quatre cylindres en ligne de 1272 cm³. Elle est distincte de l’Ace Four routière documentée en 1923.",
+      "construction": {
+        "year": 1924,
+        "precision": "exact",
+        "note": "Le Danmarks Motorcykelmuseum inventorie une Sporting Solo de 1924, quatre cylindres en ligne de 1272 cm³. Elle est distincte de l’Ace Four routière documentée en 1923."
+      },
+      "sources": [
+        "ace"
+      ],
+      "technical": {
+        "cylinders": 4,
+        "displacement_cc": 1272,
+        "engine_type": "Quatre cylindres en ligne"
+      },
+      "status": "production",
+      "relationships": [
+        {
+          "type": "variant_of",
+          "target_id": "1923-ace-four",
+          "note": "Version sportive de la famille Ace Four.",
+          "sources": [
+            "ace"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1924-sparkbrook-350",
+      "manufacturer": "Sparkbrook",
+      "brand": "Sparkbrook",
+      "name": "350 SV",
+      "origin_country": "Royaume-Uni",
+      "description": "Le British Motorcycle Charitable Trust conserve une Sparkbrook 350 à soupapes latérales, datée de 1924.",
+      "construction": {
+        "year": 1924,
+        "precision": "exact",
+        "note": "Le British Motorcycle Charitable Trust conserve une Sparkbrook 350 à soupapes latérales, datée de 1924."
+      },
+      "sources": [
+        "spark"
+      ],
+      "technical": {
+        "displacement_cc": 350,
+        "engine_type": "Soupapes latérales"
+      },
+      "status": "production"
+    }
+  ],
+  "attestations": [
+    {
+      "id": "construction-1924-bmw-r32",
+      "vehicle_id": "1923-bmw-r32",
+      "year": 1924,
+      "sources": [
+        "r32"
+      ],
+      "historical_status": "production",
+      "note": "BMW documente la fabrication de la R 32 de 1923 à 1926."
+    }
+  ]
+}

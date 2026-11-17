@@ -1349,11 +1349,46 @@
         "checkedAt": "2026-11-05T11:19:06.903398+00:00"
       }
     ],
-    "photo": null,
-    "image": "/image-unavailable.svg",
+    "photo": {
+      "fileTitle": "File:Detail Sylvester H Roper Died in the Saddle Boston Daily Globe 2 June 1896.png",
+      "pageId": 13276855,
+      "sourceSha1": "46d619b134053a3ccd3b10aef1704b9920146586",
+      "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Detail_Sylvester_H_Roper_Died_in_the_Saddle_Boston_Daily_Globe_2_June_1896.png/960px-Detail_Sylvester_H_Roper_Died_in_the_Saddle_Boston_Daily_Globe_2_June_1896.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Detail_Sylvester_H_Roper_Died_in_the_Saddle_Boston_Daily_Globe_2_June_1896.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Detail_Sylvester_H_Roper_Died_in_the_Saddle_Boston_Daily_Globe_2_June_1896.png",
+      "author": "Boston Daily Globe",
+      "attribution": "",
+      "creditLine": "Boston Daily Globe 2 June 1896. http://access.newspaperarchive.com",
+      "width": 2076,
+      "height": 2000,
+      "mime": "image/png",
+      "license": {
+        "status": "allowed",
+        "name": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "shareAlike": false,
+        "attributionRequired": false,
+        "reason": "Domaine public ou CC0 identifié dans extmetadata"
+      },
+      "checkedAt": "2026-11-16T20:54:32.510681+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Detail_Sylvester_H_Roper_Died_in_the_Saddle_Boston_Daily_Globe_2_June_1896.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImportedAt": "2026-11-16T20:54:32.510681+00:00",
+      "mediaKind": "illustration",
+      "local": {
+        "480": "/images/19-23f21fbfae69-480.webp",
+        "800": "/images/19-23f21fbfae69-800.webp",
+        "1600": "/images/19-23f21fbfae69-1600.webp"
+      },
+      "image": "/images/19-23f21fbfae69-1600.webp",
+      "match": "exact",
+      "reviewNote": "Illustration de presse du second modèle, publiée le 2 juin 1896.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-16"
+    },
+    "image": "/images/19-23f21fbfae69-1600.webp",
     "gallery": [],
-    "photoStatus": "none",
-    "photoStatusNote": "Aucune vue validée du second modèle. La photographie du Roper de 1869 est explicitement écartée."
+    "photoStatus": "exact",
+    "photoStatusNote": "Illustration de presse du second modèle, publiée le 2 juin 1896."
   },
   {
     "id": "20",
@@ -1894,11 +1929,46 @@
         "checkedAt": "2026-11-05"
       }
     ],
-    "photo": null,
-    "image": "/image-unavailable.svg",
+    "photo": {
+      "fileTitle": "File:Wooden Ped. Bikes 1.jpg",
+      "pageId": 7458442,
+      "sourceSha1": "5c8308cac1ca0ffd06ce465a1adcae4051073b24",
+      "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Wooden_Ped._Bikes_1.jpg/960px-Wooden_Ped._Bikes_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Wooden_Ped._Bikes_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wooden_Ped._Bikes_1.jpg",
+      "author": "Robert Kimberly from Houston",
+      "attribution": "",
+      "creditLine": "Wooden Ped. Bikes 1",
+      "width": 1024,
+      "height": 768,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY-SA 2.0",
+        "url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-16T20:54:32.510681+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Wooden_Ped._Bikes_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImportedAt": "2026-11-16T20:54:32.510681+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/28-a033b05ebaf4-480.webp",
+        "800": "/images/28-a033b05ebaf4-800.webp",
+        "1600": "/images/28-a033b05ebaf4-1600.webp"
+      },
+      "image": "/images/28-a033b05ebaf4-1600.webp",
+      "match": "approximate",
+      "reviewNote": "Vélocipède à vapeur attribué à Geneva, daté de 1896 par le cartel.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-16"
+    },
+    "image": "/images/28-a033b05ebaf4-1600.webp",
     "gallery": [],
-    "photoStatus": "none",
-    "photoStatusNote": "Geneva : exemplaire d’exposition ; authenticité et reconstruction à éclaircir avant utilisation."
+    "photoStatus": "approximate",
+    "photoStatusNote": "Vélocipède à vapeur attribué à Geneva, daté de 1896 par le cartel."
   },
   {
     "id": "29",
@@ -1973,11 +2043,46 @@
         "checkedAt": "2026-11-05"
       }
     ],
-    "photo": null,
-    "image": "/image-unavailable.svg",
+    "photo": {
+      "fileTitle": "File:Pennington Motor Cycle - The Autocar Magazine Dec 1895.jpg",
+      "pageId": 53152983,
+      "sourceSha1": "1bb8fdd1bcd02de296f12dd93daa070dbb24f44a",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Pennington_Motor_Cycle_-_The_Autocar_Magazine_Dec_1895.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Pennington_Motor_Cycle_-_The_Autocar_Magazine_Dec_1895.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Pennington_Motor_Cycle_-_The_Autocar_Magazine_Dec_1895.jpg",
+      "author": "Unknown author Unknown author",
+      "attribution": "",
+      "creditLine": "Autocar Magazine (UK), December 1895",
+      "width": 616,
+      "height": 384,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "shareAlike": false,
+        "attributionRequired": false,
+        "reason": "Domaine public ou CC0 identifié dans extmetadata"
+      },
+      "checkedAt": "2026-11-17T09:31:48.394099+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Pennington_Motor_Cycle_-_The_Autocar_Magazine_Dec_1895.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImportedAt": "2026-11-17T09:31:48.394099+00:00",
+      "mediaKind": "illustration",
+      "local": {
+        "480": "/images/30-30a50a6e9ea3-480.webp",
+        "800": "/images/30-30a50a6e9ea3-800.webp",
+        "1600": "/images/30-30a50a6e9ea3-1600.webp"
+      },
+      "image": "/images/30-30a50a6e9ea3-1600.webp",
+      "match": "approximate",
+      "reviewNote": "Illustration de 1895. L’identité avec le prototype reste à établir.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-17"
+    },
+    "image": "/images/30-30a50a6e9ea3-1600.webp",
     "gallery": [],
-    "photoStatus": "none",
-    "photoStatusNote": "Aucun fichier de deux-roues identifié ; le brevet et le tricycle Autocar ne servent pas de photo de ce candidat."
+    "photoStatus": "approximate",
+    "photoStatusNote": "Illustration de 1895. L’identité avec le prototype reste à établir."
   },
   {
     "id": "31",
@@ -2080,11 +2185,46 @@
         "checkedAt": "2026-11-05"
       }
     ],
-    "photo": null,
-    "image": "/image-unavailable.svg",
+    "photo": {
+      "fileTitle": "File:1900 Thomas (1) - The Art of the Motorcycle - Memphis.jpg",
+      "pageId": 7181143,
+      "sourceSha1": "d665ab6a3dcf57cdd9846c8286d67ef44b34ea01",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/1900_Thomas_%281%29_-_The_Art_of_the_Motorcycle_-_Memphis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/1900_Thomas_%281%29_-_The_Art_of_the_Motorcycle_-_Memphis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:1900_Thomas_(1)_-_The_Art_of_the_Motorcycle_-_Memphis.jpg",
+      "author": "Daniel Hartwig from New Haven, CT, USA",
+      "attribution": "",
+      "creditLine": "P7020010.jpg",
+      "width": 800,
+      "height": 620,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/",
+        "shareAlike": false,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-16T20:54:32.510681+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/1900_Thomas_%281%29_-_The_Art_of_the_Motorcycle_-_Memphis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImportedAt": "2026-11-16T20:54:32.510681+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/32-8b372bb90545-480.webp",
+        "800": "/images/32-8b372bb90545-800.webp",
+        "1600": "/images/32-8b372bb90545-1600.webp"
+      },
+      "image": "/images/32-8b372bb90545-1600.webp",
+      "match": "approximate",
+      "reviewNote": "Thomas de 1900 exposée à Memphis. La variante exacte reste à identifier.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-16"
+    },
+    "image": "/images/32-8b372bb90545-1600.webp",
     "gallery": [],
-    "photoStatus": "none",
-    "photoStatusNote": "Aucune photo du prototype à galet Design Number Two n’a été validée. Les vues exposées de Thomas ne permettent pas de confirmer cette version."
+    "photoStatus": "approximate",
+    "photoStatusNote": "Thomas de 1900 exposée à Memphis. La variante exacte reste à identifier."
   },
   {
     "id": "33",
@@ -2116,11 +2256,46 @@
         "checkedAt": "2026-11-05"
       }
     ],
-    "photo": null,
-    "image": "/image-unavailable.svg",
+    "photo": {
+      "fileTitle": "File:Ariel Tricycle 1898-1899 schräg 1.JPG",
+      "pageId": 44472167,
+      "sourceSha1": "50e34e1d297931a7fc642c55cf8cea4b7015ee9b",
+      "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Ariel_Tricycle_1898-1899_schr%C3%A4g_1.JPG/960px-Ariel_Tricycle_1898-1899_schr%C3%A4g_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Ariel_Tricycle_1898-1899_schr%C3%A4g_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Ariel_Tricycle_1898-1899_schr%C3%A4g_1.JPG",
+      "author": "Buch-t",
+      "attribution": "",
+      "creditLine": "Own work",
+      "width": 3211,
+      "height": 2294,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY-SA 3.0 DE",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/de/",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-16T20:54:32.510681+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Ariel_Tricycle_1898-1899_schr%C3%A4g_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImportedAt": "2026-11-16T20:54:32.510681+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/33-428bfeb40cc7-480.webp",
+        "800": "/images/33-428bfeb40cc7-800.webp",
+        "1600": "/images/33-428bfeb40cc7-1600.webp"
+      },
+      "image": "/images/33-428bfeb40cc7-1600.webp",
+      "match": "approximate",
+      "reviewNote": "Tricycle Ariel de 1898–1899, autre exemplaire.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-16"
+    },
+    "image": "/images/33-428bfeb40cc7-1600.webp",
     "gallery": [],
-    "photoStatus": "none",
-    "photoStatusNote": "Aucune photo du modèle de 1898 n’a été validée ; les vues repérées concernent des exemplaires datés de 1898–1899."
+    "photoStatus": "approximate",
+    "photoStatusNote": "Tricycle Ariel de 1898–1899, autre exemplaire."
   },
   {
     "id": "34",
@@ -2236,11 +2411,46 @@
         "checkedAt": "2026-11-05"
       }
     ],
-    "photo": null,
-    "image": "/image-unavailable.svg",
+    "photo": {
+      "fileTitle": "File:1901-02 Indian Single 16 ci - The Art of the Motorcycle - Memphis.jpg",
+      "pageId": 7181167,
+      "sourceSha1": "58d2bc012a2d63f0dacafbb2495badbb474fd4e1",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/1901-02_Indian_Single_16_ci_-_The_Art_of_the_Motorcycle_-_Memphis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/1901-02_Indian_Single_16_ci_-_The_Art_of_the_Motorcycle_-_Memphis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:1901-02_Indian_Single_16_ci_-_The_Art_of_the_Motorcycle_-_Memphis.jpg",
+      "author": "Daniel Hartwig from New Haven, CT, USA",
+      "attribution": "",
+      "creditLine": "P7020015.jpg",
+      "width": 800,
+      "height": 620,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/",
+        "shareAlike": false,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-17T09:31:48.394099+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/1901-02_Indian_Single_16_ci_-_The_Art_of_the_Motorcycle_-_Memphis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImportedAt": "2026-11-17T09:31:48.394099+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/1902-indian-single-aea9f16a418a-480.webp",
+        "800": "/images/1902-indian-single-aea9f16a418a-800.webp",
+        "1600": "/images/1902-indian-single-aea9f16a418a-1600.webp"
+      },
+      "image": "/images/1902-indian-single-aea9f16a418a-1600.webp",
+      "match": "approximate",
+      "reviewNote": "Indian Single 16 ci de 1901–1902, autre exemplaire.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-17"
+    },
+    "image": "/images/1902-indian-single-aea9f16a418a-1600.webp",
     "gallery": [],
-    "photoStatus": "none",
-    "photoStatusNote": "Aucune photo de cette version suffisamment identifiée et approuvée ; les vues d’autres années, composants, répliques et résultats sans rapport sont écartés."
+    "photoStatus": "approximate",
+    "photoStatusNote": "Indian Single 16 ci de 1901–1902, autre exemplaire."
   },
   {
     "id": "1902-triumph-no1",
@@ -2271,11 +2481,46 @@
         "checkedAt": "2026-11-05"
       }
     ],
-    "photo": null,
-    "image": "/image-unavailable.svg",
+    "photo": {
+      "fileTitle": "File:1903 Triumph 2½hp motorcycle (5949362151).jpg",
+      "pageId": 38834213,
+      "sourceSha1": "a82fabbe6939309b38f829ff0b91537e96039cd9",
+      "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/1903_Triumph_2%C2%BDhp_motorcycle_%285949362151%29.jpg/960px-1903_Triumph_2%C2%BDhp_motorcycle_%285949362151%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/1903_Triumph_2%C2%BDhp_motorcycle_%285949362151%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:1903_Triumph_2%C2%BDhp_motorcycle_(5949362151).jpg",
+      "author": "sv1ambo",
+      "attribution": "",
+      "creditLine": "1903 Triumph 2½hp motorcycle",
+      "width": 3648,
+      "height": 2432,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/",
+        "shareAlike": false,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-16T20:55:41.372088+00:00",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/1903_Triumph_2%C2%BDhp_motorcycle_%285949362151%29.jpg/960px-1903_Triumph_2%C2%BDhp_motorcycle_%285949362151%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalImportedAt": "2026-11-16T20:55:41.372088+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/1902-triumph-no1-89b8ca2ad366-480.webp",
+        "800": "/images/1902-triumph-no1-89b8ca2ad366-800.webp",
+        "1600": "/images/1902-triumph-no1-89b8ca2ad366-1600.webp"
+      },
+      "image": "/images/1902-triumph-no1-89b8ca2ad366-1600.webp",
+      "match": "approximate",
+      "reviewNote": "Triumph 2½ hp de 1903, évolution proche de la première Triumph.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-16"
+    },
+    "image": "/images/1902-triumph-no1-89b8ca2ad366-1600.webp",
     "gallery": [],
-    "photoStatus": "none",
-    "photoStatusNote": "Aucune photo de cette version suffisamment identifiée et approuvée ; les vues d’autres années, composants, répliques et résultats sans rapport sont écartés."
+    "photoStatus": "approximate",
+    "photoStatusNote": "Triumph 2½ hp de 1903, évolution proche de la première Triumph."
   },
   {
     "id": "1905-fn-four",
@@ -2446,11 +2691,46 @@
         "checkedAt": "2026-11-05"
       }
     ],
-    "photo": null,
-    "image": "/image-unavailable.svg",
+    "photo": {
+      "fileTitle": "File:1911 - Royal Pioneer - 15 Jun MC - Allentown PA.jpg",
+      "pageId": 66858947,
+      "sourceSha1": "db20ca77c48c2deb8c06bcdaebcda035de59d898",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/1911_-_Royal_Pioneer_-_15_Jun_MC_-_Allentown_PA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/1911_-_Royal_Pioneer_-_15_Jun_MC_-_Allentown_PA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:1911_-_Royal_Pioneer_-_15_Jun_MC_-_Allentown_PA.jpg",
+      "author": "Unknown author Unknown author Self-scanned",
+      "attribution": "",
+      "creditLine": "Unknown author Unknown author",
+      "width": 597,
+      "height": 193,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "shareAlike": false,
+        "attributionRequired": false,
+        "reason": "Domaine public ou CC0 identifié dans extmetadata"
+      },
+      "checkedAt": "2026-11-17T09:31:48.394099+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/1911_-_Royal_Pioneer_-_15_Jun_MC_-_Allentown_PA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImportedAt": "2026-11-17T09:31:48.394099+00:00",
+      "mediaKind": "illustration",
+      "local": {
+        "480": "/images/1909-royal-pioneer-09f3e341c09f-480.webp",
+        "800": "/images/1909-royal-pioneer-09f3e341c09f-800.webp",
+        "1600": "/images/1909-royal-pioneer-09f3e341c09f-1600.webp"
+      },
+      "image": "/images/1909-royal-pioneer-09f3e341c09f-1600.webp",
+      "match": "approximate",
+      "reviewNote": "Publicité Royal Pioneer de juin 1911.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-17"
+    },
+    "image": "/images/1909-royal-pioneer-09f3e341c09f-1600.webp",
     "gallery": [],
-    "photoStatus": "none",
-    "photoStatusNote": "Aucune photo de cette version suffisamment identifiée et approuvée ; les vues d’autres années, composants, répliques et résultats sans rapport sont écartés."
+    "photoStatus": "approximate",
+    "photoStatusNote": "Publicité Royal Pioneer de juin 1911."
   },
   {
     "id": "1908-scott-333",
@@ -2474,11 +2754,46 @@
         "checkedAt": "2026-11-05"
       }
     ],
-    "photo": null,
-    "image": "/image-unavailable.svg",
+    "photo": {
+      "fileTitle": "File:1908 Scott Motorcycle Patent.jpg",
+      "pageId": 34913576,
+      "sourceSha1": "fdc49ede55d293d66bfa8f80c91649972bf16833",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/1908_Scott_Motorcycle_Patent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/1908_Scott_Motorcycle_Patent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:1908_Scott_Motorcycle_Patent.jpg",
+      "author": "Alfred Angas Scott",
+      "attribution": "",
+      "creditLine": "European Patent Office",
+      "width": 670,
+      "height": 435,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "shareAlike": false,
+        "attributionRequired": false,
+        "reason": "Domaine public ou CC0 identifié dans extmetadata"
+      },
+      "checkedAt": "2026-11-17T09:31:48.394099+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/1908_Scott_Motorcycle_Patent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImportedAt": "2026-11-17T09:31:48.394099+00:00",
+      "mediaKind": "illustration",
+      "local": {
+        "480": "/images/1908-scott-333-5ae2cd70de24-480.webp",
+        "800": "/images/1908-scott-333-5ae2cd70de24-800.webp",
+        "1600": "/images/1908-scott-333-5ae2cd70de24-1600.webp"
+      },
+      "image": "/images/1908-scott-333-5ae2cd70de24-1600.webp",
+      "match": "approximate",
+      "reviewNote": "Dessin du brevet Scott de 1908, avec cadre ouvert.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-17"
+    },
+    "image": "/images/1908-scott-333-5ae2cd70de24-1600.webp",
     "gallery": [],
-    "photoStatus": "none",
-    "photoStatusNote": "Aucune photo de cette version suffisamment identifiée et approuvée ; les vues d’autres années, composants, répliques et résultats sans rapport sont écartés."
+    "photoStatus": "approximate",
+    "photoStatusNote": "Dessin du brevet Scott de 1908, avec cadre ouvert."
   },
   {
     "id": "1907-indian-single",
@@ -2572,11 +2887,46 @@
         "checkedAt": "2026-11-05"
       }
     ],
-    "photo": null,
-    "image": "/image-unavailable.svg",
+    "photo": {
+      "fileTitle": "File:Humber 2,75 pk 1904.jpg",
+      "pageId": 2952366,
+      "sourceSha1": "e45b9473bbd5c6ab4e77c08a43865cb4f11f9086",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Humber_2%2C75_pk_1904.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Humber_2%2C75_pk_1904.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Humber_2,75_pk_1904.jpg",
+      "author": "Piero at Dutch Wikipedia",
+      "attribution": "Yesterdays Antique Motorcycles en Classic Motorcycle Archive",
+      "creditLine": "Transferred from nl.wikipedia to Commons.",
+      "width": 640,
+      "height": 480,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-16T20:55:41.372088+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Humber_2%2C75_pk_1904.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImportedAt": "2026-11-16T20:55:41.372088+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/1902-humber-275-2fbbb36f410a-480.webp",
+        "800": "/images/1902-humber-275-2fbbb36f410a-800.webp",
+        "1600": "/images/1902-humber-275-2fbbb36f410a-1600.webp"
+      },
+      "image": "/images/1902-humber-275-2fbbb36f410a-1600.webp",
+      "match": "approximate",
+      "reviewNote": "Humber 2¾ HP de 1904, proche du modèle de 1902.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-16"
+    },
+    "image": "/images/1902-humber-275-2fbbb36f410a-1600.webp",
     "gallery": [],
-    "photoStatus": "none",
-    "photoStatusNote": "Aucune photo de cette version suffisamment identifiée et approuvée ; les vues d’autres années, composants, répliques et résultats sans rapport sont écartés."
+    "photoStatus": "approximate",
+    "photoStatusNote": "Humber 2¾ HP de 1904, proche du modèle de 1902."
   },
   {
     "id": "1902-california-motor-bicycle",
@@ -2600,11 +2950,35 @@
         "checkedAt": "2026-11-05"
       }
     ],
-    "photo": null,
-    "image": "/image-unavailable.svg",
+    "photo": {
+      "fileTitle": "George A. Wyman at the end of his transcontinental ride",
+      "sourcePage": "https://www.sfomuseum.org/exhibitions/early-american-motorcycles/gallery",
+      "provider": "SFO Museum",
+      "author": "Photographe non identifié",
+      "attribution": "The Motorcycle Magazine, novembre 1903 · The George Wyman Memorial Project · SFO Museum",
+      "originalUrl": "https://www.sfomuseum.org/sites/default/files/inline-images/02_GAWyman.jpg",
+      "thumbnailUrl": "https://www.sfomuseum.org/sites/default/files/inline-images/02_GAWyman.jpg",
+      "local": {
+        "480": "/images/1902-california-motor-bicycle-d06325ee3504-480.webp",
+        "800": "/images/1902-california-motor-bicycle-d06325ee3504-800.webp",
+        "1600": "/images/1902-california-motor-bicycle-d06325ee3504-1600.webp"
+      },
+      "image": "/images/1902-california-motor-bicycle-d06325ee3504-1600.webp",
+      "license": {
+        "status": "allowed",
+        "name": "Domaine public (États-Unis)",
+        "url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+        "shareAlike": false
+      },
+      "match": "approximate",
+      "reviewNote": "George Wyman sur sa California Motor Bicycle en juillet 1903. Photographie publiée en novembre 1903 dans The Motorcycle Magazine à New York, référence SFO Museum R2020.2308.001. Le musée considère l’identité avec son exemplaire restauré comme probable.",
+      "mediaKind": "archive",
+      "checkedAt": "2026-11-17"
+    },
+    "image": "/images/1902-california-motor-bicycle-d06325ee3504-1600.webp",
     "gallery": [],
-    "photoStatus": "none",
-    "photoStatusNote": "Aucune photo de cette version suffisamment identifiée et approuvée ; les vues d’autres années, composants, répliques et résultats sans rapport sont écartés."
+    "photoStatus": "approximate",
+    "photoStatusNote": "George Wyman sur sa California Motor Bicycle en juillet 1903. Photographie publiée en novembre 1903 dans The Motorcycle Magazine à New York, référence SFO Museum R2020.2308.001. Le musée considère l’identité avec son exemplaire restauré comme probable."
   },
   {
     "id": "1903-laurin-klement-bz",
@@ -2726,11 +3100,46 @@
         "checkedAt": "2026-11-05"
       }
     ],
-    "photo": null,
-    "image": "/image-unavailable.svg",
+    "photo": {
+      "fileTitle": "File:Rudge Multi 500 cc 1912.jpg",
+      "pageId": 7929472,
+      "sourceSha1": "f133d84f6d55fae85105763f64f1d103a89bc77c",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Rudge_Multi_500_cc_1912.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Rudge_Multi_500_cc_1912.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Rudge_Multi_500_cc_1912.jpg",
+      "author": "Yesterdays Antique Motorcycles",
+      "attribution": "",
+      "creditLine": "http://www.motorarchive.com/images/Rudge_1912_Multi_1.jpg",
+      "width": 640,
+      "height": 480,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-17T09:32:33.546346+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Rudge_Multi_500_cc_1912.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImportedAt": "2026-11-17T09:32:33.546346+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/1910-rudge-prototype-96ffcf264ef2-480.webp",
+        "800": "/images/1910-rudge-prototype-96ffcf264ef2-800.webp",
+        "1600": "/images/1910-rudge-prototype-96ffcf264ef2-1600.webp"
+      },
+      "image": "/images/1910-rudge-prototype-96ffcf264ef2-1600.webp",
+      "match": "approximate",
+      "reviewNote": "Rudge Multi de série de 1912, évolution des premiers monocylindres Rudge. Le prototype de 1910 diffère par sa transmission.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-17"
+    },
+    "image": "/images/1910-rudge-prototype-96ffcf264ef2-1600.webp",
     "gallery": [],
-    "photoStatus": "none",
-    "photoStatusNote": "Aucune photo de cette version suffisamment identifiée et approuvée ; les vues d’autres années, composants, répliques et résultats sans rapport sont écartés."
+    "photoStatus": "approximate",
+    "photoStatusNote": "Rudge Multi de série de 1912, évolution des premiers monocylindres Rudge. Le prototype de 1910 diffère par sa transmission."
   },
   {
     "id": "1901-nsu-neckarsulmer",
@@ -2901,11 +3310,46 @@
         "checkedAt": "2026-11-05"
       }
     ],
-    "photo": null,
-    "image": "/image-unavailable.svg",
+    "photo": {
+      "fileTitle": "File:Indian 1908 Twin 1.jpg",
+      "pageId": 2952362,
+      "sourceSha1": "25412688c6dc11953e82bf07f33fcf700f9ed58e",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Indian_1908_Twin_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Indian_1908_Twin_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Indian_1908_Twin_1.jpg",
+      "author": "Piero at Dutch Wikipedia",
+      "attribution": "Yesterdays Antique Motorcycles en Classic Motorcycle Archive",
+      "creditLine": "Transferred from nl.wikipedia to Commons.",
+      "width": 640,
+      "height": 480,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-16T20:54:32.510681+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Indian_1908_Twin_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImportedAt": "2026-11-16T20:54:32.510681+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/1908-indian-twin-t961-ca4899f1e0bd-480.webp",
+        "800": "/images/1908-indian-twin-t961-ca4899f1e0bd-800.webp",
+        "1600": "/images/1908-indian-twin-t961-ca4899f1e0bd-1600.webp"
+      },
+      "image": "/images/1908-indian-twin-t961-ca4899f1e0bd-1600.webp",
+      "match": "approximate",
+      "reviewNote": "Indian Twin de 1908. Le numéro moteur reste à confirmer.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-16"
+    },
+    "image": "/images/1908-indian-twin-t961-ca4899f1e0bd-1600.webp",
     "gallery": [],
-    "photoStatus": "none",
-    "photoStatusNote": "Aucune photo de cette version suffisamment identifiée et approuvée ; les vues d’autres années, composants, répliques et résultats sans rapport sont écartés."
+    "photoStatus": "approximate",
+    "photoStatusNote": "Indian Twin de 1908. Le numéro moteur reste à confirmer."
   },
   {
     "id": "1914-harley-10f",
@@ -2929,11 +3373,46 @@
         "checkedAt": "2026-11-07"
       }
     ],
-    "photo": null,
-    "image": "/image-unavailable.svg",
+    "photo": {
+      "fileTitle": "File:1915 Harley Davidson (8089065227).jpg",
+      "pageId": 43892049,
+      "sourceSha1": "e0fdcd1bdc6d7f107963e9257cfbc68bf8869f51",
+      "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/1915_Harley_Davidson_%288089065227%29.jpg/960px-1915_Harley_Davidson_%288089065227%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/1915_Harley_Davidson_%288089065227%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:1915_Harley_Davidson_(8089065227).jpg",
+      "author": "Chris from Surrey, British Columbia, Canada",
+      "attribution": "",
+      "creditLine": "1915 Harley Davidson",
+      "width": 4005,
+      "height": 2831,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/",
+        "shareAlike": false,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-16T20:55:41.372088+00:00",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/1915_Harley_Davidson_%288089065227%29.jpg/960px-1915_Harley_Davidson_%288089065227%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalImportedAt": "2026-11-16T20:55:41.372088+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/1914-harley-10f-20ed4f1ec308-480.webp",
+        "800": "/images/1914-harley-10f-20ed4f1ec308-800.webp",
+        "1600": "/images/1914-harley-10f-20ed4f1ec308-1600.webp"
+      },
+      "image": "/images/1914-harley-10f-20ed4f1ec308-1600.webp",
+      "match": "approximate",
+      "reviewNote": "Harley-Davidson bicylindre routière du millésime suivant.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-16"
+    },
+    "image": "/images/1914-harley-10f-20ed4f1ec308-1600.webp",
     "gallery": [],
-    "photoStatus": "none",
-    "photoStatusNote": "Aucune photo validée pour ce modèle."
+    "photoStatus": "approximate",
+    "photoStatusNote": "Harley-Davidson bicylindre routière du millésime suivant."
   },
   {
     "id": "1915-harley-11f",
@@ -3020,11 +3499,46 @@
         "checkedAt": "2026-11-07"
       }
     ],
-    "photo": null,
-    "image": "/image-unavailable.svg",
+    "photo": {
+      "fileTitle": "File:1912 Excelsior motorcycle.jpg",
+      "pageId": 51717554,
+      "sourceSha1": "46f236ddb11074a61c296c69e5aaae5707df2d62",
+      "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/1912_Excelsior_motorcycle.jpg/960px-1912_Excelsior_motorcycle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/1912_Excelsior_motorcycle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:1912_Excelsior_motorcycle.jpg",
+      "author": "Cullen328",
+      "attribution": "",
+      "creditLine": "Own work",
+      "width": 3959,
+      "height": 1983,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-16T20:54:32.510681+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/1912_Excelsior_motorcycle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImportedAt": "2026-11-16T20:54:32.510681+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/1912-excelsior-4b-8b66dcde3c1f-480.webp",
+        "800": "/images/1912-excelsior-4b-8b66dcde3c1f-800.webp",
+        "1600": "/images/1912-excelsior-4b-8b66dcde3c1f-1600.webp"
+      },
+      "image": "/images/1912-excelsior-4b-8b66dcde3c1f-1600.webp",
+      "match": "approximate",
+      "reviewNote": "Excelsior américaine monocylindre de 1912. La désignation 4B reste à confirmer.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-16"
+    },
+    "image": "/images/1912-excelsior-4b-8b66dcde3c1f-1600.webp",
     "gallery": [],
-    "photoStatus": "none",
-    "photoStatusNote": "Aucune photo validée pour ce modèle."
+    "photoStatus": "approximate",
+    "photoStatusNote": "Excelsior américaine monocylindre de 1912. La désignation 4B reste à confirmer."
   },
   {
     "id": "1915-iver-johnson-157",
@@ -3076,11 +3590,46 @@
         "checkedAt": "2026-11-07"
       }
     ],
-    "photo": null,
-    "image": "/image-unavailable.svg",
+    "photo": {
+      "fileTitle": "File:1912 Flying Merkel Model W-S.jpg",
+      "pageId": 51734445,
+      "sourceSha1": "4d7381715ca0f48c1dcb3ba551070653866deb47",
+      "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/1912_Flying_Merkel_Model_W-S.jpg/960px-1912_Flying_Merkel_Model_W-S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/1912_Flying_Merkel_Model_W-S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:1912_Flying_Merkel_Model_W-S.jpg",
+      "author": "Cullen328",
+      "attribution": "",
+      "creditLine": "Own work",
+      "width": 3853,
+      "height": 2210,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-17T09:32:33.546346+00:00",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/1912_Flying_Merkel_Model_W-S.jpg/960px-1912_Flying_Merkel_Model_W-S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalImportedAt": "2026-11-17T09:32:33.546346+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/1914-flying-merkel-470-def1d10a210c-480.webp",
+        "800": "/images/1914-flying-merkel-470-def1d10a210c-800.webp",
+        "1600": "/images/1914-flying-merkel-470-def1d10a210c-1600.webp"
+      },
+      "image": "/images/1914-flying-merkel-470-def1d10a210c-1600.webp",
+      "match": "approximate",
+      "reviewNote": "Flying Merkel W-S de 1912, variante bicylindre de la même époque.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-17"
+    },
+    "image": "/images/1914-flying-merkel-470-def1d10a210c-1600.webp",
     "gallery": [],
-    "photoStatus": "none",
-    "photoStatusNote": "Aucune photo validée pour ce modèle."
+    "photoStatus": "approximate",
+    "photoStatusNote": "Flying Merkel W-S de 1912, variante bicylindre de la même époque."
   },
   {
     "id": "1914-yale-twin",
@@ -3132,11 +3681,46 @@
         "checkedAt": "2026-11-07"
       }
     ],
-    "photo": null,
-    "image": "/image-unavailable.svg",
+    "photo": {
+      "fileTitle": "File:Hochgurgl-Top Mountain Motorcycle Museum-Thor Model O-1916-1000ccm-02ESD.jpg",
+      "pageId": 102140461,
+      "sourceSha1": "fb8a85f555e49b1387ca1fbf8976104fd3d9e7f6",
+      "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Hochgurgl-Top_Mountain_Motorcycle_Museum-Thor_Model_O-1916-1000ccm-02ESD.jpg/960px-Hochgurgl-Top_Mountain_Motorcycle_Museum-Thor_Model_O-1916-1000ccm-02ESD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Hochgurgl-Top_Mountain_Motorcycle_Museum-Thor_Model_O-1916-1000ccm-02ESD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Hochgurgl-Top_Mountain_Motorcycle_Museum-Thor_Model_O-1916-1000ccm-02ESD.jpg",
+      "author": "Rikki Mitterer",
+      "attribution": "",
+      "creditLine": "Own work",
+      "width": 4128,
+      "height": 2322,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-17T09:32:33.546346+00:00",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Hochgurgl-Top_Mountain_Motorcycle_Museum-Thor_Model_O-1916-1000ccm-02ESD.jpg/960px-Hochgurgl-Top_Mountain_Motorcycle_Museum-Thor_Model_O-1916-1000ccm-02ESD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalImportedAt": "2026-11-17T09:32:33.546346+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/1916-thor-u-8831710170c1-480.webp",
+        "800": "/images/1916-thor-u-8831710170c1-800.webp",
+        "1600": "/images/1916-thor-u-8831710170c1-1600.webp"
+      },
+      "image": "/images/1916-thor-u-8831710170c1-1600.webp",
+      "match": "approximate",
+      "reviewNote": "Thor Model O de 1916, variante contemporaine de la Model U.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-17"
+    },
+    "image": "/images/1916-thor-u-8831710170c1-1600.webp",
     "gallery": [],
-    "photoStatus": "none",
-    "photoStatusNote": "Aucune photo validée pour ce modèle."
+    "photoStatus": "approximate",
+    "photoStatusNote": "Thor Model O de 1916, variante contemporaine de la Model U."
   },
   {
     "id": "1916-indian-powerplus",
@@ -3223,11 +3807,46 @@
         "checkedAt": "2026-11-07"
       }
     ],
-    "photo": null,
-    "image": "/image-unavailable.svg",
+    "photo": {
+      "fileTitle": "File:1917 Triumph Model H 450cc and 1958 Triumph Bonneville T120 650cc.jpg",
+      "pageId": 147298761,
+      "sourceSha1": "e2a9e6df85b1ba00914f7c85f57b6b275328d80d",
+      "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/1917_Triumph_Model_H_450cc_and_1958_Triumph_Bonneville_T120_650cc.jpg/960px-1917_Triumph_Model_H_450cc_and_1958_Triumph_Bonneville_T120_650cc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/1917_Triumph_Model_H_450cc_and_1958_Triumph_Bonneville_T120_650cc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:1917_Triumph_Model_H_450cc_and_1958_Triumph_Bonneville_T120_650cc.jpg",
+      "author": "Vauxford",
+      "attribution": "",
+      "creditLine": "Own work",
+      "width": 5706,
+      "height": 3804,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-16T20:54:32.510681+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/1917_Triumph_Model_H_450cc_and_1958_Triumph_Bonneville_T120_650cc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImportedAt": "2026-11-16T20:54:32.510681+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/1917-triumph-h-8e0cbcb9c004-480.webp",
+        "800": "/images/1917-triumph-h-8e0cbcb9c004-800.webp",
+        "1600": "/images/1917-triumph-h-8e0cbcb9c004-1600.webp"
+      },
+      "image": "/images/1917-triumph-h-8e0cbcb9c004-1600.webp",
+      "match": "approximate",
+      "reviewNote": "Model H de 1917 photographiée au musée de Gaydon avec une Bonneville de 1958.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-16"
+    },
+    "image": "/images/1917-triumph-h-8e0cbcb9c004-1600.webp",
     "gallery": [],
-    "photoStatus": "none",
-    "photoStatusNote": "Aucune photo validée pour ce modèle."
+    "photoStatus": "approximate",
+    "photoStatusNote": "Model H de 1917 photographiée au musée de Gaydon avec une Bonneville de 1958."
   },
   {
     "id": "1914-enfield-tt",
@@ -3251,11 +3870,46 @@
         "checkedAt": "2026-11-07"
       }
     ],
-    "photo": null,
-    "image": "/image-unavailable.svg",
+    "photo": {
+      "fileTitle": "File:1914 Royal Enfield 3hp motorcycle (5949720503).jpg",
+      "pageId": 38834306,
+      "sourceSha1": "b27b982b62111f616b9d4aeb66cb54bcbf81c08b",
+      "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/1914_Royal_Enfield_3hp_motorcycle_%285949720503%29.jpg/960px-1914_Royal_Enfield_3hp_motorcycle_%285949720503%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/1914_Royal_Enfield_3hp_motorcycle_%285949720503%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:1914_Royal_Enfield_3hp_motorcycle_(5949720503).jpg",
+      "author": "sv1ambo",
+      "attribution": "",
+      "creditLine": "1914 Royal Enfield 3hp motorcycle",
+      "width": 3648,
+      "height": 2432,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/",
+        "shareAlike": false,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-16T20:54:32.510681+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/1914_Royal_Enfield_3hp_motorcycle_%285949720503%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImportedAt": "2026-11-16T20:54:32.510681+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/1914-enfield-tt-d2de03dc8bf9-480.webp",
+        "800": "/images/1914-enfield-tt-d2de03dc8bf9-800.webp",
+        "1600": "/images/1914-enfield-tt-d2de03dc8bf9-1600.webp"
+      },
+      "image": "/images/1914-enfield-tt-d2de03dc8bf9-1600.webp",
+      "match": "exact",
+      "reviewNote": "Exemplaire de Beaulieu, daté de 1914.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-16"
+    },
+    "image": "/images/1914-enfield-tt-d2de03dc8bf9-1600.webp",
     "gallery": [],
-    "photoStatus": "none",
-    "photoStatusNote": "Aucune photo validée pour ce modèle."
+    "photoStatus": "exact",
+    "photoStatusNote": "Exemplaire de Beaulieu, daté de 1914."
   },
   {
     "id": "1914-fn-285",
@@ -3279,11 +3933,46 @@
         "checkedAt": "2026-11-07"
       }
     ],
-    "photo": null,
-    "image": "/image-unavailable.svg",
+    "photo": {
+      "fileTitle": "File:Motocicletta - Museo scienza tecnologia Milano 12132 dia.jpg",
+      "pageId": 48926389,
+      "sourceSha1": "32fdc1c73f66dc2b898010b54367597913266a65",
+      "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Motocicletta_-_Museo_scienza_tecnologia_Milano_12132_dia.jpg/960px-Motocicletta_-_Museo_scienza_tecnologia_Milano_12132_dia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Motocicletta_-_Museo_scienza_tecnologia_Milano_12132_dia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Motocicletta_-_Museo_scienza_tecnologia_Milano_12132_dia.jpg",
+      "author": "F.N. (costruttore)",
+      "attribution": "Museo Nazionale Scienza e Tecnologia Leonardo da Vinci, Milano · constructeur F.N. · photographe non identifié",
+      "creditLine": "Catalogo collezioni (Italian) . Museoscienza.org . Museo nazionale della scienza e della tecnologia Leonardo da Vinci, Milano.",
+      "width": 1280,
+      "height": 885,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-16T20:55:41.372088+00:00",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Motocicletta_-_Museo_scienza_tecnologia_Milano_12132_dia.jpg/960px-Motocicletta_-_Museo_scienza_tecnologia_Milano_12132_dia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalImportedAt": "2026-11-16T20:55:41.372088+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/1914-fn-285-7730f0c503f5-480.webp",
+        "800": "/images/1914-fn-285-7730f0c503f5-800.webp",
+        "1600": "/images/1914-fn-285-7730f0c503f5-1600.webp"
+      },
+      "image": "/images/1914-fn-285-7730f0c503f5-1600.webp",
+      "match": "approximate",
+      "reviewNote": "FN 285 de 1914, autre exemplaire, inventaire 12132 du musée de Milan.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-16"
+    },
+    "image": "/images/1914-fn-285-7730f0c503f5-1600.webp",
     "gallery": [],
-    "photoStatus": "none",
-    "photoStatusNote": "Aucune photo validée pour ce modèle."
+    "photoStatus": "approximate",
+    "photoStatusNote": "FN 285 de 1914, autre exemplaire, inventaire 12132 du musée de Milan."
   },
   {
     "id": "1914-magnat-debon-4hp",
@@ -3335,11 +4024,46 @@
         "checkedAt": "2026-11-07"
       }
     ],
-    "photo": null,
-    "image": "/image-unavailable.svg",
+    "photo": {
+      "fileTitle": "File:1913 Motosacoche 2.5hp motorcycle (5950197484).jpg",
+      "pageId": 38834290,
+      "sourceSha1": "236f22b0a74639aa0ce6666ea074ef39cadceb2e",
+      "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/1913_Motosacoche_2.5hp_motorcycle_%285950197484%29.jpg/960px-1913_Motosacoche_2.5hp_motorcycle_%285950197484%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/1913_Motosacoche_2.5hp_motorcycle_%285950197484%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:1913_Motosacoche_2.5hp_motorcycle_(5950197484).jpg",
+      "author": "sv1ambo",
+      "attribution": "",
+      "creditLine": "1913 Motosacoche 2.5hp motorcycle",
+      "width": 3648,
+      "height": 2432,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/",
+        "shareAlike": false,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-16T20:54:32.510681+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/1913_Motosacoche_2.5hp_motorcycle_%285950197484%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImportedAt": "2026-11-16T20:54:32.510681+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/1913-motosacoche-25hp-76a8fa46ccbe-480.webp",
+        "800": "/images/1913-motosacoche-25hp-76a8fa46ccbe-800.webp",
+        "1600": "/images/1913-motosacoche-25hp-76a8fa46ccbe-1600.webp"
+      },
+      "image": "/images/1913-motosacoche-25hp-76a8fa46ccbe-1600.webp",
+      "match": "exact",
+      "reviewNote": "Exemplaire de Beaulieu, daté de 1913.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-16"
+    },
+    "image": "/images/1913-motosacoche-25hp-76a8fa46ccbe-1600.webp",
     "gallery": [],
-    "photoStatus": "none",
-    "photoStatusNote": "Aucune photo validée pour ce modèle."
+    "photoStatus": "exact",
+    "photoStatusNote": "Exemplaire de Beaulieu, daté de 1913."
   },
   {
     "id": "1919-garelli-350",
@@ -3363,11 +4087,46 @@
         "checkedAt": "2026-11-07"
       }
     ],
-    "photo": null,
-    "image": "/image-unavailable.svg",
+    "photo": {
+      "fileTitle": "File:Motocicletta - Museo scienza tecnologia Milano 07635 dia.jpg",
+      "pageId": 48926438,
+      "sourceSha1": "e896a53ed80ee34ca9d9d3bddfa89a6ab0bb27bf",
+      "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Motocicletta_-_Museo_scienza_tecnologia_Milano_07635_dia.jpg/960px-Motocicletta_-_Museo_scienza_tecnologia_Milano_07635_dia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Motocicletta_-_Museo_scienza_tecnologia_Milano_07635_dia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Motocicletta_-_Museo_scienza_tecnologia_Milano_07635_dia.jpg",
+      "author": "Garelli (costruttore)",
+      "attribution": "Museo Nazionale Scienza e Tecnologia Leonardo da Vinci, Milano · constructeur Garelli · photographe non identifié",
+      "creditLine": "Catalogo collezioni (Italian) . Museoscienza.org . Museo nazionale della scienza e della tecnologia Leonardo da Vinci, Milano.",
+      "width": 1280,
+      "height": 818,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-16T20:55:41.372088+00:00",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Motocicletta_-_Museo_scienza_tecnologia_Milano_07635_dia.jpg/960px-Motocicletta_-_Museo_scienza_tecnologia_Milano_07635_dia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalImportedAt": "2026-11-16T20:55:41.372088+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/1919-garelli-350-093b79acba5e-480.webp",
+        "800": "/images/1919-garelli-350-093b79acba5e-800.webp",
+        "1600": "/images/1919-garelli-350-093b79acba5e-1600.webp"
+      },
+      "image": "/images/1919-garelli-350-093b79acba5e-1600.webp",
+      "match": "approximate",
+      "reviewNote": "Garelli 350 de 1926, de la famille routière lancée en 1919.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-16"
+    },
+    "image": "/images/1919-garelli-350-093b79acba5e-1600.webp",
     "gallery": [],
-    "photoStatus": "none",
-    "photoStatusNote": "Aucune photo validée pour ce modèle."
+    "photoStatus": "approximate",
+    "photoStatusNote": "Garelli 350 de 1926, de la famille routière lancée en 1919."
   },
   {
     "id": "1918-nimbus-prototype",
@@ -3454,11 +4213,46 @@
         "checkedAt": "2026-11-07"
       }
     ],
-    "photo": null,
-    "image": "/image-unavailable.svg",
+    "photo": {
+      "fileTitle": "File:Puch motorcycle in the Pořežany museum.jpg",
+      "pageId": 68683798,
+      "sourceSha1": "0e6a75248f605d9d908b0297b652f92b244a74d4",
+      "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Puch_motorcycle_in_the_Po%C5%99e%C5%BEany_museum.jpg/960px-Puch_motorcycle_in_the_Po%C5%99e%C5%BEany_museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Puch_motorcycle_in_the_Po%C5%99e%C5%BEany_museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Puch_motorcycle_in_the_Po%C5%99e%C5%BEany_museum.jpg",
+      "author": "Jan Kameníček",
+      "attribution": "",
+      "creditLine": "Own work",
+      "width": 6000,
+      "height": 4000,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-16T20:54:32.510681+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Puch_motorcycle_in_the_Po%C5%99e%C5%BEany_museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImportedAt": "2026-11-16T20:54:32.510681+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/1912-puch-300-d197113f7b9d-480.webp",
+        "800": "/images/1912-puch-300-d197113f7b9d-800.webp",
+        "1600": "/images/1912-puch-300-d197113f7b9d-1600.webp"
+      },
+      "image": "/images/1912-puch-300-d197113f7b9d-1600.webp",
+      "match": "approximate",
+      "reviewNote": "Puch datée vers 1912 dans le musée de Pořežany. Cylindrée inconnue.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-16"
+    },
+    "image": "/images/1912-puch-300-d197113f7b9d-1600.webp",
     "gallery": [],
-    "photoStatus": "none",
-    "photoStatusNote": "Aucune photo validée pour ce modèle."
+    "photoStatus": "approximate",
+    "photoStatusNote": "Puch datée vers 1912 dans le musée de Pořežany. Cylindrée inconnue."
   },
   {
     "id": "1915-henderson-four",
@@ -3482,11 +4276,46 @@
         "checkedAt": "2026-11-07"
       }
     ],
-    "photo": null,
-    "image": "/image-unavailable.svg",
+    "photo": {
+      "fileTitle": "File:Henderson 1915, Indian summermeet 2016.jpg",
+      "pageId": 50914014,
+      "sourceSha1": "9d9f2257dd1596bd765eeee74e32d77a1a731e52",
+      "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Henderson_1915%2C_Indian_summermeet_2016.jpg/960px-Henderson_1915%2C_Indian_summermeet_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Henderson_1915%2C_Indian_summermeet_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Henderson_1915,_Indian_summermeet_2016.jpg",
+      "author": "Kjenshaugmyra",
+      "attribution": "",
+      "creditLine": "Own work",
+      "width": 2610,
+      "height": 1653,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-16T20:54:32.510681+00:00",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Henderson_1915%2C_Indian_summermeet_2016.jpg/960px-Henderson_1915%2C_Indian_summermeet_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalImportedAt": "2026-11-16T20:54:32.510681+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/1915-henderson-four-5ba8749e0054-480.webp",
+        "800": "/images/1915-henderson-four-5ba8749e0054-800.webp",
+        "1600": "/images/1915-henderson-four-5ba8749e0054-1600.webp"
+      },
+      "image": "/images/1915-henderson-four-5ba8749e0054-1600.webp",
+      "match": "approximate",
+      "reviewNote": "Henderson de 1915 photographiée à Fagernes.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-16"
+    },
+    "image": "/images/1915-henderson-four-5ba8749e0054-1600.webp",
     "gallery": [],
-    "photoStatus": "none",
-    "photoStatusNote": "Aucune photo validée pour ce modèle."
+    "photoStatus": "approximate",
+    "photoStatusNote": "Henderson de 1915 photographiée à Fagernes."
   },
   {
     "id": "1921-sopwith-abc",
@@ -3517,11 +4346,46 @@
         "checkedAt": "2026-11-07"
       }
     ],
-    "photo": null,
-    "image": "/image-unavailable.svg",
+    "photo": {
+      "fileTitle": "File:Abc-600.jpg",
+      "pageId": 2073971,
+      "sourceSha1": "a67afc26684d0bd40ae91df17cbd9a61a3389b4c",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Abc-600.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Abc-600.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Abc-600.jpg",
+      "author": "The original uploader was Jeff dean at English Wikipedia .",
+      "attribution": "Attribution Photo © by Jeff Dean",
+      "creditLine": "Transferred from en.wikipedia to Commons.",
+      "width": 600,
+      "height": 362,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY-SA 2.5",
+        "url": "https://creativecommons.org/licenses/by-sa/2.5/",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-17T09:31:48.394099+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Abc-600.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImportedAt": "2026-11-17T09:31:48.394099+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/1921-sopwith-abc-b52d04a9fe19-480.webp",
+        "800": "/images/1921-sopwith-abc-b52d04a9fe19-800.webp",
+        "1600": "/images/1921-sopwith-abc-b52d04a9fe19-1600.webp"
+      },
+      "image": "/images/1921-sopwith-abc-b52d04a9fe19-1600.webp",
+      "match": "approximate",
+      "reviewNote": "Autre exemplaire de l’ABC 400 construite par Sopwith.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-17"
+    },
+    "image": "/images/1921-sopwith-abc-b52d04a9fe19-1600.webp",
     "gallery": [],
-    "photoStatus": "none",
-    "photoStatusNote": "Aucune photo validée pour ce modèle."
+    "photoStatus": "approximate",
+    "photoStatusNote": "Autre exemplaire de l’ABC 400 construite par Sopwith."
   },
   {
     "id": "1921-neracar-sheffield",
@@ -3608,11 +4472,46 @@
         "checkedAt": "2026-11-07"
       }
     ],
-    "photo": null,
-    "image": "/image-unavailable.svg",
+    "photo": {
+      "fileTitle": "File:1921 Norton Model 16 H BS.jpg",
+      "pageId": 115002641,
+      "sourceSha1": "90ea49d28f806ce40817ee2ed667d141cfe9fcd0",
+      "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/1921_Norton_Model_16_H_BS.jpg/960px-1921_Norton_Model_16_H_BS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/1921_Norton_Model_16_H_BS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:1921_Norton_Model_16_H_BS.jpg",
+      "author": "Yesterdays Antique Motorcycles",
+      "attribution": "",
+      "creditLine": "https://www.yesterdays.nl/product/norton-1921-model-h-brooklands-special-490cc-1-cyl-sv-3112/",
+      "width": 1077,
+      "height": 713,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-16T20:54:32.510681+00:00",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/1921_Norton_Model_16_H_BS.jpg/960px-1921_Norton_Model_16_H_BS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalImportedAt": "2026-11-16T20:54:32.510681+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/1921-norton-16h-race-1cef6ee34ab7-480.webp",
+        "800": "/images/1921-norton-16h-race-1cef6ee34ab7-800.webp",
+        "1600": "/images/1921-norton-16h-race-1cef6ee34ab7-1600.webp"
+      },
+      "image": "/images/1921-norton-16h-race-1cef6ee34ab7-1600.webp",
+      "match": "approximate",
+      "reviewNote": "Version Brooklands Special de 1921, apparentée à la Works Race du TT.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-16"
+    },
+    "image": "/images/1921-norton-16h-race-1cef6ee34ab7-1600.webp",
     "gallery": [],
-    "photoStatus": "none",
-    "photoStatusNote": "Aucune photo validée pour ce modèle."
+    "photoStatus": "approximate",
+    "photoStatusNote": "Version Brooklands Special de 1921, apparentée à la Works Race du TT."
   },
   {
     "id": "1921-norton-big-four",
@@ -3811,11 +4710,46 @@
         "checkedAt": "2026-11-07"
       }
     ],
-    "photo": null,
-    "image": "/image-unavailable.svg",
+    "photo": {
+      "fileTitle": "File:FN 750 cc viercilinder 1921.jpg",
+      "pageId": 2952299,
+      "sourceSha1": "2bc04a0dc3cdb4f77b27d89fe55af2b6d179c160",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/FN_750_cc_viercilinder_1921.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/FN_750_cc_viercilinder_1921.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:FN_750_cc_viercilinder_1921.jpg",
+      "author": "Piero at Dutch Wikipedia",
+      "attribution": "Yesterdays Antique Motorcycles en Classic Motorcycle Archive",
+      "creditLine": "Transferred from nl.wikipedia to Commons.",
+      "width": 640,
+      "height": 480,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-17T09:31:48.394099+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/FN_750_cc_viercilinder_1921.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImportedAt": "2026-11-17T09:31:48.394099+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/1921-fn-four-748-bffce11f5659-480.webp",
+        "800": "/images/1921-fn-four-748-bffce11f5659-800.webp",
+        "1600": "/images/1921-fn-four-748-bffce11f5659-1600.webp"
+      },
+      "image": "/images/1921-fn-four-748-bffce11f5659-1600.webp",
+      "match": "approximate",
+      "reviewNote": "FN quatre cylindres de 1921, autre exemplaire.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-17"
+    },
+    "image": "/images/1921-fn-four-748-bffce11f5659-1600.webp",
     "gallery": [],
-    "photoStatus": "none",
-    "photoStatusNote": "Aucune photo validée pour ce modèle."
+    "photoStatus": "approximate",
+    "photoStatusNote": "FN quatre cylindres de 1921, autre exemplaire."
   },
   {
     "id": "1921-wanderer-25ps",
@@ -3930,11 +4864,46 @@
         "checkedAt": "2026-11-07"
       }
     ],
-    "photo": null,
-    "image": "/image-unavailable.svg",
+    "photo": {
+      "fileTitle": "File:Harley-Davidson Sport 558 cc 1921.jpg",
+      "pageId": 3644425,
+      "sourceSha1": "8d1109b344d5553f41ea37bf3540d21518431c5f",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Harley-Davidson_Sport_558_cc_1921.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Harley-Davidson_Sport_558_cc_1921.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Harley-Davidson_Sport_558_cc_1921.jpg",
+      "author": "Lars-Göran Lindgren Sweden",
+      "attribution": "",
+      "creditLine": "Own work",
+      "width": 800,
+      "height": 442,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-17T09:31:48.394099+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Harley-Davidson_Sport_558_cc_1921.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImportedAt": "2026-11-17T09:31:48.394099+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/1921-harley-sport-twin-c8eed62de1ff-480.webp",
+        "800": "/images/1921-harley-sport-twin-c8eed62de1ff-800.webp",
+        "1600": "/images/1921-harley-sport-twin-c8eed62de1ff-1600.webp"
+      },
+      "image": "/images/1921-harley-sport-twin-c8eed62de1ff-1600.webp",
+      "match": "approximate",
+      "reviewNote": "Autre exemplaire de la Sport Twin de 1921.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-17"
+    },
+    "image": "/images/1921-harley-sport-twin-c8eed62de1ff-1600.webp",
     "gallery": [],
-    "photoStatus": "none",
-    "photoStatusNote": "Aucune photo validée pour ce modèle."
+    "photoStatus": "approximate",
+    "photoStatusNote": "Autre exemplaire de la Sport Twin de 1921."
   },
   {
     "id": "1921-harley-single-racer",
@@ -3986,11 +4955,46 @@
         "checkedAt": "2026-11-07"
       }
     ],
-    "photo": null,
-    "image": "/image-unavailable.svg",
+    "photo": {
+      "fileTitle": "File:Victoria 1920.jpg",
+      "pageId": 9864849,
+      "sourceSha1": "62414405d031829173ab2c28c599d8723f09d2c2",
+      "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Victoria_1920.jpg/960px-Victoria_1920.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Victoria_1920.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Victoria_1920.jpg",
+      "author": "Museumsfotografierer",
+      "attribution": "",
+      "creditLine": "Own work",
+      "width": 1457,
+      "height": 925,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY 3.0",
+        "url": "https://creativecommons.org/licenses/by/3.0/",
+        "shareAlike": false,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-16T20:54:32.510681+00:00",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Victoria_1920.jpg/960px-Victoria_1920.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalImportedAt": "2026-11-16T20:54:32.510681+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/1921-victoria-kr1-8c925fe0873b-480.webp",
+        "800": "/images/1921-victoria-kr1-8c925fe0873b-800.webp",
+        "1600": "/images/1921-victoria-kr1-8c925fe0873b-1600.webp"
+      },
+      "image": "/images/1921-victoria-kr1-8c925fe0873b-1600.webp",
+      "match": "approximate",
+      "reviewNote": "Victoria KR 1 d’un millésime proche.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-16"
+    },
+    "image": "/images/1921-victoria-kr1-8c925fe0873b-1600.webp",
     "gallery": [],
-    "photoStatus": "none",
-    "photoStatusNote": "Aucune photo validée pour ce modèle."
+    "photoStatus": "approximate",
+    "photoStatusNote": "Victoria KR 1 d’un millésime proche."
   },
   {
     "id": "1921-gillet-350",
@@ -4056,10 +5060,1092 @@
         "checkedAt": "2026-11-07"
       }
     ],
+    "photo": {
+      "fileTitle": "File:Première Zündapp.jpg",
+      "pageId": 154375417,
+      "sourceSha1": "04c683cc0da0211a989c5b6c3b8f684b6ed228ec",
+      "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Premi%C3%A8re_Z%C3%BCndapp.jpg/960px-Premi%C3%A8re_Z%C3%BCndapp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Premi%C3%A8re_Z%C3%BCndapp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Premi%C3%A8re_Z%C3%BCndapp.jpg",
+      "author": "Ulrich Kubisch",
+      "attribution": "",
+      "creditLine": "Zündapp Aufstieg und Niedergang",
+      "width": 1392,
+      "height": 860,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "shareAlike": false,
+        "attributionRequired": false,
+        "reason": "Domaine public ou CC0 identifié dans extmetadata"
+      },
+      "checkedAt": "2026-11-16T20:54:32.510681+00:00",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Premi%C3%A8re_Z%C3%BCndapp.jpg/960px-Premi%C3%A8re_Z%C3%BCndapp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalImportedAt": "2026-11-16T20:54:32.510681+00:00",
+      "mediaKind": "illustration",
+      "local": {
+        "480": "/images/1921-zundapp-z22-df3bdb34e471-480.webp",
+        "800": "/images/1921-zundapp-z22-df3bdb34e471-800.webp",
+        "1600": "/images/1921-zundapp-z22-df3bdb34e471-1600.webp"
+      },
+      "image": "/images/1921-zundapp-z22-df3bdb34e471-1600.webp",
+      "match": "exact",
+      "reviewNote": "Illustration de la Zündapp Z 22.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-16"
+    },
+    "image": "/images/1921-zundapp-z22-df3bdb34e471-1600.webp",
+    "gallery": [],
+    "photoStatus": "exact",
+    "photoStatusNote": "Illustration de la Zündapp Z 22."
+  },
+  {
+    "id": "1922-banshee-269",
+    "brand": "Banshee",
+    "model": "269 — exemplaire BMCT 1922",
+    "year": null,
+    "endYear": null,
+    "country": "Royaume-Uni",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Banshee 269 — exemplaire BMCT 1922. Construction attribuée à 1922 par British Motorcycle Charitable Trust. Les données non établies restent inconnues.",
+    "sourcePage": "https://www.bmct.org/the-collection",
+    "documentation": [
+      {
+        "provider": "British Motorcycle Charitable Trust",
+        "title": "Collection — Banshee 269 et Hazlewood V-twin, 1922",
+        "url": "https://www.bmct.org/the-collection",
+        "role": "complementary",
+        "checkedAt": "2026-11-08"
+      }
+    ],
     "photo": null,
     "image": "/image-unavailable.svg",
     "gallery": [],
     "photoStatus": "none",
-    "photoStatusNote": "Aucune photo des premières constructions de 1921 validée."
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1922-hazlewood-combination",
+    "brand": "Hazlewood",
+    "model": "V-twin Combination — exemplaire BMCT 1922",
+    "year": null,
+    "endYear": null,
+    "country": "Royaume-Uni",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Hazlewood V-twin Combination — exemplaire BMCT 1922. Construction attribuée à 1922 par British Motorcycle Charitable Trust. Les données non établies restent inconnues.",
+    "sourcePage": "https://www.bmct.org/the-collection",
+    "documentation": [
+      {
+        "provider": "British Motorcycle Charitable Trust",
+        "title": "Collection — Banshee 269 et Hazlewood V-twin, 1922",
+        "url": "https://www.bmct.org/the-collection",
+        "role": "complementary",
+        "checkedAt": "2026-11-08"
+      }
+    ],
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1922-brough-mark1",
+    "brand": "Brough Superior",
+    "model": "Mark 1 — exemplaire de musée 1922",
+    "year": null,
+    "endYear": null,
+    "country": "Royaume-Uni",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Brough Superior Mark 1 — exemplaire de musée 1922. Construction attribuée à 1922 par Deutsches Zweirad- und NSU-Museum. Les données non établies restent inconnues.",
+    "sourcePage": "https://demomu.de/project/1922-brough-superior-markk1-1000/",
+    "documentation": [
+      {
+        "provider": "Deutsches Zweirad- und NSU-Museum",
+        "title": "1922 Brough Superior Mark1 1000",
+        "url": "https://demomu.de/project/1922-brough-superior-markk1-1000/",
+        "role": "complementary",
+        "checkedAt": "2026-11-08"
+      }
+    ],
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1922-rudge-multi",
+    "brand": "Rudge-Whitworth",
+    "model": "Multi — DS7868, fabrication 1922",
+    "year": null,
+    "endYear": null,
+    "country": "Royaume-Uni",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Rudge-Whitworth Multi — DS7868, fabrication 1922. Construction attribuée à 1922 par Lakeland Motor Museum. Les données non établies restent inconnues.",
+    "sourcePage": "https://www.lakelandmotormuseum.co.uk/collections/featured-collections/motorcycles-scooters/1922-rudge-multi",
+    "documentation": [
+      {
+        "provider": "Lakeland Motor Museum",
+        "title": "Rudge Multi — Year of Manufacture 1922, DS7868",
+        "url": "https://www.lakelandmotormuseum.co.uk/collections/featured-collections/motorcycles-scooters/1922-rudge-multi",
+        "role": "complementary",
+        "checkedAt": "2026-11-08"
+      }
+    ],
+    "photo": {
+      "fileTitle": "File:Rudge Multi 500 cc 1921.jpg",
+      "pageId": 2952595,
+      "sourceSha1": "9bef5630075ce5d155d507e70ceaa5d88086ed73",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Rudge_Multi_500_cc_1921.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Rudge_Multi_500_cc_1921.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Rudge_Multi_500_cc_1921.jpg",
+      "author": "Piero at Dutch Wikipedia",
+      "attribution": "Yesterdays Antique Motorcycles en Classic Motorcycle Archive",
+      "creditLine": "Transferred from nl.wikipedia to Commons.",
+      "width": 640,
+      "height": 480,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-17T09:31:48.394099+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Rudge_Multi_500_cc_1921.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImportedAt": "2026-11-17T09:31:48.394099+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/1922-rudge-multi-6a6d9502f370-480.webp",
+        "800": "/images/1922-rudge-multi-6a6d9502f370-800.webp",
+        "1600": "/images/1922-rudge-multi-6a6d9502f370-1600.webp"
+      },
+      "image": "/images/1922-rudge-multi-6a6d9502f370-1600.webp",
+      "match": "approximate",
+      "reviewNote": "Rudge Multi 500 de 1921, même famille que l’exemplaire de 1922.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-17"
+    },
+    "image": "/images/1922-rudge-multi-6a6d9502f370-1600.webp",
+    "gallery": [],
+    "photoStatus": "approximate",
+    "photoStatusNote": "Rudge Multi 500 de 1921, même famille que l’exemplaire de 1922."
+  },
+  {
+    "id": "1922-rudge-vtwin",
+    "brand": "Rudge-Whitworth",
+    "model": "V-twin de records — janvier 1922",
+    "year": null,
+    "endYear": null,
+    "country": "Royaume-Uni",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Rudge-Whitworth V-twin de records — janvier 1922. Construction attribuée à 1922 par Brooklands Museum. Les données non établies restent inconnues.",
+    "sourcePage": "https://www.brooklandsmuseum.com/whats-on/calendar/behind-the-scenes-tour-rudge-v-twin-motorcycle/",
+    "documentation": [
+      {
+        "provider": "Brooklands Museum",
+        "title": "Rudge V-twin — built to order in January 1922",
+        "url": "https://www.brooklandsmuseum.com/whats-on/calendar/behind-the-scenes-tour-rudge-v-twin-motorcycle/",
+        "role": "complementary",
+        "checkedAt": "2026-11-08"
+      }
+    ],
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1922-triumph-ricardo",
+    "brand": "Triumph",
+    "model": "Ricardo — exemplaire Barber 1922",
+    "year": null,
+    "endYear": null,
+    "country": "Royaume-Uni",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Triumph Ricardo — exemplaire Barber 1922. Construction attribuée à 1922 par Barber Vintage Motorsports Museum. Les données non établies restent inconnues.",
+    "sourcePage": "https://www.barbermuseum.org/collection/",
+    "documentation": [
+      {
+        "provider": "Barber Vintage Motorsports Museum",
+        "title": "Collection — Triumph Ricardo, Douglas W/22 et Indian Scout, 1922",
+        "url": "https://www.barbermuseum.org/collection/",
+        "role": "complementary",
+        "checkedAt": "2026-11-08"
+      }
+    ],
+    "photo": {
+      "fileTitle": "File:1922 Triumph Model R \"Ricardo\" (3828471505).jpg",
+      "pageId": 29392185,
+      "sourceSha1": "fe1ffd6fe883a91c171b6b6879aab808d045531d",
+      "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/1922_Triumph_Model_R_%22Ricardo%22_%283828471505%29.jpg/960px-1922_Triumph_Model_R_%22Ricardo%22_%283828471505%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/1922_Triumph_Model_R_%22Ricardo%22_%283828471505%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:1922_Triumph_Model_R_%22Ricardo%22_(3828471505).jpg",
+      "author": "Craig Howell from San Carlos, CA, USA",
+      "attribution": "",
+      "creditLine": "1922 Triumph Model R \"Ricardo\"",
+      "width": 3648,
+      "height": 2736,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/",
+        "shareAlike": false,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-08T18:09:12.754550+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/1922_Triumph_Model_R_%22Ricardo%22_%283828471505%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImportedAt": "2026-11-08T18:09:12.754550+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/1922-triumph-ricardo-ab2576a5f1cf-480.webp",
+        "800": "/images/1922-triumph-ricardo-ab2576a5f1cf-800.webp",
+        "1600": "/images/1922-triumph-ricardo-ab2576a5f1cf-1600.webp"
+      },
+      "image": "/images/1922-triumph-ricardo-ab2576a5f1cf-1600.webp",
+      "match": "approximate",
+      "reviewNote": "Autre exemplaire Triumph Model R Ricardo de 1922 ; identité avec la machine Barber non établie.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-08"
+    },
+    "image": "/images/1922-triumph-ricardo-ab2576a5f1cf-1600.webp",
+    "gallery": [],
+    "photoStatus": "approximate",
+    "photoStatusNote": "Autre exemplaire Triumph Model R Ricardo de 1922 ; identité avec la machine Barber non établie."
+  },
+  {
+    "id": "1922-douglas-w22",
+    "brand": "Douglas",
+    "model": "W/22 — exemplaire Barber 1922",
+    "year": null,
+    "endYear": null,
+    "country": "Royaume-Uni",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Douglas W/22 — exemplaire Barber 1922. Construction attribuée à 1922 par Barber Vintage Motorsports Museum. Les données non établies restent inconnues.",
+    "sourcePage": "https://www.barbermuseum.org/collection/",
+    "documentation": [
+      {
+        "provider": "Barber Vintage Motorsports Museum",
+        "title": "Collection — Triumph Ricardo, Douglas W/22 et Indian Scout, 1922",
+        "url": "https://www.barbermuseum.org/collection/",
+        "role": "complementary",
+        "checkedAt": "2026-11-08"
+      }
+    ],
+    "photo": {
+      "fileTitle": "File:1922 Douglas W 22 350 cc side valve 2¾ HP.jpg",
+      "pageId": 69594966,
+      "sourceSha1": "22a02bfeb54b1f616b7688e62258910bfce92690",
+      "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/1922_Douglas_W_22_350_cc_side_valve_2%C2%BE_HP.jpg/960px-1922_Douglas_W_22_350_cc_side_valve_2%C2%BE_HP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/1922_Douglas_W_22_350_cc_side_valve_2%C2%BE_HP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:1922_Douglas_W_22_350_cc_side_valve_2%C2%BE_HP.jpg",
+      "author": "Yesterdays Antique Motorcycles",
+      "attribution": "",
+      "creditLine": "https://www.yesterdays.nl/product/douglas-1922-2%c2%behp-350cc-2-cyl-sv-2/",
+      "width": 989,
+      "height": 554,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-16T20:54:32.510681+00:00",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/1922_Douglas_W_22_350_cc_side_valve_2%C2%BE_HP.jpg/960px-1922_Douglas_W_22_350_cc_side_valve_2%C2%BE_HP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalImportedAt": "2026-11-16T20:54:32.510681+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/1922-douglas-w22-2fd31874fd42-480.webp",
+        "800": "/images/1922-douglas-w22-2fd31874fd42-800.webp",
+        "1600": "/images/1922-douglas-w22-2fd31874fd42-1600.webp"
+      },
+      "image": "/images/1922-douglas-w22-2fd31874fd42-1600.webp",
+      "match": "approximate",
+      "reviewNote": "Douglas W/22 de 1922, autre exemplaire.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-16"
+    },
+    "image": "/images/1922-douglas-w22-2fd31874fd42-1600.webp",
+    "gallery": [],
+    "photoStatus": "approximate",
+    "photoStatusNote": "Douglas W/22 de 1922, autre exemplaire."
+  },
+  {
+    "id": "1922-indian-scout",
+    "brand": "Indian",
+    "model": "Scout — exemplaire Barber 1922",
+    "year": null,
+    "endYear": null,
+    "country": "États-Unis",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Indian Scout — exemplaire Barber 1922. Construction attribuée à 1922 par Barber Vintage Motorsports Museum. Les données non établies restent inconnues.",
+    "sourcePage": "https://www.barbermuseum.org/collection/",
+    "documentation": [
+      {
+        "provider": "Barber Vintage Motorsports Museum",
+        "title": "Collection — Triumph Ricardo, Douglas W/22 et Indian Scout, 1922",
+        "url": "https://www.barbermuseum.org/collection/",
+        "role": "complementary",
+        "checkedAt": "2026-11-08"
+      }
+    ],
+    "photo": {
+      "fileTitle": "File:1922 Indian Scout 600cc (14788988671).jpg",
+      "pageId": 40645437,
+      "sourceSha1": "6923c7ef8434ee2d746dd46e7f004fd40c825040",
+      "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/1922_Indian_Scout_600cc_%2814788988671%29.jpg/960px-1922_Indian_Scout_600cc_%2814788988671%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/1922_Indian_Scout_600cc_%2814788988671%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:1922_Indian_Scout_600cc_(14788988671).jpg",
+      "author": "Sicnag",
+      "attribution": "",
+      "creditLine": "1922 Indian Scout 600cc",
+      "width": 5184,
+      "height": 3456,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/",
+        "shareAlike": false,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-08T18:09:12.754550+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/1922_Indian_Scout_600cc_%2814788988671%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImportedAt": "2026-11-08T18:09:12.754550+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/1922-indian-scout-9a44a0285d2f-480.webp",
+        "800": "/images/1922-indian-scout-9a44a0285d2f-800.webp",
+        "1600": "/images/1922-indian-scout-9a44a0285d2f-1600.webp"
+      },
+      "image": "/images/1922-indian-scout-9a44a0285d2f-1600.webp",
+      "match": "approximate",
+      "reviewNote": "Autre exemplaire Indian Scout daté 1922 ; les caractéristiques du cartel ne sont pas transposées à l’objet Barber.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-08"
+    },
+    "image": "/images/1922-indian-scout-9a44a0285d2f-1600.webp",
+    "gallery": [],
+    "photoStatus": "approximate",
+    "photoStatusNote": "Autre exemplaire Indian Scout daté 1922 ; les caractéristiques du cartel ne sont pas transposées à l’objet Barber."
+  },
+  {
+    "id": "1922-gillet-1000",
+    "brand": "Gillet-Herstal",
+    "model": "1000 MAG — exemplaire Campion 1922",
+    "year": null,
+    "endYear": null,
+    "country": "Belgique",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Gillet-Herstal 1000 MAG — exemplaire Campion 1922. Construction attribuée à 1922 par François-Marie Dumas / archives Yves Campion. Les données non établies restent inconnues.",
+    "sourcePage": "https://www.moto-collection.org/blog/la-gillet-herstal-1000-au-salon-moto-legende/",
+    "documentation": [
+      {
+        "provider": "François-Marie Dumas / archives Yves Campion",
+        "title": "Gillet-Herstal 1000 MAG — exemplaire et archives 1922",
+        "url": "https://www.moto-collection.org/blog/la-gillet-herstal-1000-au-salon-moto-legende/",
+        "role": "complementary",
+        "checkedAt": "2026-11-08"
+      }
+    ],
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1922-zundapp-z2g",
+    "brand": "Zündapp",
+    "model": "Z 2 G — version deux rapports 1922",
+    "year": null,
+    "endYear": null,
+    "country": "Allemagne",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Zündapp Z 2 G — version deux rapports 1922. Construction attribuée à 1922 par Zündapp KS601 Club. Les données non établies restent inconnues.",
+    "sourcePage": "https://xn--zndapp-ks601-club-22b.de/die-firmengeschichte-von-zundapp/2/",
+    "documentation": [
+      {
+        "provider": "Zündapp KS601 Club",
+        "title": "Chronologie Zündapp — fabrication Z2G en 1922",
+        "url": "https://xn--zndapp-ks601-club-22b.de/die-firmengeschichte-von-zundapp/2/",
+        "role": "complementary",
+        "checkedAt": "2026-11-08"
+      }
+    ],
+    "photo": {
+      "fileTitle": "File:Première Zündapp.jpg",
+      "pageId": 154375417,
+      "sourceSha1": "04c683cc0da0211a989c5b6c3b8f684b6ed228ec",
+      "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Premi%C3%A8re_Z%C3%BCndapp.jpg/960px-Premi%C3%A8re_Z%C3%BCndapp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Premi%C3%A8re_Z%C3%BCndapp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Premi%C3%A8re_Z%C3%BCndapp.jpg",
+      "author": "Ulrich Kubisch",
+      "attribution": "",
+      "creditLine": "Zündapp Aufstieg und Niedergang",
+      "width": 1392,
+      "height": 860,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "shareAlike": false,
+        "attributionRequired": false,
+        "reason": "Domaine public ou CC0 identifié dans extmetadata"
+      },
+      "checkedAt": "2026-11-16T20:54:32.510681+00:00",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Premi%C3%A8re_Z%C3%BCndapp.jpg/960px-Premi%C3%A8re_Z%C3%BCndapp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalImportedAt": "2026-11-16T20:54:32.510681+00:00",
+      "mediaKind": "illustration",
+      "local": {
+        "480": "/images/1922-zundapp-z2g-df3bdb34e471-480.webp",
+        "800": "/images/1922-zundapp-z2g-df3bdb34e471-800.webp",
+        "1600": "/images/1922-zundapp-z2g-df3bdb34e471-1600.webp"
+      },
+      "image": "/images/1922-zundapp-z2g-df3bdb34e471-1600.webp",
+      "match": "approximate",
+      "reviewNote": "Illustration de la Z 22, modèle parent de la Z 2 G à deux rapports.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-16"
+    },
+    "image": "/images/1922-zundapp-z2g-df3bdb34e471-1600.webp",
+    "gallery": [],
+    "photoStatus": "approximate",
+    "photoStatusNote": "Illustration de la Z 22, modèle parent de la Z 2 G à deux rapports."
+  },
+  {
+    "id": "1922-dkw-lomos",
+    "brand": "DKW",
+    "model": "Lomos 143 — Sesselrad 1922",
+    "year": null,
+    "endYear": null,
+    "country": "Allemagne",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "DKW Lomos 143 — Sesselrad 1922. Construction attribuée à 1922 par Stadt Zschopau. Les données non établies restent inconnues.",
+    "sourcePage": "https://www.zschopau.de/sites/default/files/downloads/2022-02/Zschopau_Februar_2022_Internet.pdf",
+    "documentation": [
+      {
+        "provider": "Stadt Zschopau",
+        "title": "Bulletin de Zschopau février 2022, p.27 — Vor 100 Jahren 1922",
+        "url": "https://www.zschopau.de/sites/default/files/downloads/2022-02/Zschopau_Februar_2022_Internet.pdf",
+        "role": "primary",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "provider": "Motorostalgie — références de catalogues muséaux",
+        "title": "Sesselräder — Lomos Baujahr 1922, musée Augustusburg",
+        "url": "https://motorostalgie.de/vorgeschichte-2/vorgeschichte/dkw/dkw-zweiraeder/dkw-sesselraeder",
+        "role": "complementary",
+        "checkedAt": "2026-11-08"
+      }
+    ],
+    "photo": {
+      "fileTitle": "File:DKW Lomos, Bj. 1923, v. (museum mobile 2013-09-03).JPG",
+      "pageId": 29174184,
+      "sourceSha1": "264a463537b35b52b2283c0d8900d73eddd40f2c",
+      "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/DKW_Lomos%2C_Bj._1923%2C_v._%28museum_mobile_2013-09-03%29.JPG/960px-DKW_Lomos%2C_Bj._1923%2C_v._%28museum_mobile_2013-09-03%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DKW_Lomos%2C_Bj._1923%2C_v._%28museum_mobile_2013-09-03%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:DKW_Lomos,_Bj._1923,_v._(museum_mobile_2013-09-03).JPG",
+      "author": "Lothar Spurzem",
+      "attribution": "",
+      "creditLine": "Own work",
+      "width": 3713,
+      "height": 3454,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY-SA 2.0 DE",
+        "url": "https://creativecommons.org/licenses/by-sa/2.0/de/",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-16T20:54:32.510681+00:00",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/DKW_Lomos%2C_Bj._1923%2C_v._%28museum_mobile_2013-09-03%29.JPG/960px-DKW_Lomos%2C_Bj._1923%2C_v._%28museum_mobile_2013-09-03%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalImportedAt": "2026-11-16T20:54:32.510681+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/1922-dkw-lomos-0ff741e2afc9-480.webp",
+        "800": "/images/1922-dkw-lomos-0ff741e2afc9-800.webp",
+        "1600": "/images/1922-dkw-lomos-0ff741e2afc9-1600.webp"
+      },
+      "image": "/images/1922-dkw-lomos-0ff741e2afc9-1600.webp",
+      "match": "approximate",
+      "reviewNote": "DKW Lomos de 1923 conservé au musée Audi.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-16"
+    },
+    "image": "/images/1922-dkw-lomos-0ff741e2afc9-1600.webp",
+    "gallery": [],
+    "photoStatus": "approximate",
+    "photoStatusNote": "DKW Lomos de 1923 conservé au musée Audi."
+  },
+  {
+    "id": "1922-nsu-pony",
+    "brand": "NSU",
+    "model": "Block 2 PS Pony — exemplaire 1922",
+    "year": null,
+    "endYear": null,
+    "country": "Allemagne",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "NSU Block 2 PS Pony — exemplaire 1922. Construction attribuée à 1922 par Deutsches Zweirad- und NSU-Museum. Les données non établies restent inconnues.",
+    "sourcePage": "https://demomu.de/project/1922-nsu-block-2-ps/",
+    "documentation": [
+      {
+        "provider": "Deutsches Zweirad- und NSU-Museum",
+        "title": "1922 NSU Block 2 PS Pony",
+        "url": "https://demomu.de/project/1922-nsu-block-2-ps/",
+        "role": "complementary",
+        "checkedAt": "2026-11-08"
+      }
+    ],
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1922-dkw-reichsfahrt",
+    "brand": "DKW",
+    "model": "Reichsfahrtmodell — fabrication au printemps 1922",
+    "year": null,
+    "endYear": null,
+    "country": "Allemagne",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "DKW Reichsfahrtmodell — fabrication au printemps 1922. Construction attribuée à 1922 par Stadt Zschopau. Les données non établies restent inconnues.",
+    "sourcePage": "https://www.zschopau.de/sites/default/files/downloads/2022-02/Zschopau_Februar_2022_Internet.pdf",
+    "documentation": [
+      {
+        "provider": "Stadt Zschopau",
+        "title": "Bulletin de Zschopau février 2022, p.27 — Vor 100 Jahren 1922",
+        "url": "https://www.zschopau.de/sites/default/files/downloads/2022-02/Zschopau_Februar_2022_Internet.pdf",
+        "role": "primary",
+        "checkedAt": "2026-11-08"
+      }
+    ],
+    "photo": {
+      "fileTitle": "File:DKW Reichsfahrtmodell (Museum für sächsische Fahrzeuge).JPG",
+      "pageId": 109634463,
+      "sourceSha1": "405e5d6319ec400d226c549c3b48413233fa455b",
+      "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/DKW_Reichsfahrtmodell_%28Museum_f%C3%BCr_s%C3%A4chsische_Fahrzeuge%29.JPG/960px-DKW_Reichsfahrtmodell_%28Museum_f%C3%BCr_s%C3%A4chsische_Fahrzeuge%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/DKW_Reichsfahrtmodell_%28Museum_f%C3%BCr_s%C3%A4chsische_Fahrzeuge%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:DKW_Reichsfahrtmodell_(Museum_f%C3%BCr_s%C3%A4chsische_Fahrzeuge).JPG",
+      "author": "Ch vik",
+      "attribution": "",
+      "creditLine": "Own work",
+      "width": 2663,
+      "height": 2786,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY 3.0",
+        "url": "https://creativecommons.org/licenses/by/3.0/",
+        "shareAlike": false,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-08T18:09:12.754550+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/DKW_Reichsfahrtmodell_%28Museum_f%C3%BCr_s%C3%A4chsische_Fahrzeuge%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImportedAt": "2026-11-08T18:09:12.754550+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/1922-dkw-reichsfahrt-2b6c630c7135-480.webp",
+        "800": "/images/1922-dkw-reichsfahrt-2b6c630c7135-800.webp",
+        "1600": "/images/1922-dkw-reichsfahrt-2b6c630c7135-1600.webp"
+      },
+      "image": "/images/1922-dkw-reichsfahrt-2b6c630c7135-1600.webp",
+      "match": "approximate",
+      "reviewNote": "Exemplaire du Reichsfahrtmodell daté 1922 dans un autre musée ; illustration du modèle, sans identité d’objet présumée.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-08"
+    },
+    "image": "/images/1922-dkw-reichsfahrt-2b6c630c7135-1600.webp",
+    "gallery": [],
+    "photoStatus": "approximate",
+    "photoStatusNote": "Exemplaire du Reichsfahrtmodell daté 1922 dans un autre musée ; illustration du modèle, sans identité d’objet présumée."
+  },
+  {
+    "id": "1922-gnome-rhone-abc",
+    "brand": "Gnome & Rhône",
+    "model": "ABC 400 — exemplaire français 1922",
+    "year": null,
+    "endYear": null,
+    "country": "France",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Gnome & Rhône ABC 400 — exemplaire français 1922. Construction attribuée à 1922 par Fédération Française des Véhicules d’Époque. Les données non établies restent inconnues.",
+    "sourcePage": "https://www.ffve.org/wp-content/uploads/2024/10/authentique-2019-numero5.pdf",
+    "documentation": [
+      {
+        "provider": "Fédération Française des Véhicules d’Époque",
+        "title": "L’Authentique FFVE nº5, pp.57–59 — ABC 400 Gnome & Rhône de 1922",
+        "url": "https://www.ffve.org/wp-content/uploads/2024/10/authentique-2019-numero5.pdf",
+        "role": "complementary",
+        "checkedAt": "2026-11-08"
+      }
+    ],
+    "photo": {
+      "fileTitle": "File:Rétromobile 2017 - ABC Gnome & Rhône 400 cc - 1922 - 001.jpg",
+      "pageId": 63958316,
+      "sourceSha1": "2f6864e94307a0c74a4ca24c48dcbd954d740387",
+      "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/R%C3%A9tromobile_2017_-_ABC_Gnome_%26_Rh%C3%B4ne_400_cc_-_1922_-_001.jpg/960px-R%C3%A9tromobile_2017_-_ABC_Gnome_%26_Rh%C3%B4ne_400_cc_-_1922_-_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/R%C3%A9tromobile_2017_-_ABC_Gnome_%26_Rh%C3%B4ne_400_cc_-_1922_-_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:R%C3%A9tromobile_2017_-_ABC_Gnome_%26_Rh%C3%B4ne_400_cc_-_1922_-_001.jpg",
+      "author": "Thesupermat",
+      "attribution": "",
+      "creditLine": "Own work",
+      "width": 5472,
+      "height": 3648,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-08T18:09:12.754550+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/R%C3%A9tromobile_2017_-_ABC_Gnome_%26_Rh%C3%B4ne_400_cc_-_1922_-_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImportedAt": "2026-11-08T18:09:12.754550+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/1922-gnome-rhone-abc-5b34a00c1c1f-480.webp",
+        "800": "/images/1922-gnome-rhone-abc-5b34a00c1c1f-800.webp",
+        "1600": "/images/1922-gnome-rhone-abc-5b34a00c1c1f-1600.webp"
+      },
+      "image": "/images/1922-gnome-rhone-abc-5b34a00c1c1f-1600.webp",
+      "match": "approximate",
+      "reviewNote": "ABC Gnome & Rhône 400 de 1922 photographiée à Rétromobile 2017 ; même version française, identité avec l’exemplaire FFVE non établie.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-08"
+    },
+    "image": "/images/1922-gnome-rhone-abc-5b34a00c1c1f-1600.webp",
+    "gallery": [],
+    "photoStatus": "approximate",
+    "photoStatusNote": "ABC Gnome & Rhône 400 de 1922 photographiée à Rétromobile 2017 ; même version française, identité avec l’exemplaire FFVE non établie."
+  },
+  {
+    "id": "1922-bsa-twin-sidecar",
+    "brand": "BSA",
+    "model": "Bicylindre avec side-car — objet 1963-321, 1922",
+    "year": null,
+    "endYear": null,
+    "country": "Royaume-Uni",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "BSA Bicylindre avec side-car — objet 1963-321, 1922. Construction attribuée à 1922 par Science Museum Group / Museums Association. Les données non établies restent inconnues.",
+    "sourcePage": "https://crm-media.museumsassociation.org/SMG-Transfers-Advert-August-to-October-2024.pdf",
+    "documentation": [
+      {
+        "provider": "Science Museum Group / Museums Association",
+        "title": "Liste de transfert SMG 2024, p.3 — BSA 1963-321, 1922",
+        "url": "https://crm-media.museumsassociation.org/SMG-Transfers-Advert-August-to-October-2024.pdf",
+        "role": "complementary",
+        "checkedAt": "2026-11-08"
+      }
+    ],
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1923-bmw-r32",
+    "brand": "BMW",
+    "model": "R 32",
+    "year": null,
+    "endYear": null,
+    "country": "Allemagne",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Les archives BMW datent la fabrication de 1923 à 1926 et la présentation au Salon de Berlin de 1923. Le bicylindre boxer entraîne la roue arrière par arbre.",
+    "sourcePage": "https://www.bmwgroup-classic.com/de/modelle/bmw-motorrad-klassiker/product-description-page.md-569-1.bmw-r-32.html",
+    "photo": {
+      "fileTitle": "File:BMW Museum IMG 20141113 102553 (15239635494).jpg",
+      "pageId": 40509326,
+      "sourceSha1": "e276c158684443d31f79dc226b8db618a9582e12",
+      "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/BMW_Museum_IMG_20141113_102553_%2815239635494%29.jpg/960px-BMW_Museum_IMG_20141113_102553_%2815239635494%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/BMW_Museum_IMG_20141113_102553_%2815239635494%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:BMW_Museum_IMG_20141113_102553_(15239635494).jpg",
+      "author": "Nathanael Burton",
+      "attribution": "",
+      "creditLine": "IMG_20141113_102553",
+      "width": 4160,
+      "height": 2340,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY-SA 2.0",
+        "url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-17T09:39:25.863031+00:00",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/BMW_Museum_IMG_20141113_102553_%2815239635494%29.jpg/960px-BMW_Museum_IMG_20141113_102553_%2815239635494%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalImportedAt": "2026-11-17T09:39:25.863031+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/1923-bmw-r32-ef16303c2492-480.webp",
+        "800": "/images/1923-bmw-r32-ef16303c2492-800.webp",
+        "1600": "/images/1923-bmw-r32-ef16303c2492-1600.webp"
+      },
+      "image": "/images/1923-bmw-r32-ef16303c2492-1600.webp",
+      "match": "approximate",
+      "reviewNote": "BMW R 32 photographiée au musée BMW. Le millésime de cet exemplaire reste à établir.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-17"
+    },
+    "image": "/images/1923-bmw-r32-ef16303c2492-1600.webp",
+    "gallery": [],
+    "photoStatus": "approximate",
+    "photoStatusNote": "BMW R 32 photographiée au musée BMW. Le millésime de cet exemplaire reste à établir."
+  },
+  {
+    "id": "1923-carfield-baby",
+    "brand": "Carfield",
+    "model": "Baby",
+    "year": null,
+    "endYear": null,
+    "country": "Royaume-Uni",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Le British Motorcycle Charitable Trust conserve une Carfield Baby de 1923 à moteur deux-temps de 147 cm³.",
+    "sourcePage": "https://www.bmct.org/the-collection",
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1923-new-hudson-combination",
+    "brand": "New Hudson",
+    "model": "4½ HP Combination",
+    "year": null,
+    "endYear": null,
+    "country": "Royaume-Uni",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "L’attelage New Hudson de 1923 figure dans la collection du British Motorcycle Charitable Trust. Le side-car équipe une motocyclette à deux roues.",
+    "sourcePage": "https://www.bmct.org/the-collection",
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1923-ace-four",
+    "brand": "Ace",
+    "model": "Four — exemplaire restauré",
+    "year": null,
+    "endYear": null,
+    "country": "États-Unis",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Le National Motorcycle Museum documente une Ace Four restaurée datée de 1923. William Henderson développa ce quatre-cylindres à Philadelphie sous la marque Ace.",
+    "sourcePage": "https://nationalmcmuseum.org/2016/03/05/1923-ace-four-cylinder/",
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1923-douglas-ra",
+    "brand": "Douglas",
+    "model": "RA — attelage de compétition 598 cm³",
+    "year": null,
+    "endYear": null,
+    "country": "Royaume-Uni",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "La collection Milntown conserve une Douglas RA de 1923 associée au TT side-car. La notice identifie le bicylindre longitudinal de 598 cm³ et les freins à disque.",
+    "sourcePage": "https://milntown.org/vehicles/",
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1924-bmw-r37-prototype",
+    "brand": "BMW",
+    "model": "R 37 — prototypes de la Solitude",
+    "year": null,
+    "endYear": null,
+    "country": "Allemagne",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "BMW documente trois prototypes engagés en 1924. La présentation du modèle de série date de 1925. L’archive ne donne pas les dates d’assemblage des trois châssis individuellement.",
+    "sourcePage": "https://www.bmwgroup.com/de/news/allgemein/2023/100-years-bmw-motorrad.html",
+    "photo": {
+      "fileTitle": "File:BMW R 37, Bj. 1925-26 (2011-08-13 Sp) 01.jpg",
+      "pageId": 16088994,
+      "sourceSha1": "83e7a1abba0d13161d3ce4bdee9956dec4c4b3db",
+      "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/BMW_R_37%2C_Bj._1925-26_%282011-08-13_Sp%29_01.jpg/960px-BMW_R_37%2C_Bj._1925-26_%282011-08-13_Sp%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/BMW_R_37%2C_Bj._1925-26_%282011-08-13_Sp%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:BMW_R_37,_Bj._1925-26_(2011-08-13_Sp)_01.jpg",
+      "author": "Lothar Spurzem",
+      "attribution": "",
+      "creditLine": "Own work",
+      "width": 2742,
+      "height": 2147,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY-SA 2.0 DE",
+        "url": "https://creativecommons.org/licenses/by-sa/2.0/de/",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-17T09:46:53.722183+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/BMW_R_37%2C_Bj._1925-26_%282011-08-13_Sp%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImportedAt": "2026-11-17T09:46:53.722183+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/1924-bmw-r37-prototype-76da4f950a90-480.webp",
+        "800": "/images/1924-bmw-r37-prototype-76da4f950a90-800.webp",
+        "1600": "/images/1924-bmw-r37-prototype-76da4f950a90-1600.webp"
+      },
+      "image": "/images/1924-bmw-r37-prototype-76da4f950a90-1600.webp",
+      "match": "approximate",
+      "reviewNote": "R 37 de série 1925–1926. Elle illustre la famille des prototypes de course sans identifier l’un des trois exemplaires de 1924.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-17"
+    },
+    "image": "/images/1924-bmw-r37-prototype-76da4f950a90-1600.webp",
+    "gallery": [],
+    "photoStatus": "approximate",
+    "photoStatusNote": "R 37 de série 1925–1926. Elle illustre la famille des prototypes de course sans identifier l’un des trois exemplaires de 1924."
+  },
+  {
+    "id": "1924-bsa-model-l-sv",
+    "brand": "BSA",
+    "model": "Model L 2¾ HP — soupapes latérales",
+    "year": null,
+    "endYear": null,
+    "country": "Royaume-Uni",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Classic Motorcycle Mecca conserve une Model L 2¾ HP à soupapes latérales datée de 1924. Le nom Model L a aussi été utilisé pour des variantes à soupapes en tête.",
+    "sourcePage": "https://www.motorcyclemecca.nz/collection/british-bikes/bsa-motorcycles/1924-bsa-2-34hp-side-valve-model-l/",
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1924-ace-sporting-solo",
+    "brand": "Ace",
+    "model": "Sporting Solo — exemplaire danois",
+    "year": null,
+    "endYear": null,
+    "country": "États-Unis",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Le Danmarks Motorcykelmuseum inventorie une Sporting Solo de 1924, quatre cylindres en ligne de 1272 cm³. Elle est distincte de l’Ace Four routière documentée en 1923.",
+    "sourcePage": "https://www.danmarksmotorcykelmuseum.dk/en/mc-1897-1925/",
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1924-sparkbrook-350",
+    "brand": "Sparkbrook",
+    "model": "350 SV",
+    "year": null,
+    "endYear": null,
+    "country": "Royaume-Uni",
+    "category": "Pionnière",
+    "engine": null,
+    "power": null,
+    "weight": null,
+    "description": "Le British Motorcycle Charitable Trust conserve une Sparkbrook 350 à soupapes latérales, datée de 1924.",
+    "sourcePage": "https://www.bmct.org/the-collection",
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1925-bmw-r37-serie",
+    "brand": "BMW",
+    "model": "R 37 — série",
+    "year": null,
+    "endYear": null,
+    "country": "Allemagne",
+    "category": "Pionnière",
+    "description": "BMW Group Classic date la production de série de 1925 à 1926. Les prototypes de 1924 conservent leur fiche propre.",
+    "sourcePage": "https://www.bmwgroup-classic.com/en/models/bmw-motorcycle-classics/product-description-page.md-570-1.bmw-r-37.content.html",
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1925-bmw-r39",
+    "brand": "BMW",
+    "model": "R 39",
+    "year": null,
+    "endYear": null,
+    "country": "Allemagne",
+    "category": "Pionnière",
+    "description": "BMW Group Classic documente la R 39 comme le premier monocylindre BMW, entré dans la gamme en 1925.",
+    "sourcePage": "https://www.bmwgroup-classic.com/de/modelle/bmw-motorrad-klassiker/product-description-page.md-571-1.bmw-r-39.html",
+    "photo": {
+      "fileTitle": "File:1926 BMW R 39 im Deutsches Zweirad- und NSU-Museum Neckarsulm .jpg",
+      "pageId": 105135499,
+      "sourceSha1": "065d0cbcd448e448e333228fd8691045446ca46c",
+      "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/1926_BMW_R_39_im_Deutsches_Zweirad-_und_NSU-Museum_Neckarsulm_.jpg/960px-1926_BMW_R_39_im_Deutsches_Zweirad-_und_NSU-Museum_Neckarsulm_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/1926_BMW_R_39_im_Deutsches_Zweirad-_und_NSU-Museum_Neckarsulm_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:1926_BMW_R_39_im_Deutsches_Zweirad-_und_NSU-Museum_Neckarsulm_.jpg",
+      "author": "Zweiradmuseum Neckarsulm",
+      "attribution": "",
+      "creditLine": "Own work",
+      "width": 2048,
+      "height": 1366,
+      "mime": "image/jpeg",
+      "license": {
+        "status": "allowed",
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "shareAlike": true,
+        "attributionRequired": true,
+        "reason": "Licence et auteur identifiés dans extmetadata"
+      },
+      "checkedAt": "2026-11-17T10:28:06.408398+00:00",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/1926_BMW_R_39_im_Deutsches_Zweirad-_und_NSU-Museum_Neckarsulm_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImportedAt": "2026-11-17T10:28:06.408398+00:00",
+      "mediaKind": "photo",
+      "local": {
+        "480": "/images/1925-bmw-r39-52dce45b02e6-480.webp",
+        "800": "/images/1925-bmw-r39-52dce45b02e6-800.webp",
+        "1600": "/images/1925-bmw-r39-52dce45b02e6-1600.webp"
+      },
+      "image": "/images/1925-bmw-r39-52dce45b02e6-1600.webp",
+      "match": "approximate",
+      "reviewNote": "BMW R 39 de 1926, autre millésime de la série.",
+      "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+      "reviewedAt": "2026-11-17"
+    },
+    "image": "/images/1925-bmw-r39-52dce45b02e6-1600.webp",
+    "gallery": [],
+    "photoStatus": "approximate",
+    "photoStatusNote": "BMW R 39 de 1926, autre millésime de la série."
+  },
+  {
+    "id": "1925-beardmore-precision-500",
+    "brand": "Beardmore-Precision",
+    "model": "500 SV",
+    "year": null,
+    "endYear": null,
+    "country": "Royaume-Uni",
+    "category": "Pionnière",
+    "description": "Le British Motorcycle Charitable Trust documente une Beardmore-Precision 500 à soupapes latérales datée de 1925.",
+    "sourcePage": "https://www.bmct.org/the-collection",
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
+  },
+  {
+    "id": "1925-scott-flying-squirrel",
+    "brand": "Scott",
+    "model": "Flying Squirrel 498",
+    "year": null,
+    "endYear": null,
+    "country": "Royaume-Uni",
+    "category": "Pionnière",
+    "description": "Le British Motorcycle Charitable Trust conserve une Flying Squirrel 498 de 1925. Elle appartient à une autre gamme que la Scott 333 du catalogue.",
+    "sourcePage": "https://www.bmct.org/the-collection",
+    "photo": null,
+    "image": "/image-unavailable.svg",
+    "gallery": [],
+    "photoStatus": "none",
+    "photoStatusNote": "Aucune photo validée pour ce modèle."
   }
 ]

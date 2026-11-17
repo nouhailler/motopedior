@@ -1,0 +1,661 @@
+{
+  "sources": {
+    "bmct": {
+      "url": "https://www.bmct.org/the-collection",
+      "title": "Collection — Banshee 269 et Hazlewood V-twin, 1922",
+      "organization": "British Motorcycle Charitable Trust",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-08",
+      "author": null
+    },
+    "brough": {
+      "url": "https://demomu.de/project/1922-brough-superior-markk1-1000/",
+      "title": "1922 Brough Superior Mark1 1000",
+      "organization": "Deutsches Zweirad- und NSU-Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-08",
+      "author": null
+    },
+    "rudge": {
+      "url": "https://www.lakelandmotormuseum.co.uk/collections/featured-collections/motorcycles-scooters/1922-rudge-multi",
+      "title": "Rudge Multi — Year of Manufacture 1922, DS7868",
+      "organization": "Lakeland Motor Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-08",
+      "author": null
+    },
+    "rudgetwin": {
+      "url": "https://www.brooklandsmuseum.com/whats-on/calendar/behind-the-scenes-tour-rudge-v-twin-motorcycle/",
+      "title": "Rudge V-twin — built to order in January 1922",
+      "organization": "Brooklands Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-08",
+      "author": null
+    },
+    "barber": {
+      "url": "https://www.barbermuseum.org/collection/",
+      "title": "Collection — Triumph Ricardo, Douglas W/22 et Indian Scout, 1922",
+      "organization": "Barber Vintage Motorsports Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-08",
+      "author": null
+    },
+    "gillet": {
+      "url": "https://www.moto-collection.org/blog/la-gillet-herstal-1000-au-salon-moto-legende/",
+      "title": "Gillet-Herstal 1000 MAG — exemplaire et archives 1922",
+      "organization": "François-Marie Dumas / archives Yves Campion",
+      "reliability": "B",
+      "type": "historical_book",
+      "published_at": "2017-11-22",
+      "consulted_at": "2026-11-08",
+      "author": null
+    },
+    "z2g": {
+      "url": "https://xn--zndapp-ks601-club-22b.de/die-firmengeschichte-von-zundapp/2/",
+      "title": "Chronologie Zündapp — fabrication Z2G en 1922",
+      "organization": "Zündapp KS601 Club",
+      "reliability": "B",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-08",
+      "author": null
+    },
+    "zserial": {
+      "url": "https://zundapp-db200.nl/documents/zundappframenumbers.pdf",
+      "title": "Tableaux de numéros Z22 / Z2G / Z-Sport — portée de série",
+      "organization": "Zündapp DB200 documentation",
+      "reliability": "C",
+      "type": "secondary",
+      "published_at": null,
+      "consulted_at": "2026-11-08",
+      "author": null
+    },
+    "lomos": {
+      "url": "https://www.zschopau.de/sites/default/files/downloads/2022-02/Zschopau_Februar_2022_Internet.pdf",
+      "title": "Bulletin de Zschopau février 2022, p.27 — Vor 100 Jahren 1922",
+      "organization": "Stadt Zschopau",
+      "reliability": "A",
+      "type": "archive",
+      "published_at": "2022-02",
+      "consulted_at": "2026-11-08",
+      "author": null
+    },
+    "sesselrad": {
+      "url": "https://motorostalgie.de/vorgeschichte-2/vorgeschichte/dkw/dkw-zweiraeder/dkw-sesselraeder",
+      "title": "Sesselräder — Lomos Baujahr 1922, musée Augustusburg",
+      "organization": "Motorostalgie — références de catalogues muséaux",
+      "reliability": "B",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-08",
+      "author": null
+    },
+    "nsu": {
+      "url": "https://demomu.de/project/1922-nsu-block-2-ps/",
+      "title": "1922 NSU Block 2 PS Pony",
+      "organization": "Deutsches Zweirad- und NSU-Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": "2024-04-04",
+      "consulted_at": "2026-11-08",
+      "author": null
+    },
+    "abcfr": {
+      "url": "https://www.ffve.org/wp-content/uploads/2024/10/authentique-2019-numero5.pdf",
+      "title": "L’Authentique FFVE nº5, pp.57–59 — ABC 400 Gnome & Rhône de 1922",
+      "organization": "Fédération Française des Véhicules d’Époque",
+      "reliability": "B",
+      "type": "historical_book",
+      "published_at": "2019-02",
+      "consulted_at": "2026-11-08",
+      "author": null
+    },
+    "w1922": {
+      "url": "https://motorcyclemuseum.org/hall-of-famers-2/folder/hall-of-famers/entry/mcclean-robert",
+      "title": "Robert McClean — donation de sa Harley Sport Model 1922",
+      "organization": "AMA Motorcycle Hall of Fame",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-08",
+      "author": null
+    },
+    "bsa": {
+      "url": "https://crm-media.museumsassociation.org/SMG-Transfers-Advert-August-to-October-2024.pdf",
+      "title": "Liste de transfert SMG 2024, p.3 — BSA 1963-321, 1922",
+      "organization": "Science Museum Group / Museums Association",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-08",
+      "author": null
+    },
+    "motobecane": {
+      "url": "https://www.motobecane-club-de-france.fr/histoire-de-la-marque/",
+      "title": "Histoire Motobécane — création 1923 et MB1 1924",
+      "organization": "Motobécane Club de France",
+      "reliability": "B",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-08",
+      "author": null
+    },
+    "norton": {
+      "url": "https://www.moto-collection.org/moto-collection/fmd-moto-Norton-7101.htm",
+      "title": "Norton Model 18 — prototype à Brooklands en mars 1922, version décrite 1929",
+      "organization": "Mick Woollett / François-Marie Dumas",
+      "reliability": "B",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-08",
+      "author": null
+    },
+    "leloir": {
+      "url": "https://www.cybermotorcycle.com/marques/french/leloir.htm",
+      "title": "Leloir — identification 174 cm³ deux-temps, publicité 1922",
+      "organization": "Sheldon’s EMU / Cybermotorcycle",
+      "reliability": "C",
+      "type": "secondary",
+      "published_at": null,
+      "consulted_at": "2026-11-08",
+      "author": null
+    },
+    "chief": {
+      "url": "https://www.museonicolis.com/en/indian-chief-con-sidecar/",
+      "title": "Indian Chief avec side-car — attribution musée 1922, cylindrée à vérifier",
+      "organization": "Museo Nicolis",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-08",
+      "author": null
+    },
+    "jd": {
+      "url": "https://www.mototalbott.com/1922-harley-davidson-jd-racer",
+      "title": "1922 Harley Davidson JD Board Racer — désignation à recouper",
+      "organization": "Moto Talbott Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-08",
+      "author": null
+    },
+    "chief-press": {
+      "url": "https://www.repubblica.it/motori/motori/2012/03/12/foto/collezione_moto_museo_nicolis_di_villafranca-31387252/3/",
+      "title": "Collection Nicolis — photographie de presse, attribution 1921 à comparer",
+      "organization": "La Repubblica",
+      "reliability": "C",
+      "type": "secondary",
+      "published_at": "2012-03-12",
+      "consulted_at": null,
+      "author": null,
+      "notes": "Référence photographique repérée ; accès direct indisponible dans cette session. Comparaison de l’objet restant à effectuer, aucune assertion de construction validée sur cette référence."
+    }
+  },
+  "models": [
+    {
+      "id": "1922-banshee-269",
+      "name": "269 — exemplaire BMCT 1922",
+      "manufacturer": "Banshee Manufacturing Company",
+      "brand": "Banshee",
+      "origin_country": "Royaume-Uni",
+      "construction": {
+        "year": 1922,
+        "precision": "exact",
+        "note": "Exemplaire ou fabrication explicitement daté de 1922 ; aucune année de premier prototype déduite."
+      },
+      "sources": [
+        "bmct"
+      ],
+      "status": "production",
+      "technical": {
+        "engine_type": "Deux-temps",
+        "displacement_cc": 269
+      },
+      "description": "Banshee 269 — exemplaire BMCT 1922. Construction attribuée à 1922 par British Motorcycle Charitable Trust. Les données non établies restent inconnues.",
+      "imageQueries": [
+        "Banshee 269 1922"
+      ],
+      "mechanical_details": {
+        "engine_manufacturer": "Villiers",
+        "engine_cycle": "Deux-temps",
+        "clutch": null,
+        "engine_speed_rpm": null,
+        "final_drive": null,
+        "front_suspension": null,
+        "rear_suspension": null,
+        "front_brake": null,
+        "rear_brake": null,
+        "wheels": null
+      },
+      "technical_notes": "Fabrication Banshee à Bromsgrove, moteur Villiers. Ne pas transposer une boîte Albion d’une autre configuration de gamme.",
+      "manufacturer_city": "Bromsgrove"
+    },
+    {
+      "id": "1922-hazlewood-combination",
+      "name": "V-twin Combination — exemplaire BMCT 1922",
+      "manufacturer": "Hazlewoods Ltd",
+      "brand": "Hazlewood",
+      "origin_country": "Royaume-Uni",
+      "construction": {
+        "year": 1922,
+        "precision": "exact",
+        "note": "Exemplaire ou fabrication explicitement daté de 1922 ; aucune année de premier prototype déduite."
+      },
+      "sources": [
+        "bmct"
+      ],
+      "status": "production",
+      "technical": {
+        "engine_type": "Bicylindre en V à soupapes latérales",
+        "cylinders": 2,
+        "displacement_cc": 678
+      },
+      "description": "Hazlewood V-twin Combination — exemplaire BMCT 1922. Construction attribuée à 1922 par British Motorcycle Charitable Trust. Les données non établies restent inconnues.",
+      "imageQueries": [
+        "Hazlewood V-twin Combination 1922"
+      ],
+      "technical_notes": "Motocyclette avec side-car attelé : reste une moto à deux roues dans sa structure. Les références JAP et transmissions de modèles antérieurs ne sont pas recopiées.",
+      "manufacturer_city": "Coventry"
+    },
+    {
+      "id": "1922-brough-mark1",
+      "name": "Mark 1 — exemplaire de musée 1922",
+      "manufacturer": "Brough Superior",
+      "brand": "Brough Superior",
+      "origin_country": "Royaume-Uni",
+      "construction": {
+        "year": 1922,
+        "precision": "exact",
+        "note": "Exemplaire ou fabrication explicitement daté de 1922 ; aucune année de premier prototype déduite."
+      },
+      "sources": [
+        "brough"
+      ],
+      "status": "production",
+      "technical": {
+        "engine_type": "Bicylindre en V quatre-temps à soupapes latérales",
+        "cylinders": 2,
+        "displacement_cc": 980,
+        "gears": 3
+      },
+      "description": "Brough Superior Mark 1 — exemplaire de musée 1922. Construction attribuée à 1922 par Deutsches Zweirad- und NSU-Museum. Les données non établies restent inconnues.",
+      "imageQueries": [
+        "Brough Superior Mark 1 1922"
+      ],
+      "mechanical_details": {
+        "engine_manufacturer": "JAP KTC",
+        "engine_cycle": "Quatre-temps",
+        "clutch": null,
+        "engine_speed_rpm": null,
+        "final_drive": null,
+        "front_suspension": null,
+        "rear_suspension": null,
+        "front_brake": null,
+        "rear_brake": null,
+        "wheels": null
+      },
+      "technical_notes": "Boîte Sturmey-Archer trois rapports. Le nom de classe 1000 n’est pas une cylindrée exacte. Poids indiqué dans une fourchette et puissance en bhp : pas de chiffre précis ni conversion implicite ajoutés."
+    },
+    {
+      "id": "1922-rudge-multi",
+      "name": "Multi — DS7868, fabrication 1922",
+      "manufacturer": "Rudge-Whitworth",
+      "brand": "Rudge-Whitworth",
+      "origin_country": "Royaume-Uni",
+      "construction": {
+        "year": 1922,
+        "precision": "exact",
+        "note": "Exemplaire ou fabrication explicitement daté de 1922 ; aucune année de premier prototype déduite."
+      },
+      "sources": [
+        "rudge"
+      ],
+      "status": "production",
+      "technical": {
+        "engine_type": "F-head, admission superposée à l’échappement",
+        "displacement_cc": 500,
+        "transmission": "Variation continue Multi par poulies et courroie"
+      },
+      "description": "Rudge-Whitworth Multi — DS7868, fabrication 1922. Construction attribuée à 1922 par Lakeland Motor Museum. Les données non établies restent inconnues.",
+      "imageQueries": [
+        "Rudge-Whitworth Multi 1922"
+      ],
+      "technical_notes": "La date de fabrication de cet objet est explicitement 1922. La transmission Multi distingue cette version du prototype monocylindre antérieur."
+    },
+    {
+      "id": "1922-rudge-vtwin",
+      "name": "V-twin de records — janvier 1922",
+      "manufacturer": "Rudge-Whitworth",
+      "brand": "Rudge-Whitworth",
+      "origin_country": "Royaume-Uni",
+      "construction": {
+        "year": 1922,
+        "precision": "exact",
+        "note": "Exemplaire ou fabrication explicitement daté de 1922 ; aucune année de premier prototype déduite."
+      },
+      "sources": [
+        "rudgetwin"
+      ],
+      "status": "production",
+      "technical": {
+        "engine_type": "Bicylindre en V",
+        "cylinders": 2
+      },
+      "description": "Rudge-Whitworth V-twin de records — janvier 1922. Construction attribuée à 1922 par Brooklands Museum. Les données non établies restent inconnues.",
+      "imageQueries": [
+        "Rudge-Whitworth V-twin de records 1922"
+      ],
+      "specializations": [
+        "competition",
+        "record"
+      ],
+      "technical_notes": "Construction sur commande en janvier 1922 explicitement donnée par le musée, indépendamment des records de la saison."
+    },
+    {
+      "id": "1922-triumph-ricardo",
+      "name": "Ricardo — exemplaire Barber 1922",
+      "manufacturer": "Triumph",
+      "brand": "Triumph",
+      "origin_country": "Royaume-Uni",
+      "construction": {
+        "year": 1922,
+        "precision": "exact",
+        "note": "Exemplaire ou fabrication explicitement daté de 1922 ; aucune année de premier prototype déduite."
+      },
+      "sources": [
+        "barber"
+      ],
+      "status": "production",
+      "technical": {},
+      "description": "Triumph Ricardo — exemplaire Barber 1922. Construction attribuée à 1922 par Barber Vintage Motorsports Museum. Les données non établies restent inconnues.",
+      "imageQueries": [
+        "Triumph Ricardo 1922"
+      ],
+      "technical_notes": "La liste du musée identifie la version Ricardo ; aucune cylindrée, puissance ou configuration d’un autre exemplaire n’est déduite."
+    },
+    {
+      "id": "1922-douglas-w22",
+      "name": "W/22 — exemplaire Barber 1922",
+      "manufacturer": "Douglas",
+      "brand": "Douglas",
+      "origin_country": "Royaume-Uni",
+      "construction": {
+        "year": 1922,
+        "precision": "exact",
+        "note": "Exemplaire ou fabrication explicitement daté de 1922 ; aucune année de premier prototype déduite."
+      },
+      "sources": [
+        "barber"
+      ],
+      "status": "production",
+      "technical": {},
+      "description": "Douglas W/22 — exemplaire Barber 1922. Construction attribuée à 1922 par Barber Vintage Motorsports Museum. Les données non établies restent inconnues.",
+      "imageQueries": [
+        "Douglas W/22 1922"
+      ],
+      "technical_notes": "Ne pas confondre l’objet W/22 avec la machine expérimentale OHV de records ; aucun statut compétition n’est déduit du nom."
+    },
+    {
+      "id": "1922-indian-scout",
+      "name": "Scout — exemplaire Barber 1922",
+      "manufacturer": "Indian",
+      "brand": "Indian",
+      "origin_country": "États-Unis",
+      "construction": {
+        "year": 1922,
+        "precision": "exact",
+        "note": "Exemplaire ou fabrication explicitement daté de 1922 ; aucune année de premier prototype déduite."
+      },
+      "sources": [
+        "barber"
+      ],
+      "status": "production",
+      "technical": {},
+      "description": "Indian Scout — exemplaire Barber 1922. Construction attribuée à 1922 par Barber Vintage Motorsports Museum. Les données non établies restent inconnues.",
+      "imageQueries": [
+        "Indian Scout 1922"
+      ],
+      "technical_notes": "Une seule fiche Scout. Présentation 1919 et millésime 1920 de la liste antérieure restent des repères non vérifiés ; 1922 date cet objet, pas le premier Scout."
+    },
+    {
+      "id": "1922-gillet-1000",
+      "name": "1000 MAG — exemplaire Campion 1922",
+      "manufacturer": "Gillet-Herstal",
+      "brand": "Gillet-Herstal",
+      "origin_country": "Belgique",
+      "construction": {
+        "year": 1922,
+        "precision": "exact",
+        "note": "Exemplaire ou fabrication explicitement daté de 1922 ; aucune année de premier prototype déduite."
+      },
+      "sources": [
+        "gillet"
+      ],
+      "status": "limited_production",
+      "technical": {
+        "engine_type": "Bicylindre en V quatre-temps",
+        "cylinders": 2,
+        "displacement_cc": 1000,
+        "gears": 3,
+        "transmission": "Chaîne finale"
+      },
+      "description": "Gillet-Herstal 1000 MAG — exemplaire Campion 1922. Construction attribuée à 1922 par François-Marie Dumas / archives Yves Campion. Les données non établies restent inconnues.",
+      "imageQueries": [
+        "Gillet-Herstal 1000 MAG 1922"
+      ],
+      "mechanical_details": {
+        "engine_manufacturer": "MAG 2C9A — Genève",
+        "engine_cycle": "Quatre-temps",
+        "clutch": null,
+        "engine_speed_rpm": null,
+        "final_drive": "Chaîne",
+        "front_suspension": null,
+        "rear_suspension": null,
+        "front_brake": null,
+        "rear_brake": null,
+        "wheels": null
+      },
+      "technical_notes": "Boîte Burman. Moteur MAG suisse distinct du constructeur belge Gillet-Herstal ; ne pas attribuer à René Gillet en France. Architecture et motorisation distinctes de la 350 antérieure."
+    },
+    {
+      "id": "1922-zundapp-z2g",
+      "name": "Z 2 G — version deux rapports 1922",
+      "manufacturer": "Zündapp",
+      "brand": "Zündapp",
+      "origin_country": "Allemagne",
+      "construction": {
+        "year": 1922,
+        "precision": "exact",
+        "note": "Exemplaire ou fabrication explicitement daté de 1922 ; aucune année de premier prototype déduite."
+      },
+      "sources": [
+        "z2g"
+      ],
+      "status": "production",
+      "technical": {
+        "gears": 2
+      },
+      "description": "Zündapp Z 2 G — version deux rapports 1922. Construction attribuée à 1922 par Zündapp KS601 Club. Les données non établies restent inconnues.",
+      "imageQueries": [
+        "Zündapp Z 2 G 1922"
+      ],
+      "variant": "Deux rapports",
+      "relationships": [
+        {
+          "type": "variant_of",
+          "target_id": "1921-zundapp-z22",
+          "sources": [
+            "z2g"
+          ],
+          "note": "Évolution de la famille Z22 à deux rapports ; la fabrication initiale de 1921 reste préservée."
+        }
+      ],
+      "technical_notes": "Le regroupement de séries à partir d’octobre 1922 n’efface pas la fabrication d’octobre 1921 de la brochure constructeur. Cylindrée et puissance ne sont pas automatiquement copiées entre versions."
+    },
+    {
+      "id": "1922-dkw-lomos",
+      "name": "Lomos 143 — Sesselrad 1922",
+      "manufacturer": "DKW",
+      "brand": "DKW",
+      "origin_country": "Allemagne",
+      "construction": {
+        "year": 1922,
+        "precision": "exact",
+        "note": "Exemplaire ou fabrication explicitement daté de 1922 ; aucune année de premier prototype déduite."
+      },
+      "sources": [
+        "lomos",
+        "sesselrad"
+      ],
+      "status": "production",
+      "technical": {
+        "displacement_cc": 143,
+        "chassis": "Sesselrad à deux roues, siège large — ancêtre du scooter"
+      },
+      "description": "DKW Lomos 143 — Sesselrad 1922. Construction attribuée à 1922 par Stadt Zschopau. Les données non établies restent inconnues.",
+      "imageQueries": [
+        "DKW Lomos 143 1922"
+      ],
+      "technical_notes": "Architecture Sesselrad distincte d’une moto conventionnelle, avec deux roues : pas un tricycle. Ernst Eichler participe à la construction et à la fabrication chez DKW. La version 170 cm³ est ultérieure sans année annuelle démontrée.",
+      "subcategory": "sesselrad"
+    },
+    {
+      "id": "1922-nsu-pony",
+      "name": "Block 2 PS Pony — exemplaire 1922",
+      "manufacturer": "NSU",
+      "brand": "NSU",
+      "origin_country": "Allemagne",
+      "construction": {
+        "year": 1922,
+        "precision": "exact",
+        "note": "Exemplaire ou fabrication explicitement daté de 1922 ; aucune année de premier prototype déduite."
+      },
+      "sources": [
+        "nsu"
+      ],
+      "status": "production",
+      "technical": {
+        "engine_type": "Monocylindre quatre-temps IOE",
+        "cylinders": 1,
+        "displacement_cc": 249,
+        "gears": 2,
+        "transmission": "Courroie",
+        "weight_kg": 75
+      },
+      "description": "NSU Block 2 PS Pony — exemplaire 1922. Construction attribuée à 1922 par Deutsches Zweirad- und NSU-Museum. Les données non établies restent inconnues.",
+      "imageQueries": [
+        "NSU Block 2 PS Pony 1922"
+      ],
+      "technical_notes": "2 PS est une désignation commerciale ; la notice annonce une puissance effective approximative, qui n’est pas transformée en mesure exacte."
+    },
+    {
+      "id": "1922-dkw-reichsfahrt",
+      "name": "Reichsfahrtmodell — fabrication au printemps 1922",
+      "manufacturer": "DKW",
+      "brand": "DKW",
+      "origin_country": "Allemagne",
+      "construction": {
+        "year": 1922,
+        "precision": "exact",
+        "note": "Exemplaire ou fabrication explicitement daté de 1922 ; aucune année de premier prototype déduite."
+      },
+      "sources": [
+        "lomos"
+      ],
+      "status": "production",
+      "technical": {
+        "displacement_cc": 148
+      },
+      "description": "DKW Reichsfahrtmodell — fabrication au printemps 1922. Construction attribuée à 1922 par Stadt Zschopau. Les données non établies restent inconnues.",
+      "imageQueries": [
+        "DKW Reichsfahrtmodell 1922"
+      ],
+      "technical_notes": "Construction commencée au printemps 1922, attestée dans le bulletin officiel. Modèle conventionnel distinct du Sesselrad Lomos ; puissance approximative non remplie."
+    },
+    {
+      "id": "1922-gnome-rhone-abc",
+      "name": "ABC 400 — exemplaire français 1922",
+      "manufacturer": "Gnome & Rhône",
+      "brand": "Gnome & Rhône",
+      "origin_country": "France",
+      "construction": {
+        "year": 1922,
+        "precision": "exact",
+        "note": "Exemplaire ou fabrication explicitement daté de 1922 ; aucune année de premier prototype déduite."
+      },
+      "sources": [
+        "abcfr"
+      ],
+      "status": "production",
+      "technical": {
+        "engine_type": "Bicylindre opposé culbuté",
+        "cylinders": 2,
+        "displacement_cc": 400,
+        "gears": 4,
+        "transmission": "Chaîne"
+      },
+      "description": "Gnome & Rhône ABC 400 — exemplaire français 1922. Construction attribuée à 1922 par Fédération Française des Véhicules d’Époque. Les données non établies restent inconnues.",
+      "imageQueries": [
+        "Gnome & Rhône ABC 400 1922"
+      ],
+      "relationships": [
+        {
+          "type": "related_to",
+          "target_id": "1921-sopwith-abc",
+          "sources": [
+            "abcfr"
+          ],
+          "note": "Branche de fabrication française sous licence ABC/Sopwith ; constructeur français distinct, pas une seconde fiche Sopwith ni une fusion d’identités."
+        }
+      ],
+      "technical_notes": "Exemplaire daté 1922 photographié dans L’Authentique FFVE, p.57, crédit Dominique Fradin. La publication n’accorde aucun droit implicite de reprise de cette photo. Les détails annoncés de puissance ne sont pas transposés en valeurs vérifiées."
+    },
+    {
+      "id": "1922-bsa-twin-sidecar",
+      "name": "Bicylindre avec side-car — objet 1963-321, 1922",
+      "manufacturer": "Birmingham Small Arms Company",
+      "brand": "BSA",
+      "origin_country": "Royaume-Uni",
+      "construction": {
+        "year": 1922,
+        "precision": "exact",
+        "note": "Exemplaire ou fabrication explicitement daté de 1922 ; aucune année de premier prototype déduite."
+      },
+      "sources": [
+        "bsa"
+      ],
+      "status": "production",
+      "technical": {
+        "cylinders": 2
+      },
+      "description": "BSA Bicylindre avec side-car — objet 1963-321, 1922. Construction attribuée à 1922 par Science Museum Group / Museums Association. Les données non établies restent inconnues.",
+      "imageQueries": [
+        "BSA Bicylindre avec side-car 1922"
+      ],
+      "technical_notes": "Désignation descriptive d’un objet identifié, modèle commercial et cylindrée inconnus. Le side-car ne transforme pas la moto en tricycle. La liste de transfert 2024 ne garantit pas sa localisation actuelle."
+    }
+  ],
+  "attestations": [
+    {
+      "id": "construction-1922-harley-sport",
+      "vehicle_id": "1921-harley-sport-twin",
+      "year": 1922,
+      "sources": [
+        "w1922"
+      ],
+      "historical_status": "production",
+      "note": "Le musée identifie la Sport Model 1922 donnée par Robert McClean. W, Sport Twin et WJ restent une seule famille ; les spécifications du premier objet ne sont pas projetées sur celui de 1922."
+    }
+  ]
+}

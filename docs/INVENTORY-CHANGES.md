@@ -71,3 +71,7 @@ Version locale compilée et vérifiée. Après le refus initial du contrôle aut
 ## 2026-11-07 — Année 1921
 
 16 fiches documentées, 1 continuité annuelle Nimbus rattachée sans doublon ; 62 dossiers de recherche dont 45 en attente. Archive intégrale des 70 fiches précédentes. Attestations annuelles optionnelles, filtres et distributions de cylindrée/architecture, exports, import et fusion adaptés, sources et photographies revues. Rapport : `inventories/1921.md`.
+
+## 2026-11-08 — Année 1922
+
+15 fiches documentées, une continuité annuelle W/Sport Twin, variante Z2G reliée à Z22, classification Sesselrad et side-cars conservés comme équipement. Archive intégrale des 86 fiches précédentes. Registre 138 références (120 dossiers encore ouverts), quatre photos Commons revues, villes documentées, compactage du catalogue de production et contrôle du précache. Rapport : `inventories/1922.md`.

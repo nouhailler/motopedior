@@ -1,0 +1,204 @@
+{
+  "sources": {
+    "bmw": {
+      "url": "https://www.bmwgroup-classic.com/de/modelle/bmw-motorrad-klassiker/product-description-page.md-569-1.bmw-r-32.html",
+      "title": "BMW R 32 — Bauzeit 1923–1926",
+      "organization": "BMW Group Archiv",
+      "reliability": "A",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    },
+    "bmct": {
+      "url": "https://www.bmct.org/the-collection",
+      "title": "Collection — Carfield Baby et New Hudson Combination 1923",
+      "organization": "British Motorcycle Charitable Trust",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    },
+    "ace": {
+      "url": "https://nationalmcmuseum.org/2016/03/05/1923-ace-four-cylinder/",
+      "title": "1923 Ace Four Cylinder",
+      "organization": "National Motorcycle Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    },
+    "douglas": {
+      "url": "https://milntown.org/vehicles/",
+      "title": "1923 Douglas RA Model 598cc",
+      "organization": "Milntown House",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    },
+    "guzzi": {
+      "url": "https://www.museonicolis.com/en/moto-agostini-2000-riproduzione-moto-guzzi/",
+      "title": "Normale — production de série de 1921 à 1924",
+      "organization": "Museo Nicolis",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    },
+    "sarolea": {
+      "url": "https://www.moto-collection.org/moto-collection/fmd-moto2-Sarolea-2809.htm",
+      "title": "Saroléa 23 S — présentation au Salon 1923",
+      "organization": "François-Marie Dumas",
+      "reliability": "B",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    },
+    "danemark": {
+      "url": "https://www.danmarksmotorcykelmuseum.dk/en/mc-1897-1925/",
+      "title": "MC 1897–1925 — inventaire de collection",
+      "organization": "Danmarks Motorcykelmuseum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    }
+  },
+  "models": [
+    {
+      "id": "1923-bmw-r32",
+      "manufacturer": "BMW",
+      "brand": "BMW",
+      "name": "R 32",
+      "origin_country": "Allemagne",
+      "status": "production",
+      "description": "Les archives BMW datent la fabrication de 1923 à 1926 et la présentation au Salon de Berlin de 1923. Le bicylindre boxer entraîne la roue arrière par arbre.",
+      "construction": {
+        "year": 1923,
+        "precision": "exact",
+        "note": "Les archives BMW datent la fabrication de 1923 à 1926 et la présentation au Salon de Berlin de 1923. Le bicylindre boxer entraîne la roue arrière par arbre."
+      },
+      "sources": [
+        "bmw"
+      ],
+      "technical": {
+        "displacement_cc": 494,
+        "cylinders": 2,
+        "power_hp": 8.5,
+        "engine_architecture": "Bicylindre boxer"
+      },
+      "dates": {
+        "production_start_year": 1923,
+        "production_end_year": 1926
+      },
+      "presentation_year": 1923,
+      "aliases": [
+        "BMW R32"
+      ]
+    },
+    {
+      "id": "1923-carfield-baby",
+      "manufacturer": "Carfield",
+      "brand": "Carfield",
+      "name": "Baby",
+      "origin_country": "Royaume-Uni",
+      "status": "production",
+      "description": "Le British Motorcycle Charitable Trust conserve une Carfield Baby de 1923 à moteur deux-temps de 147 cm³.",
+      "construction": {
+        "year": 1923,
+        "precision": "exact",
+        "note": "Le British Motorcycle Charitable Trust conserve une Carfield Baby de 1923 à moteur deux-temps de 147 cm³."
+      },
+      "sources": [
+        "bmct"
+      ],
+      "technical": {
+        "displacement_cc": 147,
+        "engine_architecture": "Deux-temps"
+      }
+    },
+    {
+      "id": "1923-new-hudson-combination",
+      "manufacturer": "New Hudson",
+      "brand": "New Hudson",
+      "name": "4½ HP Combination",
+      "origin_country": "Royaume-Uni",
+      "status": "production",
+      "description": "L’attelage New Hudson de 1923 figure dans la collection du British Motorcycle Charitable Trust. Le side-car équipe une motocyclette à deux roues.",
+      "construction": {
+        "year": 1923,
+        "precision": "exact",
+        "note": "L’attelage New Hudson de 1923 figure dans la collection du British Motorcycle Charitable Trust. Le side-car équipe une motocyclette à deux roues."
+      },
+      "sources": [
+        "bmct"
+      ],
+      "technical": {}
+    },
+    {
+      "id": "1923-ace-four",
+      "manufacturer": "Ace Motor Corporation",
+      "brand": "Ace",
+      "name": "Four — exemplaire restauré",
+      "origin_country": "États-Unis",
+      "status": "production",
+      "description": "Le National Motorcycle Museum documente une Ace Four restaurée datée de 1923. William Henderson développa ce quatre-cylindres à Philadelphie sous la marque Ace.",
+      "construction": {
+        "year": 1923,
+        "precision": "exact",
+        "note": "Le National Motorcycle Museum documente une Ace Four restaurée datée de 1923. William Henderson développa ce quatre-cylindres à Philadelphie sous la marque Ace."
+      },
+      "sources": [
+        "ace"
+      ],
+      "technical": {
+        "cylinders": 4,
+        "engine_architecture": "Quatre cylindres en ligne"
+      }
+    },
+    {
+      "id": "1923-douglas-ra",
+      "manufacturer": "Douglas",
+      "brand": "Douglas",
+      "name": "RA — attelage de compétition 598 cm³",
+      "origin_country": "Royaume-Uni",
+      "status": "production",
+      "description": "La collection Milntown conserve une Douglas RA de 1923 associée au TT side-car. La notice identifie le bicylindre longitudinal de 598 cm³ et les freins à disque.",
+      "construction": {
+        "year": 1923,
+        "precision": "exact",
+        "note": "La collection Milntown conserve une Douglas RA de 1923 associée au TT side-car. La notice identifie le bicylindre longitudinal de 598 cm³ et les freins à disque."
+      },
+      "sources": [
+        "douglas"
+      ],
+      "technical": {
+        "displacement_cc": 598,
+        "cylinders": 2,
+        "engine_architecture": "Bicylindre avant-arrière"
+      },
+      "specializations": [
+        "competition"
+      ]
+    }
+  ],
+  "attestations": [
+    {
+      "id": "construction-1923-guzzi-normale",
+      "vehicle_id": "1921-guzzi-normale",
+      "year": 1923,
+      "sources": [
+        "guzzi"
+      ],
+      "historical_status": "production",
+      "note": "Le Museo Nicolis documente la production en série de la Normale de 1921 à 1924. La date de l’exemplaire de 1921 est conservée."
+    }
+  ]
+}

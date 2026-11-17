@@ -99,3 +99,7 @@ Le catalogue contient désormais 34 fiches : les 14 références de ce lot réut
 ## Inventaire annuel 1921
 
 16 nouvelles fiches et une continuité Nimbus sourcée, sans recréer la famille : 86 véhicules au total. Les 70 fiches antérieures sont préservées. Le lot compte 62 références, dont 45 en attente. Voir [audit](docs/inventories/1921-audit.md) et [rapport avec sources et décisions](docs/inventories/1921.md). Import : `npm run add:1921` ; préparation média : `npm run prepare:1921-media`.
+
+## Inventaire annuel 1922
+
+15 nouvelles fiches et une continuité Harley W/Sport Twin sans doublon : catalogue de 101 véhicules. Les 86 fiches antérieures restent intactes. Le registre comporte 138 références, dont 120 en attente (68 références de modèles/versions et 52 pistes de constructeurs). Voir [audit](docs/inventories/1922-audit.md) et [rapport, sources et décisions](docs/inventories/1922.md). Import : `npm run add:1922`, photos : `npm run prepare:1922-media`. Le build compacte le catalogue et vérifie son inclusion au précache hors ligne.

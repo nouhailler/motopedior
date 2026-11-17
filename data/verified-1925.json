@@ -1,0 +1,206 @@
+{
+  "sources": {
+    "r39": {
+      "url": "https://www.bmwgroup-classic.com/de/modelle/bmw-motorrad-klassiker/product-description-page.md-571-1.bmw-r-39.html",
+      "title": "BMW R 39 — fiche de production",
+      "organization": "BMW Group Classic",
+      "reliability": "A",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    },
+    "r37": {
+      "url": "https://www.bmwgroup-classic.com/en/models/bmw-motorcycle-classics/product-description-page.md-570-1.bmw-r-37.content.html",
+      "title": "BMW R 37 — production 1925–1926",
+      "organization": "BMW Group Classic",
+      "reliability": "A",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    },
+    "r32": {
+      "url": "https://www.bmwgroup-classic.com/de/modelle/bmw-motorrad-klassiker/product-description-page.md-569-1.bmw-r-32.html",
+      "title": "BMW R 32 — fabrication 1923–1926",
+      "organization": "BMW Group Archiv",
+      "reliability": "A",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    },
+    "bmct": {
+      "url": "https://www.bmct.org/the-collection",
+      "title": "Collection — Beardmore-Precision 500 SV et Scott Flying Squirrel 1925",
+      "organization": "British Motorcycle Charitable Trust",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    },
+    "prince": {
+      "url": "https://indianprince.org/data/index.html",
+      "title": "Indian Prince — exemple de numéro de série 30Y",
+      "organization": "Indian Prince Motorcycle",
+      "reliability": "C",
+      "type": "secondary",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    },
+    "melle": {
+      "url": "https://www.ville-melle.fr/comptes-rendus/2021/254-2021-05-19-proces-verbal-conseil-municipal-melle-19-05-2021/file",
+      "title": "Annexe à la convention — collection Monet & Goyon",
+      "organization": "Ville de Melle",
+      "reliability": "A",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    },
+    "mb1": {
+      "url": "https://www.motobecane-club-de-france.fr/histoire-de-la-marque/",
+      "title": "Chronologie Motobécane — sortie de la MB1 en 1924",
+      "organization": "Motobécane Club de France",
+      "reliability": "B",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    },
+    "ntm": {
+      "url": "https://www.ntm.cz/en/for-visitors/news/from-november-7-2025-exhibition-bohmerland-or-cechie-the-longest-motorcycle-in-the-world",
+      "title": "Böhmerland ou Čechie — exposition du musée",
+      "organization": "National Technical Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    }
+  },
+  "models": [
+    {
+      "id": "1925-bmw-r37-serie",
+      "manufacturer": "BMW",
+      "brand": "BMW",
+      "name": "R 37 — série",
+      "origin_country": "Allemagne",
+      "description": "BMW Group Classic date la production de série de 1925 à 1926. Les prototypes de 1924 conservent leur fiche propre.",
+      "construction": {
+        "year": 1925,
+        "precision": "exact",
+        "note": "BMW Group Classic date la production de série de 1925 à 1926. Les prototypes de 1924 conservent leur fiche propre."
+      },
+      "status": "production",
+      "sources": [
+        "r37"
+      ],
+      "technical": {
+        "cylinders": 2,
+        "engine_type": "Bicylindre boxer",
+        "displacement_cc": 494
+      },
+      "dates": {
+        "production_start_year": 1925,
+        "production_end_year": 1926
+      },
+      "relationships": [
+        {
+          "type": "variant_of",
+          "target_id": "1924-bmw-r37-prototype",
+          "note": "Version de série de la R 37 issue des prototypes de 1924.",
+          "sources": [
+            "r37"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1925-bmw-r39",
+      "manufacturer": "BMW",
+      "brand": "BMW",
+      "name": "R 39",
+      "origin_country": "Allemagne",
+      "description": "BMW Group Classic documente la R 39 comme le premier monocylindre BMW, entré dans la gamme en 1925.",
+      "construction": {
+        "year": 1925,
+        "precision": "exact",
+        "note": "BMW Group Classic documente la R 39 comme le premier monocylindre BMW, entré dans la gamme en 1925."
+      },
+      "status": "production",
+      "sources": [
+        "r39"
+      ],
+      "technical": {
+        "cylinders": 1,
+        "displacement_cc": 247,
+        "engine_type": "Monocylindre"
+      },
+      "dates": {
+        "production_start_year": 1925,
+        "production_end_year": 1927
+      },
+      "aliases": [
+        "BMW R39"
+      ]
+    },
+    {
+      "id": "1925-beardmore-precision-500",
+      "manufacturer": "Beardmore-Precision",
+      "brand": "Beardmore-Precision",
+      "name": "500 SV",
+      "origin_country": "Royaume-Uni",
+      "description": "Le British Motorcycle Charitable Trust documente une Beardmore-Precision 500 à soupapes latérales datée de 1925.",
+      "construction": {
+        "year": 1925,
+        "precision": "exact",
+        "note": "Le British Motorcycle Charitable Trust documente une Beardmore-Precision 500 à soupapes latérales datée de 1925."
+      },
+      "status": "production",
+      "sources": [
+        "bmct"
+      ],
+      "technical": {
+        "displacement_cc": 500,
+        "engine_type": "Soupapes latérales"
+      }
+    },
+    {
+      "id": "1925-scott-flying-squirrel",
+      "manufacturer": "Scott",
+      "brand": "Scott",
+      "name": "Flying Squirrel 498",
+      "origin_country": "Royaume-Uni",
+      "description": "Le British Motorcycle Charitable Trust conserve une Flying Squirrel 498 de 1925. Elle appartient à une autre gamme que la Scott 333 du catalogue.",
+      "construction": {
+        "year": 1925,
+        "precision": "exact",
+        "note": "Le British Motorcycle Charitable Trust conserve une Flying Squirrel 498 de 1925. Elle appartient à une autre gamme que la Scott 333 du catalogue."
+      },
+      "status": "production",
+      "sources": [
+        "bmct"
+      ],
+      "technical": {
+        "displacement_cc": 498,
+        "engine_type": "Deux-temps",
+        "cooling": "Liquide"
+      }
+    }
+  ],
+  "attestations": [
+    {
+      "id": "construction-1925-bmw-r32",
+      "vehicle_id": "1923-bmw-r32",
+      "year": 1925,
+      "sources": [
+        "r32"
+      ],
+      "historical_status": "production",
+      "note": "BMW documente la production de la R 32 de 1923 à 1926."
+    }
+  ]
+}

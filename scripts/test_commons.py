@@ -22,7 +22,7 @@ class RightsPolicyTests(unittest.TestCase):
   for model in models:
    for photo in [model['photo'],*model['gallery']]:
     if photo is None:continue
-    self.assertEqual(photo['license']['status'],'allowed');self.assertIn(photo['match'],['exact','approximate']);self.assertTrue(photo['thumbnailUrl']);self.assertTrue(photo['originalUrl']);self.assertTrue(photo['sourcePage'].startswith('https://commons.wikimedia.org/'))
+    self.assertEqual(photo['license']['status'],'allowed');self.assertIn(photo['match'],['exact','approximate']);self.assertTrue(photo['thumbnailUrl']);self.assertTrue(photo['originalUrl']);self.assertTrue(photo['sourcePage'].startswith(('https://commons.wikimedia.org/', 'https://www.sfomuseum.org/')))
     for local in photo['local'].values():self.assertTrue((ROOT/'public'/local.lstrip('/')).exists());shipped.add(Path(local).name)
   self.assertEqual(shipped,{p.name for p in (ROOT/'public/images').glob('*.webp')})
 class DiscoveryTests(unittest.TestCase):

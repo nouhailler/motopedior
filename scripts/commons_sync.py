@@ -33,11 +33,14 @@ def license_policy(meta):
  restrictions=plain(meta.get('Restrictions',{}).get('value',''))
  if restrictions:return dict(status='excluded',reason='Restrictions supplémentaires à clarifier : '+restrictions)
  if re.search(r'\bNC\b|\bND\b|non.?commercial|no.?deriv',name,re.I):return dict(status='excluded',reason='Licence restrictive')
- cc=re.fullmatch(r'https?://creativecommons\.org/licenses/(by|by-sa)/(1\.0|2\.0|2\.5|3\.0|4\.0)/?(?:deed\.[a-z-]+)?',url)
+ cc=re.fullmatch(r'https?://creativecommons\.org/licenses/(by|by-sa)/(1\.0|2\.0|2\.5|3\.0|4\.0)(?:/([a-z]{2}))?/?(?:deed\.[a-z-]+)?',url)
  if cc:
   author=plain(meta.get('Artist',{}).get('value',''))
   if not author or author.casefold() in ('unknown','unknown author','auteur inconnu'):return dict(status='excluded',reason='Attribution manquante ou incertaine')
-  return dict(status='allowed',name='CC '+cc[1].upper()+' '+cc[2],url='https://creativecommons.org/licenses/'+cc[1]+'/'+cc[2]+'/',shareAlike=cc[1]=='by-sa',attributionRequired=True,reason='Licence et auteur identifiés dans extmetadata')
+  jurisdiction=cc[3]
+  license_path=f'{cc[1]}/{cc[2]}/'+(f'{jurisdiction}/' if jurisdiction else '')
+  license_name=f'CC {cc[1].upper()} {cc[2]}'+(f' {jurisdiction.upper()}' if jurisdiction else '')
+  return dict(status='allowed',name=license_name,url='https://creativecommons.org/licenses/'+license_path,shareAlike=cc[1]=='by-sa',attributionRequired=True,reason='Licence et auteur identifiés dans extmetadata')
  if re.search(r'^(Public domain|CC0|PD\b)',name,re.I) and ('publicdomain' in url or plain(meta.get('Copyrighted',{}).get('value','')).casefold()=='false'):
   return dict(status='allowed',name=name,url=url or 'https://commons.wikimedia.org/wiki/Commons:Public_domain',shareAlike=False,attributionRequired=False,reason='Domaine public ou CC0 identifié dans extmetadata')
  return dict(status='excluded',reason='Licence absente ou non prise en charge : '+(name or 'inconnue'))
@@ -82,6 +85,9 @@ def publish(models):
  files={key(p['fileTitle']):p for p in info(list(dict.fromkeys(titles)))} if titles else {}
  catalog=[];audit=[];credits=[];used=set()
  existing=json.loads((ROOT/'public/motos.json').read_text()) if (ROOT/'public/motos.json').exists() else []
+ audit_path=ROOT/'public/photo-inventory.json'
+ previous_audit={row['modelId']:row for row in json.loads(audit_path.read_text())['models']} if audit_path.exists() else {}
+ archive_assets={row['id']:row['photo'] for row in existing if (row.get('photo') or {}).get('provider')=='SFO Museum'}
  snapshots={key(p['fileTitle']):p for m in existing for p in [m.get('photo'),*m.get('gallery',[])] if p}
  for model in models:
   review=reviews.get(model['id'],{});approved=[];report=[]
@@ -91,7 +97,7 @@ def publish(models):
    if photo:
     reason=photo['license']['reason'];allowed=photo['license']['status']=='allowed' and choice.get('match') in ('exact','approximate') and choice.get('approved') is True
     if not choice.get('approved'):reason='Correspondance non validée'
-    if urlsplit(photo.get('originalUrl') or '').hostname!='upload.wikimedia.org' or photo.get('mime') not in ('image/jpeg','image/png','image/webp'):
+    if urlsplit(photo.get('originalUrl') or '').hostname!='upload.wikimedia.org' or photo.get('mime') not in ('image/jpeg','image/png','image/webp','image/gif'):
      allowed=False;reason='Source ou format non autorisé'
    item=dict(fileTitle=choice['fileTitle'],match=choice.get('match','none'),approved=allowed,reviewNote=choice.get('note',''),reason=reason,photo=photo)
    if allowed:
@@ -132,6 +138,15 @@ def publish(models):
      approved.append(asset);credits.append(dict(modelId=model['id'],**asset))
     except Exception as error:item['approved']=False;item['reason']='Téléchargement impossible : '+str(error)
    report.append(item)
+  # The Commons importer cannot refresh rights metadata from museum archives.
+  archive=archive_assets.get(model['id'])
+  archive_audit=previous_audit.get(model['id'],{})
+  if not approved and archive and archive.get('local') and all((ROOT/'public'/p.lstrip('/')).is_file() for p in archive['local'].values()):
+   approved.append(archive)
+   credits.append(dict(modelId=model['id'],**archive))
+   used.update(Path(p).name for p in archive['local'].values())
+   report.extend(archive_audit.get('files',[]))
+   review={**review,'note':archive['reviewNote'],'reviewedAt':archive.get('checkedAt')}
   m={**model};m.pop('imageQueries',None);m['photo']=approved[0] if approved else None;m['image']=approved[0]['image'] if approved else '/image-unavailable.svg';m['gallery']=approved[1:];m['photoStatus']=approved[0]['match'] if approved else 'none';m['photoStatusNote']=review.get('note','Aucune photo validée pour ce modèle.');catalog.append(m)
   audit.append(dict(modelId=m['id'],brand=m['brand'],model=m['model'],status=m['photoStatus'],note=m['photoStatusNote'],reviewedAt=review.get('reviewedAt'),files=report))
   print(m['id'],m['photoStatus'],len(approved),'approved photo(s)',flush=True)
