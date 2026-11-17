@@ -3327,5 +3327,61 @@
     "imageQueries": [
       "Scott Flying Squirrel 498 1925"
     ]
+  },
+  {
+    "id": "1926-bmw-r42",
+    "brand": "BMW",
+    "model": "R 42",
+    "year": null,
+    "endYear": null,
+    "country": "Allemagne",
+    "category": "Pionnière",
+    "description": "BMW Group Classic date la fabrication de la R 42 de 1926 à 1928. Cette routière succède à la R 32 avec 12 ch et un frein sur la transmission par arbre.",
+    "sourcePage": "https://www.bmwgroup-classic.com/de/modelle/bmw-motorrad-klassiker/product-description-page.md-572-1.bmw-r-42.html",
+    "imageQueries": [
+      "BMW R 42 1926"
+    ]
+  },
+  {
+    "id": "1926-rex-acme-tt",
+    "brand": "Rex-Acme",
+    "model": "350 OHV TT — exemplaire BMCT",
+    "year": null,
+    "endYear": null,
+    "country": "Royaume-Uni",
+    "category": "Pionnière",
+    "description": "Le British Motorcycle Charitable Trust conserve une Rex Acme 350 OHV TT datée de 1926. La correspondance exacte avec l’appellation TT Sports reste à préciser.",
+    "sourcePage": "https://www.bmct.org/the-collection",
+    "imageQueries": [
+      "Rex-Acme 350 OHV TT — exemplaire BMCT 1926"
+    ]
+  },
+  {
+    "id": "1926-indian-prince",
+    "brand": "Indian",
+    "model": "Prince — exemplaire danois",
+    "year": null,
+    "endYear": null,
+    "country": "États-Unis",
+    "category": "Pionnière",
+    "description": "Le Danmarks Motorcykelmuseum documente une Indian Prince monocylindre de 350 cm³ datée de 1926. Cette date identifie l’exemplaire conservé.",
+    "sourcePage": "https://www.danmarksmotorcykelmuseum.dk/en/mc-1926-1939/",
+    "imageQueries": [
+      "Indian Prince — exemplaire danois 1926"
+    ]
+  },
+  {
+    "id": "1926-monet-goyon-mc",
+    "brand": "Monet & Goyon",
+    "model": "MC 350 Super Touring",
+    "year": null,
+    "endYear": null,
+    "country": "France",
+    "category": "Pionnière",
+    "description": "Moto Collection situe la production de la MC en 1926. Le moteur suisse MAG 1C14C de 346 cm³ est distinct du moteur à soupapes en tête de la MCS.",
+    "sourcePage": "https://www.moto-collection.org/moto-collection/fmd-moto2-Monet-Goyon-7111.htm",
+    "imageQueries": [
+      "Monet & Goyon MC 350 Super Touring 1926"
+    ]
   }
 ]

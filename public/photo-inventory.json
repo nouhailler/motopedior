@@ -16989,6 +16989,151 @@
       "note": "Aucune photo validée pour ce modèle.",
       "reviewedAt": null,
       "files": []
+    },
+    {
+      "modelId": "1926-bmw-r42",
+      "brand": "BMW",
+      "model": "R 42",
+      "status": "exact",
+      "note": "BMW R 42 datée de 1926 dans la notice Commons.",
+      "reviewedAt": "2026-11-17",
+      "files": [
+        {
+          "fileTitle": "File:BMW R42 1926.jpg",
+          "match": "exact",
+          "approved": true,
+          "reviewNote": "BMW R 42 datée de 1926 dans la notice Commons.",
+          "reason": "Licence et auteur identifiés dans extmetadata",
+          "photo": {
+            "fileTitle": "File:BMW R42 1926.jpg",
+            "pageId": 2952116,
+            "query": null,
+            "sourceSha1": "66056749b3b438fdacad4344639dea332236fcf4",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/BMW_R42_1926.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/BMW_R42_1926.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:BMW_R42_1926.jpg",
+            "author": "Piero at Dutch Wikipedia",
+            "attribution": "Yesterdays Antique Motorcycles en Classic Motorcycle Archive",
+            "creditLine": "Transferred from nl.wikipedia to Commons.",
+            "description": "",
+            "width": 629,
+            "height": 381,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY-SA 3.0",
+              "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+              "shareAlike": true,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2013-04-20 16:21:57",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "BMW R42 1926",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Media lacking a description|License migration completed|BMW R42|Self-published work|Items with VRTS permission confirmed",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "DateTimeOriginal": {
+                "value": "11 June 2006 (original upload date)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi lang=\"en\" dir=\"ltr\">Transferred from <span class=\"plainlinks\"><a class=\"external text\" data-mw-original-href=\"//nl.wikipedia.org\" href=\"https://nl.wikipedia.org\">nl.wikipedia</a></span> to Commons.</bdi>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/nl:User:Piero\" class=\"extiw\" title=\"w:nl:User:Piero\">Piero</a> at <a href=\"https://en.wikipedia.org/wiki/nl:\" class=\"extiw\" title=\"w:nl:\">Dutch Wikipedia</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.yesterdays.nl/\">Yesterdays Antique Motorcycles</a> en <a rel=\"nofollow\" class=\"external text\" href=\"http://www.motorarchive.com/\">Classic Motorcycle Archive</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-17T11:06:58.580699+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "modelId": "1926-rex-acme-tt",
+      "brand": "Rex-Acme",
+      "model": "350 OHV TT — exemplaire BMCT",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1926-indian-prince",
+      "brand": "Indian",
+      "model": "Prince — exemplaire danois",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1926-monet-goyon-mc",
+      "brand": "Monet & Goyon",
+      "model": "MC 350 Super Touring",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
     }
   ]
 }

@@ -2762,5 +2762,42 @@
     "reviewNote": "BMW R 39 de 1926, autre millésime de la série.",
     "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
     "reviewedAt": "2026-11-17"
+  },
+  {
+    "modelId": "1926-bmw-r42",
+    "fileTitle": "File:BMW R42 1926.jpg",
+    "pageId": 2952116,
+    "sourceSha1": "66056749b3b438fdacad4344639dea332236fcf4",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/BMW_R42_1926.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/BMW_R42_1926.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:BMW_R42_1926.jpg",
+    "author": "Piero at Dutch Wikipedia",
+    "attribution": "Yesterdays Antique Motorcycles en Classic Motorcycle Archive",
+    "creditLine": "Transferred from nl.wikipedia to Commons.",
+    "width": 629,
+    "height": 381,
+    "mime": "image/jpeg",
+    "license": {
+      "status": "allowed",
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "shareAlike": true,
+      "attributionRequired": true,
+      "reason": "Licence et auteur identifiés dans extmetadata"
+    },
+    "checkedAt": "2026-11-17T11:06:58.580699+00:00",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/BMW_R42_1926.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "originalImportedAt": "2026-11-17T11:06:58.580699+00:00",
+    "mediaKind": "photo",
+    "local": {
+      "480": "/images/1926-bmw-r42-679b61731480-480.webp",
+      "800": "/images/1926-bmw-r42-679b61731480-800.webp",
+      "1600": "/images/1926-bmw-r42-679b61731480-1600.webp"
+    },
+    "image": "/images/1926-bmw-r42-679b61731480-1600.webp",
+    "match": "exact",
+    "reviewNote": "BMW R 42 datée de 1926 dans la notice Commons.",
+    "changes": "Conversion WebP et redimensionnement ; affichage recadré selon la vue.",
+    "reviewedAt": "2026-11-17"
   }
 ]

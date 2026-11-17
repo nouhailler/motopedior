@@ -1492,5 +1492,17 @@
         "note": "BMW R 39 de 1926, autre millésime de la série."
       }
     ]
+  },
+  "1926-bmw-r42": {
+    "reviewedAt": "2026-11-17",
+    "note": "BMW R 42 datée de 1926 dans la notice Commons.",
+    "photos": [
+      {
+        "fileTitle": "File:BMW R42 1926.jpg",
+        "approved": true,
+        "match": "exact",
+        "note": "BMW R 42 datée de 1926 dans la notice Commons."
+      }
+    ]
   }
 }

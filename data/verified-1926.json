@@ -1,0 +1,226 @@
+{
+  "sources": {
+    "r32": {
+      "url": "https://www.bmwgroup-classic.com/de/modelle/bmw-motorrad-klassiker/product-description-page.md-569-1.bmw-r-32.html",
+      "title": "BMW R 32 — fabrication 1923–1926",
+      "organization": "BMW Group Archiv",
+      "reliability": "A",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    },
+    "r37": {
+      "url": "https://www.bmwgroup-classic.com/en/models/bmw-motorcycle-classics/product-description-page.md-570-1.bmw-r-37.content.html",
+      "title": "BMW R 37 — production 1925–1926",
+      "organization": "BMW Group Classic",
+      "reliability": "A",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    },
+    "r39": {
+      "url": "https://www.bmwgroup-classic.com/de/modelle/bmw-motorrad-klassiker/product-description-page.md-571-1.bmw-r-39.html",
+      "title": "BMW R 39 — fiche de production",
+      "organization": "BMW Group Classic",
+      "reliability": "A",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    },
+    "bmct": {
+      "url": "https://www.bmct.org/the-collection",
+      "title": "Collection — Beardmore-Precision 500 SV et Scott Flying Squirrel 1925",
+      "organization": "British Motorcycle Charitable Trust",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    },
+    "r42": {
+      "url": "https://www.bmwgroup-classic.com/de/modelle/bmw-motorrad-klassiker/product-description-page.md-572-1.bmw-r-42.html",
+      "title": "BMW R 42 — fabrication 1926–1928",
+      "organization": "BMW Group Classic",
+      "reliability": "A",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    },
+    "r47": {
+      "url": "https://www.bmwgroup-classic.com/de/modelle/bmw-motorrad-klassiker/product-description-page.md-573-1.bmw-r-47.html",
+      "title": "BMW R 47 — fabrication 1927–1928",
+      "organization": "BMW Group Classic",
+      "reliability": "A",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    },
+    "dan": {
+      "url": "https://www.danmarksmotorcykelmuseum.dk/en/mc-1926-1939/",
+      "title": "Collection 1926–1939 — Indian Prince, Humber et Norton",
+      "organization": "Danmarks Motorcykelmuseum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    },
+    "monet": {
+      "url": "https://www.moto-collection.org/moto-collection/fmd-moto2-Monet-Goyon-7111.htm",
+      "title": "Monet Goyon 350 MC — production à partir de 1926",
+      "organization": "François-Marie Dumas",
+      "reliability": "B",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    }
+  },
+  "models": [
+    {
+      "id": "1926-bmw-r42",
+      "manufacturer": "BMW",
+      "brand": "BMW",
+      "name": "R 42",
+      "origin_country": "Allemagne",
+      "description": "BMW Group Classic date la fabrication de la R 42 de 1926 à 1928. Cette routière succède à la R 32 avec 12 ch et un frein sur la transmission par arbre.",
+      "construction": {
+        "year": 1926,
+        "precision": "exact",
+        "note": "BMW Group Classic date la fabrication de la R 42 de 1926 à 1928. Cette routière succède à la R 32 avec 12 ch et un frein sur la transmission par arbre."
+      },
+      "status": "production",
+      "sources": [
+        "r42"
+      ],
+      "technical": {
+        "displacement_cc": 494,
+        "cylinders": 2,
+        "engine_type": "Bicylindre boxer à soupapes latérales",
+        "power_hp": 12
+      },
+      "dates": {
+        "production_start_year": 1926,
+        "production_end_year": 1928
+      },
+      "relationships": [
+        {
+          "type": "related_to",
+          "target_id": "1923-bmw-r32",
+          "note": "La R 42 succède à la R 32.",
+          "sources": [
+            "r42"
+          ]
+        }
+      ],
+      "aliases": [
+        "BMW R42"
+      ]
+    },
+    {
+      "id": "1926-rex-acme-tt",
+      "manufacturer": "Rex Acme",
+      "brand": "Rex-Acme",
+      "name": "350 OHV TT — exemplaire BMCT",
+      "origin_country": "Royaume-Uni",
+      "description": "Le British Motorcycle Charitable Trust conserve une Rex Acme 350 OHV TT datée de 1926. La correspondance exacte avec l’appellation TT Sports reste à préciser.",
+      "construction": {
+        "year": 1926,
+        "precision": "exact",
+        "note": "Le British Motorcycle Charitable Trust conserve une Rex Acme 350 OHV TT datée de 1926. La correspondance exacte avec l’appellation TT Sports reste à préciser."
+      },
+      "status": "production",
+      "sources": [
+        "bmct"
+      ],
+      "technical": {
+        "engine_type": "Soupapes en tête"
+      }
+    },
+    {
+      "id": "1926-indian-prince",
+      "manufacturer": "Indian",
+      "brand": "Indian",
+      "name": "Prince — exemplaire danois",
+      "origin_country": "États-Unis",
+      "description": "Le Danmarks Motorcykelmuseum documente une Indian Prince monocylindre de 350 cm³ datée de 1926. Cette date identifie l’exemplaire conservé.",
+      "construction": {
+        "year": 1926,
+        "precision": "exact",
+        "note": "Le Danmarks Motorcykelmuseum documente une Indian Prince monocylindre de 350 cm³ datée de 1926. Cette date identifie l’exemplaire conservé."
+      },
+      "status": "production",
+      "sources": [
+        "dan"
+      ],
+      "technical": {
+        "displacement_cc": 350,
+        "cylinders": 1,
+        "engine_type": "Monocylindre"
+      }
+    },
+    {
+      "id": "1926-monet-goyon-mc",
+      "manufacturer": "Monet & Goyon",
+      "brand": "Monet & Goyon",
+      "name": "MC 350 Super Touring",
+      "origin_country": "France",
+      "description": "Moto Collection situe la production de la MC en 1926. Le moteur suisse MAG 1C14C de 346 cm³ est distinct du moteur à soupapes en tête de la MCS.",
+      "construction": {
+        "year": 1926,
+        "precision": "exact",
+        "note": "Moto Collection situe la production de la MC en 1926. Le moteur suisse MAG 1C14C de 346 cm³ est distinct du moteur à soupapes en tête de la MCS."
+      },
+      "status": "production",
+      "sources": [
+        "monet"
+      ],
+      "technical": {
+        "displacement_cc": 346,
+        "cylinders": 1,
+        "engine_type": "Monocylindre quatre-temps, admission en tête et échappement latéral",
+        "cooling": "Air"
+      },
+      "mechanical_details": {
+        "engine_manufacturer": "Motosacoche (MAG)"
+      }
+    }
+  ],
+  "attestations": [
+    {
+      "id": "construction-1926-bmw-r32",
+      "vehicle_id": "1923-bmw-r32",
+      "year": 1926,
+      "sources": [
+        "r32"
+      ],
+      "historical_status": "production",
+      "note": "La période de fabrication documentée par BMW inclut 1926."
+    },
+    {
+      "id": "construction-1926-bmw-r37",
+      "vehicle_id": "1925-bmw-r37-serie",
+      "year": 1926,
+      "sources": [
+        "r37"
+      ],
+      "historical_status": "production",
+      "note": "La période de fabrication documentée par BMW inclut 1926."
+    },
+    {
+      "id": "construction-1926-bmw-r39",
+      "vehicle_id": "1925-bmw-r39",
+      "year": 1926,
+      "sources": [
+        "r39"
+      ],
+      "historical_status": "production",
+      "note": "La période de fabrication documentée par BMW inclut 1926."
+    }
+  ]
+}
