@@ -7,7 +7,7 @@ import {filterHistoricalVehicles,periodStats} from '../src/history/period.js';
 import {exportJSON,parseInventoryJSON,exportCSV,parseInventoryCSV} from '../src/history/serialization.js';
 const read=async path=>JSON.parse(await readFile(new URL(path,import.meta.url),'utf8'));
 const [before,actual,curated,batch]=await Promise.all([
- '../data/migrations/catalogue-114-before-1926.json','../public/inventory.json','../data/verified-1926.json','../data/research-1926.json'
+ '../data/migrations/catalogue-114-before-1926.json','../data/migrations/catalogue-118-before-1928.json','../data/verified-1926.json','../data/research-1926.json'
 ].map(read));
 const vehicle=id=>actual.vehicles.find(v=>v.id===id);
 

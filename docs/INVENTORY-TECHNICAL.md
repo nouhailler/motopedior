@@ -109,3 +109,7 @@ La migration du catalogue utilise les attestations annuelles existantes et archi
 Pour garder le catalogue dans le précache Workbox, le build minifie uniquement sa copie `dist/inventory.json`. La source documentaire `public/inventory.json` conserve sa mise en forme. `check-offline-catalog.mjs` exige l’égalité des données, une taille sous 2 Mio et une entrée de précache dans le service worker ; si cette limite est dépassée, le build signale le besoin de répartir les données en lots plutôt que de perdre silencieusement l’accès hors ligne.
 
 Voir [rapport 1922](inventories/1922.md) pour sources, fichiers, limites et tests.
+
+### Import 1930
+
+`npm run add:1930` lit `data/verified-1930.json`, `data/research-1930.json` et le catalogue photo. La sauvegarde `data/migrations/catalogue-125-before-1930.json` précède l’import. `tests/year-1930.test.js` contrôle les dates, variantes, exclusions, continuités, exports et la conservation des modifications locales. La limite Workbox du catalogue passe à 4 Mio avec assertion de précache au build : l’inventaire reste intégralement disponible hors ligne, les WebP sont mis en cache à la consultation. Aucun changement de schéma IndexedDB.

@@ -1,0 +1,1510 @@
+{
+  "sources": {
+    "r11": {
+      "url": "https://www.bmwgroup-classic.com/de/modelle/bmw-motorrad-klassiker/product-description-page.md-578-1.bmw-r-11.html",
+      "title": "BMW R 11 — fabrication 1929–1934",
+      "organization": "BMW Group Classic",
+      "reliability": "A",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null,
+      "notes": "Archive officielle. La notice actuelle indique un usage de l’IA dans la rédaction. Les périodes et mesures sont attribuées au tableau constructeur. Aucun découpage des cinq séries en années n’est déduit."
+    },
+    "r16": {
+      "url": "https://www.bmwgroup-classic.com/de/modelle/bmw-motorrad-klassiker/product-description-page.md-579-1.bmw-r-16.html",
+      "title": "BMW R 16 — fabrication 1929–1934",
+      "organization": "BMW Group Classic",
+      "reliability": "A",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null,
+      "notes": "Archive officielle. La notice actuelle indique un usage de l’IA dans la rédaction. Les périodes et mesures sont attribuées au tableau constructeur. Aucun découpage des cinq séries en années n’est déduit."
+    },
+    "r57": {
+      "url": "https://www.bmwgroup-classic.com/de/modelle/bmw-motorrad-klassiker/product-description-page.md-575-1.bmw-r-57.html",
+      "title": "BMW R 57 — fabrication 1928–1930",
+      "organization": "BMW Group Classic",
+      "reliability": "A",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    },
+    "wr750": {
+      "url": "https://www.bmwgroup-classic.com/en/company/museum/advertising-posters/popup/7.html",
+      "title": "WR 750 — affiche de 1930 et record de 1929",
+      "organization": "BMW Group Classic",
+      "reliability": "A",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "js500": {
+      "url": "https://motorostalgie.de/vorgeschichte-2/vorgeschichte/dkw/schuettoff",
+      "title": "Schüttoff — JS 500, exemplaire 1930",
+      "organization": "Motorostalgie / catalogue du Museum für sächsische Fahrzeuge",
+      "reliability": "B",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "dkw_e": {
+      "url": "https://360carmuseum.com/en/museum/30/exhibits",
+      "title": "Collection Bratislav Petkovic — DKW E 200",
+      "organization": "Collection Bratislav Petkovic",
+      "reliability": "C",
+      "type": "secondary",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "nsu501": {
+      "url": "https://demomu.de/project/1930-nsu-501-ts/",
+      "title": "1930 NSU 501 TS — collection Adolf Mühlich",
+      "organization": "Deutsches Zweirad- und NSU-Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "nsulist": {
+      "url": "https://nsu24.de/html/body_201ts-251ts-301ts-351ts.html",
+      "title": "NSU 201/251/301/351 TS — documentation technique",
+      "organization": "NSU24",
+      "reliability": "C",
+      "type": "secondary",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "de_zündapp": {
+      "url": "https://www.meisterdinger.de/z/z1.htm",
+      "title": "Zündapp — types",
+      "organization": "Meisterdinger",
+      "reliability": "C",
+      "type": "secondary",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "de_victoria": {
+      "url": "https://victoria-rad.de/?m=201809",
+      "title": "Victoria KR 35 SLM",
+      "organization": "Victoria Rad",
+      "reliability": "C",
+      "type": "secondary",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "de_drad": {
+      "url": "https://www.d-rad.ch/berichte/2018.htm",
+      "title": "D-Rad — R10 et R11",
+      "organization": "D-Rad Suisse",
+      "reliability": "C",
+      "type": "secondary",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "de_ardie": {
+      "url": "https://www.technik-museum.de/en/discover/exhibits/ardie-ss-31-silver-arrow/",
+      "title": "Ardie SS 31 Silver Arrow",
+      "organization": "Technik Museum Sinsheim",
+      "reliability": "C",
+      "type": "secondary",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "de_horex": {
+      "url": "https://www.horex.ch/index.php?page=modelle-bis-1945",
+      "title": "Horex — modèles avant 1945",
+      "organization": "Schweizer Horex Club",
+      "reliability": "C",
+      "type": "secondary",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "de_imperia": {
+      "url": "https://www.imperia-motorrad.de/technik/",
+      "title": "Imperia — technique et numéros",
+      "organization": "Imperia Motorrad",
+      "reliability": "C",
+      "type": "secondary",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "de_tornax": {
+      "url": "https://benzinradl.at/gallery/Tornax%20Model%20III-1930.pdf",
+      "title": "Tornax III/31 — dossier de collection",
+      "organization": "Benzinradl",
+      "reliability": "C",
+      "type": "secondary",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "de_neander": {
+      "url": "https://www.media.stellantis.com/em-en/opel/press/opel-motoclub-father-150th-birthday-of-ernst-neumann-neander",
+      "title": "Opel Motoclub et Neumann-Neander",
+      "organization": "Opel / Stellantis",
+      "reliability": "C",
+      "type": "secondary",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "de_mabeco": {
+      "url": "https://cybermotorcycle.com/marques/german/mabeco.htm",
+      "title": "Mabeco — chronologie",
+      "organization": "Sheldon’s EMU",
+      "reliability": "C",
+      "type": "secondary",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "opel": {
+      "url": "https://www.media.stellantis.com/em-en/opel/press/opel-motoclub-father-150th-birthday-of-ernst-neumann-neander",
+      "title": "Opel Motoclub — fabrication 1928–1930",
+      "organization": "Opel / Stellantis",
+      "reliability": "A",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-18": {
+      "url": "https://collections.museumsvictoria.com.au/items/396639",
+      "title": "ST 26770 — Harley-Davidson Pup, 1930",
+      "organization": "Museums Victoria",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-19": {
+      "url": "https://www.youtube.com/watch?v=yFYWdvRMweA",
+      "title": "Motor Monday — 1930 Harley-Davidson VL",
+      "organization": "Wheels Through Time Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-20": {
+      "url": "https://www.motorcyclemecca.nz/collection/american-bikes/henderson-motorcycles/1930-henderson-kj-streamline/",
+      "title": "1930 Henderson KJ Streamline",
+      "organization": "Classic Motorcycle Mecca",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-21": {
+      "url": "https://www.motorcyclemecca.nz/collection/british-bikes/brough-superior-bikes/1930-brough-superior-ss80/",
+      "title": "1930 Brough Superior SS80",
+      "organization": "Classic Motorcycle Mecca",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-22": {
+      "url": "https://www.velocetteowners.com/services/factory-records/",
+      "title": "Factory Records / Despatch Book",
+      "organization": "Velocette Owners Club",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-23": {
+      "url": "https://www.bmct.org/the-collection",
+      "title": "1930 Sunbeam 350cc ohv Model 10",
+      "organization": "British Motorcycle Charitable Trust",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-24": {
+      "url": "https://www.barbermuseum.org/collection/",
+      "title": "Collection —1930 Harley Davidson Model V",
+      "organization": "Barber Vintage Motorsports Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-25": {
+      "url": "https://www.ivoire-troyes.com/fr/lot-4624-1205371-42_dollar_350_type_r2_1930numero_cadre_2?p=182",
+      "title": "Collection Jean-Max Drujon, lot 42",
+      "organization": "Ivoire Troyes",
+      "reliability": "B",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-26": {
+      "url": "https://www.motorcycleclassics.com/more-classic-motorcycles/1930-majestic-zm0z18mjzhur/",
+      "title": "Art Deco on Wheels: 1930 Majestic",
+      "organization": "Motorcycle Classics",
+      "reliability": "B",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-27": {
+      "url": "https://www.gazette-drouot.com/telechargement/catalogue?venteId=154134",
+      "title": "Des collections alsaciennes, 6 juillet 2024, lot 46",
+      "organization": "Osenat",
+      "reliability": "B",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-28": {
+      "url": "https://www.ville-melle.fr/comptes-rendus/2021/254-2021-05-19-proces-verbal-conseil-municipal-melle-19-05-2021/file",
+      "title": "Annexe collection, ligne 13",
+      "organization": "Ville de Melle",
+      "reliability": "A",
+      "type": "archive",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-29": {
+      "url": "https://www.lombardiabeniculturali.it/scienza-tecnologia/schede/ST120-00232/",
+      "title": "Galloni 175 — motocicletta",
+      "organization": "Lombardia Beni Culturali / Museo Nazionale Scienza e Tecnologia",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-30": {
+      "url": "https://www.puchklub.at/Home/index.php/ct-menu-item-17/ct-menu-item-19/ct-menu-item-27",
+      "title": "Puch 250 Sport / SL / S4",
+      "organization": "Puch Klub",
+      "reliability": "B",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-31": {
+      "url": "https://www.muzeum-plasy.cz/pro-navstevniky/aktuality/31-8-2024-ntm-se-ucastni-26-mezinarodniho-srazu-motocyklu-cechie-bohmerland",
+      "title": "NTM au 26e rassemblement Čechie-Böhmerland",
+      "organization": "Národní technické muzeum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-32": {
+      "url": "https://nationalmcmuseum.org/2019/11/08/1930-indian-101-scout/",
+      "title": "1930 Indian 101 Scout",
+      "organization": "National Motorcycle Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-33": {
+      "url": "https://nationalmcmuseum.org/2017/01/13/1930-scott-flying-squirrel/",
+      "title": "1930 Scott Flying Squirrel",
+      "organization": "National Motorcycle Museum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-34": {
+      "url": "https://collection.ingenium.ca/fr/id/1977.0289.001/",
+      "title": "FOUR402 — artefact1977.0289.001",
+      "organization": "Ingenium",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-35": {
+      "url": "https://electronicsandbooks.com/edt/manual/Art/Auction/Bonhams/2016/20160107%20S-23131-0-2%20The%20Las%20Vegas%20Motorcycle%20Auction%20%5B252%5D.pdf",
+      "title": "Bonhams Las Vegas2016 lot63, p52",
+      "organization": "Bonhams",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-36": {
+      "url": "https://www.racecar.com/news/92033/market-and-auction/1930-norton-cs1-at-hh-classics-national-motorcycle-museum-auction",
+      "title": "1930 Norton CS1 — H&H annonce",
+      "organization": "H&H Classics via Racecar",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-37": {
+      "url": "https://www.andybuysbikes.com/archivehtml/08757nrt.html",
+      "title": "1930 Norton Model18, no08757",
+      "organization": "Andy Tiernan Classics",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-38": {
+      "url": "https://www.barnstormers.co.nz/2045/1930-rudge-sales-catalogue/",
+      "title": "Rudge catalogue1930",
+      "organization": "Barnstormers / Rudge",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-39": {
+      "url": "https://www.danmarksmotorcykelmuseum.dk/en/mc-1926-1939/",
+      "title": "MC1926–1939 — année de construction",
+      "organization": "Danmarks Motorcykelmuseum",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-40": {
+      "url": "https://cybermotorcycle.com/gallery/rudge-1930/Rudge-1930-Ulster-Green-NZM-01.htm",
+      "title": "1930 Ulster formerly NZ Motorcycle Museum",
+      "organization": "Cybermotorcycle / ancien musée Napier",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-41": {
+      "url": "https://carsd.bonhams.com/auction/31220/lot/118/the-dale-winfield-motorcycle-collection-1930-ajs-350cc-r7-racing-motorcycle-frame-no-no-stamp-to-frame-number-boss-engine-no-145256-r/",
+      "title": "1930 AJS350 R7 lot118",
+      "organization": "Bonhams",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-42": {
+      "url": "https://nationalmotormuseum.org.uk/collections/vehicles/ariel-4f-square-four/",
+      "title": "Ariel4F SquareFour1931",
+      "organization": "National Motor Museum Beaulieu",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-43": {
+      "url": "https://remingtonreynolds.emuseum.com/objects/95621/1934-matchless-silver-hawk",
+      "title": "1934 Matchless SilverHawk",
+      "organization": "Reynolds-Alberta Museum",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-44": {
+      "url": "https://handh.co.uk/__sentry/balanced/vehicles/1930-new-imperial-7b/",
+      "title": "1930 NewImperial7B",
+      "organization": "H&H Classics",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-45": {
+      "url": "https://www.royalenfield.com/in/en/our-world/since-1901/",
+      "title": "Since1901",
+      "organization": "Royal Enfield",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-46": {
+      "url": "https://www.calthorpe.info/",
+      "title": "Calthorpe Motorcycle Group",
+      "organization": "Calthorpe Motorcycle Group",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-47": {
+      "url": "https://barnstormers.co.nz/wp-content/uploads/2025/09/1931-Panther-1.pdf",
+      "title": "Panther1931 manuel figure11",
+      "organization": "Phelon & Moore via Barnstormers",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-48": {
+      "url": "https://onlinebicyclemuseum.co.uk/1930-excelsior-triumph-motobike/",
+      "title": "1930 Excelsior Triumph Motorbike",
+      "organization": "Online Bicycle Museum",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-49": {
+      "url": "https://janiszakiscom.wordpress.com/",
+      "title": "James restoration research",
+      "organization": "Janis Zakis",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-50": {
+      "url": "https://www.nationalmotorcyclemuseum.co.uk/product-category/bruce-main-smith-bms-motorcycle-manuals/francis-barnett/",
+      "title": "FrancisBarnett1929–1930 instruction manual",
+      "organization": "National Motorcycle Museum",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-51": {
+      "url": "https://www.mathewsons.co.uk/auction/lot/lot-498---1930-coventry-eagle/?lot=28348&sd=1",
+      "title": "Lot498 1930 CoventryEagle",
+      "organization": "Mathewsons",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-52": {
+      "url": "https://www.doria.fi/bitstream/handle/10024/83042/fd2011-pp00001767-pdf001.pdf?isAllowed=y&sequence=1",
+      "title": "Catalogue joints1939–1940",
+      "organization": "Archives Doria",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-53": {
+      "url": "https://www.mhkd.no/mt-content/uploads/2021/05/1_1992.pdf",
+      "title": "CatalogueHarley1930 reproduit",
+      "organization": "MHKD",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-54": {
+      "url": "https://bikez.com/motorcycles/harley-davidson_model_s_1930.php",
+      "title": "ModelS1930",
+      "organization": "Bikez",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-55": {
+      "url": "https://www.hagerty.com/valuation-tools/indian/chief/1930/1930-indian-chief-base?id=aCn1I000000CsD4SAK",
+      "title": "1930IndianChief value",
+      "organization": "Hagerty",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-56": {
+      "url": "https://vorkriegs-peugeot.de/modellreihen/motorraeder/motorradbau-bei-peugeot-2/",
+      "title": "Motorradbau bei Peugeot",
+      "organization": "Vorkriegs-Peugeot",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-57": {
+      "url": "https://www.amicalegnomerhone.net/autrepaj/numserie.htm",
+      "title": "Numéros de série et réceptions",
+      "organization": "Amicale Gnome & Rhône",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-58": {
+      "url": "https://www.terrot.eu/images/terrot/catalogues/magnat-debon/Catalogue_MD_1930.pdf",
+      "title": "Catalogue Magnat-Debon 1930",
+      "organization": "Archives Terrot.eu",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-59": {
+      "url": "https://www.ivoire-france.com/chartres/fr/auction-3225-motos_cycles_collection",
+      "title": "Motos cycles collection",
+      "organization": "Ivoire Chartres",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-60": {
+      "url": "https://cyclememory.org/doc/B-1-0000001078/B-1-0000001078.pdf",
+      "title": "Moto Revue 1930",
+      "organization": "Cyclememory / Moto Revue",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-61": {
+      "url": "https://www.lpmcc.net/motor/bike_yesterc.htm",
+      "title": "Yesterday motorcycles",
+      "organization": "LPMCC",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-62": {
+      "url": "https://cyclememory.org/fr/search-mod-list?brandID=724&modelID=m_DreschPS175",
+      "title": "Dresch PS175",
+      "organization": "Cyclememory",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-63": {
+      "url": "https://patrimoine.bourgognefranchecomte.fr/dossier/pdf/IA25000902",
+      "title": "Usine Peugeot Beaulieu",
+      "organization": "Inventaire patrimoine Bourgogne-Franche-Comté",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-64": {
+      "url": "https://archive.gazettes.africa/archive/ma/1930/ma-bulletin-officiel-dated-1930-07-18-no-925.pdf",
+      "title": "Bulletin officiel 18 juillet1930",
+      "organization": "Protectorat Maroc / Gazettes Africa",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-65": {
+      "url": "https://www.moto-collection.org/moto-collection/fmd-marque-Rene_Gillet-2789.htm",
+      "title": "René Gillet index",
+      "organization": "Moto Collection",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-66": {
+      "url": "https://www.coupes-moto-legende.fr/wp-content/uploads/2019/05/Liste-des-participants-d%C3%A9monstrations-CML19-pour-Web.pdf",
+      "title": "Participants démonstrations2019",
+      "organization": "Coupes Moto Légende",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-67": {
+      "url": "https://www.ivoire-france.com/sdoc-10296411-343b207467a493e114d8857422a02695-catamoto171121.pdf",
+      "title": "Motos collection lot101",
+      "organization": "Ivoire France",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-68": {
+      "url": "https://www.cybermotorcycle.com/gallery/ravat/index.htm",
+      "title": "Ravat gallery",
+      "organization": "Cybermotorcycle",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-69": {
+      "url": "https://www.moto-collection.org/moto-collection/fmd-moto-Ultima-9784.htm",
+      "title": "Ultima D3",
+      "organization": "Moto Collection",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-70": {
+      "url": "https://cyclememory.org/doc/B-1-0000001195/B-1-0000001195.pdf",
+      "title": "Moto Revue372",
+      "organization": "Cyclememory / Moto Revue",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-71": {
+      "url": "https://docs.prod-indb.io/2024/01/25/095721_259688137_e452ed5b0643efd9a7d2852c087c1f65.pdf",
+      "title": "AdjugArt6 février2024 lot36",
+      "organization": "AdjugArt",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-72": {
+      "url": "https://bc.wbp.lodz.pl/Content/24969/IlustrowanaRepublika1930Nr081.pdf",
+      "title": "Ilustrowana Republika23mars1930",
+      "organization": "Bibliothèque Lodz / journal1930",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-73": {
+      "url": "https://www.sarolea.cz/history_2.html",
+      "title": "Saroléa history1920–1939",
+      "organization": "Sarolea.cz",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-74": {
+      "url": "https://www.milanotaranto.com/wp-content/uploads/2016/06/MITA_2016_brochure.pdf",
+      "title": "Milan Taranto2016 brochure",
+      "organization": "Milan Taranto",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-75": {
+      "url": "https://www.moto-reve.de/english/history/huqvarna--moto-reve/index.html",
+      "title": "Husqvarna / Moto-Rêve",
+      "organization": "Moto-Reve.de",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-76": {
+      "url": "https://www.benelli.nl/wp-content/uploads/2023/02/When-is-what-type-Benelli-build.pdf",
+      "title": "When is what type Benelli built",
+      "organization": "Benelli Club Nederland",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-77": {
+      "url": "https://www.benelli.com/int-en/news/benelli-s-history-a-legacy-of-passion-and-precision_1456",
+      "title": "Benelli history",
+      "organization": "Benelli",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-78": {
+      "url": "https://guzzitek.org/guzzistoire/presse/MotoGuzzi-VehiculesHistoriques_I-F-GB-D.pdf",
+      "title": "100 anni Moto Guzzi — véhicules historiques",
+      "organization": "Musée Moto Guzzi / communiqué Piaggio reproduit par Guzzitek",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-79": {
+      "url": "https://www.registrostoricobianchi.it/la-bianchi/produzione-moto/",
+      "title": "Produzione moto",
+      "organization": "Registro Storico Bianchi",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-80": {
+      "url": "https://www.registrostoricogilera.org/storia-della-gilera/",
+      "title": "Storia della Gilera",
+      "organization": "Registro Storico Gilera",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-81": {
+      "url": "https://www2.regione.sicilia.it/beniculturali/dirbenicult/info/pubblicazioni/ilruggitodellavelocita.pdf",
+      "title": "Il ruggito della velocità",
+      "organization": "Regione Sicilia — Beni culturali",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-82": {
+      "url": "https://www.lombardiabeniculturali.it/scienza-tecnologia/schede/ST120-00254/",
+      "title": "Garelli 350",
+      "organization": "Lombardia Beni Culturali / Museo Nazionale Scienza e Tecnologia",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-83": {
+      "url": "https://www.cavec.it/file/ART0000000100/33aed2f549643e8139d94dfe7e04a33f.pdf",
+      "title": "Publication patrimoniale CAVEC",
+      "organization": "Club Auto e Moto d’Epoca Cremona",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-84": {
+      "url": "https://www.cybermotorcycle.com/marques/italian/aquila.htm",
+      "title": "Motociclette Aquila",
+      "organization": "Cybermotorcycle, citations Tragatsch et Moto di Lombardia",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-85": {
+      "url": "https://www.museonicolis.com/en/ansaldo-tipo-22/",
+      "title": "Ansaldo Tipo 22 1930",
+      "organization": "Museo Nicolis",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-86": {
+      "url": "https://www.moto-collection.org/moto-collection/fmd-moto-MM-4314.htm",
+      "title": "MM 170 30 B 1930",
+      "organization": "François-Marie Dumas — Moto Collection",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-87": {
+      "url": "https://www.museibologna.it/patrimonioindustriale/",
+      "title": "Musée du patrimoine industriel",
+      "organization": "Musei Civici Bologna",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-88": {
+      "url": "https://www.skoda-storyboard.com/en/press-releases/125-years-on-a-look-back-at-the-first-laurin-klement-motorcycles-from-mlada-boleslav/",
+      "title": "125 years — first Laurin & Klement motorcycles",
+      "organization": "Škoda official archive",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-89": {
+      "url": "https://husqvarnamuseum.se/se/forsaljningsbroschyrer-1930/",
+      "title": "Försäljningsbroschyrer 1930",
+      "organization": "Husqvarna Museum",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-90": {
+      "url": "https://cybermotorcycle.com/gallery/monark-owners/",
+      "title": "Monark owners gallery",
+      "organization": "Cybermotorcycle",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-91": {
+      "url": "https://www.motorcykelmuseum.dk/",
+      "title": "Collection du musée",
+      "organization": "Danmarks Motorcykelmuseum",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-92": {
+      "url": "https://nimbus.dk/historie/",
+      "title": "Nimbus historie",
+      "organization": "Danmarks Nimbus Touring",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-93": {
+      "url": "https://eysinkclub.nl/folders/",
+      "title": "Folders",
+      "organization": "Eysink Club",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-94": {
+      "url": "https://conam.info/publicaties/artikelen-van-leden/2048-motorfietsen-in-het-nederlandse-leger-enkele-notities",
+      "title": "Motorfietsen in het Nederlandse leger",
+      "organization": "CONAM patrimoine automobile néerlandais",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-95": {
+      "url": "https://www.molletvalles.cat/ca/la-ciutat/publicacions/notes/revista-notes-volum-33/@@download/file/Notes-33.pdf",
+      "title": "Notes volum 33",
+      "organization": "Ajuntament de Mollet del Vallès",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-96": {
+      "url": "https://bibliotekanauki.pl/articles/315287.pdf",
+      "title": "Motocykl CWS M55 — étude technique",
+      "organization": "Biblioteka Nauki",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-97": {
+      "url": "https://www.ntm.cz/",
+      "title": "Collections de transports",
+      "organization": "Národní technické muzeum",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-98": {
+      "url": "https://www.jsae.or.jp/autotech/category4/4-2/",
+      "title": "Asahi AA — 330 Japanese automotive landmarks",
+      "organization": "Society of Automotive Engineers of Japan",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    },
+    "audit-99": {
+      "url": "https://rusmarka.ru/en/catalog/marki/position/13088.aspx",
+      "title": "The history of Russian motor-cycles",
+      "organization": "JSC Marka — émission postale officielle 1999",
+      "reliability": "C",
+      "type": "historical_book",
+      "published_at": null,
+      "consulted_at": "2026-11-23",
+      "author": null
+    }
+  },
+  "models": [
+    {
+      "id": "1930-bmw-r11",
+      "manufacturer": "BMW",
+      "brand": "BMW",
+      "name": "R 11",
+      "origin_country": "Allemagne",
+      "status": "production",
+      "description": "BMW documente la fabrication de 1929 à 1934. La seconde série proposée pour 1930 reste à dater dans les registres de châssis. La famille est enregistrée une seule fois.",
+      "construction": {
+        "year": 1930,
+        "precision": "exact",
+        "note": "BMW documente la fabrication de 1929 à 1934. La seconde série proposée pour 1930 reste à dater dans les registres de châssis. La famille est enregistrée une seule fois."
+      },
+      "sources": [
+        "r11"
+      ],
+      "technical": {
+        "displacement_cc": 745,
+        "cylinders": 2,
+        "engine_type": "Bicylindre boxer"
+      },
+      "dates": {
+        "production_start_year": 1929,
+        "production_end_year": 1934
+      }
+    },
+    {
+      "id": "1930-bmw-r16",
+      "manufacturer": "BMW",
+      "brand": "BMW",
+      "name": "R 16",
+      "origin_country": "Allemagne",
+      "status": "production",
+      "description": "BMW documente la fabrication de 1929 à 1934. La seconde série proposée pour 1930 reste à dater dans les registres de châssis. La famille est enregistrée une seule fois. Le tableau BMW donne 736 cm³, contre 735 cm³ proposés dans la liste.",
+      "construction": {
+        "year": 1930,
+        "precision": "exact",
+        "note": "BMW documente la fabrication de 1929 à 1934. La seconde série proposée pour 1930 reste à dater dans les registres de châssis. La famille est enregistrée une seule fois. Le tableau BMW donne 736 cm³, contre 735 cm³ proposés dans la liste."
+      },
+      "sources": [
+        "r16"
+      ],
+      "technical": {
+        "displacement_cc": 736,
+        "cylinders": 2,
+        "engine_type": "Bicylindre boxer"
+      },
+      "dates": {
+        "production_start_year": 1929,
+        "production_end_year": 1934
+      }
+    },
+    {
+      "id": "1930-dkw-js500",
+      "manufacturer": "DKW",
+      "brand": "DKW",
+      "name": "JS 500 Schüttoff",
+      "origin_country": "Allemagne",
+      "status": "production",
+      "description": "Le catalogue muséal repris par Motorostalgie identifie une JS 500 de 1930. Un moteur Schüttoff à soupapes latérales équipe un châssis DKW en tôle emboutie.",
+      "construction": {
+        "year": 1930,
+        "precision": "exact",
+        "note": "Le catalogue muséal repris par Motorostalgie identifie une JS 500 de 1930. Un moteur Schüttoff à soupapes latérales équipe un châssis DKW en tôle emboutie."
+      },
+      "sources": [
+        "js500"
+      ],
+      "technical": {
+        "engine_type": "Monocylindre quatre-temps à soupapes latérales",
+        "displacement_cc": 500,
+        "weight_kg": 150,
+        "chassis": "Châssis DKW en profilés de tôle"
+      },
+      "mechanical_details": {
+        "engine_manufacturer": "Schüttoff"
+      },
+      "aliases": [
+        "DKW-Schüttoff JS 500"
+      ]
+    },
+    {
+      "id": "1930-nsu-501ts",
+      "manufacturer": "NSU",
+      "brand": "NSU",
+      "name": "501 TS — exemplaire Georg Ahrens",
+      "origin_country": "Allemagne",
+      "status": "production",
+      "description": "Le musée date de 1930 cette 501 TS livrée à Brno. La plaque donne 497 cm³ et 11 ch. Le musée indique des modifications ultérieures de confort par Georg Ahrens.",
+      "construction": {
+        "year": 1930,
+        "precision": "exact",
+        "note": "Le musée date de 1930 cette 501 TS livrée à Brno. La plaque donne 497 cm³ et 11 ch. Le musée indique des modifications ultérieures de confort par Georg Ahrens."
+      },
+      "sources": [
+        "nsu501"
+      ],
+      "technical": {
+        "displacement_cc": 497,
+        "cylinders": 1,
+        "engine_type": "Monocylindre quatre-temps à soupapes latérales",
+        "gears": 3,
+        "power_hp": 11
+      },
+      "technical_notes": "Valeurs de la plaque d’identification selon la notice. La cylindrée candidate de 494 cm³ n’est pas transposée. Le poids et les performances ne sont pas généralisés aux motos de la famille."
+    },
+    {
+      "id": "1930-opel-motoclub",
+      "manufacturer": "Opel",
+      "brand": "Opel",
+      "name": "Motoclub",
+      "origin_country": "Allemagne",
+      "status": "production",
+      "description": "Le constructeur documente la fabrication de la Motoclub de 1928 à 1930 sous licence du châssis Neander. La fiche concerne la famille complète, les variantes moteur restent à préciser.",
+      "construction": {
+        "year": 1930,
+        "precision": "exact",
+        "note": "Le constructeur documente la fabrication de la Motoclub de 1928 à 1930 sous licence du châssis Neander. La fiche concerne la famille complète, les variantes moteur restent à préciser."
+      },
+      "sources": [
+        "opel"
+      ],
+      "technical": {},
+      "dates": {
+        "production_start_year": 1928,
+        "production_end_year": 1930
+      }
+    },
+    {
+      "id": "1930-harley-b",
+      "status": "production",
+      "description": "Machine physique ST26770, moteur 30 B 1526. Notice datée circa1930; le surnom Pup et la mention Model45 sont ambigus. Le code moteur identifie B. Photos Benjamin Healley CC BY4.",
+      "construction": {
+        "year": 1930,
+        "precision": "approximate",
+        "note": "Machine physique ST26770, moteur 30 B 1526. Notice datée circa1930; le surnom Pup et la mention Model45 sont ambigus. Le code moteur identifie B. Photos Benjamin Healley CC BY4."
+      },
+      "sources": [
+        "audit-18"
+      ],
+      "manufacturer": "Harley-Davidson",
+      "brand": "Harley-Davidson",
+      "name": "Model B — Pup ST26770",
+      "origin_country": "États-Unis",
+      "technical": {
+        "displacement_cc": 345.73,
+        "cylinders": 1,
+        "engine_type": "Monocylindre quatre-temps"
+      },
+      "specializations": []
+    },
+    {
+      "id": "1930-henderson-kj",
+      "status": "production",
+      "description": "Machine physique datée1930. Production1929–1931. 1301cm³, quatre cylindres IOE, boîte trois rapports.",
+      "construction": {
+        "year": 1930,
+        "precision": "exact",
+        "note": "Machine physique datée1930. Production1929–1931. 1301cm³, quatre cylindres IOE, boîte trois rapports."
+      },
+      "sources": [
+        "audit-20"
+      ],
+      "manufacturer": "Henderson Motorcycle Company",
+      "brand": "Henderson",
+      "name": "KJ Streamline",
+      "origin_country": "États-Unis",
+      "technical": {
+        "displacement_cc": 1301,
+        "cylinders": 4,
+        "engine_type": "Quatre cylindres en ligne IOE",
+        "gears": 3
+      },
+      "specializations": [],
+      "dates": {
+        "production_start_year": 1929,
+        "production_end_year": 1931
+      }
+    },
+    {
+      "id": "1930-brough-ss80",
+      "status": "production",
+      "description": "Exemplaire standard1930 de la collection, moteur JAP selon notice, modèlesSS80 produits1922–1939. Distinct du Mark1 déjà au catalogue.",
+      "construction": {
+        "year": 1930,
+        "precision": "exact",
+        "note": "Exemplaire standard1930 de la collection, moteur JAP selon notice, modèlesSS80 produits1922–1939. Distinct du Mark1 déjà au catalogue."
+      },
+      "sources": [
+        "audit-21"
+      ],
+      "manufacturer": "Brough Superior",
+      "brand": "Brough Superior",
+      "name": "SS80 — exemplaire standard1930",
+      "origin_country": "Royaume-Uni",
+      "technical": {},
+      "specializations": [],
+      "mechanical_details": {
+        "engine_manufacturer": "J.A.P."
+      }
+    },
+    {
+      "id": "1930-velocette-ktt",
+      "status": "production",
+      "description": "Entrée isolée KTT930 explicitement juin1930. Machine physique expédiée d’usine. Aucune cylindrée ou configuration recopiée.",
+      "construction": {
+        "year": 1930,
+        "precision": "exact",
+        "note": "Entrée isolée KTT930 explicitement juin1930. Machine physique expédiée d’usine. Aucune cylindrée ou configuration recopiée."
+      },
+      "sources": [
+        "audit-22"
+      ],
+      "manufacturer": "Veloce Ltd",
+      "brand": "Velocette",
+      "name": "KTT — moteur930",
+      "origin_country": "Royaume-Uni",
+      "technical": {},
+      "specializations": [
+        "competition"
+      ]
+    },
+    {
+      "id": "1930-sunbeam-10",
+      "status": "production",
+      "description": "Objet physique détenu par BMCT, exposé Black Country Living Museum; fabrication1930 explicite; fabricant John Marston Ltd Wolverhampton.",
+      "construction": {
+        "year": 1930,
+        "precision": "exact",
+        "note": "Objet physique détenu par BMCT, exposé Black Country Living Museum; fabrication1930 explicite; fabricant John Marston Ltd Wolverhampton."
+      },
+      "sources": [
+        "audit-23"
+      ],
+      "manufacturer": "John Marston Ltd",
+      "brand": "Sunbeam",
+      "name": "Model 10",
+      "origin_country": "Royaume-Uni",
+      "technical": {
+        "displacement_cc": 350,
+        "engine_type": "OHV"
+      },
+      "specializations": []
+    },
+    {
+      "id": "1930-harley-v",
+      "status": "production",
+      "description": "Ligne1930 ModelV dans collection physique. Pas de cylindrée dans cette ligne. V et VL sont variantes de famille; fusion possible plutôt que deux familles.",
+      "construction": {
+        "year": 1930,
+        "precision": "exact",
+        "note": "Ligne1930 ModelV dans collection physique. Pas de cylindrée dans cette ligne. V et VL sont variantes de famille; fusion possible plutôt que deux familles."
+      },
+      "sources": [
+        "audit-24"
+      ],
+      "manufacturer": "Harley-Davidson",
+      "brand": "Harley-Davidson",
+      "name": "Model V",
+      "origin_country": "États-Unis",
+      "technical": {},
+      "specializations": []
+    },
+    {
+      "id": "1930-harley-vl",
+      "status": "production",
+      "description": "Le conservateur du musée présente et fait fonctionner une VL1930 small case conservée. Année de fabrication1930 attestée par l’objet; modèle apparu1930 selon millésime, annonce juillet1929 selon autre musée.",
+      "construction": {
+        "year": 1930,
+        "precision": "exact",
+        "note": "Le conservateur du musée présente et fait fonctionner une VL1930 small case conservée. Année de fabrication1930 attestée par l’objet; modèle apparu1930 selon millésime, annonce juillet1929 selon autre musée."
+      },
+      "sources": [
+        "audit-19"
+      ],
+      "manufacturer": "Harley-Davidson",
+      "brand": "Harley-Davidson",
+      "name": "VL — small case, 1930",
+      "origin_country": "États-Unis",
+      "technical": {},
+      "specializations": [],
+      "relationships": [
+        {
+          "type": "variant_of",
+          "target_id": "1930-harley-v",
+          "note": "VL : variante commerciale de la famille V ; deux exemplaires documentés, une famille dans le décompte.",
+          "sources": [
+            "audit-19"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1930-dollar-r2",
+      "status": "production",
+      "description": "R2 350, cadre 2200, moteur K9 35148. Notice précise sortie usine Joinville-le-Pont avril 1930. Chaise OHV. Marque antérieure à 1930 (1923), ne pas transformer 1930 en fondation.",
+      "construction": {
+        "year": 1930,
+        "precision": "exact",
+        "note": "R2 350, cadre 2200, moteur K9 35148. Notice précise sortie usine Joinville-le-Pont avril 1930. Chaise OHV. Marque antérieure à 1930 (1923), ne pas transformer 1930 en fondation."
+      },
+      "sources": [
+        "audit-25"
+      ],
+      "manufacturer": "Dollar",
+      "brand": "Dollar",
+      "name": "350 Chaise / R2",
+      "origin_country": "France",
+      "technical": {
+        "displacement_cc": 350
+      }
+    },
+    {
+      "id": "1930-majestic-500",
+      "status": "production",
+      "description": "Exemplaire restauré Serge Bueno explicitement construit en 1930; moteur Chaise 500 à soupapes en tête (OHV), pas arbre à cames en tête. Autres exemplaires 350 et descriptions 500 latérales ne doivent pas être fusionnés. Source spécialiste secondaire sur artefact identifié.",
+      "construction": {
+        "year": 1930,
+        "precision": "exact",
+        "note": "Exemplaire restauré Serge Bueno explicitement construit en 1930; moteur Chaise 500 à soupapes en tête (OHV), pas arbre à cames en tête. Autres exemplaires 350 et descriptions 500 latérales ne doivent pas être fusionnés. Source spécialiste secondaire sur artefact identifié."
+      },
+      "sources": [
+        "audit-26"
+      ],
+      "manufacturer": "Majestic",
+      "brand": "Majestic",
+      "name": "500",
+      "origin_country": "France",
+      "technical": {
+        "displacement_cc": 500
+      }
+    },
+    {
+      "id": "1930-peugeot-p105",
+      "status": "production",
+      "description": "Exemplaire donné 1930 P105 Type A12; série 60589 moteur 60568, 350 cm3 culbutée. Datation de notice, pas registre usine; première construction inconnue.",
+      "construction": {
+        "year": 1930,
+        "precision": "exact",
+        "note": "Exemplaire donné 1930 P105 Type A12; série 60589 moteur 60568, 350 cm3 culbutée. Datation de notice, pas registre usine; première construction inconnue."
+      },
+      "sources": [
+        "audit-27"
+      ],
+      "manufacturer": "Peugeot",
+      "brand": "Peugeot",
+      "name": "P105",
+      "origin_country": "France",
+      "technical": {
+        "displacement_cc": 350
+      }
+    },
+    {
+      "id": "1930-monet-goyon-mt",
+      "status": "production",
+      "description": "Objet physique inventorié 1930, cylindrée 250; première construction et fin production inconnues. K35 distinct de MG35 datée 1931 dans même annexe.",
+      "construction": {
+        "year": 1930,
+        "precision": "exact",
+        "note": "Objet physique inventorié 1930, cylindrée 250; première construction et fin production inconnues. K35 distinct de MG35 datée 1931 dans même annexe."
+      },
+      "sources": [
+        "audit-28"
+      ],
+      "manufacturer": "Monet & Goyon",
+      "brand": "Monet & Goyon",
+      "name": "MT 250",
+      "origin_country": "France",
+      "technical": {
+        "displacement_cc": 250
+      }
+    },
+    {
+      "id": "1930-monet-goyon-k35",
+      "status": "production",
+      "description": "Objet physique inventorié 1930, cylindrée 350; première construction et fin production inconnues. K35 distinct de MG35 datée 1931 dans même annexe.",
+      "construction": {
+        "year": 1930,
+        "precision": "exact",
+        "note": "Objet physique inventorié 1930, cylindrée 350; première construction et fin production inconnues. K35 distinct de MG35 datée 1931 dans même annexe."
+      },
+      "sources": [
+        "audit-28"
+      ],
+      "manufacturer": "Monet & Goyon",
+      "brand": "Monet & Goyon",
+      "name": "K35 350",
+      "origin_country": "France",
+      "technical": {
+        "displacement_cc": 350
+      }
+    },
+    {
+      "id": "1930-galloni-galloni-175",
+      "status": "production",
+      "description": "Exemplaire physique daté 1930 ; monocylindre vertical quatre-temps à soupapes latérales. Année de plaque immatriculation 1934–1935 distincte. 175 est nominal, pas cylindrée exacte mesurée.",
+      "construction": {
+        "year": 1930,
+        "precision": "exact",
+        "note": "Exemplaire physique daté 1930 ; monocylindre vertical quatre-temps à soupapes latérales. Année de plaque immatriculation 1934–1935 distincte. 175 est nominal, pas cylindrée exacte mesurée."
+      },
+      "sources": [
+        "audit-29"
+      ],
+      "manufacturer": "Galloni",
+      "brand": "Galloni",
+      "name": "175",
+      "origin_country": "Italie",
+      "technical": {
+        "engine_type": "Monocylindre quatre-temps à soupapes latérales"
+      }
+    },
+    {
+      "id": "1930-puch-250-sport",
+      "status": "production",
+      "description": "Production 250 Sport 1930–1932, 800 exemplaires ; 248,1 cm³, deux-temps double piston, 3 rapports. Puissance 1930 tête bronze 7 PS, ne pas copier les 9 PS de 1931–1932.",
+      "construction": {
+        "year": 1930,
+        "precision": "exact",
+        "note": "Production 250 Sport 1930–1932, 800 exemplaires ; 248,1 cm³, deux-temps double piston, 3 rapports. Puissance 1930 tête bronze 7 PS, ne pas copier les 9 PS de 1931–1932."
+      },
+      "sources": [
+        "audit-30"
+      ],
+      "manufacturer": "Puch",
+      "brand": "Puch",
+      "name": "250 Sport",
+      "origin_country": "Autriche",
+      "technical": {
+        "displacement_cc": 248.1,
+        "engine_type": "Monocylindre deux-temps à deux pistons",
+        "gears": 3,
+        "power_hp": 7
+      },
+      "dates": {
+        "production_start_year": 1930,
+        "production_end_year": 1932
+      }
+    },
+    {
+      "id": "1930-cechie-bohmerland-600-touring",
+      "status": "production",
+      "description": "Le musée possède et fait rouler son exemplaire Čechie-Böhmerland 600 touring daté 1930, acquis en 1964. Quatre-temps 600 cm³. Les deux exemplaires mentionnés sont ceux du musée, pas le nombre produit.",
+      "construction": {
+        "year": 1930,
+        "precision": "exact",
+        "note": "Le musée possède et fait rouler son exemplaire Čechie-Böhmerland 600 touring daté 1930, acquis en 1964. Quatre-temps 600 cm³. Les deux exemplaires mentionnés sont ceux du musée, pas le nombre produit."
+      },
+      "sources": [
+        "audit-31"
+      ],
+      "manufacturer": "Albin Liebisch",
+      "brand": "Čechie-Böhmerland",
+      "name": "600 Touring",
+      "origin_country": "Tchécoslovaquie",
+      "technical": {
+        "displacement_cc": 600,
+        "engine_type": "Quatre-temps"
+      }
+    }
+  ],
+  "attestations": [
+    {
+      "id": "construction-1930-1928-bmw-r57",
+      "vehicle_id": "1928-bmw-r57",
+      "year": 1930,
+      "sources": [
+        "r57"
+      ],
+      "historical_status": "production",
+      "note": "La fabrication de la R 57 est documentée de 1928 à 1930 par BMW. Le millésime de 1928 est conservé sur la fiche existante."
+    },
+    {
+      "id": "1930-continuity-1928-indian-101-scout",
+      "vehicle_id": "1928-indian-101-scout",
+      "year": 1930,
+      "sources": [
+        "audit-32"
+      ],
+      "historical_status": "production",
+      "note": "Exemplaire1930 prêté par Joe Wessbecker. Réutiliser la famille101 Scout déjà au catalogue; aucune nouvelle fiche de millésime. Attestation annuelle ; ne modifie pas les caractéristiques des exemplaires antérieurs."
+    },
+    {
+      "id": "1930-continuity-1925-scott-flying-squirrel",
+      "vehicle_id": "1925-scott-flying-squirrel",
+      "year": 1930,
+      "sources": [
+        "audit-33"
+      ],
+      "historical_status": "production",
+      "note": "Exemplaire1930, 596cm³ deux-temps bicylindre parallèle refroidi par eau. Réutiliser la famille Flying Squirrel 1925; la fiche précédente porte498cm³, ne pas réécrire cette valeur. Une variante596 peut être reliée si la différence de cylindrée est souhaitée. Attestation annuelle ; ne modifie pas les caractéristiques des exemplaires antérieurs."
+    },
+    {
+      "id": "1930-continuity-1928-moto-guzzi-gt-norge",
+      "vehicle_id": "1928-moto-guzzi-gt-norge",
+      "year": 1930,
+      "sources": [
+        "audit-78"
+      ],
+      "historical_status": "production",
+      "note": "Dossier du musée : GT 500 Norge 1928–1930, 498,4 cm³. Confirme continuité 1930, aucun nouveau modèle. Attestation annuelle ; ne modifie pas les caractéristiques des exemplaires antérieurs."
+    }
+  ]
+}

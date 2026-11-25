@@ -75,3 +75,7 @@ Version locale compilée et vérifiée. Après le refus initial du contrôle aut
 ## 2026-11-08 — Année 1922
 
 15 fiches documentées, une continuité annuelle W/Sport Twin, variante Z2G reliée à Z22, classification Sesselrad et side-cars conservés comme équipement. Archive intégrale des 86 fiches précédentes. Registre 138 références (120 dossiers encore ouverts), quatre photos Commons revues, villes documentées, compactage du catalogue de production et contrôle du précache. Rapport : `inventories/1922.md`.
+
+## 2026-11-23 — Lot 1930
+
+20 fiches ajoutées, dont une variante commerciale ; quatre continuités annuelles. Les 125 fiches antérieures sont conservées. Registre de 145 références et rapport détaillé : `inventories/1930.md`. Photos Commons avec droits par fichier et WebP locaux ; illustrations d’autres millésimes signalées.

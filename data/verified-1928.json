@@ -1,0 +1,316 @@
+{
+  "sources": {
+    "r47": {
+      "url": "https://www.bmwgroup-classic.com/de/modelle/bmw-motorrad-klassiker/product-description-page.md-573-1.bmw-r-47.html",
+      "title": "BMW R 47 — fabrication 1927–1928",
+      "organization": "BMW Group Classic",
+      "reliability": "A",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    },
+    "r52": {
+      "url": "https://www.bmwgroup-classic.com/de/modelle/bmw-motorrad-klassiker/product-description-page.md-574-1.bmw-r-52.html",
+      "title": "BMW R 52 — fabrication 1928–1929",
+      "organization": "BMW Group Classic",
+      "reliability": "A",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    },
+    "r57": {
+      "url": "https://www.bmwgroup-classic.com/de/modelle/bmw-motorrad-klassiker/product-description-page.md-575-1.bmw-r-57.html",
+      "title": "BMW R 57 — fabrication 1928–1930",
+      "organization": "BMW Group Classic",
+      "reliability": "A",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    },
+    "r62": {
+      "url": "https://www.bmwgroup-classic.com/de/modelle/bmw-motorrad-klassiker/product-description-page.md-576-1.bmw-r-62.html",
+      "title": "BMW R 62 — fabrication 1928–1929",
+      "organization": "BMW Group Classic",
+      "reliability": "A",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    },
+    "r63": {
+      "url": "https://www.bmwgroup-classic.com/en/models/bmw-motorcycle-classics/product-description-page.md-577-1.bmw-r-63.html",
+      "title": "BMW R 63 — fabrication 1928–1929",
+      "organization": "BMW Group Classic",
+      "reliability": "A",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    },
+    "scout": {
+      "url": "https://www.motorcyclemecca.nz/collection/american-bikes/indian-motorcycles/1928-indian-101-scout/",
+      "title": "1928 Indian Scout 45",
+      "organization": "Classic Motorcycle Mecca",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    },
+    "r42": {
+      "url": "https://www.bmwgroup-classic.com/de/modelle/bmw-motorrad-klassiker/product-description-page.md-572-1.bmw-r-42.html",
+      "title": "BMW R 42 — fabrication 1926–1928",
+      "organization": "BMW Group Classic",
+      "reliability": "A",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    },
+    "guzzi": {
+      "url": "https://guzzitek.org/guzzistoire/presse/MotoGuzzi-VehiculesHistoriques_I-F-GB-D.pdf",
+      "title": "Moto Guzzi — Véhicules historiques, GT 500 Norge 1928–1930",
+      "organization": "Moto Guzzi",
+      "reliability": "A",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    },
+    "dan": {
+      "url": "https://www.danmarksmotorcykelmuseum.dk/mc-1926-1939/",
+      "title": "Inventaire 1926–1939 — Monark et NV Nymansbolaget",
+      "organization": "Danmarks Motorcykelmuseum",
+      "reliability": "B",
+      "type": "museum",
+      "published_at": null,
+      "consulted_at": "2026-11-17",
+      "author": null
+    }
+  },
+  "models": [
+    {
+      "id": "1928-bmw-r47",
+      "manufacturer": "BMW",
+      "brand": "BMW",
+      "name": "R 47",
+      "aliases": [
+        "BMW R47"
+      ],
+      "origin_country": "Allemagne",
+      "status": "production",
+      "description": "La R 47 succède à la R 37. BMW documente sa production dès 1927. BMW Group Classic donne une période de fabrication de 1927 à 1928.",
+      "construction": {
+        "year": 1928,
+        "precision": "exact",
+        "note": "La R 47 succède à la R 37. BMW documente sa production dès 1927. BMW Group Classic donne une période de fabrication de 1927 à 1928."
+      },
+      "dates": {
+        "production_start_year": 1927,
+        "production_end_year": 1928
+      },
+      "sources": [
+        "r47"
+      ],
+      "technical": {
+        "displacement_cc": 494,
+        "cylinders": 2,
+        "engine_type": "Boxer à soupapes en tête"
+      }
+    },
+    {
+      "id": "1928-bmw-r52",
+      "manufacturer": "BMW",
+      "brand": "BMW",
+      "name": "R 52",
+      "aliases": [
+        "BMW R52"
+      ],
+      "origin_country": "Allemagne",
+      "status": "production",
+      "description": "La R 52 succède à la R 42 avec un nouveau moteur longue course. BMW Group Classic donne une période de fabrication de 1928 à 1929.",
+      "construction": {
+        "year": 1928,
+        "precision": "exact",
+        "note": "La R 52 succède à la R 42 avec un nouveau moteur longue course. BMW Group Classic donne une période de fabrication de 1928 à 1929."
+      },
+      "dates": {
+        "production_start_year": 1928,
+        "production_end_year": 1929
+      },
+      "sources": [
+        "r52"
+      ],
+      "technical": {
+        "displacement_cc": 486,
+        "cylinders": 2,
+        "engine_type": "Boxer à soupapes latérales"
+      }
+    },
+    {
+      "id": "1928-bmw-r57",
+      "manufacturer": "BMW",
+      "brand": "BMW",
+      "name": "R 57",
+      "aliases": [
+        "BMW R57"
+      ],
+      "origin_country": "Allemagne",
+      "status": "production",
+      "description": "La R 57 succède à la R 47 en conservant ses caractéristiques générales. BMW Group Classic donne une période de fabrication de 1928 à 1930.",
+      "construction": {
+        "year": 1928,
+        "precision": "exact",
+        "note": "La R 57 succède à la R 47 en conservant ses caractéristiques générales. BMW Group Classic donne une période de fabrication de 1928 à 1930."
+      },
+      "dates": {
+        "production_start_year": 1928,
+        "production_end_year": 1930
+      },
+      "sources": [
+        "r57"
+      ],
+      "technical": {
+        "displacement_cc": 494,
+        "cylinders": 2,
+        "engine_type": "Boxer à soupapes en tête"
+      }
+    },
+    {
+      "id": "1928-bmw-r62",
+      "manufacturer": "BMW",
+      "brand": "BMW",
+      "name": "R 62",
+      "aliases": [
+        "BMW R62"
+      ],
+      "origin_country": "Allemagne",
+      "status": "production",
+      "description": "La R 62 est la routière de la gamme BMW de 750 cm³. BMW Group Classic donne une période de fabrication de 1928 à 1929.",
+      "construction": {
+        "year": 1928,
+        "precision": "exact",
+        "note": "La R 62 est la routière de la gamme BMW de 750 cm³. BMW Group Classic donne une période de fabrication de 1928 à 1929."
+      },
+      "dates": {
+        "production_start_year": 1928,
+        "production_end_year": 1929
+      },
+      "sources": [
+        "r62"
+      ],
+      "technical": {
+        "displacement_cc": 745,
+        "cylinders": 2,
+        "engine_type": "Boxer à soupapes latérales"
+      }
+    },
+    {
+      "id": "1928-bmw-r63",
+      "manufacturer": "BMW",
+      "brand": "BMW",
+      "name": "R 63",
+      "aliases": [
+        "BMW R63"
+      ],
+      "origin_country": "Allemagne",
+      "status": "production",
+      "description": "La R 63 est le modèle sportif de la gamme BMW de 750 cm³. BMW Group Classic donne une période de fabrication de 1928 à 1929.",
+      "construction": {
+        "year": 1928,
+        "precision": "exact",
+        "note": "La R 63 est le modèle sportif de la gamme BMW de 750 cm³. BMW Group Classic donne une période de fabrication de 1928 à 1929."
+      },
+      "dates": {
+        "production_start_year": 1928,
+        "production_end_year": 1929
+      },
+      "sources": [
+        "r63"
+      ],
+      "technical": {
+        "displacement_cc": 735,
+        "cylinders": 2,
+        "engine_type": "Boxer à soupapes en tête"
+      }
+    },
+    {
+      "id": "1928-indian-101-scout",
+      "manufacturer": "Indian",
+      "brand": "Indian",
+      "name": "101 Scout 45",
+      "origin_country": "États-Unis",
+      "status": "production",
+      "description": "Classic Motorcycle Mecca présente une Scout 45 de 1928 et documente la production de la 101 Scout de 1928 à 1931. La 101 est distincte de la Scout du début des années 1920.",
+      "construction": {
+        "year": 1928,
+        "precision": "exact",
+        "note": "Classic Motorcycle Mecca présente une Scout 45 de 1928 et documente la production de la 101 Scout de 1928 à 1931. La 101 est distincte de la Scout du début des années 1920."
+      },
+      "dates": {
+        "production_start_year": 1928,
+        "production_end_year": 1931
+      },
+      "sources": [
+        "scout"
+      ],
+      "technical": {
+        "displacement_cc": 737,
+        "cylinders": 2,
+        "engine_type": "Bicylindre en V"
+      },
+      "relationships": [
+        {
+          "type": "related_to",
+          "target_id": "1922-indian-scout",
+          "note": "Évolution de la gamme Scout, avec identification 101 distincte.",
+          "sources": [
+            "scout"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1928-moto-guzzi-gt-norge",
+      "manufacturer": "Moto Guzzi",
+      "brand": "Moto Guzzi",
+      "name": "GT 500 Norge",
+      "origin_country": "Italie",
+      "description": "La fiche historique du constructeur documente la GT 500 Norge, au catalogue de 1928 à 1930, et l’exemplaire utilisé par Giuseppe Guzzi pour son voyage de 1928. Le moteur de 498,4 cm³ est associé à une boîte à trois rapports.",
+      "status": "production",
+      "construction": {
+        "year": 1928,
+        "precision": "exact",
+        "note": "La fiche historique du constructeur documente la GT 500 Norge, au catalogue de 1928 à 1930, et l’exemplaire utilisé par Giuseppe Guzzi pour son voyage de 1928. Le moteur de 498,4 cm³ est associé à une boîte à trois rapports."
+      },
+      "sources": [
+        "guzzi"
+      ],
+      "technical": {
+        "displacement_cc": 498.4,
+        "cylinders": 1,
+        "engine_type": "Monocylindre quatre-temps",
+        "gears": 3
+      },
+      "aliases": [
+        "Norge GT",
+        "GT Norge"
+      ]
+    }
+  ],
+  "attestations": [
+    {
+      "id": "construction-1928-bmw-r42",
+      "vehicle_id": "1926-bmw-r42",
+      "year": 1928,
+      "sources": [
+        "r42"
+      ],
+      "historical_status": "production",
+      "note": "BMW Group Classic documente une production de 1926 à 1928."
+    }
+  ]
+}

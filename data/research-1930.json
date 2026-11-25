@@ -1,0 +1,2184 @@
+{
+  "id": "historical-1930-v1",
+  "title": "Inventaire annuel 1930",
+  "consulted_at": "2026-11-23",
+  "start": 1930,
+  "end": 1930,
+  "references": [
+    {
+      "reference": "001",
+      "name": "BMW R11 — deuxième série à dater",
+      "requested_year": "1930",
+      "region": "Allemagne",
+      "decision": "added",
+      "vehicle_id": "1930-bmw-r11",
+      "group": "motorcycle",
+      "source_keys": [
+        "r11"
+      ],
+      "note": "BMW documente la fabrication de 1929 à 1934. La seconde série proposée pour 1930 reste à dater dans les registres de châssis. La famille est enregistrée une seule fois.",
+      "audit_outcome": "confirmed",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "002",
+      "name": "BMW R16 — deuxième série à dater",
+      "requested_year": "1930",
+      "region": "Allemagne",
+      "decision": "added",
+      "vehicle_id": "1930-bmw-r16",
+      "group": "motorcycle",
+      "source_keys": [
+        "r16"
+      ],
+      "note": "BMW documente la fabrication de 1929 à 1934. La seconde série proposée pour 1930 reste à dater dans les registres de châssis. La famille est enregistrée une seule fois. Le tableau BMW donne 736 cm³, contre 735 cm³ proposés dans la liste.",
+      "audit_outcome": "confirmed",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "003",
+      "name": "BMW R57",
+      "requested_year": "1930",
+      "region": "Allemagne",
+      "decision": "existing",
+      "vehicle_id": "1928-bmw-r57",
+      "group": "motorcycle",
+      "source_keys": [
+        "r57"
+      ],
+      "note": "La fabrication de la R 57 est documentée de 1928 à 1930 par BMW. Le millésime de 1928 est conservé sur la fiche existante.",
+      "audit_outcome": "existing",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "004",
+      "name": "BMW WR 750",
+      "requested_year": "1930",
+      "region": "Allemagne",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "wr750"
+      ],
+      "note": "L’affiche de 1930 célèbre le record du 19 septembre 1929. Elle atteste la machine avant 1930, sans dater une nouvelle construction en 1930.",
+      "audit_outcome": "earlier_machine",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "005",
+      "name": "DKW Schüttoff JS 500",
+      "requested_year": "1930",
+      "region": "Allemagne",
+      "decision": "added",
+      "vehicle_id": "1930-dkw-js500",
+      "group": "motorcycle",
+      "source_keys": [
+        "js500"
+      ],
+      "note": "Le catalogue muséal repris par Motorostalgie identifie une JS 500 de 1930. Un moteur Schüttoff à soupapes latérales équipe un châssis DKW en tôle emboutie.",
+      "audit_outcome": "confirmed",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "006",
+      "name": "Schüttoff",
+      "requested_year": "1930",
+      "region": "Allemagne",
+      "decision": "existing",
+      "vehicle_id": "1930-dkw-js500",
+      "group": "motorcycle",
+      "source_keys": [
+        "js500"
+      ],
+      "note": "Piste rapprochée de la JS 500 à châssis DKW et moteur Schüttoff. Une seconde fiche de constructeur complet n’est pas créée pour le même véhicule.",
+      "audit_outcome": "same_machine",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "007",
+      "name": "DKW E200",
+      "requested_year": "1930",
+      "region": "Allemagne",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "dkw_e"
+      ],
+      "note": "Les machines E 200 vues dans les sources de collection sont datées de 1927–1929. Une machine neuve ou une fabrication de ce type en 1930 reste à identifier.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "008",
+      "name": "NSU 501 TS",
+      "requested_year": "1930",
+      "region": "Allemagne",
+      "decision": "added",
+      "vehicle_id": "1930-nsu-501ts",
+      "group": "motorcycle",
+      "source_keys": [
+        "nsu501"
+      ],
+      "note": "Le musée date de 1930 cette 501 TS livrée à Brno. La plaque donne 497 cm³ et 11 ch. Le musée indique des modifications ultérieures de confort par Georg Ahrens.",
+      "audit_outcome": "confirmed",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "009",
+      "name": "NSU 201T",
+      "requested_year": "1930",
+      "region": "Allemagne",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "nsulist"
+      ],
+      "note": "Les volumes sont regroupés avec la 201 TS. La source ne distingue pas la fabrication annuelle de la T en 1930.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "010",
+      "name": "NSU 201TS",
+      "requested_year": "1930",
+      "region": "Allemagne",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "nsulist"
+      ],
+      "note": "La source donne 1930–1934. Elle diverge entre allemand (IOE) et anglais (SV) sur la distribution. Recoupement primaire nécessaire.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "011",
+      "name": "NSU 301T",
+      "requested_year": "1930",
+      "region": "Allemagne",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "nsulist"
+      ],
+      "note": "Le modèle de musée retrouvé est daté de 1929. La table secondaire groupe les volumes T/TS sans registre de sortie pour 1930.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "012",
+      "name": "NSU 301TS",
+      "requested_year": "1930",
+      "region": "Allemagne",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "nsulist"
+      ],
+      "note": "Un collectionneur montre une machine datée de 1930. La notice de collection ne suffit pas à identifier la fabrication par numéro moteur.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "013",
+      "name": "NSU 351TS",
+      "requested_year": "1930",
+      "region": "Allemagne",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "nsulist"
+      ],
+      "note": "La période 1930–1932 provient d’une synthèse de collectionneurs. Catalogue et registre de fabrication à rechercher.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "014",
+      "name": "NSU 501 SS",
+      "requested_year": "1930",
+      "region": "Allemagne",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "nsulist"
+      ],
+      "note": "La collection muséale montre une machine de compétition « 500 SS Bullus 1930 ». L’équivalence avec le type commercial 501 SS reste incertaine.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "015",
+      "name": "NSU 601 TS",
+      "requested_year": "1930",
+      "region": "Allemagne",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "nsulist"
+      ],
+      "note": "La famille est évoquée par le collectionneur sans notice de machine 601 TS assemblée en 1930.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "016",
+      "name": "Zündapp",
+      "requested_year": "1930",
+      "region": "Allemagne",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "de_zündapp"
+      ],
+      "note": "La table indique Rekord 1930–1931. L’annonce de modèles S en 1930 et la datation d’une machine conservée restent à rapprocher.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "017",
+      "name": "Victoria",
+      "requested_year": "1930",
+      "region": "Allemagne",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "de_victoria"
+      ],
+      "note": "Le dossier situe la KR 35 SLM en 1930–1934. Numéros de série et identité du modèle de 1930 à contrôler.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "018",
+      "name": "D-Rad",
+      "requested_year": "1930",
+      "region": "Allemagne",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "de_drad"
+      ],
+      "note": "Le dossier décrit la R10 présentée en 1930. Cette présentation ne fixe pas la fabrication de chaque châssis.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "019",
+      "name": "Ardie",
+      "requested_year": "1930",
+      "region": "Allemagne",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "de_ardie"
+      ],
+      "note": "Le musée conserve une SS 31. L’année de fabrication de l’exemplaire et sa place dans une production de 1930 restent à vérifier.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "020",
+      "name": "Horex",
+      "requested_year": "1930",
+      "region": "Allemagne",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "de_horex"
+      ],
+      "note": "La liste sert de repérage. Le type exact et une construction datée de 1930 restent à isoler.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "021",
+      "name": "Imperia",
+      "requested_year": "1930",
+      "region": "Allemagne",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "de_imperia"
+      ],
+      "note": "Les plages de numéros 1929/30 et 1930/31 chevauchent les années. Aucun exemplaire exact de 1930 n’est déduit de ces seules bornes.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "022",
+      "name": "Tornax",
+      "requested_year": "1930",
+      "region": "Allemagne",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "de_tornax"
+      ],
+      "note": "Le titre indique 1931 et le dossier avance une datation supposée de 1930. La construction exacte reste incertaine.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "023",
+      "name": "Neander",
+      "requested_year": "1930",
+      "region": "Allemagne",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "de_neander"
+      ],
+      "note": "Opel confirme la fabrication de sa Motoclub de 1928 à 1930 sous licence Neander. Cette machine est attribuée à Opel, sans créer une Neander identique.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "024",
+      "name": "Mabeco",
+      "requested_year": "1930",
+      "region": "Allemagne",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "de_mabeco"
+      ],
+      "note": "La production est donnée comme arrêtée en 1928. Aucun nouveau véhicule fabriqué en 1930 n’est établi.",
+      "audit_outcome": "outside_production",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "025",
+      "name": "Opel Motoclub — complément de recherche",
+      "requested_year": "1930",
+      "region": "Allemagne",
+      "decision": "added",
+      "vehicle_id": "1930-opel-motoclub",
+      "group": "motorcycle",
+      "source_keys": [
+        "opel"
+      ],
+      "note": "Le constructeur documente la fabrication de la Motoclub de 1928 à 1930 sous licence du châssis Neander. La fiche concerne la famille complète, les variantes moteur restent à préciser.",
+      "audit_outcome": "confirmed",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "026",
+      "name": "Harley-Davidson Model B",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "added",
+      "vehicle_id": "1930-harley-b",
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-18"
+      ],
+      "note": "Machine physique ST26770, moteur 30 B 1526. Notice datée circa1930; le surnom Pup et la mention Model45 sont ambigus. Le code moteur identifie B. Photos Benjamin Healley CC BY4.",
+      "audit_outcome": "confirmed",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "027",
+      "name": "Harley-Davidson Model VL",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "added",
+      "vehicle_id": "1930-harley-vl",
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-19"
+      ],
+      "note": "Le conservateur du musée présente et fait fonctionner une VL1930 small case conservée. Année de fabrication1930 attestée par l’objet; modèle apparu1930 selon millésime, annonce juillet1929 selon autre musée.",
+      "audit_outcome": "confirmed",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "028",
+      "name": "Henderson KJ Streamline",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "added",
+      "vehicle_id": "1930-henderson-kj",
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-20"
+      ],
+      "note": "Machine physique datée1930. Production1929–1931. 1301cm³, quatre cylindres IOE, boîte trois rapports.",
+      "audit_outcome": "confirmed",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "029",
+      "name": "Indian 101 Scout",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "existing",
+      "vehicle_id": "1928-indian-101-scout",
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-32"
+      ],
+      "note": "Exemplaire1930 prêté par Joe Wessbecker. Réutiliser la famille101 Scout déjà au catalogue; aucune nouvelle fiche de millésime.",
+      "audit_outcome": "existing",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "030",
+      "name": "Brough Superior SS80",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "added",
+      "vehicle_id": "1930-brough-ss80",
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-21"
+      ],
+      "note": "Exemplaire standard1930 de la collection, moteur JAP selon notice, modèlesSS80 produits1922–1939. Distinct du Mark1 déjà au catalogue.",
+      "audit_outcome": "confirmed",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "031",
+      "name": "Scott Flying Squirrel",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "existing",
+      "vehicle_id": "1925-scott-flying-squirrel",
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-33"
+      ],
+      "note": "Exemplaire1930, 596cm³ deux-temps bicylindre parallèle refroidi par eau. Réutiliser la famille Flying Squirrel 1925; la fiche précédente porte498cm³, ne pas réécrire cette valeur. Une variante596 peut être reliée si la différence de cylindrée est souhaitée.",
+      "audit_outcome": "existing",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "032",
+      "name": "Indian 402",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-34"
+      ],
+      "note": "Notice musée datée1930, 1265cm³, quatre cylindres IOE, moteur EA1180. Attention registreStarklite attribue EA776+ à1931; contradiction à conserver. Photo CC BY-NC-ND exclue de réutilisation actuelle.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "033",
+      "name": "Harley-Davidson Model DL",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-35"
+      ],
+      "note": "Exemplaire à moteur30DL3127 explicitement décrit late1930production. Catalogue de vente d’objet précis; sourceC jusqu’à archive de fabrication ou musée corroborant.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "034",
+      "name": "Norton CS1",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-36"
+      ],
+      "note": "Sortie usine20décembre1930 déclarée. Reproduction de registre absente de la page consultée. Source commerciale à recouper.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "035",
+      "name": "Norton Model18",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-37"
+      ],
+      "note": "Le vendeur cite extraitVMCC: expédiée6mars1930 versMelbourne. PièceVMCC annoncée plus bas, à vérifier visuellement avant niveauA.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "036",
+      "name": "Rudge Special350",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-38"
+      ],
+      "note": "Quatre types annoncés:500Special,350Model,UlsterGrandPrix,DirtTrack. L’appellationSpecial350 peut mélanger deux références. Le catalogue seul ne date pas un assemblage.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "037",
+      "name": "Rudge Grand Prix",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-38"
+      ],
+      "note": "Ulster Grand Prix est un intitulé de catalogue, éviter doublon avecUlster500. Aucune date de fabrication de machine individuelle ici.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "038",
+      "name": "Velocette USS",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-22"
+      ],
+      "note": "Registre USS1–287 couvre janvier–novembre1929. Aucun USS1930 établi par cette plage.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "039",
+      "name": "Velocette KSS",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-22"
+      ],
+      "note": "KSS/KTS3465–4299 octobre1930–octobre1932; groupe K/KE/KN/KT/KSS/KNS/KES1–3464 juin1925–sept1930. Entrée individuelle nécessaire pour isolerKSS1930.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "040",
+      "name": "Velocette KTT — moteur930",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "added",
+      "vehicle_id": "1930-velocette-ktt",
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-22"
+      ],
+      "note": "Entrée isolée KTT930 explicitement juin1930. Machine physique expédiée d’usine. Aucune cylindrée ou configuration recopiée.",
+      "audit_outcome": "confirmed",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "041",
+      "name": "Sunbeam Model 10",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "added",
+      "vehicle_id": "1930-sunbeam-10",
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-23"
+      ],
+      "note": "Objet physique détenu par BMCT, exposé Black Country Living Museum; fabrication1930 explicite; fabricant John Marston Ltd Wolverhampton.",
+      "audit_outcome": "confirmed",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "042",
+      "name": "Harley-Davidson Model V",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "added",
+      "vehicle_id": "1930-harley-v",
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-24"
+      ],
+      "note": "Ligne1930 ModelV dans collection physique. Pas de cylindrée dans cette ligne. V et VL sont variantes de famille; fusion possible plutôt que deux familles.",
+      "audit_outcome": "confirmed",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "043",
+      "name": "BSA Light500",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-39"
+      ],
+      "note": "Objet physique daté1930,493cm³ monocylindre deux sorties. Light est libellé musée; code modèle non fourni. Publication bloquée uniquement par identification exacte du modèle.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "044",
+      "name": "Douglas346",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-39"
+      ],
+      "note": "Objet physique daté1930,346cm³ bicylindre boxer longitudinal. Modèle non identifié. Publication bloquée uniquement par identification exacte du modèle.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "045",
+      "name": "Norton500 à soupapes latérales",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-39"
+      ],
+      "note": "Objet physique Norton1930 500 monocylindre deux sorties; aucune confirmation des soupapes latérales. Ne pas assimiler à18 ou CS1. Publication bloquée uniquement par identification exacte du modèle.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "046",
+      "name": "Raleigh500",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-39"
+      ],
+      "note": "Objet physique daté1930,498cm³ monocylindre deux sorties. Code exact non fourni. Publication bloquée uniquement par identification exacte du modèle.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "047",
+      "name": "Triumph500",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-39"
+      ],
+      "note": "Objet physique daté1930,500cm³ monocylindre deux sorties. Code exact non fourni. Publication bloquée uniquement par identification exacte du modèle.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "048",
+      "name": "Rudge Ulster500",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-40"
+      ],
+      "note": "Piste de machine physique1930 anciennement muséeNapier; source secondaire, notice primaire non retrouvée. Ne pas transformer résultat de course1930 en date de construction.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "049",
+      "name": "Scott SuperSquirrel596",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-33"
+      ],
+      "note": "Le musée confirme Flying Squirrel596, pas SuperSquirrel596. Ne pas dupliquer sous appellation non démontrée.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "050",
+      "name": "Scott FlyingSquirrel TTReplica",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-33"
+      ],
+      "note": "Machine musée1930 standard; aucune preuve ici de variante TTReplica construite1930.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "051",
+      "name": "BSA autres modèles1930",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-39"
+      ],
+      "note": "Seule BSA1930 identifiée par le musée est Light493. Autres types sans référence précise restent en recherche.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "052",
+      "name": "Sunbeam95L Special",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-23"
+      ],
+      "note": "Le modèle physique1930 confirmé est Model10, pas95L. Appellation95L Special à identifier, sans assimilation automatique au Model9.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "053",
+      "name": "AJS350",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-41"
+      ],
+      "note": "Objet de vente moteur145256R daté1930, cadre non numéroté, source commerciale seule; R7 à recouper.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "054",
+      "name": "AJS500",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-39"
+      ],
+      "note": "Le musée conserve AJS500 de1927 et1929, pas de1930. Recherche spécifique1930 sans résultat primaire individuel confirmé.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "055",
+      "name": "Ariel",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-42"
+      ],
+      "note": "Objet musée1931; lancement fin1930 ne prouve pas fabrication1930. Aucun modèle1930 isolé.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "056",
+      "name": "Matchless",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-43"
+      ],
+      "note": "Notice indique lancement SilverArrow1930 mais objet SilverHawk1934; pas preuve de construction1930. Éviter confondre présentation et fabrication.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "057",
+      "name": "NewImperial",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-44"
+      ],
+      "note": "Objet7B daté1930 par vendeur; lieu de vente NationalMotorcycleMuseum ne signifie pas propriété ni validation du musée.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "058",
+      "name": "RoyalEnfield",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-45"
+      ],
+      "note": "Constructeur donne1930 ModelJL500 dans chronologie institutionnelle; aucun exemplaire, registre ou année physique identifié. Conserver pisteJL à confirmer.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "059",
+      "name": "Calthorpe",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-46"
+      ],
+      "note": "Index du club identifie Ivory3501930, mais page rend502 lors lecture. Pas de preuve individuelle de fabrication1930 récupérée.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "060",
+      "name": "P&M Panther",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-47"
+      ],
+      "note": "Figure11 décrit les Panther1930 OHV498et598 modèles50et60; preuve documentaire de gamme, pas année physique d’un exemplaire.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "061",
+      "name": "Excelsior Royaume-Uni",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-48"
+      ],
+      "note": "Résultat trompeur: bicyclette américaine avec vocabulaireMotorbike. Ne prouve aucune moto britannique1930, écarté de publication.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "062",
+      "name": "James",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-49"
+      ],
+      "note": "Restaurateur situe cadre B10 196cm³1930 mais moteurMK2E différent. Assemblage hétérogène et datation à recouper; aucune fiche publiée.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "063",
+      "name": "Francis-Barnett",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-50"
+      ],
+      "note": "Manuel247cm³ EmpireModel12 confirme gamme1929–30; pas fabrication physique1930.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "064",
+      "name": "CoventryEagle",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-51"
+      ],
+      "note": "Vendeur mentionne certificatVMCC de recherche de date moteur/cadre. Document original non inspecté; modèle et datation physique à confirmer.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "065",
+      "name": "Harley-Davidson BA",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-52"
+      ],
+      "note": "Compatibilité AA/BA1926–1929 dans catalogue de pièces; ne prouve pas BA1930. Pas de machine1930 attestée.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "066",
+      "name": "Harley-Davidson C",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-53"
+      ],
+      "note": "Facsimilé gamme30C500,30B350,30D750. Valeur743cm³ donnée par la liste utilisateur pourC incohérente; catalogue seul ne prouve pas assemblage1930.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "067",
+      "name": "Harley-Davidson S",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-54"
+      ],
+      "note": "Seule fiche agrégateur identifiée pourS345; pas source primaire ou machine1930 établie.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "068",
+      "name": "Indian Chief",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-55"
+      ],
+      "note": "Référence de cote1206cm³, pas fiche d’objet ni fabrication. Recherche musée n’a pas isolé Chief1930 physique.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "069",
+      "name": "Excelsior États-Unis",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-39"
+      ],
+      "note": "ObjetsSuper-X1926 et1931, aucune année1930 dans inventaire consulté; maintien en recherche.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "070",
+      "name": "Cleveland",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-24"
+      ],
+      "note": "ObjetCleveland1B1915 dans collection; aucun Cleveland1930 isolé lors recherche. Marque seule insuffisante.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "071",
+      "name": "ACE",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-24"
+      ],
+      "note": "ObjetAce4 de1926, pas1930; aucune preuve1930 trouvée, ne pas extrapoler une continuité de marque.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "072",
+      "name": "Autres États-Unis",
+      "requested_year": "1930",
+      "region": "Royaume-Uni / États-Unis",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-24"
+      ],
+      "note": "Aucune référence modèle supplémentaire fournie dans liste. Une rubrique ouverte ne constitue pas un candidat publiable.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "073",
+      "name": "Dollar 350 Chaise / R2",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "added",
+      "vehicle_id": "1930-dollar-r2",
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-25"
+      ],
+      "note": "R2 350, cadre 2200, moteur K9 35148. Notice précise sortie usine Joinville-le-Pont avril 1930. Chaise OHV. Marque antérieure à 1930 (1923), ne pas transformer 1930 en fondation.",
+      "audit_outcome": "confirmed",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "074",
+      "name": "Majestic 500",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "added",
+      "vehicle_id": "1930-majestic-500",
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-26"
+      ],
+      "note": "Exemplaire restauré Serge Bueno explicitement construit en 1930; moteur Chaise 500 à soupapes en tête (OHV), pas arbre à cames en tête. Autres exemplaires 350 et descriptions 500 latérales ne doivent pas être fusionnés. Source spécialiste secondaire sur artefact identifié.",
+      "audit_outcome": "confirmed",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "075",
+      "name": "Peugeot P105",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "added",
+      "vehicle_id": "1930-peugeot-p105",
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-27"
+      ],
+      "note": "Exemplaire donné 1930 P105 Type A12; série 60589 moteur 60568, 350 cm3 culbutée. Datation de notice, pas registre usine; première construction inconnue.",
+      "audit_outcome": "confirmed",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "076",
+      "name": "Peugeot P107",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-56"
+      ],
+      "note": "Catalogue 1930 mentionné, pas exemplaire construit cette année retrouvé.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "077",
+      "name": "Peugeot P108",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-56"
+      ],
+      "note": "Participants Coupes Moto Légende 2019: deux exemplaires déclarés 1930. Déclaration moderne ne démontre pas fabrication; cylindrée nominale 250, réelle citée 248.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "078",
+      "name": "Peugeot P109",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-56"
+      ],
+      "note": "Photos/documentation repérées surtout 1931; nominale 175 réelle citée 174. Pas datation physique 1930.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "079",
+      "name": "Peugeot P110",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-56"
+      ],
+      "note": "Notice de vente exemplaire donné 1930 moteur 108664; carte grise 1937 ne prouve pas construction 1930. Catalogues seuls insuffisants.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "080",
+      "name": "Peugeot P110A",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-56"
+      ],
+      "note": "Suffixe à identifier; pas preuve d’entité indépendante ni construction 1930.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "081",
+      "name": "Peugeot P111",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-56"
+      ],
+      "note": "Introduction automne 1930 documentée; artefact série 131678 daté 1931. Présentation 1930 ≠ fabrication 1930. Référence allemande propriétaire donne P111 1930 sans numéro; attente.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "082",
+      "name": "Gnome & Rhône M1",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-57"
+      ],
+      "note": "Réception 14/03/1929, série 60001; production tableau 1929–33, recensement exemplaires 1930–33. 306 cm3 latérales. Ne pas arbitrer première année par intuition.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "083",
+      "name": "Gnome & Rhône V2",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-57"
+      ],
+      "note": "Réception 11/07/1930, série 100001, période tableau 1930–38; recensement 17 exemplaires 1930–37. Homologation ne prouve pas première construction; registre de sortie recherché.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "084",
+      "name": "Magnat-Debon 350 BST",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-58"
+      ],
+      "note": "BST Standard au catalogue; ne pas confondre BSST culbutée 1931 avec BST latérale. Catalogue ≠ attestation de fabrication individuelle.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "085",
+      "name": "Magnat-Debon autres modèles",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-58"
+      ],
+      "note": "La fiche existante 4 HP 1914 ne démontre aucune continuité 1930. Désignations catalogue à rattacher après preuve.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "086",
+      "name": "Monet & Goyon gamme 1930",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-28"
+      ],
+      "note": "Inventaire municipal objets: 1930 MT 250 et 1930 K35 350; MC 350 existante ne pas prolonger sans preuve.",
+      "audit_outcome": "needs_final_validation",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "087",
+      "name": "Monet & Goyon MT 250",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "added",
+      "vehicle_id": "1930-monet-goyon-mt",
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-28"
+      ],
+      "note": "Objet physique inventorié 1930, cylindrée 250; première construction et fin production inconnues. K35 distinct de MG35 datée 1931 dans même annexe.",
+      "audit_outcome": "confirmed",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "088",
+      "name": "Monet & Goyon K35 350",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "added",
+      "vehicle_id": "1930-monet-goyon-k35",
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-28"
+      ],
+      "note": "Objet physique inventorié 1930, cylindrée 350; première construction et fin production inconnues. K35 distinct de MG35 datée 1931 dans même annexe.",
+      "audit_outcome": "confirmed",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "089",
+      "name": "Monet & Goyon NF 350",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-28"
+      ],
+      "note": "Épave moto NF350 datée 1930; attestation matérielle mais état incomplet et identité familiale à éclaircir.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "090",
+      "name": "Terrot",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-59"
+      ],
+      "note": "250 FS datée 1930 en vente; autre musée 350 HSSE seulement circa1930. Date construction à corroborer.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "091",
+      "name": "Motobécane",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-60"
+      ],
+      "note": "Petites annonces contemporaines et catalogue ne suffisent pas pour attribuer construction 1930 à une MB1 existante.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "092",
+      "name": "Motoconfort",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-60"
+      ],
+      "note": "Annonce 500 Blackburne sans désignation vérifiée ni année construction.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "093",
+      "name": "MGC",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-61"
+      ],
+      "note": "Prototype présenté Lyon1929; moteurs JAP/Chaise plusieurs cylindrées. Pas artefact construit1930 identifié.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "094",
+      "name": "Dresch",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-62"
+      ],
+      "note": "PS175 période 1928–30 dans index; Monobloc500 exemplaire vente circa1930. Photo musée NSU étiquetée1930 repérée mais notice musée non obtenue.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "095",
+      "name": "Automoto",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-63"
+      ],
+      "note": "Statistiques groupe 1930 prouvent activité, pas modèle précis construit.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "096",
+      "name": "Alcyon",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-64"
+      ],
+      "note": "Activité marques et immatriculations ne permettent pas construction d’un modèle identifié1930.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "097",
+      "name": "Griffon",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-63"
+      ],
+      "note": "Groupe constructeur documenté; modèle et exemplaire1930 manquants.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "098",
+      "name": "René Gillet",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-65"
+      ],
+      "note": "6CV750 index production1924–30; TypeH1928–29. Pas extrapolation à TypeJ circa1930.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "099",
+      "name": "Koehler-Escoffier",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-66"
+      ],
+      "note": "Exemplaires KE1925 et K1001927; pas preuve1930.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "100",
+      "name": "Aiglon",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-67"
+      ],
+      "note": "A509175 annoncé vers1930, carte grise inconnue. A505Sport350 déclaré1930 rallye2019; fabrication non vérifiée.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "101",
+      "name": "Ravat",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-68"
+      ],
+      "note": "Brochure ER22 350 1930; ER21 vendeur moderne1930 non corroboré. Musée175 seulement années1930.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "102",
+      "name": "Ultima",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-69"
+      ],
+      "note": "Index D3 période1930–40 mais objet musée Malartre montré1934. Ne pas antidater objet à1930.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "103",
+      "name": "Soyer",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-70"
+      ],
+      "note": "Annonce gamme1930 douze modèles; fabricants moteurs Chaise/JAP/Soyer distincts. Aucun exemplaire daté1930 et modèle exact.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "104",
+      "name": "FN M67",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-71"
+      ],
+      "note": "M67B500OHV, première immatriculation1930; date immatriculation ≠ construction. Ne pas confondre suffixes B/D ni créer famille nouvelle sans audit.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "105",
+      "name": "Gillet-Herstal 500 Compétition",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-72"
+      ],
+      "note": "Annonce arrivée modèles1930 inclut Competition500OHV; preuve existence commerciale au23mars mais fabrication possiblement1929; rallye2019 machine déclarée1930, manque dossierusine.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "106",
+      "name": "Saroléa 350 latérales",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-73"
+      ],
+      "note": "Six entrées descriptives sans codes dans corpus. 24T/S/U500 documentés changement1929–30, 350 continuité1928–31; pas correspondance exacte autorisant six fiches. 24T vente seulement c1930.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "107",
+      "name": "Saroléa 350 culbutée",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-73"
+      ],
+      "note": "Six entrées descriptives sans codes dans corpus. 24T/S/U500 documentés changement1929–30, 350 continuité1928–31; pas correspondance exacte autorisant six fiches. 24T vente seulement c1930.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "108",
+      "name": "Saroléa 500 latérales",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-73"
+      ],
+      "note": "Six entrées descriptives sans codes dans corpus. 24T/S/U500 documentés changement1929–30, 350 continuité1928–31; pas correspondance exacte autorisant six fiches. 24T vente seulement c1930.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "109",
+      "name": "Saroléa 500 culbutée variante1",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-73"
+      ],
+      "note": "Six entrées descriptives sans codes dans corpus. 24T/S/U500 documentés changement1929–30, 350 continuité1928–31; pas correspondance exacte autorisant six fiches. 24T vente seulement c1930.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "110",
+      "name": "Saroléa 500 culbutée variante2",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-73"
+      ],
+      "note": "Six entrées descriptives sans codes dans corpus. 24T/S/U500 documentés changement1929–30, 350 continuité1928–31; pas correspondance exacte autorisant six fiches. 24T vente seulement c1930.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "111",
+      "name": "Saroléa 500 culbutée variante3",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-73"
+      ],
+      "note": "Six entrées descriptives sans codes dans corpus. 24T/S/U500 documentés changement1929–30, 350 continuité1928–31; pas correspondance exacte autorisant six fiches. 24T vente seulement c1930.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "112",
+      "name": "Motosacoche 314 Grand Sport",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-74"
+      ],
+      "note": "André Leiser participe avec314GrandSport346cc déclarée1930; même machine2023 confirme identité moderne pas construction ni première année. Nominal350 ne pas substituer au346 attesté.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "113",
+      "name": "Moto-Rêve",
+      "requested_year": "1930",
+      "region": "France / Belgique / Suisse",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-75"
+      ],
+      "note": "Boîte de vitesses fabriquée jusqu’à1930, ce qui ne prouve pas moto Moto-Rêve construite1930. Musée rencontré expose1907 et1913 seulement.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "114",
+      "name": "Benelli — gamme 175",
+      "requested_year": "1930",
+      "region": "International",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-76"
+      ],
+      "note": "Registre patrimonial B : plages de fabrication 175 4TN 1923–1931, 4TS 1927–1934, 4TGL 1930–1934, 4TGS 1927–1934. Ne pas compter automatiquement les quatre suffixes comme quatre modèles. Cylindrée nominale 175, valeur exacte non établie.",
+      "audit_outcome": "needs_final_validation",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "115",
+      "name": "Benelli — compétition",
+      "requested_year": "1930",
+      "region": "International",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-77"
+      ],
+      "note": "Archive constructeur A : titres nationaux de Tonino en 1930, mais absence ici de désignation et de date de construction individuelle. Ne pas attribuer rétroactivement la double ACT de 1931 à 1930.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "116",
+      "name": "Benelli — autres modèles",
+      "requested_year": "1930",
+      "region": "International",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-76"
+      ],
+      "note": "125 deux-temps 1926–1931 signalée par tableau patrimonial B ; désignation commerciale exacte et rattachement à la Benellino existante à contrôler avant création.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "117",
+      "name": "Moto Guzzi — 500 GT Norge",
+      "requested_year": "1930",
+      "region": "International",
+      "decision": "existing",
+      "vehicle_id": "1928-moto-guzzi-gt-norge",
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-78"
+      ],
+      "note": "Dossier du musée : GT 500 Norge 1928–1930, 498,4 cm³. Confirme continuité 1930, aucun nouveau modèle.",
+      "audit_outcome": "existing",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "118",
+      "name": "Moto Guzzi — 250",
+      "requested_year": "1930",
+      "region": "International",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-78"
+      ],
+      "note": "Pas de 250 identifiée comme construite en 1930 dans le dossier consulté. Ne pas déduire un modèle de la seule cylindrée.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "119",
+      "name": "Moto Guzzi — compétition 500 C2V / 2VT",
+      "requested_year": "1930",
+      "region": "International",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-78"
+      ],
+      "note": "C2V datée 1923–1927, réapparition modifiée en 1928 ; remplacement évoqué en 1930 mais fiche 2VT donnée 1931–1934. Première apparition publique 2VT 1931. Frontière conception/construction à résoudre.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "120",
+      "name": "Bianchi B2N",
+      "requested_year": "1930",
+      "region": "International",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-79"
+      ],
+      "note": "B2N Sport 350 est répertoriée en 1927, pas comme nouveauté 1930 ; continuité de construction 1930 non démontrée ici. Registre de véhicules certifiés ne donne pas leur année individuellement.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "121",
+      "name": "Bianchi — autres modèles",
+      "requested_year": "1930",
+      "region": "International",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-79"
+      ],
+      "note": "Freccia Oro Turismo 175 première série indiquée 1930. Chronologie du modèle identifiée, mais il manque une attestation de fabrication ou un exemplaire 1930 pour import prudent.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "122",
+      "name": "Gilera",
+      "requested_year": "1930",
+      "region": "International",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-80"
+      ],
+      "note": "Victoires Six Jours 1930/1931 sans identité individuelle de moto ni date de fabrication ; ne pas importer VT500 8 bulloni (production 1935) ni 175 (fin 1931) en 1930.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "123",
+      "name": "Sertum",
+      "requested_year": "1930",
+      "region": "International",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-81"
+      ],
+      "note": "Catalogue patrimonial B : première Sertum 175 VL 1932. Une publication secondaire annonce Batua 1930 tandis que autres situent 1933 ; contradiction conservée, aucun modèle 1930 confirmé.",
+      "audit_outcome": "rejected",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "124",
+      "name": "Garelli",
+      "requested_year": "1930",
+      "region": "International",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-82"
+      ],
+      "note": "Exemplaire daté 1926, immatriculé 1927 ; début série 1919. Ne prouve pas construction 1930. Une liste commerciale moderne propose 315/316 1930–1935 sans corroboration patrimoniale individuelle.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "125",
+      "name": "Della Ferrera",
+      "requested_year": "1930",
+      "region": "International",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-83"
+      ],
+      "note": "175 illustrée et datée 1931 ; pas de preuve individuelle 1930 pour cette moto. Les autres exemples retrouvés 1919/1932/1935 ne justifient pas 1930.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "126",
+      "name": "Aquila",
+      "requested_year": "1930",
+      "region": "International",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-84"
+      ],
+      "note": "Pistes 1933 350 Sport, 1934 Invicta et Rudge ; pas de moto individuelle 1930. Distinguer Aquila Torino et Aquila-DKW Bologna ; moteur Rudge ne transforme pas le constructeur en Rudge.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "127",
+      "name": "Ansaldo",
+      "requested_year": "1930",
+      "region": "International",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-85"
+      ],
+      "note": "Résultat patrimonial 1930 trouvé concerne une automobile 8 cylindres 3536 cm³, exclue. Aucun modèle moto identifié. On ne conclut pas à inexistence absolue de toute moto Ansaldo.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "128",
+      "name": "MM",
+      "requested_year": "1930",
+      "region": "International",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-86"
+      ],
+      "note": "Ouvrage spécialisé B : modèle 30 B, construction/production 1930, monocylindre deux-temps horizontal. En-tête 170 cm³ mais titre de classe 175 : ne pas effacer divergence. Proposition possible après corroboration souhaitable.",
+      "audit_outcome": "needs_final_validation",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "129",
+      "name": "Sign",
+      "requested_year": "1930",
+      "region": "International",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-87"
+      ],
+      "note": "Recherche ciblée Sign 1930 : aucune désignation et date de fabrication corroborées. Conserver le nom du corpus sans lui attribuer de modèle ni cylindrée.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "130",
+      "name": "Galloni",
+      "requested_year": "1930",
+      "region": "International",
+      "decision": "added",
+      "vehicle_id": "1930-galloni-galloni-175",
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-29"
+      ],
+      "note": "Exemplaire physique daté 1930 ; monocylindre vertical quatre-temps à soupapes latérales. Année de plaque immatriculation 1934–1935 distincte. 175 est nominal, pas cylindrée exacte mesurée.",
+      "audit_outcome": "confirmed",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "131",
+      "name": "Puch",
+      "requested_year": "1930",
+      "region": "International",
+      "decision": "added",
+      "vehicle_id": "1930-puch-250-sport",
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-30"
+      ],
+      "note": "Production 250 Sport 1930–1932, 800 exemplaires ; 248,1 cm³, deux-temps double piston, 3 rapports. Puissance 1930 tête bronze 7 PS, ne pas copier les 9 PS de 1931–1932.",
+      "audit_outcome": "confirmed",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "132",
+      "name": "Böhmerland",
+      "requested_year": "1930",
+      "region": "International",
+      "decision": "added",
+      "vehicle_id": "1930-cechie-bohmerland-600-touring",
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-31"
+      ],
+      "note": "Le musée possède et fait rouler son exemplaire Čechie-Böhmerland 600 touring daté 1930, acquis en 1964. Quatre-temps 600 cm³. Les deux exemplaires mentionnés sont ceux du musée, pas le nombre produit.",
+      "audit_outcome": "confirmed",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "133",
+      "name": "Laurin & Klement",
+      "requested_year": "1930",
+      "region": "International",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-88"
+      ],
+      "note": "Source officielle 2024 : fin motos 1910. Ancien dossier 2021 donne 1908 ; contradiction périphérique conservée, les deux excluent une production moto 1930. Ne pas confondre automobiles.",
+      "audit_outcome": "rejected",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "134",
+      "name": "Husqvarna",
+      "requested_year": "1930",
+      "region": "International",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-89"
+      ],
+      "note": "Archives de brochures 1930, pas encore reliées à registre/exemplaire construit. Existence de gamme/catalogue ne suffit pas à création de modèles.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "135",
+      "name": "Monark",
+      "requested_year": "1930",
+      "region": "International",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-90"
+      ],
+      "note": "Piste Monark M10 datée 1930 dans galerie propriétaires ; absence de registre/musée et identité du moteur à confirmer. Ne pas substituer exemplaire Monark 500 de 1928.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "136",
+      "name": "NV Nymansbolaget",
+      "requested_year": "1930",
+      "region": "International",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-91"
+      ],
+      "note": "Piste NV 250 datée 1928 ; aucune construction 1930 individuellement établie. Constructeur et moteur à distinguer.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "137",
+      "name": "Nimbus",
+      "requested_year": "1930",
+      "region": "International",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-92"
+      ],
+      "note": "Type B fabriqué 1924–1928 ; ventes 1929 décrites comme machines usagées reconditionnées en usine, pas nouvelle construction. Certaines synthèses donnent 1919–1929 : pas de preuve 1930 ; Type C seulement 1934.",
+      "audit_outcome": "rejected",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "138",
+      "name": "Eysink",
+      "requested_year": "1930",
+      "region": "International",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-93"
+      ],
+      "note": "Archive 1930 concerne vélos, dossier motos 1931. Ne pas transformer catalogue vélos en preuve moto. F100 photo identifiée 1933–1934 avec moteur ILO, pas 1930.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "139",
+      "name": "Simplex",
+      "requested_year": "1930",
+      "region": "International",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-94"
+      ],
+      "note": "Mention de motos Simplex testées par armée sans date de fabrication 1930 établie ; ne pas confondre avec Simplex Servi-Cycle américain de 1935.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "140",
+      "name": "Espagne — Aleu",
+      "requested_year": "1930",
+      "region": "International",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-95"
+      ],
+      "note": "Publication municipale évoque Aleu 1930 dans collection, mais désignation exacte et cylindrée non vérifiées ; piste conservée, pas modèle inventé.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "141",
+      "name": "Pologne — CWS M55",
+      "requested_year": "1930",
+      "region": "International",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-96"
+      ],
+      "note": "Étude de construction mentionne série modernisée S-III encore produite 1931 ; construction 1930 attestée par autres archives photographiques. Première série et sous-séries ne doivent pas devenir modèles supplémentaires. Dates fin 1931/1932 divergent : approfondir avant import.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "142",
+      "name": "Tchécoslovaquie — autres marques",
+      "requested_year": "1930",
+      "region": "International",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-97"
+      ],
+      "note": "Böhmerland traité individuellement ; autres modèles tchécoslovaques de 1930 sans preuve individuelle exploitée dans cette recherche restent en attente.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "143",
+      "name": "Japon — Miyata Asahi AA",
+      "requested_year": "1930",
+      "region": "International",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-98"
+      ],
+      "note": "Notice patrimoniale : fabrication 1933–1939, et non 1930. L’ouverture usine Miyata en 1930 ne prouve pas fabrication de AA cette année.",
+      "audit_outcome": "rejected",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "144",
+      "name": "URSS — L-300",
+      "requested_year": "1930",
+      "region": "International",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-99"
+      ],
+      "note": "Histoire officielle émission : 25 premiers L-300 construits septembre 1930 chez Promet Leningrad ; 8 participent raid 3212 km. Production ensuite Krasny Oktyabr. 300 est cylindrée nominale, exacte non établie ici. Validation finale du document et de la désignation encore nécessaire ; non importé.",
+      "audit_outcome": "needs_final_validation",
+      "reviewed_at": "2026-11-23"
+    },
+    {
+      "reference": "145",
+      "name": "Autres pays",
+      "requested_year": "1930",
+      "region": "International",
+      "decision": "pending",
+      "vehicle_id": null,
+      "group": "motorcycle",
+      "source_keys": [
+        "audit-97"
+      ],
+      "note": "Aucune nouvelle marque hors des pays ci-dessus ne présente dans cette recherche un modèle individuellement documenté en 1930 avec preuves suffisantes. Ne signifie pas absence historique.",
+      "audit_outcome": "pending",
+      "reviewed_at": "2026-11-23"
+    }
+  ]
+}

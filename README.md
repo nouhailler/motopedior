@@ -103,3 +103,7 @@ Le catalogue contient désormais 34 fiches : les 14 références de ce lot réut
 ## Inventaire annuel 1922
 
 15 nouvelles fiches et une continuité Harley W/Sport Twin sans doublon : catalogue de 101 véhicules. Les 86 fiches antérieures restent intactes. Le registre comporte 138 références, dont 120 en attente (68 références de modèles/versions et 52 pistes de constructeurs). Voir [audit](docs/inventories/1922-audit.md) et [rapport, sources et décisions](docs/inventories/1922.md). Import : `npm run add:1922`, photos : `npm run prepare:1922-media`. Le build compacte le catalogue et vérifie son inclusion au précache hors ligne.
+
+### Inventaire 1930
+
+Le lot 1930 ajoute 20 fiches (19 familles et une variante) et quatre attestations annuelles sans remplacer les fiches antérieures. Le catalogue contient désormais 145 véhicules. L’import `npm run add:1930` est idempotent ; les décisions et réserves sont détaillées dans [le rapport 1930](docs/inventories/1930.md). Les 120 dossiers encore insuffisants restent au registre de recherche.

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T09:32:33.546346+00:00",
+  "generatedAt": "2026-11-23T19:56:47.306217+00:00",
   "models": [
     {
       "modelId": "1",
@@ -17134,6 +17134,2279 @@
       "note": "Aucune photo validée pour ce modèle.",
       "reviewedAt": null,
       "files": []
+    },
+    {
+      "modelId": "1928-bmw-r47",
+      "brand": "BMW",
+      "model": "R 47",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1928-bmw-r52",
+      "brand": "BMW",
+      "model": "R 52",
+      "status": "approximate",
+      "note": "BMW R 52 photographiée dans une collection. Le millésime de cet exemplaire reste à établir.",
+      "reviewedAt": "2026-11-17",
+      "files": [
+        {
+          "fileTitle": "File:BMW R 52.jpg",
+          "match": "approximate",
+          "approved": true,
+          "reviewNote": "BMW R 52 photographiée dans une collection. Le millésime de cet exemplaire reste à établir.",
+          "reason": "Licence et auteur identifiés dans extmetadata",
+          "photo": {
+            "fileTitle": "File:BMW R 52.jpg",
+            "pageId": 49173776,
+            "query": null,
+            "sourceSha1": "7c296a97312fe6a658a81d3aea00cf258f5c39ca",
+            "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/BMW_R_52.jpg/960px-BMW_R_52.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/BMW_R_52.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:BMW_R_52.jpg",
+            "author": "Oliver Kurmis",
+            "attribution": "",
+            "creditLine": "Self-photographed , Pinakothek der Moderne , München",
+            "description": "Mororrad BMW R 52 , 1928 Hersteller: Bayrische Motorenwerke, München",
+            "width": 1296,
+            "height": 972,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY-SA 3.0",
+              "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+              "shareAlike": true,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2016-06-01 10:01:51",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "BMW R 52",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|License migration completed|BMW R52|Collections of the Pinakothek der Moderne",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Mororrad <b>BMW R 52</b>, <a href=\"https://de.wikipedia.org/wiki/1928\" class=\"extiw\" title=\"de:1928\">1928</a>\n<ul><li><ul><li>Hersteller: Bayrische Motorenwerke, München</li></ul></li></ul>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "<a href=\"https://de.wikipedia.org/wiki/10._April\" class=\"extiw\" title=\"de:10. April\">10. April</a> <a href=\"https://de.wikipedia.org/wiki/2005\" class=\"extiw\" title=\"de:2005\">2005</a>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\">Self-photographed</span>, <a href=\"https://de.wikipedia.org/wiki/Pinakothek_der_Moderne\" class=\"extiw\" title=\"de:Pinakothek der Moderne\">Pinakothek der Moderne</a>, <a href=\"https://de.wikipedia.org/wiki/M%C3%BCnchen\" class=\"extiw\" title=\"de:München\">München</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"https://de.wikipedia.org/wiki/Benutzer:Kurmis\" class=\"extiw\" title=\"de:Benutzer:Kurmis\">Oliver Kurmis</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-17T16:27:43.212981+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "modelId": "1928-bmw-r57",
+      "brand": "BMW",
+      "model": "R 57",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1928-bmw-r62",
+      "brand": "BMW",
+      "model": "R 62",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1928-bmw-r63",
+      "brand": "BMW",
+      "model": "R 63",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1928-indian-101-scout",
+      "brand": "Indian",
+      "model": "101 Scout 45",
+      "status": "approximate",
+      "note": "Autre Indian 101 Scout de 1928, photographiée au Petersen Automotive Museum.",
+      "reviewedAt": "2026-11-17",
+      "files": [
+        {
+          "fileTitle": "File:1928 Indian 101 Scout Petersen Automotive Museum.jpg",
+          "match": "approximate",
+          "approved": true,
+          "reviewNote": "Autre Indian 101 Scout de 1928, photographiée au Petersen Automotive Museum.",
+          "reason": "Licence et auteur identifiés dans extmetadata",
+          "photo": {
+            "fileTitle": "File:1928 Indian 101 Scout Petersen Automotive Museum.jpg",
+            "pageId": 153053177,
+            "query": null,
+            "sourceSha1": "d99a7fc7e45d419a984559164b1c2246952e4802",
+            "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/1928_Indian_101_Scout_Petersen_Automotive_Museum.jpg/960px-1928_Indian_101_Scout_Petersen_Automotive_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/1928_Indian_101_Scout_Petersen_Automotive_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:1928_Indian_101_Scout_Petersen_Automotive_Museum.jpg",
+            "author": "TaurusEmerald",
+            "attribution": "",
+            "creditLine": "Own work",
+            "description": "A 1928 Indian 101 Scout in the Petersen Automotive Museum.",
+            "width": 4030,
+            "height": 2743,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+              "shareAlike": true,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2024-09-23 20:32:57",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "1928 Indian 101 Scout Petersen Automotive Museum",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Indian motorcycles|Self-published work|Photographs by TaurusEmerald|Motorcycles in the Petersen Automotive Museum",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A 1928 Indian 101 Scout in the Petersen Automotive Museum.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-08-22 10:58:28",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:TaurusEmerald\" title=\"User:TaurusEmerald\">TaurusEmerald</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-17T16:27:43.212981+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "modelId": "1928-moto-guzzi-gt-norge",
+      "brand": "Moto Guzzi",
+      "model": "GT 500 Norge",
+      "status": "none",
+      "note": "Aucune photo validée.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1930-bmw-r11",
+      "brand": "BMW",
+      "model": "R 11",
+      "status": "approximate",
+      "note": "R 11 identifiée comme 1929 par la notice Commons. La série exacte reste à vérifier.",
+      "reviewedAt": "2026-11-23",
+      "files": [
+        {
+          "fileTitle": "File:BMW R11 1929.jpg",
+          "match": "approximate",
+          "approved": true,
+          "reviewNote": "R 11 identifiée comme 1929 par la notice Commons. La série exacte reste à vérifier.",
+          "reason": "Licence et auteur identifiés dans extmetadata",
+          "photo": {
+            "fileTitle": "File:BMW R11 1929.jpg",
+            "pageId": 28991069,
+            "query": null,
+            "sourceSha1": "a8b78b4a2ac29555e9c4acc1f4e3f87ae64c9443",
+            "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/BMW_R11_1929.jpg/960px-BMW_R11_1929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/BMW_R11_1929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:BMW_R11_1929.jpg",
+            "author": "Midnight bird",
+            "attribution": "",
+            "creditLine": "Own work",
+            "description": "BMW R11 750cc 1929 in Rimini",
+            "width": 4084,
+            "height": 3456,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY-SA 3.0",
+              "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+              "shareAlike": true,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2013-10-13 22:06:06",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "BMW R11 1929",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Nikon Coolpix S6150|BMW R11|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "BMW R11 750cc 1929 in Rimini",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-10-13 16:55:05",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Midnight_bird\" title=\"User:Midnight bird\">Midnight bird</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-23T19:55:02.274159+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "modelId": "1930-bmw-r16",
+      "brand": "BMW",
+      "model": "R 16",
+      "status": "approximate",
+      "note": "R 16 du Verkehrshaus de Lucerne. Le millésime et le numéro de série de cet exemplaire restent à établir.",
+      "reviewedAt": "2026-11-23",
+      "files": [
+        {
+          "fileTitle": "File:6277 - Luzern - Verkehrshaus - BMW R16.JPG",
+          "match": "approximate",
+          "approved": true,
+          "reviewNote": "R 16 du Verkehrshaus de Lucerne. Le millésime et le numéro de série de cet exemplaire restent à établir.",
+          "reason": "Licence et auteur identifiés dans extmetadata",
+          "photo": {
+            "fileTitle": "File:6277 - Luzern - Verkehrshaus - BMW R16.JPG",
+            "pageId": 4074158,
+            "query": null,
+            "sourceSha1": "4c48922e0f137478e6893d46d533f2c4a33b22f4",
+            "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/6277_-_Luzern_-_Verkehrshaus_-_BMW_R16.JPG/960px-6277_-_Luzern_-_Verkehrshaus_-_BMW_R16.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/6277_-_Luzern_-_Verkehrshaus_-_BMW_R16.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:6277_-_Luzern_-_Verkehrshaus_-_BMW_R16.JPG",
+            "author": "Andrew Bossi",
+            "attribution": "",
+            "creditLine": "Own work",
+            "description": "BMW R-16 in the Swiss Transport Museum , Luzern , Switzerland",
+            "width": 3648,
+            "height": 2736,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY-SA 2.5",
+              "url": "https://creativecommons.org/licenses/by-sa/2.5/",
+              "shareAlike": true,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2008-05-19 05:31:48",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "6277 - Luzern - Verkehrshaus - BMW R16",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon PowerShot A640|BMW R16|Self-published work|Files by User:Thisisbossi|Files with coordinates missing SDC location of creation|Switzerland photographs taken on 2007-07-28|Verkehrshaus - road transport",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "47.053222",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "8.336472",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/BMW_(motorcycles)\" class=\"extiw\" title=\"en:BMW (motorcycles)\">BMW R-16</a> in the <a href=\"https://en.wikipedia.org/wiki/Swiss_Transport_Museum\" class=\"extiw\" title=\"en:Swiss Transport Museum\">Swiss Transport Museum</a>, <a href=\"https://en.wikipedia.org/wiki/Lucerne\" class=\"extiw\" title=\"en:Lucerne\">Luzern</a>, \n<a href=\"https://en.wikipedia.org/wiki/Switzerland\" class=\"extiw\" title=\"en:Switzerland\">Switzerland</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2007-07-28",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Thisisbossi\" title=\"User:Thisisbossi\">Andrew Bossi</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "Own work, share alike, attribution required (Creative Commons CC-BY-SA-2.5)",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.5",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.5",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.5",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.5",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-23T19:55:02.274159+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "modelId": "1930-dkw-js500",
+      "brand": "DKW",
+      "model": "JS 500 Schüttoff",
+      "status": "approximate",
+      "note": "Autre JS 500, au musée du château d’Augustusburg. Le millésime exact de l’exemplaire reste à vérifier.",
+      "reviewedAt": "2026-11-23",
+      "files": [
+        {
+          "fileTitle": "File:DKW-Schüttoff JS 500.JPG",
+          "match": "approximate",
+          "approved": true,
+          "reviewNote": "Autre JS 500, au musée du château d’Augustusburg. Le millésime exact de l’exemplaire reste à vérifier.",
+          "reason": "Licence et auteur identifiés dans extmetadata",
+          "photo": {
+            "fileTitle": "File:DKW-Schüttoff JS 500.JPG",
+            "pageId": 122346125,
+            "query": null,
+            "sourceSha1": "c43f676727e61dda43f922d11ca1364831db8049",
+            "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/DKW-Sch%C3%BCttoff_JS_500.JPG/960px-DKW-Sch%C3%BCttoff_JS_500.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/DKW-Sch%C3%BCttoff_JS_500.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:DKW-Sch%C3%BCttoff_JS_500.JPG",
+            "author": "Ch vik",
+            "attribution": "",
+            "creditLine": "Own work",
+            "description": "DKW-Schüttoff JS 500, ausgestellt im Motorradmuseum auf Schloss Augustusburg",
+            "width": 3772,
+            "height": 2572,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY 3.0",
+              "url": "https://creativecommons.org/licenses/by/3.0/",
+              "shareAlike": false,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2022-08-25 18:37:29",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "DKW-Schüttoff JS 500",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Schüttoff motorcycles|License migration redundant|Self-published work|Motorcycles in the Jagdschloss Augustusburg|DKW-Schüttoff JS 500",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "DKW-Schüttoff JS 500, ausgestellt im Motorradmuseum auf Schloss Augustusburg",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-08020",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ch_vik\" title=\"User:Ch vik\">Ch vik</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-23T19:55:02.274159+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "modelId": "1930-nsu-501ts",
+      "brand": "NSU",
+      "model": "501 TS — exemplaire Georg Ahrens",
+      "status": "approximate",
+      "note": "Autre NSU 501 TS datée de 1929 dans Commons. Les valeurs de son moteur ne sont pas transposées à l’exemplaire de 1930.",
+      "reviewedAt": "2026-11-23",
+      "files": [
+        {
+          "fileTitle": "File:NSU 501 TS 1929 01.jpg",
+          "match": "approximate",
+          "approved": true,
+          "reviewNote": "Autre NSU 501 TS datée de 1929 dans Commons. Les valeurs de son moteur ne sont pas transposées à l’exemplaire de 1930.",
+          "reason": "Licence et auteur identifiés dans extmetadata",
+          "photo": {
+            "fileTitle": "File:NSU 501 TS 1929 01.jpg",
+            "pageId": 6626322,
+            "query": null,
+            "sourceSha1": "35829eb3c27be2d3a23c177af775f0cbcf48f386",
+            "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/NSU_501_TS_1929_01.jpg/960px-NSU_501_TS_1929_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/NSU_501_TS_1929_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:NSU_501_TS_1929_01.jpg",
+            "author": "Huhu Uet",
+            "attribution": "",
+            "creditLine": "Own work",
+            "description": "NSU 501 TS, Baujahr 1929, Motor 494 ccm , 11,5 PS",
+            "width": 2050,
+            "height": 1717,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY-SA 3.0",
+              "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+              "shareAlike": true,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2009-04-25 17:42:46",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "NSU 501 TS 1929 01",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "April 2009 Germany photographs|GFDL|CC-BY-SA-3.0,2.5,2.0,1.0|License migration redundant|NSU 501 T|Speichenmuseum (Klein Offenseth-Sparrieshoop)|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "NSU 501 TS, Baujahr 1929, Motor 494 ccm , 11,5 PS",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2009-04-25",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Huhu_Uet\" title=\"User:Huhu Uet\">Huhu Uet</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-23T19:55:02.274159+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "modelId": "1930-opel-motoclub",
+      "brand": "Opel",
+      "model": "Motoclub",
+      "status": "approximate",
+      "note": "Opel Motoclub. Le millésime de cet exemplaire et sa variante moteur restent à établir.",
+      "reviewedAt": "2026-11-23",
+      "files": [
+        {
+          "fileTitle": "File:Opel Motoclub.JPG",
+          "match": "approximate",
+          "approved": true,
+          "reviewNote": "Opel Motoclub. Le millésime de cet exemplaire et sa variante moteur restent à établir.",
+          "reason": "Domaine public ou CC0 identifié dans extmetadata",
+          "photo": {
+            "fileTitle": "File:Opel Motoclub.JPG",
+            "pageId": 622340,
+            "query": null,
+            "sourceSha1": "ea6313fbb44f93a872042d548a7c9fdaff97e193",
+            "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Opel_Motoclub.JPG/960px-Opel_Motoclub.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Opel_Motoclub.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Opel_Motoclub.JPG",
+            "author": "No machine-readable author provided. Gryffindor assumed (based on copyright claims).",
+            "attribution": "",
+            "creditLine": "No machine-readable source provided. Own work assumed (based on copyright claims).",
+            "description": "Description: Opel Motoclub , im Opel Zentrum in Berlin an der Friedrichstraße . Baujahr 1929 , 1 Zylinder, 16 oder 22 PS, bis zu 125 km/h. Erzeugt in einer damals neuartigen Pressstahl Konstruktion, was somit den üblichen Stahlrohrrahmen ersetzte und das Gewicht, die Kosten und die Produktionszeiten senken konnte. Beliebte Maschine wegen wenig Vibration im Geradeauslauf und komfortable Sitze. The Opel Motoclub bike, in the Opel Zentrum in Berlin at Friedrichstraße . Model from 1929. A novel steel-press way of production replaced the usual tubular steel frame, thus lowering production costs, time, and the weight of the machine. The comfortable seats and the straight-ahead ride free of vibrations made this a popular model. Source: self-made, I release it into the public domain. Gryffindor 17:21, 9 March 2006 (UTC)",
+            "width": 2560,
+            "height": 1920,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "Public domain",
+              "url": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+              "shareAlike": false,
+              "attributionRequired": false,
+              "reason": "Domaine public ou CC0 identifié dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2006-03-09 17:09:05",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Opel Motoclub",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Olympus IR-300|Opel Motoclub|Files with no machine-readable source|Self-published work|PD-self|Assumed own work|Photographs taken on 2006-02-14",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<p>Description: <a href=\"//commons.wikimedia.org/wiki/Opel_Motoclub\" class=\"mw-redirect\" title=\"Opel Motoclub\">Opel Motoclub</a>, im Opel Zentrum in Berlin an der <a href=\"//commons.wikimedia.org/wiki/Friedrichstra%C3%9Fe\" title=\"Friedrichstraße\">Friedrichstraße</a>. Baujahr <a href=\"//commons.wikimedia.org/wiki/1929\" title=\"1929\">1929</a>, 1 Zylinder, 16 oder 22 PS, bis zu 125 km/h. Erzeugt in einer damals neuartigen Pressstahl Konstruktion, was somit den üblichen Stahlrohrrahmen ersetzte und das Gewicht, die Kosten und die Produktionszeiten senken konnte. Beliebte Maschine wegen wenig Vibration im Geradeauslauf und komfortable Sitze.\nThe Opel Motoclub bike, in the Opel Zentrum in Berlin at <a href=\"//commons.wikimedia.org/wiki/Friedrichstra%C3%9Fe\" title=\"Friedrichstraße\">Friedrichstraße</a>. Model from 1929. A novel steel-press way of production replaced the usual tubular steel frame, thus lowering production costs, time, and the weight of the machine. The comfortable seats and the straight-ahead ride free of vibrations made this a popular model.\n</p>\n<ul><li>Source: self-made, I release it into the public domain. <a href=\"//commons.wikimedia.org/wiki/User:Gryffindor\" title=\"User:Gryffindor\">Gryffindor</a> 17:21, 9 March 2006 (UTC)</li></ul>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "14 February 2006 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "No machine-readable source provided. Own work assumed (based on copyright claims).",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "No machine-readable author provided. <a href=\"//commons.wikimedia.org/wiki/User:Gryffindor\" title=\"User:Gryffindor\">Gryffindor</a> assumed (based on copyright claims).",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-23T19:55:02.274159+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "modelId": "1930-harley-b",
+      "brand": "Harley-Davidson",
+      "model": "Model B — Pup ST26770",
+      "status": "approximate",
+      "note": "Autre Model B de 1926, pas l’exemplaire ST26770 de la notice documentaire.",
+      "reviewedAt": "2026-11-23",
+      "files": [
+        {
+          "fileTitle": "File:Barber Vintage Motorsports Museum (Birmingham, Alabama) - 1926 Harley-Davidson Model B.jpg",
+          "match": "approximate",
+          "approved": true,
+          "reviewNote": "Autre Model B de 1926, pas l’exemplaire ST26770 de la notice documentaire.",
+          "reason": "Domaine public ou CC0 identifié dans extmetadata",
+          "photo": {
+            "fileTitle": "File:Barber Vintage Motorsports Museum (Birmingham, Alabama) - 1926 Harley-Davidson Model B.jpg",
+            "pageId": 157281128,
+            "query": null,
+            "sourceSha1": "8c4361e7c408db1cfc26495baa5f7b2605e0daf6",
+            "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Barber_Vintage_Motorsports_Museum_%28Birmingham%2C_Alabama%29_-_1926_Harley-Davidson_Model_B.jpg/960px-Barber_Vintage_Motorsports_Museum_%28Birmingham%2C_Alabama%29_-_1926_Harley-Davidson_Model_B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Barber_Vintage_Motorsports_Museum_%28Birmingham%2C_Alabama%29_-_1926_Harley-Davidson_Model_B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Barber_Vintage_Motorsports_Museum_(Birmingham,_Alabama)_-_1926_Harley-Davidson_Model_B.jpg",
+            "author": "Nheyob",
+            "attribution": "",
+            "creditLine": "Own work",
+            "description": "Barber Vintage Motorsports Museum (Birmingham, Alabama) - 1926 Harley-Davidson Model B",
+            "width": 4934,
+            "height": 2775,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC0",
+              "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+              "shareAlike": false,
+              "attributionRequired": false,
+              "reason": "Domaine public ou CC0 identifié dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2024-12-29 20:44:08",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Barber Vintage Motorsports Museum (Birmingham, Alabama) - 1926 Harley-Davidson Model B",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Harley-Davidson motorcycles|Self-published work|1920s motorcycles in the Barber Vintage Motorsports Museum|Harley-Davidson motorcycles in the United States",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Barber Vintage Motorsports Museum (Birmingham, Alabama) - 1926 Harley-Davidson Model B",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-11-20 19:02:09",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Nheyob\" title=\"User:Nheyob\">Nheyob</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-23T19:55:02.274159+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "modelId": "1930-henderson-kj",
+      "brand": "Henderson",
+      "model": "KJ Streamline",
+      "status": "approximate",
+      "note": "Autre exemplaire KJ daté 1930 dans Commons. La légende indique 1305 cm³ ; la notice Mecca documente 1301 cm³ pour son exemplaire, sans transposition.",
+      "reviewedAt": "2026-11-23",
+      "files": [
+        {
+          "fileTitle": "File:Henderson Model KJ 1305 cc 1930.jpg",
+          "match": "approximate",
+          "approved": true,
+          "reviewNote": "Autre exemplaire KJ daté 1930 dans Commons. La légende indique 1305 cm³ ; la notice Mecca documente 1301 cm³ pour son exemplaire, sans transposition.",
+          "reason": "Licence et auteur identifiés dans extmetadata",
+          "photo": {
+            "fileTitle": "File:Henderson Model KJ 1305 cc 1930.jpg",
+            "pageId": 2952361,
+            "query": null,
+            "sourceSha1": "39421f71ae4ae5dca1ecc623f4f79b2a06204361",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Henderson_Model_KJ_1305_cc_1930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Henderson_Model_KJ_1305_cc_1930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Henderson_Model_KJ_1305_cc_1930.jpg",
+            "author": "Piero at Dutch Wikipedia",
+            "attribution": "Yesterdays Antique Motorcycles en Classic Motorcycle Archive",
+            "creditLine": "Transferred from nl.wikipedia to Commons.",
+            "description": "1930er Henderson KJ Streamline.",
+            "width": 640,
+            "height": 480,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY-SA 3.0",
+              "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+              "shareAlike": true,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2011-08-11 22:13:54",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Henderson Model KJ 1305 cc 1930",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Henderson motorcycles|License migration completed|Self-published work|Items with VRTS permission confirmed",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "1930er Henderson KJ Streamline.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "29 October 2006 (original upload date)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi lang=\"en\" dir=\"ltr\">Transferred from <span class=\"plainlinks\"><a class=\"external text\" data-mw-original-href=\"//nl.wikipedia.org\" href=\"https://nl.wikipedia.org\">nl.wikipedia</a></span> to Commons.</bdi>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/nl:User:Piero\" class=\"extiw\" title=\"w:nl:User:Piero\">Piero</a> at <a href=\"https://en.wikipedia.org/wiki/nl:\" class=\"extiw\" title=\"w:nl:\">Dutch Wikipedia</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.yesterdays.nl/\">Yesterdays Antique Motorcycles</a> en <a rel=\"nofollow\" class=\"external text\" href=\"http://www.motorarchive.com/\">Classic Motorcycle Archive</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-23T19:55:02.274159+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "modelId": "1930-brough-ss80",
+      "brand": "Brough Superior",
+      "model": "SS80 — exemplaire standard1930",
+      "status": "approximate",
+      "note": "Autre SS80 datée de 1931 ; ne représente pas la machine Mecca de 1930.",
+      "reviewedAt": "2026-11-23",
+      "files": [
+        {
+          "fileTitle": "File:1931 Brough Superior SS80 (44400090084).jpg",
+          "match": "approximate",
+          "approved": true,
+          "reviewNote": "Autre SS80 datée de 1931 ; ne représente pas la machine Mecca de 1930.",
+          "reason": "Licence et auteur identifiés dans extmetadata",
+          "photo": {
+            "fileTitle": "File:1931 Brough Superior SS80 (44400090084).jpg",
+            "pageId": 73845711,
+            "query": null,
+            "sourceSha1": "a567d39ef8a8a8f77b33a3986372e2564e30eaa8",
+            "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/1931_Brough_Superior_SS80_%2844400090084%29.jpg/960px-1931_Brough_Superior_SS80_%2844400090084%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/1931_Brough_Superior_SS80_%2844400090084%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:1931_Brough_Superior_SS80_(44400090084).jpg",
+            "author": "David Merrett from Daventry, England",
+            "attribution": "",
+            "creditLine": "1931 Brough Superior SS80",
+            "description": "From Steve McQueen's Personal Collection In the 1970's McQueen gave this bike to the customiser Von Dutch Goodwood Revival 2018",
+            "width": 4356,
+            "height": 3517,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY 2.0",
+              "url": "https://creativecommons.org/licenses/by/2.0/",
+              "shareAlike": false,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2018-10-24 16:51:57",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "1931 Brough Superior SS80 (44400090084)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Brough Superior SS80|Flickr images reviewed by FlickreviewR 2|Goodwood Revival 2018",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<p>From Steve McQueen's Personal Collection\nIn the 1970's McQueen gave this bike to the customiser Von Dutch\n</p>\nGoodwood Revival 2018",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-09-07 10:05",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/davehamster/44400090084/\">1931 Brough Superior SS80</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/14265068@N00\">David Merrett</a> from Daventry, England",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-23T19:55:02.274159+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "modelId": "1930-velocette-ktt",
+      "brand": "Velocette",
+      "model": "KTT — moteur930",
+      "status": "approximate",
+      "note": "KTT, année et génération de la moto photographiée non établies ; illustration de famille, pas preuve de l’état du moteur 930 en 1930.",
+      "reviewedAt": "2026-11-23",
+      "files": [
+        {
+          "fileTitle": "File:Velocette KTT 350.jpg",
+          "match": "approximate",
+          "approved": true,
+          "reviewNote": "KTT, année et génération de la moto photographiée non établies ; illustration de famille, pas preuve de l’état du moteur 930 en 1930.",
+          "reason": "Licence et auteur identifiés dans extmetadata",
+          "photo": {
+            "fileTitle": "File:Velocette KTT 350.jpg",
+            "pageId": 22498770,
+            "query": null,
+            "sourceSha1": "d138ba1fa4e0afba60e2251930582e753564762e",
+            "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Velocette_KTT_350.jpg/960px-Velocette_KTT_350.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Velocette_KTT_350.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Velocette_KTT_350.jpg",
+            "author": "Midnight bird",
+            "attribution": "",
+            "creditLine": "Own work",
+            "description": "Velocette KTT 350, esposta a Rimini durante il Pasolini Day del 2007",
+            "width": 6646,
+            "height": 5014,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY-SA 3.0",
+              "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+              "shareAlike": true,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2012-11-01 14:32:27",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Velocette KTT 350",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Velocette KTT 350",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Velocette KTT 350, esposta a Rimini durante il Pasolini Day del 2007",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2007-05",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Midnight_bird\" title=\"User:Midnight bird\">Midnight bird</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-23T19:55:02.274159+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "modelId": "1930-sunbeam-10",
+      "brand": "Sunbeam",
+      "model": "Model 10",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1930-harley-v",
+      "brand": "Harley-Davidson",
+      "model": "Model V",
+      "status": "approximate",
+      "note": "Variante VL de 1932 illustrant la famille V ; ni millésime ni variante identiques à la Model V de 1930.",
+      "reviewedAt": "2026-11-23",
+      "files": [
+        {
+          "fileTitle": "File:Harley-Davidson Museum December 2023 15 (1932 VL--Side-Valve V-Twin).jpg",
+          "match": "approximate",
+          "approved": true,
+          "reviewNote": "Variante VL de 1932 illustrant la famille V ; ni millésime ni variante identiques à la Model V de 1930.",
+          "reason": "Licence et auteur identifiés dans extmetadata",
+          "photo": {
+            "fileTitle": "File:Harley-Davidson Museum December 2023 15 (1932 VL--Side-Valve V-Twin).jpg",
+            "pageId": 147253055,
+            "query": null,
+            "sourceSha1": "f9dbc3c44828e38c58544566cace556fcf4750f5",
+            "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Harley-Davidson_Museum_December_2023_15_%281932_VL--Side-Valve_V-Twin%29.jpg/960px-Harley-Davidson_Museum_December_2023_15_%281932_VL--Side-Valve_V-Twin%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Harley-Davidson_Museum_December_2023_15_%281932_VL--Side-Valve_V-Twin%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Harley-Davidson_Museum_December_2023_15_(1932_VL--Side-Valve_V-Twin).jpg",
+            "author": "Michael Barera",
+            "attribution": "Michael Barera",
+            "creditLine": "Own work",
+            "description": "A 1932 Harley-Davidson VL (with a Side-Valve V-Twin engine) at the Harley-Davidson Museum in Milwaukee , Wisconsin ( United States ).",
+            "width": 6000,
+            "height": 4000,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+              "shareAlike": true,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2024-04-12 05:29:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Harley-Davidson Museum December 2023 15 (1932 VL--Side-Valve V-Twin)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Sony ILCE-5100|Harley-Davidson motorcycles|License migration redundant|Self-published work|Photographs by Michael Barera|Green motorcycles|United States photographs taken on 2023-12-11|December 2023 in Milwaukee, Wisconsin|1932 motorcycles|Files with coordinates missing SDC location of creation|Motorcycles in the Harley-Davidson Museum",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "43.031836",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-87.916411",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A 1932 <a href=\"https://en.wikipedia.org/wiki/Harley-Davidson\" class=\"extiw\" title=\"en:Harley-Davidson\">Harley-Davidson VL</a> (with a Side-Valve V-Twin engine) at the <a href=\"https://en.wikipedia.org/wiki/Harley-Davidson_Museum\" class=\"extiw\" title=\"en:Harley-Davidson Museum\">Harley-Davidson Museum</a> in <a href=\"https://en.wikipedia.org/wiki/Milwaukee\" class=\"extiw\" title=\"en:Milwaukee\">Milwaukee</a>, <a href=\"https://en.wikipedia.org/wiki/Wisconsin\" class=\"extiw\" title=\"en:Wisconsin\">Wisconsin</a> (<a href=\"https://en.wikipedia.org/wiki/United_States\" class=\"extiw\" title=\"en:United States\">United States</a>).",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 11 December 2023",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Michael_Barera\" title=\"User:Michael Barera\">Michael Barera</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Michael Barera",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-23T19:55:02.274159+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "modelId": "1930-harley-vl",
+      "brand": "Harley-Davidson",
+      "model": "VL — small case, 1930",
+      "status": "approximate",
+      "note": "VL de 1932 au musée Harley-Davidson ; illustration de variante, pas de l’exemplaire small case 1930.",
+      "reviewedAt": "2026-11-23",
+      "files": [
+        {
+          "fileTitle": "File:Harley-Davidson Museum December 2023 15 (1932 VL--Side-Valve V-Twin).jpg",
+          "match": "approximate",
+          "approved": true,
+          "reviewNote": "VL de 1932 au musée Harley-Davidson ; illustration de variante, pas de l’exemplaire small case 1930.",
+          "reason": "Licence et auteur identifiés dans extmetadata",
+          "photo": {
+            "fileTitle": "File:Harley-Davidson Museum December 2023 15 (1932 VL--Side-Valve V-Twin).jpg",
+            "pageId": 147253055,
+            "query": null,
+            "sourceSha1": "f9dbc3c44828e38c58544566cace556fcf4750f5",
+            "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Harley-Davidson_Museum_December_2023_15_%281932_VL--Side-Valve_V-Twin%29.jpg/960px-Harley-Davidson_Museum_December_2023_15_%281932_VL--Side-Valve_V-Twin%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Harley-Davidson_Museum_December_2023_15_%281932_VL--Side-Valve_V-Twin%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Harley-Davidson_Museum_December_2023_15_(1932_VL--Side-Valve_V-Twin).jpg",
+            "author": "Michael Barera",
+            "attribution": "Michael Barera",
+            "creditLine": "Own work",
+            "description": "A 1932 Harley-Davidson VL (with a Side-Valve V-Twin engine) at the Harley-Davidson Museum in Milwaukee , Wisconsin ( United States ).",
+            "width": 6000,
+            "height": 4000,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+              "shareAlike": true,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2024-04-12 05:29:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Harley-Davidson Museum December 2023 15 (1932 VL--Side-Valve V-Twin)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Sony ILCE-5100|Harley-Davidson motorcycles|License migration redundant|Self-published work|Photographs by Michael Barera|Green motorcycles|United States photographs taken on 2023-12-11|December 2023 in Milwaukee, Wisconsin|1932 motorcycles|Files with coordinates missing SDC location of creation|Motorcycles in the Harley-Davidson Museum",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "43.031836",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-87.916411",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A 1932 <a href=\"https://en.wikipedia.org/wiki/Harley-Davidson\" class=\"extiw\" title=\"en:Harley-Davidson\">Harley-Davidson VL</a> (with a Side-Valve V-Twin engine) at the <a href=\"https://en.wikipedia.org/wiki/Harley-Davidson_Museum\" class=\"extiw\" title=\"en:Harley-Davidson Museum\">Harley-Davidson Museum</a> in <a href=\"https://en.wikipedia.org/wiki/Milwaukee\" class=\"extiw\" title=\"en:Milwaukee\">Milwaukee</a>, <a href=\"https://en.wikipedia.org/wiki/Wisconsin\" class=\"extiw\" title=\"en:Wisconsin\">Wisconsin</a> (<a href=\"https://en.wikipedia.org/wiki/United_States\" class=\"extiw\" title=\"en:United States\">United States</a>).",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 11 December 2023",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Michael_Barera\" title=\"User:Michael Barera\">Michael Barera</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Michael Barera",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-23T19:55:02.274159+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "modelId": "1930-dollar-r2",
+      "brand": "Dollar",
+      "model": "350 Chaise / R2",
+      "status": "approximate",
+      "note": "Deux motos : LSS 1929 et R2 1930 à Rétromobile. Photo de contexte ; ne pas confondre les deux machines.",
+      "reviewedAt": "2026-11-23",
+      "files": [
+        {
+          "fileTitle": "File:Dollar Type LSS 1929 & Dollar Type R2 1930.jpg",
+          "match": "approximate",
+          "approved": true,
+          "reviewNote": "Deux motos : LSS 1929 et R2 1930 à Rétromobile. Photo de contexte ; ne pas confondre les deux machines.",
+          "reason": "Licence et auteur identifiés dans extmetadata",
+          "photo": {
+            "fileTitle": "File:Dollar Type LSS 1929 & Dollar Type R2 1930.jpg",
+            "pageId": 128552557,
+            "query": null,
+            "sourceSha1": "a8319b2e4e9ab03fdf4badd64f4afb9be6fde2d2",
+            "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Dollar_Type_LSS_1929_%26_Dollar_Type_R2_1930.jpg/960px-Dollar_Type_LSS_1929_%26_Dollar_Type_R2_1930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Dollar_Type_LSS_1929_%26_Dollar_Type_R2_1930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Dollar_Type_LSS_1929_%26_Dollar_Type_R2_1930.jpg",
+            "author": "Y.Leclercq©",
+            "attribution": "",
+            "creditLine": "Own work",
+            "description": "Dollar à Rétromobile 2023",
+            "width": 5104,
+            "height": 3402,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+              "shareAlike": true,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2023-02-09 13:16:30",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Dollar Type LSS 1929 & Dollar Type R2 1930",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Dollar motorcycles|Rétromobile 2023|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Dollar à Rétromobile 2023",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-01-31 15:31:14",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Y.Leclercq\" title=\"User:Y.Leclercq\">Y.Leclercq©</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-23T19:55:02.274159+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "modelId": "1930-majestic-500",
+      "brand": "Majestic",
+      "model": "500",
+      "status": "approximate",
+      "note": "Autre Majestic 500 de 1930, photographie au fond détourné ; moteur de cet exemplaire non transposé à la notice Bueno.",
+      "reviewedAt": "2026-11-23",
+      "files": [
+        {
+          "fileTitle": "File:Majestic 500cc 1930 noBG.jpg",
+          "match": "approximate",
+          "approved": true,
+          "reviewNote": "Autre Majestic 500 de 1930, photographie au fond détourné ; moteur de cet exemplaire non transposé à la notice Bueno.",
+          "reason": "Licence et auteur identifiés dans extmetadata",
+          "photo": {
+            "fileTitle": "File:Majestic 500cc 1930 noBG.jpg",
+            "pageId": 153492149,
+            "query": null,
+            "sourceSha1": "69909cd1a4c0da098e6fb89923029ce56eaabe27",
+            "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Majestic_500cc_1930_noBG.jpg/960px-Majestic_500cc_1930_noBG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Majestic_500cc_1930_noBG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Majestic_500cc_1930_noBG.jpg",
+            "author": "Quelle: Thesupermat / Freisteller, Bildbearbeitung & Retusche von Auge=mit",
+            "attribution": "",
+            "creditLine": "Own work",
+            "description": "Eine Majestic 500cc Baujahr 1930",
+            "width": 4800,
+            "height": 3100,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+              "shareAlike": true,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2024-10-03 10:36:53",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Majestic 500cc 1930 noBG",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Retouched pictures|Majestic motorcycles|Self-published work|Blue motorcycles|Motorcycles on white background",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Eine Majestic 500cc Baujahr 1930",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-10-03 14:27:41",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Quelle: <a href=\"//commons.wikimedia.org/wiki/User:Thesupermat\" title=\"User:Thesupermat\">Thesupermat</a>       /   Freisteller, Bildbearbeitung &amp; Retusche von <a href=\"//commons.wikimedia.org/wiki/User:Auge%3Dmit\" title=\"User:Auge=mit\">Auge=mit</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-23T19:56:47.306217+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "modelId": "1930-peugeot-p105",
+      "brand": "Peugeot",
+      "model": "P105",
+      "status": "approximate",
+      "note": "Autre Peugeot P105 de 1928 au musée ; ne représente pas l’exemplaire Osenat 1930 et ses caractéristiques ne sont pas transposées.",
+      "reviewedAt": "2026-11-23",
+      "files": [
+        {
+          "fileTitle": "File:Hochgurgl-Top Mountain Motorcycle Museum-Peugeot P105-1928-348ccm-02ESD.jpg",
+          "match": "approximate",
+          "approved": true,
+          "reviewNote": "Autre Peugeot P105 de 1928 au musée ; ne représente pas l’exemplaire Osenat 1930 et ses caractéristiques ne sont pas transposées.",
+          "reason": "Licence et auteur identifiés dans extmetadata",
+          "photo": {
+            "fileTitle": "File:Hochgurgl-Top Mountain Motorcycle Museum-Peugeot P105-1928-348ccm-02ESD.jpg",
+            "pageId": 102112948,
+            "query": null,
+            "sourceSha1": "a21276aceec3196d6e559f1e958251700b30072d",
+            "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Hochgurgl-Top_Mountain_Motorcycle_Museum-Peugeot_P105-1928-348ccm-02ESD.jpg/960px-Hochgurgl-Top_Mountain_Motorcycle_Museum-Peugeot_P105-1928-348ccm-02ESD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Hochgurgl-Top_Mountain_Motorcycle_Museum-Peugeot_P105-1928-348ccm-02ESD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Hochgurgl-Top_Mountain_Motorcycle_Museum-Peugeot_P105-1928-348ccm-02ESD.jpg",
+            "author": "Rikki Mitterer",
+            "attribution": "",
+            "creditLine": "Own work",
+            "description": "Peugeot Motorcycle P 105, 348 CCM, 14 hp.",
+            "width": 4128,
+            "height": 2322,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+              "shareAlike": true,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2021-03-22 06:02:26",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hochgurgl-Top Mountain Motorcycle Museum-Peugeot P105-1928-348ccm-02ESD",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Top Mountain Motorcycle Museum|Self-published work|Files with coordinates missing SDC location of creation|Photographs by Rikki Mitterer-Timmelsjoch|Peugeot P 105",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "46.909722",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "11.053056",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Peugeot Motorcycle P 105, 348 CCM, 14 hp.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-04-14",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Rikki_Mitterer\" title=\"User:Rikki Mitterer\">Rikki Mitterer</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-23T19:56:47.306217+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "modelId": "1930-monet-goyon-mt",
+      "brand": "Monet & Goyon",
+      "model": "MT 250",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1930-monet-goyon-k35",
+      "brand": "Monet & Goyon",
+      "model": "K35 350",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1930-galloni-galloni-175",
+      "brand": "Galloni",
+      "model": "175",
+      "status": "approximate",
+      "note": "Photographie muséale de la Galloni ; correspondance avec la notice patrimoniale à compléter avant affirmation d’un millésime exact.",
+      "reviewedAt": "2026-11-23",
+      "files": [
+        {
+          "fileTitle": "File:Motocicletta - Museo scienza tecnologia Milano 07895 dia.jpg",
+          "match": "approximate",
+          "approved": true,
+          "reviewNote": "Photographie muséale de la Galloni ; correspondance avec la notice patrimoniale à compléter avant affirmation d’un millésime exact.",
+          "reason": "Licence et auteur identifiés dans extmetadata",
+          "photo": {
+            "fileTitle": "File:Motocicletta - Museo scienza tecnologia Milano 07895 dia.jpg",
+            "pageId": 48926387,
+            "query": null,
+            "sourceSha1": "63d022dda41596ed7105f540de4cdff2e72068be",
+            "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Motocicletta_-_Museo_scienza_tecnologia_Milano_07895_dia.jpg/960px-Motocicletta_-_Museo_scienza_tecnologia_Milano_07895_dia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Motocicletta_-_Museo_scienza_tecnologia_Milano_07895_dia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:Motocicletta_-_Museo_scienza_tecnologia_Milano_07895_dia.jpg",
+            "author": "Galloni (costruttore)",
+            "attribution": "",
+            "creditLine": "Catalogo collezioni (Italian) . Museoscienza.org . Museo nazionale della scienza e della tecnologia Leonardo da Vinci, Milano.",
+            "description": "Motocicletta con telaio tubolare e parafanghi verniciati in nero brillante e parti lucide cromate. Nella parte centrale del telaio è montato il motore monocilindrico verticale a quattro tempi, con valvole laterali; il tubo di scarico si trova sul lato sinistro della motocicletta. Il serbatoio è posto al di sopra del motore, davanti alla sella del conducente. Sul lato sinistro del serbatoio si trova la leva del cambio con pomello di colore bordeau. Sul fianco sinistro della motocicletta si trovano i pedali di avviamento e del freno. I freni sono a cerchietto su entrambe le ruote. La ruota anteriore è collegata con una forcella ammortizzata mediante mollone centrale. Sul parafango anteriore è installata la targa verticale. Il circuito elettrico dei fanali è attivato da dinamo sulle ruote. Cavalletto centrale. Notizie storico-critiche Questo modello fu uno degli ultimi prodotti dalla casa motociclistica novarese Galloni prima della chiusura degli impianti di costruzione. In base al numero di targa, si può datare l'immatricolazione di questo esemplare tra il 1934 e il 1935.",
+            "width": 1280,
+            "height": 818,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+              "shareAlike": true,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2016-05-21 12:06:39",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nmotocicletta  - Galloni 175.</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Media from Museo Nazionale della Scienza e della Tecnologia (Milan)|Artworks without Wikidata item|Artworks with known accession number|Ground transport collection in the Museo Nazionale della Scienza e della Tecnologia (Milan)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nGalloni (costruttore)</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Motocicletta con telaio tubolare e parafanghi verniciati in nero brillante e parti lucide cromate. Nella parte centrale del telaio è montato il motore monocilindrico verticale a quattro tempi, con valvole laterali; il tubo di scarico si trova sul lato sinistro della motocicletta. Il serbatoio è posto al di sopra del motore, davanti alla sella del conducente. Sul lato sinistro del serbatoio si trova la leva del cambio con pomello di colore bordeau. Sul fianco sinistro della motocicletta si trovano i pedali di avviamento e del freno. I freni sono a cerchietto su entrambe le ruote. La ruota anteriore è collegata con una forcella ammortizzata mediante mollone centrale. Sul parafango anteriore è installata la targa verticale. Il circuito elettrico dei fanali è attivato da dinamo sulle ruote. Cavalletto centrale.\n<p><br>\n</p>\n<dl><dt>Notizie storico-critiche</dt></dl>\nQuesto modello fu uno degli ultimi prodotti dalla casa motociclistica novarese Galloni prima della chiusura degli impianti di costruzione. In base al numero di targa, si può datare l'immatricolazione di questo esemplare tra il 1934 e il 1935.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "between 1930 and 1930<div style=\"display: none;\">date QS:P571,+1930-00-00T00:00:00Z/10,P1319,+1930-00-00T00:00:00Z/9,P1326,+1930-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.museoscienza.org/dipartimenti/catalogo_collezioni/scheda_oggetto.asp?idk_in=ST120-00232\">Catalogo collezioni</a> <span style=\"font-size: 0.95em; font-weight: bold; color:#555; position: relative;\">(Italian)</span>. <i>Museoscienza.org</i>. Museo nazionale della scienza e della tecnologia Leonardo da Vinci, Milano.",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/4.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/4.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 4.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 4.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-23T19:55:02.274159+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "modelId": "1930-puch-250-sport",
+      "brand": "Puch",
+      "model": "250 Sport",
+      "status": "none",
+      "note": "Aucune photo validée pour ce modèle.",
+      "reviewedAt": null,
+      "files": []
+    },
+    {
+      "modelId": "1930-cechie-bohmerland-600-touring",
+      "brand": "Čechie-Böhmerland",
+      "model": "600 Touring",
+      "status": "approximate",
+      "note": "Autre Böhmerland de 1928 ; illustration de la famille, pas de l’exemplaire NTM 1930.",
+      "reviewedAt": "2026-11-23",
+      "files": [
+        {
+          "fileTitle": "File:1928 Böhmerland - Flickr - KlausNahr.jpg",
+          "match": "approximate",
+          "approved": true,
+          "reviewNote": "Autre Böhmerland de 1928 ; illustration de la famille, pas de l’exemplaire NTM 1930.",
+          "reason": "Licence et auteur identifiés dans extmetadata",
+          "photo": {
+            "fileTitle": "File:1928 Böhmerland - Flickr - KlausNahr.jpg",
+            "pageId": 19319709,
+            "query": null,
+            "sourceSha1": "47f8d6b4ff986cf7d4d9039f10727ba660db1bcb",
+            "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/1928_B%C3%B6hmerland_-_Flickr_-_KlausNahr.jpg/960px-1928_B%C3%B6hmerland_-_Flickr_-_KlausNahr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/1928_B%C3%B6hmerland_-_Flickr_-_KlausNahr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "sourcePage": "https://commons.wikimedia.org/wiki/File:1928_B%C3%B6hmerland_-_Flickr_-_KlausNahr.jpg",
+            "author": "Klaus Nahr from Germany",
+            "attribution": "",
+            "creditLine": "1928 Böhmerland",
+            "description": "Motorrad \" Böhmerland \" von 1928, 603 ccm, 16 PS, 95 km/h. Das wohl längste Serienmotorrad der Welt. In drei- und viersitziger Ausführung erhältlich. Deutsches Zweirad- und NSU-Museum .",
+            "width": 1280,
+            "height": 960,
+            "mime": "image/jpeg",
+            "license": {
+              "status": "allowed",
+              "name": "CC BY-SA 2.0",
+              "url": "https://creativecommons.org/licenses/by-sa/2.0/",
+              "shareAlike": true,
+              "attributionRequired": true,
+              "reason": "Licence et auteur identifiés dans extmetadata"
+            },
+            "metadata": {
+              "DateTime": {
+                "value": "2012-05-04 12:07:11",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "1928 Böhmerland - Flickr - KlausNahr",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Germany photographs taken on 2007-05-16|Böhmerland motorcycles|Flickr images reviewed by FlickreviewR|Files uploaded by Kobac|1920s motorcycles in the Deutsches Zweirad- und NSU-Museum|Files with coordinates missing SDC location of creation (49° N, 9° E)|Photographs by Klaus Nahr",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "49.191843",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "9.222625",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Motorrad \"<a href=\"https://en.wikipedia.org/wiki/de:B%C3%B6hmerland\" class=\"extiw\" title=\"w:de:Böhmerland\">Böhmerland</a>\" von 1928, 603 ccm, 16 PS, 95 km/h. Das wohl längste Serienmotorrad der Welt. In drei- und viersitziger Ausführung erhältlich. <a href=\"https://en.wikipedia.org/wiki/de:Deutsches_Zweirad-_und_NSU-Museum\" class=\"extiw\" title=\"w:de:Deutsches Zweirad- und NSU-Museum\">Deutsches Zweirad- und NSU-Museum</a>.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2007-05-16 14:12",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/klausnahr/501263208/\">1928 Böhmerland</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/82756760@N00\">Klaus Nahr</a> from Germany",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "checkedAt": "2026-11-23T19:56:47.306217+00:00"
+          }
+        }
+      ]
     }
   ]
 }
